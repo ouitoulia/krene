@@ -1,0 +1,9 @@
+{
+  "data": [
+    {"type": "tipologia_istituti", "id": 801, "attributes": {"name": "Convitto"}},
+    {"type": "tipologia_istituti", "id": 802, "attributes": {"name": "Educandato"}},
+    {"type": "tipologia_istituti", "id": 803, "attributes": {"name": "Istituto (scuola)"}},
+    {"type": "tipologia_istituti", "id": 804, "attributes": {"name": "Istituto comprensivo"}},
+    {"type": "tipologia_istituti", "id": 805, "attributes": {"name": "Istituto omnicomprensivo"}}
+  ]
+}

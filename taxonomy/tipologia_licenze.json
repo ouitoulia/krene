@@ -1,0 +1,7 @@
+{
+  "data": [
+    {"type": "tipologia_licenze", "id": 901, "attributes": {"name": "SPDX: CC-BY-4.0"}},
+    {"type": "tipologia_licenze", "id": 902, "attributes": {"name": "SPDX: CC-BY-SA-4.0"}},
+    {"type": "tipologia_licenze", "id": 903, "attributes": {"name": "Creative Commons Zero"}}
+  ]
+}

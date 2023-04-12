@@ -1,0 +1,7 @@
+{
+  "data": [
+    {"type": "destinazione_uso", "id": 501, "attributes": {"name": "Commerciale"}},
+    {"type": "destinazione_uso", "id": 502, "attributes": {"name": "Edificio pubblico"}},
+    {"type": "destinazione_uso", "id": 503, "attributes": {"name": "Residenziale"}}
+  ]
+}

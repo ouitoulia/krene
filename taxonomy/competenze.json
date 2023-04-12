@@ -1,0 +1,12 @@
+{
+  "data": [
+    {"type": "competenze", "id": 7001, "attributes": {"name": "Competenza alfabetica funzionale"}},
+    {"type": "competenze", "id": 7002, "attributes": {"name": "Competenza multi-linguistica"}},
+    {"type": "competenze", "id": 7003, "attributes": {"name": "Competenza matematica e competenza di base in scienze e tecnologie"}},
+    {"type": "competenze", "id": 7004, "attributes": {"name": "Competenza digitale"}},
+    {"type": "competenze", "id": 7005, "attributes": {"name": "Competenza personale, sociale e capacità di imparare ad imparare"}},
+    {"type": "competenze", "id": 7006, "attributes": {"name": "Competenza sociale e civica in materia di cittadinanza"}},
+    {"type": "competenze", "id": 7007, "attributes": {"name": "Competenza imprenditoriale"}},
+    {"type": "competenze", "id": 7008, "attributes": {"name": "Competenza in materia di consapevolezza ed espressione culturali"}}
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "data": [
+    {"type": "anni_scolastici", "id": 1, "attributes": {"name": "2010/2011"}},
+    {"type": "anni_scolastici", "id": 2, "attributes": {"name": "2011/2012"}},
+    {"type": "anni_scolastici", "id": 3, "attributes": {"name": "2012/2013"}},
+    {"type": "anni_scolastici", "id": 4, "attributes": {"name": "2013/2014"}},
+    {"type": "anni_scolastici", "id": 5, "attributes": {"name": "2014/2015"}},
+    {"type": "anni_scolastici", "id": 6, "attributes": {"name": "2015/2016"}},
+    {"type": "anni_scolastici", "id": 7, "attributes": {"name": "2016/2017"}},
+    {"type": "anni_scolastici", "id": 8, "attributes": {"name": "2017/2018"}},
+    {"type": "anni_scolastici", "id": 9, "attributes": {"name": "2018/2019"}},
+    {"type": "anni_scolastici", "id": 10, "attributes": {"name": "2019/2020"}},
+    {"type": "anni_scolastici", "id": 11, "attributes": {"name": "2020/2021"}},
+    {"type": "anni_scolastici", "id": 12, "attributes": {"name": "2021/2022"}},
+    {"type": "anni_scolastici", "id": 13, "attributes": {"name": "2022/2023"}},
+    {"type": "anni_scolastici", "id": 14, "attributes": {"name": "2023/2024"}},
+    {"type": "anni_scolastici", "id": 15, "attributes": {"name": "2024/2025"}},
+    {"type": "anni_scolastici", "id": 16, "attributes": {"name": "2025/2026"}},
+    {"type": "anni_scolastici", "id": 17, "attributes": {"name": "2026/2027"}},
+    {"type": "anni_scolastici", "id": 18, "attributes": {"name": "2027/2028"}},
+    {"type": "anni_scolastici", "id": 19, "attributes": {"name": "2028/2029"}},
+    {"type": "anni_scolastici", "id": 20, "attributes": {"name": "2029/2030"}}
+  ]
+}

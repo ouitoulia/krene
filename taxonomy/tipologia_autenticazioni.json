@@ -1,0 +1,7 @@
+{
+  "data": [
+    {"type": "tipologia_autenticazioni", "id": 601, "attributes": {"name": "CIE"}},
+    {"type": "tipologia_autenticazioni", "id": 602, "attributes": {"name": "Credenziali"}},
+    {"type": "tipologia_autenticazioni", "id": 603, "attributes": {"name": "SPID"}}
+  ]
+}

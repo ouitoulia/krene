@@ -1,0 +1,10 @@
+{
+  "data": [
+    {"type": "destinatari", "id": 401, "attributes": {"name": "Alunni"}},
+    {"type": "destinatari", "id": 402, "attributes": {"name": "ATA"}},
+    {"type": "destinatari", "id": 403, "attributes": {"name": "Docenti"}},
+    {"type": "destinatari", "id": 404, "attributes": {"name": "Fornitori"}},
+    {"type": "destinatari", "id": 405, "attributes": {"name": "Genitori"}},
+    {"type": "destinatari", "id": 406, "attributes": {"name": "Tutta la popolazione"}}
+  ]
+}

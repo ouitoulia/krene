@@ -1,0 +1,10 @@
+{
+  "data": [
+    {"type": "tipologia_progetti", "id": 1101, "attributes": {"name": "Progetti di integrazione"}},
+    {"type": "tipologia_progetti", "id": 1102, "attributes": {"name": "Progetti di orientamento"}},
+    {"type": "tipologia_progetti", "id": 1103, "attributes": {"name": "Progetti territorio e ambiente"}},
+    {"type": "tipologia_progetti", "id": 1104, "attributes": {"name": "Progetti area umanistica"}},
+    {"type": "tipologia_progetti", "id": 1105, "attributes": {"name": "Progetti area scientifica"}},
+    {"type": "tipologia_progetti", "id": 1106, "attributes": {"name": "Altro"}}
+  ]
+}

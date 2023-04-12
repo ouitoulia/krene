@@ -1,0 +1,8 @@
+{
+  "data": [
+    {"type": "attributi_dei_luoghi", "id": 101, "attributes": {"name": "Ingresso"}},
+    {"type": "attributi_dei_luoghi", "id": 102, "attributes": {"name": "Ingresso disabili"}},
+    {"type": "attributi_dei_luoghi", "id": 103, "attributes": {"name": "Parcheggio"}},
+    {"type": "attributi_dei_luoghi", "id": 104, "attributes": {"name": "Parcheggio disabili"}}
+  ]
+}

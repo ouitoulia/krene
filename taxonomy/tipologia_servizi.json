@@ -1,0 +1,7 @@
+{
+  "data": [
+    {"type": "tipologia_servizi", "id": 1201, "attributes": {"name": "Servizi per il personale scolastico"}},
+    {"type": "tipologia_servizi", "id": 1202, "attributes": {"name": "Servizi per famiglie e studenti"}},
+    {"type": "tipologia_servizi", "id": 1203, "attributes": {"name": "Servizi per i fornitori e le aziende"}}
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "data": [
+    {"type": "tipologia_luoghi", "id": 1001, "attributes": {"name": "Altro"}},
+    {"type": "tipologia_luoghi", "id": 1002, "attributes": {"name": "Auditorium"}},
+    {"type": "tipologia_luoghi", "id": 1003, "attributes": {"name": "Aula magna"}},
+    {"type": "tipologia_luoghi", "id": 1004, "attributes": {"name": "Biblioteca"}},
+    {"type": "tipologia_luoghi", "id": 1005, "attributes": {"name": "Edificio scolastico"}},
+    {"type": "tipologia_luoghi", "id": 1006, "attributes": {"name": "Laboratorio"}},
+    {"type": "tipologia_luoghi", "id": 1007, "attributes": {"name": "Mensa"}},
+    {"type": "tipologia_luoghi", "id": 1008, "attributes": {"name": "Palestra"}},
+    {"type": "tipologia_luoghi", "id": 1009, "attributes": {"name": "Spazio all'aperto"}},
+    {"type": "tipologia_luoghi", "id": 1010, "attributes": {"name": "Teatro"}}
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "data": [
+    {"type": "percorsi_di_studio", "id": 4001, "relationships": {"parent": {"data": { "type": "percorsi_di_studio", "id": "0" }}}, "attributes": {"weight":  7, "name": "AFAM", "description": ""}},
+    {"type": "percorsi_di_studio", "id": 4002, "relationships": {"parent": {"data": { "type": "percorsi_di_studio", "id": "4001" }}}, "attributes": {"weight":  0, "name": "Accademia delle belle arti", "description": ""}},
+    {"type": "percorsi_di_studio", "id": 4003, "relationships": {"parent": {"data": { "type": "percorsi_di_studio", "id": "4001" }}}, "attributes": {"weight":  1, "name": "Conservatorio", "description": ""}}
+  ]
+}

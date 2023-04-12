@@ -1,0 +1,12 @@
+{
+  "data": [
+    {"type": "tipologia_strutture", "id": 1301, "attributes": {"name": "Altro"}},
+    {"type": "tipologia_strutture", "id": 1302, "attributes": {"name": "Associazione scolastica"}},
+    {"type": "tipologia_strutture", "id": 1303, "attributes": {"name": "Commissione"}},
+    {"type": "tipologia_strutture", "id": 1304, "attributes": {"name": "Dipartimento"}},
+    {"type": "tipologia_strutture", "id": 1305, "attributes": {"name": "Dirigenza scolastica"}},
+    {"type": "tipologia_strutture", "id": 1306, "attributes": {"name": "Scuola/istituto"}},
+    {"type": "tipologia_strutture", "id": 1307, "attributes": {"name": "Organo collegiale"}},
+    {"type": "tipologia_strutture", "id": 1308, "attributes": {"name": "Segreteria"}}
+  ]
+}
