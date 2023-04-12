@@ -1,2 +1,2 @@
-# krene
+# kréne
 Kréne - La fonte dei dati
