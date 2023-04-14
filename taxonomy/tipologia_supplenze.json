@@ -1,0 +1,9 @@
+{
+  "data": [
+    {"type": "tipologia_supplenze", "id": 1601, "attributes": {"name": "Annuale"}},
+    {"type": "tipologia_supplenze", "id": 1602, "attributes": {"name": "Breve"}},
+    {"type": "tipologia_supplenze", "id": 1603, "attributes": {"name": "Fino al termine delle lezioni"}},
+    {"type": "tipologia_supplenze", "id": 1604, "attributes": {"name": "Maternità"}},
+    {"type": "tipologia_supplenze", "id": 1605, "attributes": {"name": "Paternità"}}
+  ]
+}
