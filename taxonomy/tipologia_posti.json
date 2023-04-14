@@ -1,0 +1,6 @@
+{
+  "data": [
+    {"type": "tipologia_posti", "id": 1051, "attributes": {"name": "Comune"}},
+    {"type": "tipologia_posti", "id": 1052, "attributes": {"name": "Sostegno"}}
+  ]
+}
