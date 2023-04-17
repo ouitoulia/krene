@@ -1,20 +1,20 @@
 {
   "data": [
-    {"type":  "user_role", "id":  1, "relationships": {"parent": {"data": { "type": "user_role", "id": "0" }}}, "attributes": {"label": "Dirigente Scolastico"}},
+    {"type":  "user_role", "id":  1, "relationships": {"parent": {"data": { "type": "user_role", "id": "0" }}}, "attributes": {"label": "Dirigente Scolastico", "weight":  "2"}},
 
-    {"type":  "user_role", "id":  21, "relationships": {"parent": {"data": { "type": "user_role", "id": "0" }}}, "attributes": {"label": "Personale Docente"}},
+    {"type":  "user_role", "id":  21, "relationships": {"parent": {"data": { "type": "user_role", "id": "0" }}}, "attributes": {"label": "Personale Docente", "weight":  "3"}},
 
-    {"type":  "user_role", "id":  51, "relationships": {"parent": {"data": { "type": "user_role", "id": "0" }}}, "attributes": {"label": "Personale non docente"}},
-    {"type":  "user_role", "id":  52, "relationships": {"parent": {"data": { "type": "user_role", "id": "51" }}}, "attributes": {"label": "Direttore amministrativo (dsga)"}},
-    {"type":  "user_role", "id":  53, "relationships": {"parent": {"data": { "type": "user_role", "id": "51" }}}, "attributes": {"label": "Personale amministrativo"}},
-    {"type":  "user_role", "id":  54, "relationships": {"parent": {"data": { "type": "user_role", "id": "51" }}}, "attributes": {"label": "Personale tecnico"}},
-    {"type":  "user_role", "id":  55, "relationships": {"parent": {"data": { "type": "user_role", "id": "51" }}}, "attributes": {"label": "Collaboratore"}},
+    {"type":  "user_role", "id":  51, "relationships": {"parent": {"data": { "type": "user_role", "id": "0" }}}, "attributes": {"label": "Personale non docente", "weight":  "4"}},
+    {"type":  "user_role", "id":  52, "relationships": {"parent": {"data": { "type": "user_role", "id": "51" }}}, "attributes": {"label": "Direttore amministrativo (dsga)", "weight":  "5"}},
+    {"type":  "user_role", "id":  53, "relationships": {"parent": {"data": { "type": "user_role", "id": "51" }}}, "attributes": {"label": "Personale amministrativo", "weight":  "6"}},
+    {"type":  "user_role", "id":  54, "relationships": {"parent": {"data": { "type": "user_role", "id": "51" }}}, "attributes": {"label": "Personale tecnico", "weight":  "7"}},
+    {"type":  "user_role", "id":  55, "relationships": {"parent": {"data": { "type": "user_role", "id": "51" }}}, "attributes": {"label": "Collaboratore", "weight":  "8"}},
 
-    {"type":  "user_role", "id":  81, "relationships": {"parent": {"data": { "type": "user_role", "id": "0" }}}, "attributes": {"label": "Amministrazione sito"}},
-    {"type":  "user_role", "id":  82, "relationships": {"parent": {"data": { "type": "user_role", "id": "81" }}}, "attributes": {"label": "Redattore"}},
-    {"type":  "user_role", "id":  83, "relationships": {"parent": {"data": { "type": "user_role", "id": "81" }}}, "attributes": {"label": "Capo redattore"}},
-    {"type":  "user_role", "id":  84, "relationships": {"parent": {"data": { "type": "user_role", "id": "81" }}}, "attributes": {"label": "Amministratore"}},
+    {"type":  "user_role", "id":  81, "relationships": {"parent": {"data": { "type": "user_role", "id": "0" }}}, "attributes": {"label": "Amministrazione sito", "weight":  "9"}},
+    {"type":  "user_role", "id":  82, "relationships": {"parent": {"data": { "type": "user_role", "id": "81" }}}, "attributes": {"label": "Redattore", "weight":  "10"}},
+    {"type":  "user_role", "id":  83, "relationships": {"parent": {"data": { "type": "user_role", "id": "81" }}}, "attributes": {"label": "Capo redattore", "weight":  "11"}},
+    {"type":  "user_role", "id":  84, "relationships": {"parent": {"data": { "type": "user_role", "id": "81" }}}, "attributes": {"label": "Amministratore", "weight":  "12"}},
 
-    {"type":  "user_role", "id":  81, "relationships": {"parent": {"data": { "type": "user_role", "id": "0" }}}, "attributes": {"label": "Ex Docente"}}
+    {"type":  "user_role", "id":  81, "relationships": {"parent": {"data": { "type": "user_role", "id": "0" }}}, "attributes": {"label": "Ex Docente", "weight":  "1"}}
   ]
 }
