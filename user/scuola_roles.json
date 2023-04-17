@@ -13,7 +13,7 @@
     {"type":  "user_role", "id":  81, "relationships": {"parent": {"data": { "type": "user_role", "id": "0" }}}, "attributes": {"label": "Amministrazione sito", "weight":  6}},
     {"type":  "user_role", "id":  82, "relationships": {"parent": {"data": { "type": "user_role", "id": "81" }}}, "attributes": {"label": "Redattore", "weight":  7}},
     {"type":  "user_role", "id":  83, "relationships": {"parent": {"data": { "type": "user_role", "id": "81" }}}, "attributes": {"label": "Capo redattore", "weight":  7}},
-    {"type":  "user_role", "id":  84, "relationships": {"parent": {"data": { "type": "user_role", "id": "81" }}}, "attributes": {"label": "Amministratore", "weight":  7}},
+    {"type":  "user_role", "id":  84, "relationships": {"parent": {"data": { "type": "user_role", "id": "81" }}}, "attributes": {"label": "Amministratore", "weight":  7, "is_admin": 1}},
 
     {"type":  "user_role", "id":  91, "relationships": {"parent": {"data": { "type": "user_role", "id": "0" }}}, "attributes": {"label": "Ex Dirigente", "weight":  2}},
     {"type":  "user_role", "id":  92, "relationships": {"parent": {"data": { "type": "user_role", "id": "0" }}}, "attributes": {"label": "Ex Docente", "weight":  2}},
