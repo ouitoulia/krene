@@ -1,0 +1,20 @@
+{
+  "data": [
+    {"type":  "roles", "id":  1, "relationships": {"parent": {"data": { "type": "roles", "id": "0" }}}, "attributes": {"label": "Dirigente Scolastico"}},
+
+    {"type":  "roles", "id":  21, "relationships": {"parent": {"data": { "type": "roles", "id": "0" }}}, "attributes": {"label": "Personale Docente"}},
+
+    {"type":  "roles", "id":  51, "relationships": {"parent": {"data": { "type": "roles", "id": "0" }}}, "attributes": {"label": "Personale non docente"}},
+    {"type":  "roles", "id":  52, "relationships": {"parent": {"data": { "type": "roles", "id": "51" }}}, "attributes": {"label": "Direttore amministrativo (dsga)"}},
+    {"type":  "roles", "id":  53, "relationships": {"parent": {"data": { "type": "roles", "id": "51" }}}, "attributes": {"label": "Personale amministrativo"}},
+    {"type":  "roles", "id":  54, "relationships": {"parent": {"data": { "type": "roles", "id": "51" }}}, "attributes": {"label": "Personale tecnico"}},
+    {"type":  "roles", "id":  55, "relationships": {"parent": {"data": { "type": "roles", "id": "51" }}}, "attributes": {"label": "Collaboratore"}},
+
+    {"type":  "roles", "id":  81, "relationships": {"parent": {"data": { "type": "roles", "id": "0" }}}, "attributes": {"label": "Amministrazione sito"}},
+    {"type":  "roles", "id":  82, "relationships": {"parent": {"data": { "type": "roles", "id": "81" }}}, "attributes": {"label": "Redattore"}},
+    {"type":  "roles", "id":  83, "relationships": {"parent": {"data": { "type": "roles", "id": "81" }}}, "attributes": {"label": "Capo redattore"}},
+    {"type":  "roles", "id":  84, "relationships": {"parent": {"data": { "type": "roles", "id": "81" }}}, "attributes": {"label": "Amministratore"}},
+
+    {"type":  "roles", "id":  81, "relationships": {"parent": {"data": { "type": "roles", "id": "0" }}}, "attributes": {"label": "Ex Docente"}}
+  ]
+}
