@@ -1,25 +1,25 @@
 {
   "data": [
-    {"type":  "user_role", "id":  1, "relationships": {"parent": {"data": { "type": "user_role", "id": "0" }}}, "attributes": {"label": "Dirigente Scolastico", "weight":  18}},
+    {"type":  "user_role", "id":  1, "relationships": {"parent": {"data": { "type": "user_role", "id": "0" }}}, "attributes": {"label": "Dirigente Scolastico", "weight":  8}},
 
-    {"type":  "user_role", "id":  21, "relationships": {"parent": {"data": { "type": "user_role", "id": "0" }}}, "attributes": {"label": "Personale Docente", "weight":  8}},
+    {"type":  "user_role", "id":  21, "relationships": {"parent": {"data": { "type": "user_role", "id": "0" }}}, "attributes": {"label": "Personale Docente", "weight":  3}},
 
-    {"type":  "user_role", "id":  51, "relationships": {"parent": {"data": { "type": "user_role", "id": "0" }}}, "attributes": {"label": "Personale non docente", "weight":  9}},
-    {"type":  "user_role", "id":  52, "relationships": {"parent": {"data": { "type": "user_role", "id": "51" }}}, "attributes": {"label": "Direttore amministrativo (DSGA)", "weight":  10}},
-    {"type":  "user_role", "id":  53, "relationships": {"parent": {"data": { "type": "user_role", "id": "51" }}}, "attributes": {"label": "Personale amministrativo", "weight":  11}},
-    {"type":  "user_role", "id":  54, "relationships": {"parent": {"data": { "type": "user_role", "id": "51" }}}, "attributes": {"label": "Personale tecnico", "weight":  12}},
-    {"type":  "user_role", "id":  55, "relationships": {"parent": {"data": { "type": "user_role", "id": "51" }}}, "attributes": {"label": "Collaboratore", "weight":  13}},
+    {"type":  "user_role", "id":  51, "relationships": {"parent": {"data": { "type": "user_role", "id": "0" }}}, "attributes": {"label": "Personale non docente", "weight":  4}},
+    {"type":  "user_role", "id":  52, "relationships": {"parent": {"data": { "type": "user_role", "id": "51" }}}, "attributes": {"label": "Direttore amministrativo (DSGA)", "weight":  5}},
+    {"type":  "user_role", "id":  53, "relationships": {"parent": {"data": { "type": "user_role", "id": "51" }}}, "attributes": {"label": "Personale amministrativo", "weight":  5}},
+    {"type":  "user_role", "id":  54, "relationships": {"parent": {"data": { "type": "user_role", "id": "51" }}}, "attributes": {"label": "Personale tecnico", "weight":  5}},
+    {"type":  "user_role", "id":  55, "relationships": {"parent": {"data": { "type": "user_role", "id": "51" }}}, "attributes": {"label": "Collaboratore", "weight":  5}},
 
-    {"type":  "user_role", "id":  81, "relationships": {"parent": {"data": { "type": "user_role", "id": "0" }}}, "attributes": {"label": "Amministrazione sito", "weight":  14}},
-    {"type":  "user_role", "id":  82, "relationships": {"parent": {"data": { "type": "user_role", "id": "81" }}}, "attributes": {"label": "Redattore", "weight":  15}},
-    {"type":  "user_role", "id":  83, "relationships": {"parent": {"data": { "type": "user_role", "id": "81" }}}, "attributes": {"label": "Capo redattore", "weight":  16}},
-    {"type":  "user_role", "id":  84, "relationships": {"parent": {"data": { "type": "user_role", "id": "81" }}}, "attributes": {"label": "Amministratore", "weight":  17}},
+    {"type":  "user_role", "id":  81, "relationships": {"parent": {"data": { "type": "user_role", "id": "0" }}}, "attributes": {"label": "Amministrazione sito", "weight":  6}},
+    {"type":  "user_role", "id":  82, "relationships": {"parent": {"data": { "type": "user_role", "id": "81" }}}, "attributes": {"label": "Redattore", "weight":  7}},
+    {"type":  "user_role", "id":  83, "relationships": {"parent": {"data": { "type": "user_role", "id": "81" }}}, "attributes": {"label": "Capo redattore", "weight":  7}},
+    {"type":  "user_role", "id":  84, "relationships": {"parent": {"data": { "type": "user_role", "id": "81" }}}, "attributes": {"label": "Amministratore", "weight":  7}},
 
     {"type":  "user_role", "id":  91, "relationships": {"parent": {"data": { "type": "user_role", "id": "0" }}}, "attributes": {"label": "Ex Dirigente", "weight":  2}},
-    {"type":  "user_role", "id":  92, "relationships": {"parent": {"data": { "type": "user_role", "id": "0" }}}, "attributes": {"label": "Ex Docente", "weight":  3}},
-    {"type":  "user_role", "id":  93, "relationships": {"parent": {"data": { "type": "user_role", "id": "0" }}}, "attributes": {"label": "Ex DSGA", "weight":  4}},
-    {"type":  "user_role", "id":  94, "relationships": {"parent": {"data": { "type": "user_role", "id": "0" }}}, "attributes": {"label": "Ex Amministrativo", "weight":  5}},
-    {"type":  "user_role", "id":  95, "relationships": {"parent": {"data": { "type": "user_role", "id": "0" }}}, "attributes": {"label": "Ex Tecnico", "weight":  6}},
-    {"type":  "user_role", "id":  96, "relationships": {"parent": {"data": { "type": "user_role", "id": "0" }}}, "attributes": {"label": "Ex Collaboratore", "weight":  7}}
+    {"type":  "user_role", "id":  92, "relationships": {"parent": {"data": { "type": "user_role", "id": "0" }}}, "attributes": {"label": "Ex Docente", "weight":  2}},
+    {"type":  "user_role", "id":  93, "relationships": {"parent": {"data": { "type": "user_role", "id": "0" }}}, "attributes": {"label": "Ex DSGA", "weight":  2}},
+    {"type":  "user_role", "id":  94, "relationships": {"parent": {"data": { "type": "user_role", "id": "0" }}}, "attributes": {"label": "Ex Amministrativo", "weight":  2}},
+    {"type":  "user_role", "id":  95, "relationships": {"parent": {"data": { "type": "user_role", "id": "0" }}}, "attributes": {"label": "Ex Tecnico", "weight":  2}},
+    {"type":  "user_role", "id":  96, "relationships": {"parent": {"data": { "type": "user_role", "id": "0" }}}, "attributes": {"label": "Ex Collaboratore", "weight":  2}}
   ]
 }
