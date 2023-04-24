@@ -1,0 +1,6 @@
+{
+  "data": [
+    {"type": "amministrazione_trasparente", "id": 9001, "relationships": {"parent": {"data": { "type": "amministrazione_trasparente", "id": "0" }}}, "attributes": {"name": "Disposizioni generali", "weight":  0}},
+    {"type": "amministrazione_trasparente", "id": 9002, "relationships": {"parent": {"data": { "type": "amministrazione_trasparente", "id": "9001" }}}, "attributes": {"name": "Atti generali", "weight":  0}}
+  ]
+}
