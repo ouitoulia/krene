@@ -1,5 +1,5 @@
 # kréne
-Kréne - La fonte dei dati in formato JSON:API
+[Kréne](https://www.grecoantico.com/dizionario-greco-antico.php?parola=%CE%BA%CF%81%CE%B7%CE%BD%CE%B7) - La fonte dei dati in formato JSON:API
 
 ## License
 
