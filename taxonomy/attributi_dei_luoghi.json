@@ -1,8 +1,8 @@
 {
   "data": [
-    {"type": "attributi_dei_luoghi", "id": 101, "attributes": {"name": "Ingresso", "icona": "door"}},
-    {"type": "attributi_dei_luoghi", "id": 102, "attributes": {"name": "Ingresso disabili", "icona": "chair"}},
-    {"type": "attributi_dei_luoghi", "id": 103, "attributes": {"name": "Parcheggio", "icona": "parking"}},
-    {"type": "attributi_dei_luoghi", "id": 104, "attributes": {"name": "Parcheggio disabili", "icona": "parking"}}
+    {"type": "attributi_dei_luoghi", "id": 101, "attributes": {"name": "Ingresso", "icon": "door"}},
+    {"type": "attributi_dei_luoghi", "id": 102, "attributes": {"name": "Ingresso disabili", "icon": "chair"}},
+    {"type": "attributi_dei_luoghi", "id": 103, "attributes": {"name": "Parcheggio", "icon": "parking"}},
+    {"type": "attributi_dei_luoghi", "id": 104, "attributes": {"name": "Parcheggio disabili", "icon": "parking"}}
   ]
 }
