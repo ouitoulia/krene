@@ -1,5 +1,5 @@
 {
   "data": [
-    {"type": "argomenti", "id": 1401, "attributes": {"name": "Scuola"}}
+    {"entity": "taxonomy_term", "type": "argomenti", "id": 1401, "attributes": {"name": "Scuola"}}
   ]
 }

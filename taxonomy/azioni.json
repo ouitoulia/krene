@@ -1,11 +1,11 @@
 {
   "data": [
-    {"type": "azioni", "id": 201, "attributes": {"name": "Accedi"}},
-    {"type": "azioni", "id": 202, "attributes": {"name": "Compila"}},
-    {"type": "azioni", "id": 203, "attributes": {"name": "Iscriviti"}},
-    {"type": "azioni", "id": 204, "attributes": {"name": "Registrati"}},
-    {"type": "azioni", "id": 205, "attributes": {"name": "Scarica"}},
-    {"type": "azioni", "id": 206, "attributes": {"name": "Vai al sito"}},
-    {"type": "azioni", "id": 207, "attributes": {"name": "Visualizza"}}
+    {"entity": "taxonomy_term", "type": "azioni", "id": 201, "attributes": {"name": "Accedi"}},
+    {"entity": "taxonomy_term", "type": "azioni", "id": 202, "attributes": {"name": "Compila"}},
+    {"entity": "taxonomy_term", "type": "azioni", "id": 203, "attributes": {"name": "Iscriviti"}},
+    {"entity": "taxonomy_term", "type": "azioni", "id": 204, "attributes": {"name": "Registrati"}},
+    {"entity": "taxonomy_term", "type": "azioni", "id": 205, "attributes": {"name": "Scarica"}},
+    {"entity": "taxonomy_term", "type": "azioni", "id": 206, "attributes": {"name": "Vai al sito"}},
+    {"entity": "taxonomy_term", "type": "azioni", "id": 207, "attributes": {"name": "Visualizza"}}
   ]
 }

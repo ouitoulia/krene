@@ -1,8 +1,8 @@
 {
   "data": [
-    {"type": "cosa_serve", "id": 301, "attributes": {"name": "Documentazione"}},
-    {"type": "cosa_serve", "id": 302, "attributes": {"name": "Firma elettronica"}},
-    {"type": "cosa_serve", "id": 303, "attributes": {"name": "Iscrizione"}},
-    {"type": "cosa_serve", "id": 304, "attributes": {"name": "Pagamento"}}
+    {"entity": "taxonomy_term", "type": "cosa_serve", "id": 301, "attributes": {"name": "Documentazione"}},
+    {"entity": "taxonomy_term", "type": "cosa_serve", "id": 302, "attributes": {"name": "Firma elettronica"}},
+    {"entity": "taxonomy_term", "type": "cosa_serve", "id": 303, "attributes": {"name": "Iscrizione"}},
+    {"entity": "taxonomy_term", "type": "cosa_serve", "id": 304, "attributes": {"name": "Pagamento"}}
   ]
 }

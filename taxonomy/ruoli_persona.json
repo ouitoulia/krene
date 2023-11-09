@@ -1,20 +1,20 @@
 {
   "data": [
-    {"type":  "ruoli_persona", "id":  1701, "relationships": {"parent": {"data": { "type": "ruoli_persona", "id": "0" }}}, "attributes": {"name": "Dirigente Scolastico", "weight":  8}},
+    {"entity": "taxonomy_term", "type": "ruoli_persona", "id":  1701, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "ruoli_persona", "id": "0"}}}, "attributes": {"name": "Dirigente Scolastico", "weight":  8}},
 
-    {"type":  "ruoli_persona", "id":  1711, "relationships": {"parent": {"data": { "type": "ruoli_persona", "id": "0" }}}, "attributes": {"name": "Personale Docente", "weight":  3}},
+    {"entity": "taxonomy_term", "type": "ruoli_persona", "id":  1711, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "ruoli_persona", "id": "0"}}}, "attributes": {"name": "Personale Docente", "weight":  3}},
 
-    {"type":  "ruoli_persona", "id":  1721, "relationships": {"parent": {"data": { "type": "ruoli_persona", "id": "0" }}}, "attributes": {"name": "Personale non docente", "weight":  4}},
-    {"type":  "ruoli_persona", "id":  1722, "relationships": {"parent": {"data": { "type": "ruoli_persona", "id": "1721" }}}, "attributes": {"name": "Direttore amministrativo (DSGA)", "weight":  5}},
-    {"type":  "ruoli_persona", "id":  1723, "relationships": {"parent": {"data": { "type": "ruoli_persona", "id": "1721" }}}, "attributes": {"name": "Personale amministrativo", "weight":  5}},
-    {"type":  "ruoli_persona", "id":  1724, "relationships": {"parent": {"data": { "type": "ruoli_persona", "id": "1721" }}}, "attributes": {"name": "Personale tecnico", "weight":  5}},
-    {"type":  "ruoli_persona", "id":  1725, "relationships": {"parent": {"data": { "type": "ruoli_persona", "id": "1721" }}}, "attributes": {"name": "Collaboratore", "weight":  5}},
+    {"entity": "taxonomy_term", "type": "ruoli_persona", "id":  1721, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "ruoli_persona", "id": "0"}}}, "attributes": {"name": "Personale non docente", "weight":  4}},
+    {"entity": "taxonomy_term", "type": "ruoli_persona", "id":  1722, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "ruoli_persona", "id": "1721"}}}, "attributes": {"name": "Direttore amministrativo (DSGA)", "weight":  5}},
+    {"entity": "taxonomy_term", "type": "ruoli_persona", "id":  1723, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "ruoli_persona", "id": "1721"}}}, "attributes": {"name": "Personale amministrativo", "weight":  5}},
+    {"entity": "taxonomy_term", "type": "ruoli_persona", "id":  1724, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "ruoli_persona", "id": "1721"}}}, "attributes": {"name": "Personale tecnico", "weight":  5}},
+    {"entity": "taxonomy_term", "type": "ruoli_persona", "id":  1725, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "ruoli_persona", "id": "1721"}}}, "attributes": {"name": "Collaboratore", "weight":  5}},
 
-    {"type":  "ruoli_persona", "id":  1731, "relationships": {"parent": {"data": { "type": "ruoli_persona", "id": "0" }}}, "attributes": {"name": "Ex Dirigente", "weight":  22}},
-    {"type":  "ruoli_persona", "id":  1732, "relationships": {"parent": {"data": { "type": "ruoli_persona", "id": "0" }}}, "attributes": {"name": "Ex Docente", "weight":  22}},
-    {"type":  "ruoli_persona", "id":  1733, "relationships": {"parent": {"data": { "type": "ruoli_persona", "id": "0" }}}, "attributes": {"name": "Ex DSGA", "weight":  22}},
-    {"type":  "ruoli_persona", "id":  1734, "relationships": {"parent": {"data": { "type": "ruoli_persona", "id": "0" }}}, "attributes": {"name": "Ex Amministrativo", "weight":  22}},
-    {"type":  "ruoli_persona", "id":  1735, "relationships": {"parent": {"data": { "type": "ruoli_persona", "id": "0" }}}, "attributes": {"name": "Ex Tecnico", "weight":  22}},
-    {"type":  "ruoli_persona", "id":  1736, "relationships": {"parent": {"data": { "type": "ruoli_persona", "id": "0" }}}, "attributes": {"name": "Ex Collaboratore", "weight":  22}}
+    {"entity": "taxonomy_term", "type": "ruoli_persona", "id":  1731, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "ruoli_persona", "id": "0"}}}, "attributes": {"name": "Ex Dirigente", "weight":  22}},
+    {"entity": "taxonomy_term", "type": "ruoli_persona", "id":  1732, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "ruoli_persona", "id": "0"}}}, "attributes": {"name": "Ex Docente", "weight":  22}},
+    {"entity": "taxonomy_term", "type": "ruoli_persona", "id":  1733, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "ruoli_persona", "id": "0"}}}, "attributes": {"name": "Ex DSGA", "weight":  22}},
+    {"entity": "taxonomy_term", "type": "ruoli_persona", "id":  1734, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "ruoli_persona", "id": "0"}}}, "attributes": {"name": "Ex Amministrativo", "weight":  22}},
+    {"entity": "taxonomy_term", "type": "ruoli_persona", "id":  1735, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "ruoli_persona", "id": "0"}}}, "attributes": {"name": "Ex Tecnico", "weight":  22}},
+    {"entity": "taxonomy_term", "type": "ruoli_persona", "id":  1736, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "ruoli_persona", "id": "0"}}}, "attributes": {"name": "Ex Collaboratore", "weight":  22}}
   ]
 }

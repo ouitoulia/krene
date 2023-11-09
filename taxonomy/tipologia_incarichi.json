@@ -1,6 +1,6 @@
 {
   "data": [
-    {"type": "tipologia_incarichi", "id": 751, "attributes": {"name": "Tempo determinato"}},
-    {"type": "tipologia_incarichi", "id": 752, "attributes": {"name": "Tempo indeterminato"}}
+    {"entity": "taxonomy_term", "type": "tipologia_incarichi", "id": 751, "attributes": {"name": "Tempo determinato"}},
+    {"entity": "taxonomy_term", "type": "tipologia_incarichi", "id": 752, "attributes": {"name": "Tempo indeterminato"}}
   ]
 }
