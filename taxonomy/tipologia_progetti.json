@@ -1,10 +1,14 @@
 {
   "data": [
-    {"entity": "taxonomy_term", "type": "tipologia_progetti", "id": 1101, "attributes": {"name": "Progetti di integrazione"}},
-    {"entity": "taxonomy_term", "type": "tipologia_progetti", "id": 1102, "attributes": {"name": "Progetti di orientamento"}},
-    {"entity": "taxonomy_term", "type": "tipologia_progetti", "id": 1103, "attributes": {"name": "Progetti territorio e ambiente"}},
-    {"entity": "taxonomy_term", "type": "tipologia_progetti", "id": 1104, "attributes": {"name": "Progetti area umanistica"}},
-    {"entity": "taxonomy_term", "type": "tipologia_progetti", "id": 1105, "attributes": {"name": "Progetti area scientifica"}},
-    {"entity": "taxonomy_term", "type": "tipologia_progetti", "id": 1106, "attributes": {"name": "Altro"}}
+    {"entity": "taxonomy_term", "type": "tipologia_progetti", "id": 1101, "attributes": {"name": "Altro"}},
+    {"entity": "taxonomy_term", "type": "tipologia_progetti", "id": 1102, "attributes": {"name": "PNRR"}},
+    {"entity": "taxonomy_term", "type": "tipologia_progetti", "id": 1103, "attributes": {"name": "PON"}},
+    {"entity": "taxonomy_term", "type": "tipologia_progetti", "id": 1104, "attributes": {"name": "POR"}},
+    {"entity": "taxonomy_term", "type": "tipologia_progetti", "id": 1105, "attributes": {"name": "Progetti di integrazione"}},
+    {"entity": "taxonomy_term", "type": "tipologia_progetti", "id": 1106, "attributes": {"name": "Progetti di orientamento"}},
+    {"entity": "taxonomy_term", "type": "tipologia_progetti", "id": 1107, "attributes": {"name": "Progetti territorio e ambiente"}},
+    {"entity": "taxonomy_term", "type": "tipologia_progetti", "id": 1108, "attributes": {"name": "Progetti area umanistica"}},
+    {"entity": "taxonomy_term", "type": "tipologia_progetti", "id": 1109, "attributes": {"name": "Progetti area scientifica"}},
+    {"entity": "taxonomy_term", "type": "tipologia_progetti", "id": 1110, "attributes": {"name": "PTOF"}}
   ]
 }
