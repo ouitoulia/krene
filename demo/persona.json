@@ -126,7 +126,7 @@
       }
     },
     {
-      "entity":  "node", "type":  "persona", "id": 8,
+      "entity":  "node", "type":  "persona", "id": 9,
       "attributes": {
         "title": "Docente Arturo Musicale", "cognome": "Musicale", "nome": "Arturo",
         "ritratto": "https://ouitoulia.github.io/krene/demo/images/avatar-15.png",
@@ -144,7 +144,7 @@
       }
     },
     {
-      "entity":  "node", "type":  "persona", "id": 9,
+      "entity":  "node", "type":  "persona", "id": 10,
       "attributes": {
         "title": "DSGA Carla Attenta", "cognome": "Attenta", "nome": "Carla",
         "ritratto": "https://ouitoulia.github.io/krene/demo/images/avatar-04.png",
@@ -159,7 +159,7 @@
       }
     },
     {
-      "entity":  "node", "type":  "persona", "id": 10,
+      "entity":  "node", "type":  "persona", "id": 11,
       "attributes": {
         "title": "Animatore Digitale Franco Preciso", "cognome": "Preciso", "nome": "Franco",
         "ritratto": "https://ouitoulia.github.io/krene/demo/images/avatar-16.png",
