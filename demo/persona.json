@@ -7,7 +7,7 @@
         "ritratto": "https://ouitoulia.github.io/krene/demo/images/avatar-01.png",
         "abstract": "Dirigente scolastico esperto e determinato con decennale esperienza nella gestione di istituti comprensivi italiani. Abile nel coordinamento di progetti complessi e nel management dei docenti.",
         "telefono": ["3330000000","3320000000"], "email": ["email@example.com","email2@example.com"],
-        "codice_fiscale": "AAABBB70A01A000A"
+        "codice_fiscale": "AAABBB70A01A000A", "language": "it"
       },
       "relationships": {
         "ruolo_persona": {"data": {"entity": "taxonomy_term", "type": "ruoli_persona", "id": 1701}},
@@ -21,7 +21,7 @@
         "ritratto": "https://ouitoulia.github.io/krene/demo/images/avatar-13.png",
         "abstract": "Esperta docente della Scuola dell'infanzia, si dedicata alla crescita e allo sviluppo dei bambini con un approccio amorevole e creativo.",
         "telefono": ["3330000000","3320000000"], "email": ["email@example.com","email2@example.com"],
-        "codice_fiscale": "AAABBB70A02A000A"
+        "codice_fiscale": "AAABBB70A02A000A", "language": "it"
       },
       "relationships": {
         "ruolo_persona": {"data": {"entity": "taxonomy_term", "type": "ruoli_persona", "id": 1771}},
@@ -36,7 +36,7 @@
         "ritratto": "https://ouitoulia.github.io/krene/demo/images/avatar-02.png",
         "abstract": "Insegnante appassionato della Scuola dell'Infanzia, abile nell'ispirare i giovani studenti attraverso giochi educativi e attività coinvolgenti.",
         "telefono": ["3330000000","3320000000"], "email": ["email@example.com","email2@example.com"],
-        "codice_fiscale": "AAABBB70A03A000A"
+        "codice_fiscale": "AAABBB70A03A000A", "language": "it"
       },
       "relationships": {
         "ruolo_persona": {"data": {"entity": "taxonomy_term", "type": "ruoli_persona", "id": 1771}},
@@ -51,7 +51,7 @@
         "ritratto": "https://ouitoulia.github.io/krene/demo/images/avatar-08.png",
         "abstract": "Docente di Scuola Primaria competente e appassionato, specializzato nell'insegnamento di lingua italiana con un focus su letteratura e grammatica.",
         "telefono": ["3330000000","3320000000"], "email": ["email@example.com","email2@example.com"],
-        "codice_fiscale": "AAABBB70A04A000A"
+        "codice_fiscale": "AAABBB70A04A000A", "language": "it"
       },
       "relationships": {
         "ruolo_persona": {"data": {"entity": "taxonomy_term", "type": "ruoli_persona", "id": 1771}},
@@ -66,7 +66,7 @@
         "ritratto": "https://ouitoulia.github.io/krene/demo/images/avatar-06.png",
         "abstract": "Educatrice esperta di Scuola Primaria, esperta in matematica e risoluzione di problemi, impegnata a creare una solida base matematica per gli studenti.",
         "telefono": ["3330000000","3320000000"], "email": ["email@example.com","email2@example.com"],
-        "codice_fiscale": "AAABBB70A05A000A"
+        "codice_fiscale": "AAABBB70A05A000A", "language": "it"
       },
       "relationships": {
         "ruolo_persona": {"data": {"entity": "taxonomy_term", "type": "ruoli_persona", "id": 1771}},
@@ -81,7 +81,7 @@
         "ritratto": "https://ouitoulia.github.io/krene/demo/images/avatar-03.png",
         "abstract": "Insegnante creativa di Scuola Primaria, con una profonda conoscenza degli strumenti musicali e una passione per ispirare gli studenti attraverso la musica.",
         "telefono": ["3330000000","3320000000"], "email": ["email@example.com","email2@example.com"],
-        "codice_fiscale": "AAABBB70A06A000A"
+        "codice_fiscale": "AAABBB70A06A000A", "language": "it"
       },
       "relationships": {
         "ruolo_persona": {"data": {"entity": "taxonomy_term", "type": "ruoli_persona", "id": 1771}},
@@ -96,7 +96,7 @@
         "ritratto": "https://ouitoulia.github.io/krene/demo/images/avatar-14.png",
         "abstract": "Insegnante di italiano nella Scuola Secondaria di primo grado, esperta in letteratura e linguistica, si dedica a formare menti critiche e creative nel campo della lingua italiana.",
         "telefono": ["3330000000","3320000000"], "email": ["email@example.com","email2@example.com"],
-        "codice_fiscale": "AAABBB70A07A000A"
+        "codice_fiscale": "AAABBB70A07A000A", "language": "it"
       },
       "relationships": {
         "ruolo_persona": {"data": {"entity": "taxonomy_term", "type": "ruoli_persona", "id": 1771}},
@@ -114,7 +114,7 @@
         "ritratto": "https://ouitoulia.github.io/krene/demo/images/avatar-11.png",
         "abstract": "Docente di matematica nella Scuola Secondaria, abile nel semplificare concetti complessi e sviluppare competenze matematiche avanzate negli studenti.",
         "telefono": ["3330000000","3320000000"], "email": ["email@example.com","email2@example.com"],
-        "codice_fiscale": "AAABBB70A08A000A"
+        "codice_fiscale": "AAABBB70A08A000A", "language": "it"
       },
       "relationships": {
         "ruolo_persona": {"data": {"entity": "taxonomy_term", "type": "ruoli_persona", "id": 1771}},
@@ -132,7 +132,7 @@
         "ritratto": "https://ouitoulia.github.io/krene/demo/images/avatar-15.png",
         "abstract": "Insegnante di strumento musicale in Scuola Secondaria di primo grado, con una vasta esperienza nell'insegnamento del Clarinetto e una grande abilità nel coltivare il talento musicale degli studenti.",
         "telefono": ["3330000000","3320000000"], "email": ["email@example.com","email2@example.com"],
-        "codice_fiscale": "AAABBB70A08A000A"
+        "codice_fiscale": "AAABBB70A08A000A", "language": "it"
       },
       "relationships": {
         "ruolo_persona": {"data": {"entity": "taxonomy_term", "type": "ruoli_persona", "id": 1771}},
@@ -150,7 +150,7 @@
         "ritratto": "https://ouitoulia.github.io/krene/demo/images/avatar-04.png",
         "abstract": "DSGA esperto, guidato dall'efficienza e dalla precisione. Gestisce con maestria le operazioni amministrative, assicurando il corretto funzionamento degli aspetti organizzativi e burocratici della scuola.",
         "telefono": ["3330000000","3320000000"], "email": ["email@example.com","email2@example.com"],
-        "codice_fiscale": "AAABBB70A09A000A"
+        "codice_fiscale": "AAABBB70A09A000A", "language": "it"
       },
       "relationships": {
         "ruolo_persona": {"data": {"entity": "taxonomy_term", "type": "ruoli_persona", "id": 1722}},
@@ -165,7 +165,7 @@
         "ritratto": "https://ouitoulia.github.io/krene/demo/images/avatar-16.png",
         "abstract": "Insegnante di informatica e animatore digitale appassionato e competente. Guida gli studenti e i colleghi attraverso l'esplorazione creativa del mondo digitale, incoraggiandoli a sviluppare competenze tecnologiche avanzate e a esplorare nuove frontiere nel campo dell'innovazione digitale.",
         "telefono": ["3330000000","3320000000"], "email": ["email@example.com","email2@example.com"],
-        "codice_fiscale": "AAABBB70A10A000A"
+        "codice_fiscale": "AAABBB70A10A000A", "language": "it"
       },
       "relationships": {
         "ruolo_persona": {"data": {"entity": "taxonomy_term", "type": "ruoli_persona", "id": 1771}},
