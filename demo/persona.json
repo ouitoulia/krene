@@ -170,7 +170,7 @@
       "relationships": {
         "ruolo_persona": {"data": {"entity": "taxonomy_term", "type": "ruoli_persona", "id": 1771}},
         "materie": {"data": [
-          {"entity": "taxonomy_term", "type": "materie", "id": 2016},
+          {"entity": "taxonomy_term", "type": "materie", "id": 2106},
           {"entity": "taxonomy_term", "type": "materie", "id": 2243}
         ]},
         "tipologia_incarico": {"data": {"entity": "taxonomy_term", "type": "tipologia_incarichi", "id": 752}},
