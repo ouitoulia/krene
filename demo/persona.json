@@ -4,12 +4,12 @@
       "entity":  "node", "type":  "persona", "id": 1,
       "attributes": {
         "title": "Dirigente Scolastico Mario Determinato", "cognome": "Determinato", "nome": "Mario",
-        "ritratto": "https://ouitoulia.github.io/krene/demo/images/persona-01-mario-determinato.png",
         "abstract": "Dirigente scolastico esperto e determinato con decennale esperienza nella gestione di istituti comprensivi italiani. Abile nel coordinamento di progetti complessi e nel management dei docenti.",
         "telefono": ["3330000000","3320000000"], "email": ["email@example.com","email2@example.com"],
         "codice_fiscale": "AAABBB70A01A000A", "birthdate":  "1970-01-01", "genere": "M", "language": "it"
       },
       "relationships": {
+        "ritratto": {"data": {"entity": "file", "type": "file", "url": "https://ouitoulia.github.io/krene/demo/images/persona-01-mario-determinato.png", "filemime": "image/png"}},
         "ruolo_persona": {"data": {"entity": "taxonomy_term", "type": "ruoli_persona", "id": 1701}},
         "tipologia_incarico": {"data": {"entity": "taxonomy_term", "type": "tipologia_incarichi", "id": 752}}
       }
@@ -18,12 +18,12 @@
       "entity":  "node", "type":  "persona", "id": 2,
       "attributes": {
         "title": "Docente Margherita Amorevole", "cognome": "Amorevole", "nome": "Margherita",
-        "ritratto": "https://ouitoulia.github.io/krene/demo/images/persona-02-margherita-amorevole.png",
         "abstract": "Esperta docente della Scuola dell'infanzia, si dedicata alla crescita e allo sviluppo dei bambini con un approccio amorevole e creativo.",
         "telefono": ["3330000000","3320000000"], "email": ["email@example.com","email2@example.com"],
         "codice_fiscale": "AAABBB70A02A000A", "birthdate":  "1970-01-02", "genere": "F", "language": "it"
       },
       "relationships": {
+        "ritratto": {"data": {"entity": "file", "type": "file", "url": "https://ouitoulia.github.io/krene/demo/images/persona-02-margherita-amorevole.png", "filemime": "image/png"}},
         "ruolo_persona": {"data": {"entity": "taxonomy_term", "type": "ruoli_persona", "id": 1711}},
         "tipologia_incarico": {"data": {"entity": "taxonomy_term", "type": "tipologia_incarichi", "id": 752}},
         "tipologia_posto": {"data": {"entity": "taxonomy_term", "type": "tipologia_posti", "id": 1051}}
@@ -33,12 +33,12 @@
       "entity":  "node", "type":  "persona", "id": 3,
       "attributes": {
         "title": "Docente Mario Appassionato", "cognome": "Appassionato", "nome": "Mario",
-        "ritratto": "https://ouitoulia.github.io/krene/demo/images/persona-03-mario-appassionato.png",
         "abstract": "Insegnante appassionato della Scuola dell'Infanzia, abile nell'ispirare i giovani studenti attraverso giochi educativi e attività coinvolgenti.",
         "telefono": ["3330000000","3320000000"], "email": ["email@example.com","email2@example.com"],
         "codice_fiscale": "AAABBB70A03A000A", "birthdate":  "1970-01-03", "genere": "M", "language": "it"
       },
       "relationships": {
+        "ritratto": {"data": {"entity": "file", "type": "file", "url": "https://ouitoulia.github.io/krene/demo/images/persona-03-mario-appassionato.png", "filemime": "image/png"}},
         "ruolo_persona": {"data": {"entity": "taxonomy_term", "type": "ruoli_persona", "id": 1711}},
         "tipologia_incarico": {"data": {"entity": "taxonomy_term", "type": "tipologia_incarichi", "id": 752}},
         "tipologia_posto": {"data": {"entity": "taxonomy_term", "type": "tipologia_posti", "id": 1051}}
@@ -48,12 +48,12 @@
       "entity":  "node", "type":  "persona", "id": 4,
       "attributes": {
         "title": "Docente Carlo Specializzato", "cognome": "Specializzato", "nome": "Carlo",
-        "ritratto": "https://ouitoulia.github.io/krene/demo/images/persona-04-carlo-specializzato.png",
         "abstract": "Docente di Scuola Primaria competente e appassionato, specializzato nell'insegnamento di lingua italiana con un focus su letteratura e grammatica.",
         "telefono": ["3330000000","3320000000"], "email": ["email@example.com","email2@example.com"],
         "codice_fiscale": "AAABBB70A04A000A", "birthdate":  "1970-01-04", "genere": "M", "language": "it"
       },
       "relationships": {
+        "ritratto": {"data": {"entity": "file", "type": "file", "url": "https://ouitoulia.github.io/krene/demo/images/persona-04-carlo-specializzato.png", "filemime": "image/png"}},
         "ruolo_persona": {"data": {"entity": "taxonomy_term", "type": "ruoli_persona", "id": 1711}},
         "tipologia_incarico": {"data": {"entity": "taxonomy_term", "type": "tipologia_incarichi", "id": 752}},
         "tipologia_posto": {"data": {"entity": "taxonomy_term", "type": "tipologia_posti", "id": 1051}}
@@ -63,12 +63,12 @@
       "entity":  "node", "type":  "persona", "id": 5,
       "attributes": {
         "title": "Docente Maria Competente", "cognome": "Competente", "nome": "Maria",
-        "ritratto": "https://ouitoulia.github.io/krene/demo/images/persona-05-maria-competente.png",
         "abstract": "Educatrice esperta di Scuola Primaria, esperta in matematica e risoluzione di problemi, impegnata a creare una solida base matematica per gli studenti.",
         "telefono": ["3330000000","3320000000"], "email": ["email@example.com","email2@example.com"],
         "codice_fiscale": "AAABBB70A05A000A", "birthdate":  "1970-01-05", "genere": "F", "language": "it"
       },
       "relationships": {
+        "ritratto": {"data": {"entity": "file", "type": "file", "url": "https://ouitoulia.github.io/krene/demo/images/persona-05-maria-competente.png", "filemime": "image/png"}},
         "ruolo_persona": {"data": {"entity": "taxonomy_term", "type": "ruoli_persona", "id": 1711}},
         "tipologia_incarico": {"data": {"entity": "taxonomy_term", "type": "tipologia_incarichi", "id": 752}},
         "tipologia_posto": {"data": {"entity": "taxonomy_term", "type": "tipologia_posti", "id": 1051}}
@@ -78,12 +78,12 @@
       "entity":  "node", "type":  "persona", "id": 6,
       "attributes": {
         "title": "Docente Lucia Creativa", "cognome": "Creativa", "nome": "Lucia",
-        "ritratto": "https://ouitoulia.github.io/krene/demo/images/persona-06-lucia-creativa.png",
         "abstract": "Insegnante creativa di Scuola Primaria, con una profonda conoscenza degli strumenti musicali e una passione per ispirare gli studenti attraverso la musica.",
         "telefono": ["3330000000","3320000000"], "email": ["email@example.com","email2@example.com"],
         "codice_fiscale": "AAABBB70A06A000A", "birthdate":  "1970-01-06", "genere": "F", "language": "it"
       },
       "relationships": {
+        "ritratto": {"data": {"entity": "file", "type": "file", "url": "https://ouitoulia.github.io/krene/demo/images/persona-06-lucia-creativa.png", "filemime": "image/png"}},
         "ruolo_persona": {"data": {"entity": "taxonomy_term", "type": "ruoli_persona", "id": 1711}},
         "tipologia_incarico": {"data": {"entity": "taxonomy_term", "type": "tipologia_incarichi", "id": 752}},
         "tipologia_posto": {"data": {"entity": "taxonomy_term", "type": "tipologia_posti", "id": 1051}}
@@ -93,12 +93,12 @@
       "entity":  "node", "type":  "persona", "id": 7,
       "attributes": {
         "title": "Docente Francesca Esperta", "cognome": "Esperta", "nome": "Francesca",
-        "ritratto": "https://ouitoulia.github.io/krene/demo/images/persona-07-francesca-esperta.png",
         "abstract": "Insegnante di italiano nella Scuola Secondaria di primo grado, esperta in letteratura e linguistica, si dedica a formare menti critiche e creative nel campo della lingua italiana.",
         "telefono": ["3330000000","3320000000"], "email": ["email@example.com","email2@example.com"],
         "codice_fiscale": "AAABBB70A07A000A", "birthdate":  "1970-01-07", "genere": "F", "language": "it"
       },
       "relationships": {
+        "ritratto": {"data": {"entity": "file", "type": "file", "url": "https://ouitoulia.github.io/krene/demo/images/persona-07-francesca-esperta.png", "filemime": "image/png"}},
         "ruolo_persona": {"data": {"entity": "taxonomy_term", "type": "ruoli_persona", "id": 1711}},
         "materie": {"data": [
           {"entity": "taxonomy_term", "type": "materie", "id": 2102}
@@ -111,12 +111,12 @@
       "entity":  "node", "type":  "persona", "id": 8,
       "attributes": {
         "title": "Docente Marie Abile", "cognome": "Abile", "nome": "Marie",
-        "ritratto": "https://ouitoulia.github.io/krene/demo/images/persona-08-marie-abile.png",
         "abstract": "Docente di matematica nella Scuola Secondaria, abile nel semplificare concetti complessi e sviluppare competenze matematiche avanzate negli studenti.",
         "telefono": ["3330000000","3320000000"], "email": ["email@example.com","email2@example.com"],
         "codice_fiscale": "AAABBB70A08A000A", "birthdate":  "1970-01-08", "genere": "F", "language": "it"
       },
       "relationships": {
+        "ritratto": {"data": {"entity": "file", "type": "file", "url": "https://ouitoulia.github.io/krene/demo/images/persona-08-marie-abile.png", "filemime": "image/png"}},
         "ruolo_persona": {"data": {"entity": "taxonomy_term", "type": "ruoli_persona", "id": 1711}},
         "materie": {"data": [
           {"entity": "taxonomy_term", "type": "materie", "id": 2103}
@@ -129,12 +129,12 @@
       "entity":  "node", "type":  "persona", "id": 9,
       "attributes": {
         "title": "Docente Arturo Musicale", "cognome": "Musicale", "nome": "Arturo",
-        "ritratto": "https://ouitoulia.github.io/krene/demo/images/persona-09-arturo-musicale.png",
         "abstract": "Insegnante di strumento musicale in Scuola Secondaria di primo grado, con una vasta esperienza nell'insegnamento del Clarinetto e una grande abilità nel coltivare il talento musicale degli studenti.",
         "telefono": ["3330000000","3320000000"], "email": ["email@example.com","email2@example.com"],
         "codice_fiscale": "AAABBB70A09A000A", "birthdate":  "1970-01-09", "genere": "M", "language": "it"
       },
       "relationships": {
+        "ritratto": {"data": {"entity": "file", "type": "file", "url": "https://ouitoulia.github.io/krene/demo/images/persona-09-arturo-musicale.png", "filemime": "image/png"}},
         "ruolo_persona": {"data": {"entity": "taxonomy_term", "type": "ruoli_persona", "id": 1711}},
         "materie": {"data": [
           {"entity": "taxonomy_term", "type": "materie", "id": 2115}
@@ -147,12 +147,12 @@
       "entity":  "node", "type":  "persona", "id": 10,
       "attributes": {
         "title": "DSGA Carla Attenta", "cognome": "Attenta", "nome": "Carla",
-        "ritratto": "https://ouitoulia.github.io/krene/demo/images/persona-10-carla-attenta.png",
         "abstract": "DSGA esperto, guidato dall'efficienza e dalla precisione. Gestisce con maestria le operazioni amministrative, assicurando il corretto funzionamento degli aspetti organizzativi e burocratici della scuola.",
         "telefono": ["3330000000","3320000000"], "email": ["email@example.com","email2@example.com"],
         "codice_fiscale": "AAABBB70A10A000A", "birthdate":  "1970-01-10", "genere": "F", "language": "it"
       },
       "relationships": {
+        "ritratto": {"data": {"entity": "file", "type": "file", "url": "https://ouitoulia.github.io/krene/demo/images/persona-10-carla-attenta.png", "filemime": "image/png"}},
         "ruolo_persona": {"data": {"entity": "taxonomy_term", "type": "ruoli_persona", "id": 1722}},
         "tipologia_incarico": {"data": {"entity": "taxonomy_term", "type": "tipologia_incarichi", "id": 752}},
         "tipologia_posto": {"data": {"entity": "taxonomy_term", "type": "tipologia_posti", "id": 1051}}
@@ -162,12 +162,12 @@
       "entity":  "node", "type":  "persona", "id": 11,
       "attributes": {
         "title": "Animatore Digitale Franco Preciso", "cognome": "Preciso", "nome": "Franco",
-        "ritratto": "https://ouitoulia.github.io/krene/demo/images/persona-11-franco-preciso.png",
         "abstract": "Insegnante di informatica e animatore digitale appassionato e competente. Guida gli studenti e i colleghi attraverso l'esplorazione creativa del mondo digitale, incoraggiandoli a sviluppare competenze tecnologiche avanzate e a esplorare nuove frontiere nel campo dell'innovazione digitale.",
         "telefono": ["3330000000","3320000000"], "email": ["email@example.com","email2@example.com"],
         "codice_fiscale": "AAABBB70A11A000A", "birthdate":  "1970-01-11", "genere": "M", "language": "it"
       },
       "relationships": {
+        "ritratto": {"data": {"entity": "file", "type": "file", "url": "https://ouitoulia.github.io/krene/demo/images/persona-11-franco-preciso.png", "filemime": "image/png"}},
         "ruolo_persona": {"data": {"entity": "taxonomy_term", "type": "ruoli_persona", "id": 1711}},
         "materie": {"data": [
           {"entity": "taxonomy_term", "type": "materie", "id": 2106},
