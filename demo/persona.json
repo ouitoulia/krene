@@ -9,7 +9,7 @@
         "codice_fiscale": "AAABBB70A01A000A", "birthdate":  "1970-01-01", "genere": "M", "language": "it"
       },
       "relationships": {
-        "ritratto": {"data": {"entity": "file", "type": "image", "id": 1, "url": "https://ouitoulia.github.io/krene/demo/images/persona-01-mario-determinato.png", "file_name": "persona-01-mario-determinato.png", "file_mime": "image/png", "description": "Immagine della persona"}},
+        "ritratto": {"data": {"entity": "file", "type": "image", "id": 1, "url": "https://ouitoulia.github.io/krene/demo/images/persona-01-mario-determinato.png", "filename": "persona-01-mario-determinato.png", "filemime": "image/png", "description": "Immagine della persona"}},
         "ruolo_persona": {"data": {"entity": "taxonomy_term", "type": "ruoli_persona", "id": 1701}},
         "tipologia_incarico": {"data": {"entity": "taxonomy_term", "type": "tipologia_incarichi", "id": 752}}
       }
@@ -23,7 +23,7 @@
         "codice_fiscale": "AAABBB70A02A000A", "birthdate":  "1970-01-02", "genere": "F", "language": "it"
       },
       "relationships": {
-        "ritratto": {"data": {"entity": "file", "type": "image", "id": 2, "url": "https://ouitoulia.github.io/krene/demo/images/persona-02-margherita-amorevole.png", "file_name": "persona-02-margherita-amorevole.png", "file_mime": "image/png", "description": "Immagine della persona"}},
+        "ritratto": {"data": {"entity": "file", "type": "image", "id": 2, "url": "https://ouitoulia.github.io/krene/demo/images/persona-02-margherita-amorevole.png", "filename": "persona-02-margherita-amorevole.png", "filemime": "image/png", "description": "Immagine della persona"}},
         "ruolo_persona": {"data": {"entity": "taxonomy_term", "type": "ruoli_persona", "id": 1711}},
         "tipologia_incarico": {"data": {"entity": "taxonomy_term", "type": "tipologia_incarichi", "id": 752}},
         "tipologia_posto": {"data": {"entity": "taxonomy_term", "type": "tipologia_posti", "id": 1051}}
@@ -38,7 +38,7 @@
         "codice_fiscale": "AAABBB70A03A000A", "birthdate":  "1970-01-03", "genere": "M", "language": "it"
       },
       "relationships": {
-        "ritratto": {"data": {"entity": "file", "type": "image", "id": 3, "url": "https://ouitoulia.github.io/krene/demo/images/persona-03-mario-appassionato.png", "file_name": "persona-03-mario-appassionato.png", "file_mime": "image/png", "description": "Immagine della persona"}},
+        "ritratto": {"data": {"entity": "file", "type": "image", "id": 3, "url": "https://ouitoulia.github.io/krene/demo/images/persona-03-mario-appassionato.png", "filename": "persona-03-mario-appassionato.png", "filemime": "image/png", "description": "Immagine della persona"}},
         "ruolo_persona": {"data": {"entity": "taxonomy_term", "type": "ruoli_persona", "id": 1711}},
         "tipologia_incarico": {"data": {"entity": "taxonomy_term", "type": "tipologia_incarichi", "id": 752}},
         "tipologia_posto": {"data": {"entity": "taxonomy_term", "type": "tipologia_posti", "id": 1051}}
@@ -53,7 +53,7 @@
         "codice_fiscale": "AAABBB70A04A000A", "birthdate":  "1970-01-04", "genere": "M", "language": "it"
       },
       "relationships": {
-        "ritratto": {"data": {"entity": "file", "type": "image", "id": 4, "url": "https://ouitoulia.github.io/krene/demo/images/persona-04-carlo-specializzato.png", "file_name": "persona-04-carlo-specializzato.png", "file_mime": "image/png", "description": "Immagine della persona"}},
+        "ritratto": {"data": {"entity": "file", "type": "image", "id": 4, "url": "https://ouitoulia.github.io/krene/demo/images/persona-04-carlo-specializzato.png", "filename": "persona-04-carlo-specializzato.png", "filemime": "image/png", "description": "Immagine della persona"}},
         "ruolo_persona": {"data": {"entity": "taxonomy_term", "type": "ruoli_persona", "id": 1711}},
         "tipologia_incarico": {"data": {"entity": "taxonomy_term", "type": "tipologia_incarichi", "id": 752}},
         "tipologia_posto": {"data": {"entity": "taxonomy_term", "type": "tipologia_posti", "id": 1051}}
@@ -68,7 +68,7 @@
         "codice_fiscale": "AAABBB70A05A000A", "birthdate":  "1970-01-05", "genere": "F", "language": "it"
       },
       "relationships": {
-        "ritratto": {"data": {"entity": "file", "type": "image", "id": 5, "url": "https://ouitoulia.github.io/krene/demo/images/persona-05-maria-competente.png", "file_name": "persona-05-maria-competente.png", "file_mime": "image/png", "description": "Immagine della persona"}},
+        "ritratto": {"data": {"entity": "file", "type": "image", "id": 5, "url": "https://ouitoulia.github.io/krene/demo/images/persona-05-maria-competente.png", "filename": "persona-05-maria-competente.png", "filemime": "image/png", "description": "Immagine della persona"}},
         "ruolo_persona": {"data": {"entity": "taxonomy_term", "type": "ruoli_persona", "id": 1711}},
         "tipologia_incarico": {"data": {"entity": "taxonomy_term", "type": "tipologia_incarichi", "id": 752}},
         "tipologia_posto": {"data": {"entity": "taxonomy_term", "type": "tipologia_posti", "id": 1051}}
@@ -83,7 +83,7 @@
         "codice_fiscale": "AAABBB70A06A000A", "birthdate":  "1970-01-06", "genere": "F", "language": "it"
       },
       "relationships": {
-        "ritratto": {"data": {"entity": "file", "type": "image", "id": 6, "url": "https://ouitoulia.github.io/krene/demo/images/persona-06-lucia-creativa.png", "file_name": "persona-06-lucia-creativa.png", "file_mime": "image/png", "description": "Immagine della persona"}},
+        "ritratto": {"data": {"entity": "file", "type": "image", "id": 6, "url": "https://ouitoulia.github.io/krene/demo/images/persona-06-lucia-creativa.png", "filename": "persona-06-lucia-creativa.png", "filemime": "image/png", "description": "Immagine della persona"}},
         "ruolo_persona": {"data": {"entity": "taxonomy_term", "type": "ruoli_persona", "id": 1711}},
         "tipologia_incarico": {"data": {"entity": "taxonomy_term", "type": "tipologia_incarichi", "id": 752}},
         "tipologia_posto": {"data": {"entity": "taxonomy_term", "type": "tipologia_posti", "id": 1051}}
@@ -98,7 +98,7 @@
         "codice_fiscale": "AAABBB70A07A000A", "birthdate":  "1970-01-07", "genere": "F", "language": "it"
       },
       "relationships": {
-        "ritratto": {"data": {"entity": "file", "type": "image", "id": 7, "url": "https://ouitoulia.github.io/krene/demo/images/persona-07-francesca-esperta.png", "file_name": "persona-07-francesca-esperta.png", "file_mime": "image/png", "description": "Immagine della persona"}},
+        "ritratto": {"data": {"entity": "file", "type": "image", "id": 7, "url": "https://ouitoulia.github.io/krene/demo/images/persona-07-francesca-esperta.png", "filename": "persona-07-francesca-esperta.png", "filemime": "image/png", "description": "Immagine della persona"}},
         "ruolo_persona": {"data": {"entity": "taxonomy_term", "type": "ruoli_persona", "id": 1711}},
         "materie": {"data": [
           {"entity": "taxonomy_term", "type": "materie", "id": 2102}
@@ -116,7 +116,7 @@
         "codice_fiscale": "AAABBB70A08A000A", "birthdate":  "1970-01-08", "genere": "F", "language": "it"
       },
       "relationships": {
-        "ritratto": {"data": {"entity": "file", "type": "image", "id": 8, "url": "https://ouitoulia.github.io/krene/demo/images/persona-08-marie-abile.png", "file_name": "persona-08-marie-abile.png", "file_mime": "image/png", "description": "Immagine della persona"}},
+        "ritratto": {"data": {"entity": "file", "type": "image", "id": 8, "url": "https://ouitoulia.github.io/krene/demo/images/persona-08-marie-abile.png", "filename": "persona-08-marie-abile.png", "filemime": "image/png", "description": "Immagine della persona"}},
         "ruolo_persona": {"data": {"entity": "taxonomy_term", "type": "ruoli_persona", "id": 1711}},
         "materie": {"data": [
           {"entity": "taxonomy_term", "type": "materie", "id": 2103}
@@ -134,7 +134,7 @@
         "codice_fiscale": "AAABBB70A09A000A", "birthdate":  "1970-01-09", "genere": "M", "language": "it"
       },
       "relationships": {
-        "ritratto": {"data": {"entity": "file", "type": "image", "id": 9, "url": "https://ouitoulia.github.io/krene/demo/images/persona-09-arturo-musicale.png", "file_name": "persona-09-arturo-musicale.png", "file_mime": "image/png", "description": "Immagine della persona"}},
+        "ritratto": {"data": {"entity": "file", "type": "image", "id": 9, "url": "https://ouitoulia.github.io/krene/demo/images/persona-09-arturo-musicale.png", "filename": "persona-09-arturo-musicale.png", "filemime": "image/png", "description": "Immagine della persona"}},
         "ruolo_persona": {"data": {"entity": "taxonomy_term", "type": "ruoli_persona", "id": 1711}},
         "materie": {"data": [
           {"entity": "taxonomy_term", "type": "materie", "id": 2115}
@@ -152,7 +152,7 @@
         "codice_fiscale": "AAABBB70A10A000A", "birthdate":  "1970-01-10", "genere": "F", "language": "it"
       },
       "relationships": {
-        "ritratto": {"data": {"entity": "file", "type": "image", "id": 10, "url": "https://ouitoulia.github.io/krene/demo/images/persona-10-carla-attenta.png", "file_name": "persona-10-carla-attenta.png", "file_mime": "image/png", "description": "Immagine della persona"}},
+        "ritratto": {"data": {"entity": "file", "type": "image", "id": 10, "url": "https://ouitoulia.github.io/krene/demo/images/persona-10-carla-attenta.png", "filename": "persona-10-carla-attenta.png", "filemime": "image/png", "description": "Immagine della persona"}},
         "ruolo_persona": {"data": {"entity": "taxonomy_term", "type": "ruoli_persona", "id": 1722}},
         "tipologia_incarico": {"data": {"entity": "taxonomy_term", "type": "tipologia_incarichi", "id": 752}},
         "tipologia_posto": {"data": {"entity": "taxonomy_term", "type": "tipologia_posti", "id": 1051}}
@@ -167,7 +167,7 @@
         "codice_fiscale": "AAABBB70A11A000A", "birthdate":  "1970-01-11", "genere": "M", "language": "it"
       },
       "relationships": {
-        "ritratto": {"data": {"entity": "file", "type": "image", "id": 11, "url": "https://ouitoulia.github.io/krene/demo/images/persona-11-franco-preciso.png", "file_name": "persona-11-franco-preciso.png", "file_mime": "image/png", "description": "Immagine della persona"}},
+        "ritratto": {"data": {"entity": "file", "type": "image", "id": 11, "url": "https://ouitoulia.github.io/krene/demo/images/persona-11-franco-preciso.png", "filename": "persona-11-franco-preciso.png", "filemime": "image/png", "description": "Immagine della persona"}},
         "ruolo_persona": {"data": {"entity": "taxonomy_term", "type": "ruoli_persona", "id": 1711}},
         "materie": {"data": [
           {"entity": "taxonomy_term", "type": "materie", "id": 2106},
