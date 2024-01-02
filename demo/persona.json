@@ -25,8 +25,8 @@
       "relationships": {
         "ritratto": {"data": {"entity": "file", "type": "image", "id": 2, "url": "https://ouitoulia.github.io/krene/demo/images/persona-02-margherita-amorevole.png", "filename": "persona-02-margherita-amorevole.png", "filemime": "image/png", "description": "Immagine della persona"}},
         "ruolo_persona": {"data": {"entity": "taxonomy_term", "type": "ruoli_persona", "id": 1711}},
-        "tipologia_incarico": {"data": {"entity": "taxonomy_term", "type": "tipologia_incarichi", "id": 752}},
-        "tipologia_posto": {"data": {"entity": "taxonomy_term", "type": "tipologia_posti", "id": 1051}}
+        "tipologia_posto": {"data": {"entity": "taxonomy_term", "type": "tipologia_posti", "id": 1051}},
+        "tipologia_incarico": {"data": {"entity": "taxonomy_term", "type": "tipologia_incarichi", "id": 752}}
       }
     },
     {
@@ -40,8 +40,8 @@
       "relationships": {
         "ritratto": {"data": {"entity": "file", "type": "image", "id": 3, "url": "https://ouitoulia.github.io/krene/demo/images/persona-03-mario-appassionato.png", "filename": "persona-03-mario-appassionato.png", "filemime": "image/png", "description": "Immagine della persona"}},
         "ruolo_persona": {"data": {"entity": "taxonomy_term", "type": "ruoli_persona", "id": 1711}},
-        "tipologia_incarico": {"data": {"entity": "taxonomy_term", "type": "tipologia_incarichi", "id": 752}},
-        "tipologia_posto": {"data": {"entity": "taxonomy_term", "type": "tipologia_posti", "id": 1051}}
+        "tipologia_posto": {"data": {"entity": "taxonomy_term", "type": "tipologia_posti", "id": 1051}},
+        "tipologia_incarico": {"data": {"entity": "taxonomy_term", "type": "tipologia_incarichi", "id": 752}}
       }
     },
     {
@@ -55,8 +55,8 @@
       "relationships": {
         "ritratto": {"data": {"entity": "file", "type": "image", "id": 4, "url": "https://ouitoulia.github.io/krene/demo/images/persona-04-carlo-specializzato.png", "filename": "persona-04-carlo-specializzato.png", "filemime": "image/png", "description": "Immagine della persona"}},
         "ruolo_persona": {"data": {"entity": "taxonomy_term", "type": "ruoli_persona", "id": 1711}},
-        "tipologia_incarico": {"data": {"entity": "taxonomy_term", "type": "tipologia_incarichi", "id": 752}},
-        "tipologia_posto": {"data": {"entity": "taxonomy_term", "type": "tipologia_posti", "id": 1051}}
+        "tipologia_posto": {"data": {"entity": "taxonomy_term", "type": "tipologia_posti", "id": 1051}},
+        "tipologia_incarico": {"data": {"entity": "taxonomy_term", "type": "tipologia_incarichi", "id": 752}}
       }
     },
     {
@@ -70,8 +70,8 @@
       "relationships": {
         "ritratto": {"data": {"entity": "file", "type": "image", "id": 5, "url": "https://ouitoulia.github.io/krene/demo/images/persona-05-maria-competente.png", "filename": "persona-05-maria-competente.png", "filemime": "image/png", "description": "Immagine della persona"}},
         "ruolo_persona": {"data": {"entity": "taxonomy_term", "type": "ruoli_persona", "id": 1711}},
-        "tipologia_incarico": {"data": {"entity": "taxonomy_term", "type": "tipologia_incarichi", "id": 752}},
-        "tipologia_posto": {"data": {"entity": "taxonomy_term", "type": "tipologia_posti", "id": 1051}}
+        "tipologia_posto": {"data": {"entity": "taxonomy_term", "type": "tipologia_posti", "id": 1051}},
+        "tipologia_incarico": {"data": {"entity": "taxonomy_term", "type": "tipologia_incarichi", "id": 752}}
       }
     },
     {
@@ -85,8 +85,8 @@
       "relationships": {
         "ritratto": {"data": {"entity": "file", "type": "image", "id": 6, "url": "https://ouitoulia.github.io/krene/demo/images/persona-06-lucia-creativa.png", "filename": "persona-06-lucia-creativa.png", "filemime": "image/png", "description": "Immagine della persona"}},
         "ruolo_persona": {"data": {"entity": "taxonomy_term", "type": "ruoli_persona", "id": 1711}},
-        "tipologia_incarico": {"data": {"entity": "taxonomy_term", "type": "tipologia_incarichi", "id": 752}},
-        "tipologia_posto": {"data": {"entity": "taxonomy_term", "type": "tipologia_posti", "id": 1051}}
+        "tipologia_posto": {"data": {"entity": "taxonomy_term", "type": "tipologia_posti", "id": 1051}},
+        "tipologia_incarico": {"data": {"entity": "taxonomy_term", "type": "tipologia_incarichi", "id": 752}}
       }
     },
     {
@@ -103,8 +103,8 @@
         "materie": {"data": [
           {"entity": "taxonomy_term", "type": "materie", "id": 2102}
         ]},
-        "tipologia_incarico": {"data": {"entity": "taxonomy_term", "type": "tipologia_incarichi", "id": 752}},
-        "tipologia_posto": {"data": {"entity": "taxonomy_term", "type": "tipologia_posti", "id": 1051}}
+        "tipologia_posto": {"data": {"entity": "taxonomy_term", "type": "tipologia_posti", "id": 1051}},
+        "tipologia_incarico": {"data": {"entity": "taxonomy_term", "type": "tipologia_incarichi", "id": 752}}
       }
     },
     {
@@ -121,8 +121,8 @@
         "materie": {"data": [
           {"entity": "taxonomy_term", "type": "materie", "id": 2103}
         ]},
-        "tipologia_incarico": {"data": {"entity": "taxonomy_term", "type": "tipologia_incarichi", "id": 752}},
-        "tipologia_posto": {"data": {"entity": "taxonomy_term", "type": "tipologia_posti", "id": 1051}}
+        "tipologia_posto": {"data": {"entity": "taxonomy_term", "type": "tipologia_posti", "id": 1051}},
+        "tipologia_incarico": {"data": {"entity": "taxonomy_term", "type": "tipologia_incarichi", "id": 752}}
       }
     },
     {
@@ -139,8 +139,8 @@
         "materie": {"data": [
           {"entity": "taxonomy_term", "type": "materie", "id": 2115}
         ]},
-        "tipologia_incarico": {"data": {"entity": "taxonomy_term", "type": "tipologia_incarichi", "id": 752}},
-        "tipologia_posto": {"data": {"entity": "taxonomy_term", "type": "tipologia_posti", "id": 1051}}
+        "tipologia_posto": {"data": {"entity": "taxonomy_term", "type": "tipologia_posti", "id": 1051}},
+        "tipologia_incarico": {"data": {"entity": "taxonomy_term", "type": "tipologia_incarichi", "id": 752}}
       }
     },
     {
@@ -154,8 +154,8 @@
       "relationships": {
         "ritratto": {"data": {"entity": "file", "type": "image", "id": 10, "url": "https://ouitoulia.github.io/krene/demo/images/persona-10-carla-attenta.png", "filename": "persona-10-carla-attenta.png", "filemime": "image/png", "description": "Immagine della persona"}},
         "ruolo_persona": {"data": {"entity": "taxonomy_term", "type": "ruoli_persona", "id": 1722}},
-        "tipologia_incarico": {"data": {"entity": "taxonomy_term", "type": "tipologia_incarichi", "id": 752}},
-        "tipologia_posto": {"data": {"entity": "taxonomy_term", "type": "tipologia_posti", "id": 1051}}
+        "tipologia_posto": {"data": {"entity": "taxonomy_term", "type": "tipologia_posti", "id": 1051}},
+        "tipologia_incarico": {"data": {"entity": "taxonomy_term", "type": "tipologia_incarichi", "id": 752}}
       }
     },
     {
@@ -173,8 +173,8 @@
           {"entity": "taxonomy_term", "type": "materie", "id": 2106},
           {"entity": "taxonomy_term", "type": "materie", "id": 2243}
         ]},
-        "tipologia_incarico": {"data": {"entity": "taxonomy_term", "type": "tipologia_incarichi", "id": 752}},
-        "tipologia_posto": {"data": {"entity": "taxonomy_term", "type": "tipologia_posti", "id": 1051}}
+        "tipologia_posto": {"data": {"entity": "taxonomy_term", "type": "tipologia_posti", "id": 1051}},
+        "tipologia_incarico": {"data": {"entity": "taxonomy_term", "type": "tipologia_incarichi", "id": 752}}
       }
     }
   ]
