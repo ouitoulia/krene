@@ -154,10 +154,10 @@
       }
     },
     {
-      "entity": "media", "type": "audio_file", "id": 18,
+      "entity": "media", "type": "audio", "id": 18,
       "attributes": {"title": "Documento .mp3 demo", "language": "it", "published": 1},
       "relationships": {
-        "audio_file": {"data":
+        "audio": {"data":
           {"entity": "file", "id": 48, "url": "https://ouitoulia.github.io/krene/demo/files/demo.mp3", "filename": "demo.mp3", "filemime": "audio/mpeg", "description": "Documento .mp3 demo"}
         }
       }
@@ -186,6 +186,15 @@
       "relationships": {
         "document": {"data":
           {"entity": "file", "id": 51, "url": "https://ouitoulia.github.io/krene/demo/files/demo.odt", "filename": "demo.odt", "filemime": "application/vnd.oasis.opendocument.text", "description": "Documento .odt demo"}
+        }
+      }
+    },
+    {
+      "entity": "media", "type": "audio", "id": 22,
+      "attributes": {"title": "Documento .ogg demo", "language": "it", "published": 1},
+      "relationships": {
+        "audio": {"data":
+          {"entity": "file", "id": 52, "url": "https://ouitoulia.github.io/krene/demo/files/demo.ogg", "filename": "demo.ogg", "filemime": "audio/ogg", "description": "Documento .ogg demo"}
         }
       }
     },
@@ -231,6 +240,15 @@
       "relationships": {
         "document": {"data":
           {"entity": "file", "id": 57, "url": "https://ouitoulia.github.io/krene/demo/files/demo.txt", "filename": "demo.txt", "filemime": "text/plain", "description": "Documento .txt demo"}
+        }
+      }
+    },
+    {
+      "entity": "media", "type": "audio", "id": 28,
+      "attributes": {"title": "Documento .wav demo", "language": "it", "published": 1},
+      "relationships": {
+        "audio": {"data":
+          {"entity": "file", "id": 58, "url": "https://ouitoulia.github.io/krene/demo/files/demo.wav", "filename": "demo.wav", "filemime": "audio/x-wav", "description": "Documento .wav demo"}
         }
       }
     },
