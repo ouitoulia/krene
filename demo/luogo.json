@@ -1,19 +1,339 @@
 {
   "data": [
     {
-      "entity": "node", "type": "persona", "id": 31,
+      "entity": "node", "type": "luogo", "id": 31,
       "attributes": {
-        "title": "",
-        "abstract": ""
-
+        "nome": "Istituto comprensivo Marvasi-Vizzone",
+        "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "descrizione_estesa": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+        "indirizzo": {
+          "nazione": "IT",
+          "indirizzo": "piazza Duomo n.8",
+          "cap": "89025",
+          "comune": "Rosarno",
+          "provincia": "RC"
+        },
+        "coordinate_geografiche": {
+          "value": "POINT (15.973241 38.489686)",
+          "geo_type": "Point",
+          "lat": "38.489686000000",
+          "lon": "15.973241000000",
+          "left": "15.973241000000",
+          "top": "38.489686000000",
+          "right": "15.973241000000",
+          "bottom": "38.489686000000",
+          "geohash": "sqg6gqz6emxb"
+        },
+        "orario_pubblico": [
+          {"day": 1, "starthours": 800, "endhours": 900},
+          {"day": 2, "starthours": 900, "endhours": 1000},
+          {"day": 3, "starthours": 1100, "endhours": 1200},
+          {"day": 4, "starthours": 1200, "endhours": 1300},
+          {"day": 5, "starthours": 1300, "endhours": 1400}
+        ],
+        "email": ["email@example.com","email2@example.com"],
+        "telefono": ["3330000000","3320000000"],
+        "prenotabile": 0,
+        "posti": 300,
+        "anno_costruzione": 1538,
+        "numero_piani": 3,
+        "codice_identificativo": "AA123",
+        "codice_catastale_comune": "H558",
+        "uso_scolastico": 1,
+        "anno_adattamento": 2013,
+        "superficie_area_totale": 5000,
+        "superficie_area_libera": 1500,
+        "volume": 31500,
+        "language": "it",
+        "published": 1
       },
       "relationships": {
         "argomenti": {"data": [
-          {"entity": "taxonomy_term", "type": "argomenti", "id": 1547}
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1457}
         ]},
-        "tipologia_luogo": {"data": {"entity": "taxonomy_term", "type": "tipologia_luoghi", "id": 1547}}
+        "tipologia_luogo": {"data": {"entity": "taxonomy_term", "type": "tipologia_luoghi", "id": 1008}},
+        "copertina": {"data": {"entity": "media", "type": "image", "id": 1}},
+        "video": {"data": {"entity": "media", "type": "remote_video", "id": 33}},
+        "galleria_immagini": {"data": [
+          {"entity": "media", "type": "image", "id": 1},
+          {"entity": "media", "type": "image", "id": 10},
+          {"entity": "media", "type": "image", "id": 11},
+          {"entity": "media", "type": "image", "id": 12},
+          {"entity": "media", "type": "image", "id": 13}
+        ]},
+        "attributi_luogo": {"data": [
+          {"entity": "taxonomy_term", "type": "attributi_luoghi", "id": 101},
+          {"entity": "taxonomy_term", "type": "attributi_luoghi", "id": 102},
+          {"entity": "taxonomy_term", "type": "attributi_luoghi", "id": 103},
+          {"entity": "taxonomy_term", "type": "attributi_luoghi", "id": 104}
+        ]},
+        "destinazione_uso": {"data": [
+          {"entity": "taxonomy_term", "type": "destinazione_uso", "id": 502}
+        ]}
       }
     },
-    {}
+    {
+      "entity": "node", "type": "luogo", "id": 32,
+      "attributes": {
+        "nome": "Infanzia",
+        "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "descrizione_estesa": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+        "indirizzo": {
+          "nazione": "IT",
+          "indirizzo": "piazza Duomo n.8",
+          "cap": "89025",
+          "comune": "Rosarno",
+          "provincia": "RC"
+        },
+        "coordinate_geografiche": {
+          "value": "POINT (15.973241 38.489686)",
+          "geo_type": "Point",
+          "lat": "38.489686000000",
+          "lon": "15.973241000000",
+          "left": "15.973241000000",
+          "top": "38.489686000000",
+          "right": "15.973241000000",
+          "bottom": "38.489686000000",
+          "geohash": "sqg6gqz6emxb"
+        },
+        "orario_pubblico": [
+          {"day": 1, "starthours": 800, "endhours": 900},
+          {"day": 2, "starthours": 900, "endhours": 1000},
+          {"day": 3, "starthours": 1100, "endhours": 1200},
+          {"day": 4, "starthours": 1200, "endhours": 1300},
+          {"day": 5, "starthours": 1300, "endhours": 1400}
+        ],
+        "email": ["email@example.com","email2@example.com"],
+        "telefono": ["3330000000","3320000000"],
+        "prenotabile": 0,
+        "posti": 300,
+        "anno_costruzione": 1538,
+        "numero_piani": 3,
+        "codice_identificativo": "AA123",
+        "codice_catastale_comune": "H558",
+        "uso_scolastico": 1,
+        "anno_adattamento": 2013,
+        "superficie_area_totale": 5000,
+        "superficie_area_libera": 1500,
+        "volume": 31500,
+        "language": "it",
+        "published": 1
+      },
+      "relationships": {
+        "argomenti": {"data": [
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1457}
+        ]},
+        "tipologia_luogo": {"data": {"entity": "taxonomy_term", "type": "tipologia_luoghi", "id": 1008}},
+        "copertina": {"data": {"entity": "media", "type": "image", "id": 1}},
+        "video": {"data": {"entity": "media", "type": "remote_video", "id": 33}},
+        "galleria_immagini": {"data": [
+          {"entity": "media", "type": "image", "id": 1},
+          {"entity": "media", "type": "image", "id": 10},
+          {"entity": "media", "type": "image", "id": 11},
+          {"entity": "media", "type": "image", "id": 12},
+          {"entity": "media", "type": "image", "id": 13}
+        ]},
+        "attributi_luogo": {"data": [
+          {"entity": "taxonomy_term", "type": "attributi_luoghi", "id": 101},
+          {"entity": "taxonomy_term", "type": "attributi_luoghi", "id": 102},
+          {"entity": "taxonomy_term", "type": "attributi_luoghi", "id": 103},
+          {"entity": "taxonomy_term", "type": "attributi_luoghi", "id": 104}
+        ]},
+        "destinazione_uso": {"data": [
+          {"entity": "taxonomy_term", "type": "destinazione_uso", "id": 502}
+        ]}
+      }
+    },
+    {
+      "entity": "node", "type": "luogo", "id": 33,
+      "attributes": {
+        "nome": "Primaria",
+        "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "descrizione_estesa": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+        "indirizzo": {
+          "nazione": "IT",
+          "indirizzo": "piazza Duomo n.8",
+          "cap": "89025",
+          "comune": "Rosarno",
+          "provincia": "RC"
+        },
+        "coordinate_geografiche": {
+          "value": "POINT (15.973241 38.489686)",
+          "geo_type": "Point",
+          "lat": "38.489686000000",
+          "lon": "15.973241000000",
+          "left": "15.973241000000",
+          "top": "38.489686000000",
+          "right": "15.973241000000",
+          "bottom": "38.489686000000",
+          "geohash": "sqg6gqz6emxb"
+        },
+        "orario_pubblico": [
+          {"day": 1, "starthours": 800, "endhours": 900},
+          {"day": 2, "starthours": 900, "endhours": 1000},
+          {"day": 3, "starthours": 1100, "endhours": 1200},
+          {"day": 4, "starthours": 1200, "endhours": 1300},
+          {"day": 5, "starthours": 1300, "endhours": 1400}
+        ],
+        "email": ["email@example.com","email2@example.com"],
+        "telefono": ["3330000000","3320000000"],
+        "prenotabile": 0,
+        "posti": 300,
+        "anno_costruzione": 1538,
+        "numero_piani": 3,
+        "codice_identificativo": "AA123",
+        "codice_catastale_comune": "H558",
+        "uso_scolastico": 1,
+        "anno_adattamento": 2013,
+        "superficie_area_totale": 5000,
+        "superficie_area_libera": 1500,
+        "volume": 31500,
+        "language": "it",
+        "published": 1
+      },
+      "relationships": {
+        "argomenti": {"data": [
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1457}
+        ]},
+        "tipologia_luogo": {"data": {"entity": "taxonomy_term", "type": "tipologia_luoghi", "id": 1008}},
+        "copertina": {"data": {"entity": "media", "type": "image", "id": 1}},
+        "video": {"data": {"entity": "media", "type": "remote_video", "id": 33}},
+        "galleria_immagini": {"data": [
+          {"entity": "media", "type": "image", "id": 1},
+          {"entity": "media", "type": "image", "id": 10},
+          {"entity": "media", "type": "image", "id": 11},
+          {"entity": "media", "type": "image", "id": 12},
+          {"entity": "media", "type": "image", "id": 13}
+        ]},
+        "attributi_luogo": {"data": [
+          {"entity": "taxonomy_term", "type": "attributi_luoghi", "id": 101},
+          {"entity": "taxonomy_term", "type": "attributi_luoghi", "id": 102},
+          {"entity": "taxonomy_term", "type": "attributi_luoghi", "id": 103},
+          {"entity": "taxonomy_term", "type": "attributi_luoghi", "id": 104}
+        ]},
+        "destinazione_uso": {"data": [
+          {"entity": "taxonomy_term", "type": "destinazione_uso", "id": 502}
+        ]}
+      }
+    },
+    {
+      "entity": "node", "type": "luogo", "id": 34,
+      "attributes": {
+        "nome": "Secondaria",
+        "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "descrizione_estesa": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+        "indirizzo": {
+          "nazione": "IT",
+          "indirizzo": "piazza Duomo n.8",
+          "cap": "89025",
+          "comune": "Rosarno",
+          "provincia": "RC"
+        },
+        "coordinate_geografiche": {
+          "value": "POINT (15.973241 38.489686)",
+          "geo_type": "Point",
+          "lat": "38.489686000000",
+          "lon": "15.973241000000",
+          "left": "15.973241000000",
+          "top": "38.489686000000",
+          "right": "15.973241000000",
+          "bottom": "38.489686000000",
+          "geohash": "sqg6gqz6emxb"
+        },
+        "orario_pubblico": [
+          {"day": 1, "starthours": 800, "endhours": 900},
+          {"day": 2, "starthours": 900, "endhours": 1000},
+          {"day": 3, "starthours": 1100, "endhours": 1200},
+          {"day": 4, "starthours": 1200, "endhours": 1300},
+          {"day": 5, "starthours": 1300, "endhours": 1400}
+        ],
+        "email": ["email@example.com","email2@example.com"],
+        "telefono": ["3330000000","3320000000"],
+        "prenotabile": 0,
+        "posti": 300,
+        "anno_costruzione": 1538,
+        "numero_piani": 3,
+        "codice_identificativo": "AA123",
+        "codice_catastale_comune": "H558",
+        "uso_scolastico": 1,
+        "anno_adattamento": 2013,
+        "superficie_area_totale": 5000,
+        "superficie_area_libera": 1500,
+        "volume": 31500,
+        "language": "it",
+        "published": 1
+      },
+      "relationships": {
+        "argomenti": {"data": [
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1457}
+        ]},
+        "tipologia_luogo": {"data": {"entity": "taxonomy_term", "type": "tipologia_luoghi", "id": 1008}},
+        "copertina": {"data": {"entity": "media", "type": "image", "id": 1}},
+        "video": {"data": {"entity": "media", "type": "remote_video", "id": 33}},
+        "galleria_immagini": {"data": [
+          {"entity": "media", "type": "image", "id": 1},
+          {"entity": "media", "type": "image", "id": 10},
+          {"entity": "media", "type": "image", "id": 11},
+          {"entity": "media", "type": "image", "id": 12},
+          {"entity": "media", "type": "image", "id": 13}
+        ]},
+        "attributi_luogo": {"data": [
+          {"entity": "taxonomy_term", "type": "attributi_luoghi", "id": 101},
+          {"entity": "taxonomy_term", "type": "attributi_luoghi", "id": 102},
+          {"entity": "taxonomy_term", "type": "attributi_luoghi", "id": 103},
+          {"entity": "taxonomy_term", "type": "attributi_luoghi", "id": 104}
+        ]},
+        "destinazione_uso": {"data": [
+          {"entity": "taxonomy_term", "type": "destinazione_uso", "id": 502}
+        ]}
+      }
+    },
+    {
+      "entity": "node", "type": "luogo", "id": 35,
+      "attributes": {
+        "nome": "Palestra primaria",
+        "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "descrizione_estesa": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+        "prenotabile": 1,
+        "posti": 300,
+        "anno_costruzione": 1538,
+        "numero_piani": 3,
+        "codice_identificativo": "AA123",
+        "codice_catastale_comune": "H558",
+        "uso_scolastico": 1,
+        "anno_adattamento": 2013,
+        "superficie_area_totale": 5000,
+        "superficie_area_libera": 1500,
+        "volume": 31500,
+        "language": "it",
+        "published": 1
+      },
+      "relationships": {
+        "argomenti": {"data": [
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1457},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1418}
+        ]},
+        "tipologia_luogo": {"data": {"entity": "taxonomy_term", "type": "tipologia_luoghi", "id": 1013}},
+        "copertina": {"data": {"entity": "media", "type": "image", "id": 1}},
+        "video": {"data": {"entity": "media", "type": "remote_video", "id": 33}},
+        "galleria_immagini": {"data": [
+          {"entity": "media", "type": "image", "id": 1},
+          {"entity": "media", "type": "image", "id": 10},
+          {"entity": "media", "type": "image", "id": 11},
+          {"entity": "media", "type": "image", "id": 12},
+          {"entity": "media", "type": "image", "id": 13}
+        ]},
+        "fa_parte_di": {"data":  {"entity": "node", "type": "luogo", "id": 33}},
+        "attributi_luogo": {"data": [
+          {"entity": "taxonomy_term", "type": "attributi_luoghi", "id": 101},
+          {"entity": "taxonomy_term", "type": "attributi_luoghi", "id": 102},
+          {"entity": "taxonomy_term", "type": "attributi_luoghi", "id": 103},
+          {"entity": "taxonomy_term", "type": "attributi_luoghi", "id": 104}
+        ]},
+        "destinazione_uso": {"data": [
+          {"entity": "taxonomy_term", "type": "destinazione_uso", "id": 502}
+        ]}
+      }
+    }
   ]
 }
