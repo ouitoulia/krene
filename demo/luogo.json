@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "entity": "node", "type": "persona", "id": 31,
+      "attributes": {
+        "title": "",
+        "abstract": ""
+
+      },
+      "relationships": {
+        "argomenti": {"data": [
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1547}
+        ]},
+        "tipologia_luogo": {"data": {"entity": "taxonomy_term", "type": "tipologia_luoghi", "id": 1547}}
+      }
+    },
+    {}
+  ]
+}
