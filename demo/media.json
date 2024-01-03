@@ -287,6 +287,22 @@
           {"entity": "file", "id": 62, "url": "https://ouitoulia.github.io/krene/demo/files/demo.pdf", "filename": "demo.pdf", "filemime": "application/pdf", "description": "Documento .pdf type A demo"}
         }
       }
+    },
+    {
+      "entity": "media", "type": "remote_video", "id": 33,
+      "attributes": {
+        "title": "Elephants Dream ITA By Energy In Sound (Doppiaggio-Musiche-Sonorizzazione)", "language": "it", "published": 1,
+        "embed_video_url": "https://www.youtube.com/watch?v=7raW7jevur0",
+        "transcription": "Elephants Dream ITA By Energy In Sound (Doppiaggio-Musiche-Sonorizzazione) - \"Elephants Dream\" è il primo corto animato 3D della Blender Foundation, rilasciato nel 2006 con licenza open source. Dall'uscita ad oggi ha spopolato sul web in diversi paesi in tutto il mondo. Noi di Energy In Sound lo abbiamo doppiato in italiano collaborando con la doppiatrice professionista Giulia Villani che che ha interpretato entrambi i personaggi. Curando l'intero aspetto sonoro del corto abbiamo ricreato completamente la sonorizzazione degli effetti sonori e ambientali. Per rendere unica la versione italiana abbiamo composto dei brani originali contestualizzati alle atmosfere cupe del corto concentrandoci particolarmente sulla sincronizzazione musicale tra immagini e emozioni."
+      }
+    },
+    {
+      "entity": "media", "type": "remote_video", "id": 34,
+      "attributes": {
+        "title": "Elephants Dream", "language": "it", "published": 1,
+        "embed_video_url": "https://vimeo.com/1132937",
+        "transcription": "Il video open source \"Elephants Dream\" della Blender Foundation è un viaggio straordinario nel mondo dell'animazione digitale. Rilasciato nel 2006, questo cortometraggio pionieristico è stato creato interamente con software open source, in particolare con il software di animazione 3D Blender. La trama segue i protagonisti, Emo e Proog, mentre esplorano un ambiente surreale e misterioso, intrappolati in un labirinto di illusioni e paradossi. La narrazione intricata e la qualità visiva eccezionale dimostrano la potenza degli strumenti open source nel campo dell'animazione.\n\nRealizzato con un budget limitato, \"Elephants Dream\" è stato un banco di prova cruciale per dimostrare la validità degli strumenti di produzione open source nel settore cinematografico. La Blender Foundation ha riunito un team internazionale di artisti e sviluppatori, dimostrando che la creatività e l'innovazione possono prosperare senza l'uso di software proprietari costosi.\n\nOltre alla trama avvincente, il film è noto per le sue animazioni di alta qualità e la resa grafica impressionante, dimostrando che il software open source come Blender può competere con le soluzioni commerciali più costose. \"Elephants Dream\" rappresenta quindi non solo un risultato artistico di successo, ma anche un importante passo avanti nella dimostrazione della maturità e della competitività degli strumenti open source nell'industria dell'animazione."
+      }
     }
   ]
 }
