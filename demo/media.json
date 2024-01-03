@@ -4,7 +4,7 @@
       "entity": "media", "type": "image", "id": 1,
       "attributes": {"title": "Immagine segnaposto 1280x960", "icon": "it-code-circle", "language": "it", "published": 1},
       "relationships": {
-        "file_managed": {"data":
+        "image": {"data":
           {"entity": "file", "id": 31, "url": "https://ouitoulia.github.io/krene/demo/images/placeholder-1280x960.jpg", "filename": "placeholder-1280x960.jpg", "filemime": "image/jpg", "description": "Immagine astratta segnaposto", "focalpoint": [50,50]}
         }
       }
@@ -13,7 +13,7 @@
       "entity": "media", "type": "image", "id": 2,
       "attributes": {"title": "Didattica mockup", "icon": "it-pin", "language": "it", "published": 1},
       "relationships": {
-        "file_managed": {"data":
+        "image": {"data":
           {"entity": "file", "id": 32, "url": "https://ouitoulia.github.io/krene/demo/images/didattica-mockup.png", "filename": "didattica-mockup.png", "filemime": "image/png", "description": "Didattica mockup", "focalpoint": [50,50]}
         }
       }
@@ -22,7 +22,7 @@
       "entity": "media", "type": "image", "id": 3,
       "attributes": {"title": "Avatar segnaposto", "icon": "it-user", "language": "it", "published": 1},
       "relationships": {
-        "file_managed": {"data":
+        "image": {"data":
           {"entity": "file", "id": 33, "url": "https://ouitoulia.github.io/krene/demo/images/img-avatar-250x250.png", "filename": "img-avatar-250x250.png", "filemime": "image/png", "description": "Immagine astratta segnaposto", "focalpoint": [50,50]}
         }
       }
@@ -31,7 +31,7 @@
       "entity": "media", "type": "image", "id": 4,
       "attributes": {"title": "Immagine segnaposto 500x384 JPG", "icon": "it-camera", "language": "it", "published": 1},
       "relationships": {
-        "file_managed": {"data":
+        "image": {"data":
           {"entity": "file", "id": 34, "url": "https://ouitoulia.github.io/krene/demo/images/img-placeholder-500x384.jpg", "filename": "img-placeholder-500x384.jpg", "filemime": "image/jpg", "description": "Immagine astratta segnaposto", "focalpoint": [50,50]}
         }
       }
@@ -40,7 +40,7 @@
       "entity": "media", "type": "image", "id": 5,
       "attributes": {"title": "Immagine segnaposto 500x384 PNG", "icon": "it-camera", "language": "it", "published": 1},
       "relationships": {
-        "file_managed": {"data":
+        "image": {"data":
           {"entity": "file", "id": 35, "url": "https://ouitoulia.github.io/krene/demo/images/img-placeholder-500x384.png", "filename": "img-placeholder-500x384.png", "filemime": "image/png", "description": "Immagine astratta segnaposto", "focalpoint": [50,50]}
         }
       }
@@ -49,7 +49,7 @@
       "entity": "media", "type": "image", "id": 6,
       "attributes": {"title": "Logo service", "language": "it", "published": 1},
       "relationships": {
-        "file_managed": {"data":
+        "image": {"data":
           {"entity": "file", "id": 36, "url": "https://ouitoulia.github.io/krene/demo/images/logo-service.png", "filename": "logo-service.png", "filemime": "image/png", "description": "Logo dei servizi", "focalpoint": [50,50]}
         }
       }
@@ -58,7 +58,7 @@
       "entity": "media", "type": "image", "id": 7,
       "attributes": {"title": "Immagine segnaposto mappa", "icon": "it-map-marker-circle", "language": "it", "published": 1},
       "relationships": {
-        "file_managed": {"data":
+        "image": {"data":
           {"entity": "file", "id": 37, "url": "https://ouitoulia.github.io/krene/demo/images/map-placeholder.png", "filename": "map-placeholder.png", "filemime": "image/png", "description": "Immagine segnaposto di una mappa stradale", "focalpoint": [50,50]}
         }
       }
@@ -67,7 +67,7 @@
       "entity": "media", "type": "image", "id": 8,
       "attributes": {"title": "Immagine segnaposto mappa grande", "icon": "it-map-marker-circle", "language": "it", "published": 1},
       "relationships": {
-        "file_managed": {"data":
+        "image": {"data":
           {"entity": "file", "id": 38, "url": "https://ouitoulia.github.io/krene/demo/images/map-placeholder-big.png", "filename": "map-placeholder-big.png", "filemime": "image/png", "description": "Immagine segnaposto di una mappa stradale", "focalpoint": [50,50]}
         }
       }
@@ -76,7 +76,7 @@
       "entity": "media", "type": "image", "id": 9,
       "attributes": {"title": "Immagine segnaposto 190x290", "icon": "it-code-circle", "language": "it", "published": 1},
       "relationships": {
-        "file_managed": {"data":
+        "image": {"data":
           {"entity": "file", "id": 39, "url": "https://ouitoulia.github.io/krene/demo/images/placeholder-190x290.jpg", "filename": "placeholder-190x290.jpg", "filemime": "image/jpg", "description": "Immagine astratta segnaposto", "focalpoint": [50,50]}
         }
       }
@@ -85,7 +85,7 @@
       "entity": "media", "type": "image", "id": 10,
       "attributes": {"title": "Immagine segnaposto 380x480", "icon": "it-code-circle", "language": "it", "published": 1},
       "relationships": {
-        "file_managed": {"data":
+        "image": {"data":
           {"entity": "file", "id": 40, "url": "https://ouitoulia.github.io/krene/demo/images/placeholder-380x480.jpg", "filename": "placeholder-380x480.jpg", "filemime": "image/jpg", "description": "Immagine astratta segnaposto", "focalpoint": [50,50]}
         }
       }
@@ -94,7 +94,7 @@
       "entity": "media", "type": "image", "id": 11,
       "attributes": {"title": "Immagine segnaposto 1000x500", "icon": "it-code-circle", "language": "it", "published": 1},
       "relationships": {
-        "file_managed": {"data":
+        "image": {"data":
           {"entity": "file", "id": 41, "url": "https://ouitoulia.github.io/krene/demo/images/placeholder-1000x500.jpg", "filename": "placeholder-1000x500.jpg", "filemime": "image/jpg", "description": "Immagine astratta segnaposto", "focalpoint": [50,50]}
         }
       }
@@ -103,7 +103,7 @@
       "entity": "media", "type": "image", "id": 12,
       "attributes": {"title": "Immagine segnaposto 1000x665", "icon": "it-code-circle", "language": "it", "published": 1},
       "relationships": {
-        "file_managed": {"data":
+        "image": {"data":
           {"entity": "file", "id": 42, "url": "https://ouitoulia.github.io/krene/demo/images/placeholder-1000x665.jpg", "filename": "placeholder-1000x665.jpg", "filemime": "image/jpg", "description": "Immagine astratta segnaposto", "focalpoint": [50,50]}
         }
       }
@@ -112,7 +112,7 @@
       "entity": "media", "type": "image", "id": 13,
       "attributes": {"title": "Immagine segnaposto 1000x1000", "icon": "it-code-circle", "language": "it", "published": 1},
       "relationships": {
-        "file_managed": {"data":
+        "image": {"data":
           {"entity": "file", "id": 43, "url": "https://ouitoulia.github.io/krene/demo/images/placeholder-1000x1000.jpg", "filename": "placeholder-1000x1000.jpg", "filemime": "image/jpg", "description": "Immagine astratta segnaposto", "focalpoint": [50,50]}
         }
       }
@@ -121,7 +121,7 @@
       "entity": "media", "type": "image", "id": 14,
       "attributes": {"title": "Immagine segnaposto 1280x960", "icon": "it-code-circle", "language": "it", "published": 1},
       "relationships": {
-        "file_managed": {"data":
+        "image": {"data":
           {"entity": "file", "id": 44, "url": "https://ouitoulia.github.io/krene/demo/images/placeholder-1280x960-02.jpg", "filename": "placeholder-1280x960-02.jpg", "filemime": "image/jpg", "description": "Immagine astratta segnaposto", "focalpoint": [50,50]}
         }
       }
@@ -130,7 +130,7 @@
       "entity": "media", "type": "document", "id": 15,
       "attributes": {"title": "Documento .7z demo", "language": "it", "published": 1},
       "relationships": {
-        "file_managed": {"data":
+        "document": {"data":
           {"entity": "file", "id": 45, "url": "https://ouitoulia.github.io/krene/demo/files/demo.7z", "filename": "demo.7z", "filemime": "application/x-7z-compressed", "description": "Documento .7z demo"}
         }
       }
@@ -139,7 +139,7 @@
       "entity": "media", "type": "document", "id": 16,
       "attributes": {"title": "Documento .csv demo", "language": "it", "published": 1},
       "relationships": {
-        "file_managed": {"data":
+        "document": {"data":
           {"entity": "file", "id": 46, "url": "https://ouitoulia.github.io/krene/demo/files/demo.csv", "filename": "demo.csv", "filemime": "text/csv", "description": "Documento .csv demo"}
         }
       }
@@ -148,7 +148,7 @@
       "entity": "media", "type": "document", "id": 17,
       "attributes": {"title": "Documento .json demo", "language": "it", "published": 1},
       "relationships": {
-        "file_managed": {"data":
+        "document": {"data":
           {"entity": "file", "id": 47, "url": "https://ouitoulia.github.io/krene/demo/files/demo.json", "filename": "demo.json", "filemime": "application/json", "description": "Documento .json demo"}
         }
       }
@@ -157,7 +157,7 @@
       "entity": "media", "type": "audio_file", "id": 18,
       "attributes": {"title": "Documento .mp3 demo", "language": "it", "published": 1},
       "relationships": {
-        "file_managed": {"data":
+        "audio_file": {"data":
           {"entity": "file", "id": 48, "url": "https://ouitoulia.github.io/krene/demo/files/demo.mp3", "filename": "demo.mp3", "filemime": "audio/mpeg", "description": "Documento .mp3 demo"}
         }
       }
@@ -166,7 +166,7 @@
       "entity": "media", "type": "document", "id": 19,
       "attributes": {"title": "Documento .odp demo", "language": "it", "published": 1},
       "relationships": {
-        "file_managed": {"data":
+        "document": {"data":
           {"entity": "file", "id": 49, "url": "https://ouitoulia.github.io/krene/demo/files/demo.odp", "filename": "demo.odp", "filemime": "application/vnd.oasis.opendocument.presentation", "description": "Documento .odp demo"}
         }
       }
@@ -175,7 +175,7 @@
       "entity": "media", "type": "document", "id": 20,
       "attributes": {"title": "Documento .ods demo", "language": "it", "published": 1},
       "relationships": {
-        "file_managed": {"data":
+        "document": {"data":
           {"entity": "file", "id": 50, "url": "https://ouitoulia.github.io/krene/demo/files/demo.ods", "filename": "demo.ods", "filemime": "application/vnd.oasis.opendocument.spreadsheet", "description": "Documento .ods demo"}
         }
       }
@@ -184,7 +184,7 @@
       "entity": "media", "type": "document", "id": 21,
       "attributes": {"title": "Documento .odt demo", "language": "it", "published": 1},
       "relationships": {
-        "file_managed": {"data":
+        "document": {"data":
           {"entity": "file", "id": 51, "url": "https://ouitoulia.github.io/krene/demo/files/demo.odt", "filename": "demo.odt", "filemime": "application/vnd.oasis.opendocument.text", "description": "Documento .odt demo"}
         }
       }
@@ -193,7 +193,7 @@
       "entity": "media", "type": "audio_file", "id": 22,
       "attributes": {"title": "Documento .ogg demo", "language": "it", "published": 1},
       "relationships": {
-        "file_managed": {"data":
+        "audio_file": {"data":
           {"entity": "file", "id": 52, "url": "https://ouitoulia.github.io/krene/demo/files/demo.ogg", "filename": "demo.ogg", "filemime": "audio/ogg", "description": "Documento .ogg demo"}
         }
       }
@@ -202,7 +202,7 @@
       "entity": "media", "type": "document", "id": 23,
       "attributes": {"title": "Documento .pdf demo", "language": "it", "published": 1},
       "relationships": {
-        "file_managed": {"data":
+        "document": {"data":
           {"entity": "file", "id": 53, "url": "https://ouitoulia.github.io/krene/demo/files/demo.pdf", "filename": "demo.pdf", "filemime": "application/pdf", "description": "Documento .pdf demo"}
         }
       }
@@ -211,7 +211,7 @@
       "entity": "media", "type": "document", "id": 24,
       "attributes": {"title": "Documento .pptx demo", "language": "it", "published": 1},
       "relationships": {
-        "file_managed": {"data":
+        "document": {"data":
           {"entity": "file", "id": 54, "url": "https://ouitoulia.github.io/krene/demo/files/demo.pptx", "filename": "demo.pptx", "filemime": "application/vnd.openxmlformats-officedocument.presentationml.presentation", "description": "Documento .pptx demo"}
         }
       }
@@ -220,7 +220,7 @@
       "entity": "media", "type": "document", "id": 25,
       "attributes": {"title": "Documento .tar.gz demo", "language": "it", "published": 1},
       "relationships": {
-        "file_managed": {"data":
+        "document": {"data":
           {"entity": "file", "id": 55, "url": "https://ouitoulia.github.io/krene/demo/files/demo.tar.gz", "filename": "demo.tar.gz", "filemime": "application/gzip", "description": "Documento .tar.gz demo"}
         }
       }
@@ -229,7 +229,7 @@
       "entity": "media", "type": "document", "id": 26,
       "attributes": {"title": "Documento .tar.xz demo", "language": "it", "published": 1},
       "relationships": {
-        "file_managed": {"data":
+        "document": {"data":
           {"entity": "file", "id": 56, "url": "https://ouitoulia.github.io/krene/demo/files/demo.tar.xz", "filename": "demo.tar.xz", "filemime": "application/octet-stream", "description": "Documento .tar.xz demo"}
         }
       }
@@ -238,7 +238,7 @@
       "entity": "media", "type": "document", "id": 27,
       "attributes": {"title": "Documento .txt demo", "language": "it", "published": 1},
       "relationships": {
-        "file_managed": {"data":
+        "document": {"data":
           {"entity": "file", "id": 57, "url": "https://ouitoulia.github.io/krene/demo/files/demo.txt", "filename": "demo.txt", "filemime": "text/plain", "description": "Documento .txt demo"}
         }
       }
@@ -247,7 +247,7 @@
       "entity": "media", "type": "audio_file", "id": 28,
       "attributes": {"title": "Documento .wav demo", "language": "it", "published": 1},
       "relationships": {
-        "file_managed": {"data":
+        "audio_file": {"data":
           {"entity": "file", "id": 58, "url": "https://ouitoulia.github.io/krene/demo/files/demo.wav", "filename": "demo.wav", "filemime": "audio/x-wav", "description": "Documento .wav demo"}
         }
       }
@@ -256,7 +256,7 @@
       "entity": "media", "type": "document", "id": 29,
       "attributes": {"title": "Documento .xlsx demo", "language": "it", "published": 1},
       "relationships": {
-        "file_managed": {"data":
+        "document": {"data":
           {"entity": "file", "id": 59, "url": "https://ouitoulia.github.io/krene/demo/files/demo.xlsx", "filename": "demo.xlsx", "filemime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "description": "Documento .xlsx demo"}
         }
       }
@@ -265,7 +265,7 @@
       "entity": "media", "type": "document", "id": 30,
       "attributes": {"title": "Documento .xml demo", "language": "it", "published": 1},
       "relationships": {
-        "file_managed": {"data":
+        "document": {"data":
           {"entity": "file", "id": 60, "url": "https://ouitoulia.github.io/krene/demo/files/demo.xml", "filename": "demo.xml", "filemime": "application/xml", "description": "Documento .xml demo"}
         }
       }
@@ -274,7 +274,7 @@
       "entity": "media", "type": "document", "id": 31,
       "attributes": {"title": "Documento .zip demo", "language": "it", "published": 1},
       "relationships": {
-        "file_managed": {"data":
+        "document": {"data":
           {"entity": "file", "id": 61, "url": "https://ouitoulia.github.io/krene/demo/files/demo.zip", "filename": "demo.zip", "filemime": "application/zip", "description": "Documento .zip demo"}
         }
       }
@@ -283,7 +283,7 @@
       "entity": "media", "type": "document", "id": 32,
       "attributes": {"title": "Documento .pdf type A demo", "language": "it", "published": 1},
       "relationships": {
-        "file_managed": {"data":
+        "document": {"data":
           {"entity": "file", "id": 62, "url": "https://ouitoulia.github.io/krene/demo/files/demo.pdf", "filename": "demo.pdf", "filemime": "application/pdf", "description": "Documento .pdf type A demo"}
         }
       }
