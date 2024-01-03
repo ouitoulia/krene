@@ -244,15 +244,6 @@
       }
     },
     {
-      "entity": "media", "type": "audio_file", "id": 28,
-      "attributes": {"title": "Documento .wav demo", "language": "it", "published": 1},
-      "relationships": {
-        "audio_file": {"data":
-          {"entity": "file", "id": 58, "url": "https://ouitoulia.github.io/krene/demo/files/demo.wav", "filename": "demo.wav", "filemime": "audio/x-wav", "description": "Documento .wav demo"}
-        }
-      }
-    },
-    {
       "entity": "media", "type": "document", "id": 29,
       "attributes": {"title": "Documento .xlsx demo", "language": "it", "published": 1},
       "relationships": {
