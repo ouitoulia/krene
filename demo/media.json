@@ -2,7 +2,7 @@
   "data": [
     {
       "entity": "media", "type": "image", "id": 1,
-      "attributes": {"title": "Immagine segnaposto 1280x960", "icona": "it-code-circle", "language": "it", "published": 1},
+      "attributes": {"title": "Immagine segnaposto 1280x960", "icon": "it-code-circle", "language": "it", "published": 1},
       "relationships": {
         "file_managed": {"data":
           {"entity": "file", "id": 31, "url": "https://ouitoulia.github.io/krene/demo/images/placeholder-1280x960.jpg", "filename": "placeholder-1280x960.jpg", "filemime": "image/jpg", "description": "Immagine astratta segnaposto", "focalpoint": [50,50]}
@@ -11,7 +11,7 @@
     },
     {
       "entity": "media", "type": "image", "id": 2,
-      "attributes": {"title": "Didattica mockup", "icona": "it-pin", "language": "it", "published": 1},
+      "attributes": {"title": "Didattica mockup", "icon": "it-pin", "language": "it", "published": 1},
       "relationships": {
         "file_managed": {"data":
           {"entity": "file", "id": 32, "url": "https://ouitoulia.github.io/krene/demo/images/didattica-mockup.png", "filename": "didattica-mockup.png", "filemime": "image/png", "description": "Didattica mockup", "focalpoint": [50,50]}
@@ -20,7 +20,7 @@
     },
     {
       "entity": "media", "type": "image", "id": 3,
-      "attributes": {"title": "Avatar segnaposto", "icona": "it-user", "language": "it", "published": 1},
+      "attributes": {"title": "Avatar segnaposto", "icon": "it-user", "language": "it", "published": 1},
       "relationships": {
         "file_managed": {"data":
           {"entity": "file", "id": 33, "url": "https://ouitoulia.github.io/krene/demo/images/img-avatar-250x250.png", "filename": "img-avatar-250x250.png", "filemime": "image/png", "description": "Immagine astratta segnaposto", "focalpoint": [50,50]}
@@ -29,7 +29,7 @@
     },
     {
       "entity": "media", "type": "image", "id": 4,
-      "attributes": {"title": "Immagine segnaposto 500x384 JPG", "icona": "it-camera", "language": "it", "published": 1},
+      "attributes": {"title": "Immagine segnaposto 500x384 JPG", "icon": "it-camera", "language": "it", "published": 1},
       "relationships": {
         "file_managed": {"data":
           {"entity": "file", "id": 34, "url": "https://ouitoulia.github.io/krene/demo/images/img-placeholder-500x384.jpg", "filename": "img-placeholder-500x384.jpg", "filemime": "image/jpg", "description": "Immagine astratta segnaposto", "focalpoint": [50,50]}
@@ -38,7 +38,7 @@
     },
     {
       "entity": "media", "type": "image", "id": 5,
-      "attributes": {"title": "Immagine segnaposto 500x384 PNG", "icona": "it-camera", "language": "it", "published": 1},
+      "attributes": {"title": "Immagine segnaposto 500x384 PNG", "icon": "it-camera", "language": "it", "published": 1},
       "relationships": {
         "file_managed": {"data":
           {"entity": "file", "id": 35, "url": "https://ouitoulia.github.io/krene/demo/images/img-placeholder-500x384.png", "filename": "img-placeholder-500x384.png", "filemime": "image/png", "description": "Immagine astratta segnaposto", "focalpoint": [50,50]}
@@ -56,7 +56,7 @@
     },
     {
       "entity": "media", "type": "image", "id": 7,
-      "attributes": {"title": "Immagine segnaposto mappa", "icona": "it-map-marker-circle", "language": "it", "published": 1},
+      "attributes": {"title": "Immagine segnaposto mappa", "icon": "it-map-marker-circle", "language": "it", "published": 1},
       "relationships": {
         "file_managed": {"data":
           {"entity": "file", "id": 37, "url": "https://ouitoulia.github.io/krene/demo/images/map-placeholder.png", "filename": "map-placeholder.png", "filemime": "image/png", "description": "Immagine segnaposto di una mappa stradale", "focalpoint": [50,50]}
@@ -65,7 +65,7 @@
     },
     {
       "entity": "media", "type": "image", "id": 8,
-      "attributes": {"title": "Immagine segnaposto mappa grande", "icona": "it-map-marker-circle", "language": "it", "published": 1},
+      "attributes": {"title": "Immagine segnaposto mappa grande", "icon": "it-map-marker-circle", "language": "it", "published": 1},
       "relationships": {
         "file_managed": {"data":
           {"entity": "file", "id": 38, "url": "https://ouitoulia.github.io/krene/demo/images/map-placeholder-big.png", "filename": "map-placeholder-big.png", "filemime": "image/png", "description": "Immagine segnaposto di una mappa stradale", "focalpoint": [50,50]}
@@ -74,7 +74,7 @@
     },
     {
       "entity": "media", "type": "image", "id": 9,
-      "attributes": {"title": "Immagine segnaposto 190x290", "icona": "it-code-circle", "language": "it", "published": 1},
+      "attributes": {"title": "Immagine segnaposto 190x290", "icon": "it-code-circle", "language": "it", "published": 1},
       "relationships": {
         "file_managed": {"data":
           {"entity": "file", "id": 39, "url": "https://ouitoulia.github.io/krene/demo/images/placeholder-190x290.jpg", "filename": "placeholder-190x290.jpg", "filemime": "image/jpg", "description": "Immagine astratta segnaposto", "focalpoint": [50,50]}
@@ -83,7 +83,7 @@
     },
     {
       "entity": "media", "type": "image", "id": 10,
-      "attributes": {"title": "Immagine segnaposto 380x480", "icona": "it-code-circle", "language": "it", "published": 1},
+      "attributes": {"title": "Immagine segnaposto 380x480", "icon": "it-code-circle", "language": "it", "published": 1},
       "relationships": {
         "file_managed": {"data":
           {"entity": "file", "id": 40, "url": "https://ouitoulia.github.io/krene/demo/images/placeholder-380x480.jpg", "filename": "placeholder-380x480.jpg", "filemime": "image/jpg", "description": "Immagine astratta segnaposto", "focalpoint": [50,50]}
@@ -92,7 +92,7 @@
     },
     {
       "entity": "media", "type": "image", "id": 11,
-      "attributes": {"title": "Immagine segnaposto 1000x500", "icona": "it-code-circle", "language": "it", "published": 1},
+      "attributes": {"title": "Immagine segnaposto 1000x500", "icon": "it-code-circle", "language": "it", "published": 1},
       "relationships": {
         "file_managed": {"data":
           {"entity": "file", "id": 41, "url": "https://ouitoulia.github.io/krene/demo/images/placeholder-1000x500.jpg", "filename": "placeholder-1000x500.jpg", "filemime": "image/jpg", "description": "Immagine astratta segnaposto", "focalpoint": [50,50]}
@@ -101,7 +101,7 @@
     },
     {
       "entity": "media", "type": "image", "id": 12,
-      "attributes": {"title": "Immagine segnaposto 1000x665", "icona": "it-code-circle", "language": "it", "published": 1},
+      "attributes": {"title": "Immagine segnaposto 1000x665", "icon": "it-code-circle", "language": "it", "published": 1},
       "relationships": {
         "file_managed": {"data":
           {"entity": "file", "id": 42, "url": "https://ouitoulia.github.io/krene/demo/images/placeholder-1000x665.jpg", "filename": "placeholder-1000x665.jpg", "filemime": "image/jpg", "description": "Immagine astratta segnaposto", "focalpoint": [50,50]}
@@ -110,7 +110,7 @@
     },
     {
       "entity": "media", "type": "image", "id": 13,
-      "attributes": {"title": "Immagine segnaposto 1000x1000", "icona": "it-code-circle", "language": "it", "published": 1},
+      "attributes": {"title": "Immagine segnaposto 1000x1000", "icon": "it-code-circle", "language": "it", "published": 1},
       "relationships": {
         "file_managed": {"data":
           {"entity": "file", "id": 43, "url": "https://ouitoulia.github.io/krene/demo/images/placeholder-1000x1000.jpg", "filename": "placeholder-1000x1000.jpg", "filemime": "image/jpg", "description": "Immagine astratta segnaposto", "focalpoint": [50,50]}
@@ -119,7 +119,7 @@
     },
     {
       "entity": "media", "type": "image", "id": 14,
-      "attributes": {"title": "Immagine segnaposto 1280x960", "icona": "it-code-circle", "language": "it", "published": 1},
+      "attributes": {"title": "Immagine segnaposto 1280x960", "icon": "it-code-circle", "language": "it", "published": 1},
       "relationships": {
         "file_managed": {"data":
           {"entity": "file", "id": 44, "url": "https://ouitoulia.github.io/krene/demo/images/placeholder-1280x960-02.jpg", "filename": "placeholder-1280x960-02.jpg", "filemime": "image/jpg", "description": "Immagine astratta segnaposto", "focalpoint": [50,50]}
