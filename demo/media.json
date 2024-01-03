@@ -154,7 +154,7 @@
       }
     },
     {
-      "entity": "media", "type": "document", "id": 18,
+      "entity": "media", "type": "audio_file", "id": 18,
       "attributes": {"title": "Documento .mp3 demo", "language": "it", "published": 1},
       "relationships": {
         "file_managed": {"data":
@@ -190,7 +190,7 @@
       }
     },
     {
-      "entity": "media", "type": "document", "id": 22,
+      "entity": "media", "type": "audio_file", "id": 22,
       "attributes": {"title": "Documento .ogg demo", "language": "it", "published": 1},
       "relationships": {
         "file_managed": {"data":
@@ -244,7 +244,7 @@
       }
     },
     {
-      "entity": "media", "type": "document", "id": 28,
+      "entity": "media", "type": "audio_file", "id": 28,
       "attributes": {"title": "Documento .wav demo", "language": "it", "published": 1},
       "relationships": {
         "file_managed": {"data":
