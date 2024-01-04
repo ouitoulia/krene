@@ -96,7 +96,7 @@
       }
     },
     {
-      "entity": "node", "type": "struttura_organizzativa", "id": 202,
+      "entity": "node", "type": "struttura_organizzativa", "id": 203,
       "attributes": {
         "nome": "Segreteria amministrativa",
         "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
@@ -139,7 +139,7 @@
       }
     },
     {
-      "entity": "node", "type": "struttura_organizzativa", "id": 201,
+      "entity": "node", "type": "struttura_organizzativa", "id": 204,
       "attributes": {
         "nome": "Collegio dei docenti",
         "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
@@ -180,7 +180,7 @@
       }
     },
     {
-      "entity": "node", "type": "struttura_organizzativa", "id": 201,
+      "entity": "node", "type": "struttura_organizzativa", "id": 205,
       "attributes": {
         "nome": "Consiglio d'istituto",
         "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
