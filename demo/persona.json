@@ -176,6 +176,36 @@
         "tipologia_posto": {"data": {"entity": "taxonomy_term", "type": "tipologia_posti", "id": 1051}},
         "tipologia_incarico": {"data": {"entity": "taxonomy_term", "type": "tipologia_incarichi", "id": 752}}
       }
+    },
+    {
+      "entity":  "node", "type":  "persona", "id": 12,
+      "attributes": {
+        "title": "Docente Maria Organizzata", "cognome": "Organizzata", "nome": "Maria",
+        "abstract": "Educatrice esperta di Scuola Primaria, esperta in matematica e risoluzione di problemi, impegnata a creare una solida base matematica per gli studenti. È anche il primo collaborare del Dirigente Scolastico.",
+        "telefono": ["3330000000","3320000000"], "email": ["email@example.com","email2@example.com"],
+        "codice_fiscale": "AAABBB70A12A000A", "birthdate":  "1970-01-05", "genere": "F", "language": "it", "published": 1
+      },
+      "relationships": {
+        "ritratto": {"data": {"entity": "file", "type": "image", "id": 5, "url": "https://ouitoulia.github.io/krene/demo/images/persona-12-maria-organizzata.png", "filename": "persona-12-maria-organizzata.png", "filemime": "image/png", "description": "Volto di Maria Competente"}},
+        "ruolo_persona": {"data": {"entity": "taxonomy_term", "type": "ruoli_persona", "id": 1711}},
+        "tipologia_posto": {"data": {"entity": "taxonomy_term", "type": "tipologia_posti", "id": 1051}},
+        "tipologia_incarico": {"data": {"entity": "taxonomy_term", "type": "tipologia_incarichi", "id": 752}}
+      }
+    },
+    {
+      "entity":  "node", "type":  "persona", "id": 13,
+      "attributes": {
+        "title": "Amministrativo Nicola Preciso", "cognome": "Preciso", "nome": "Nicola",
+        "abstract": "Amministrativo esperto, guidato dall'efficienza e dalla precisione. Gestisce con maestria le operazioni amministrative, assicurando il corretto funzionamento degli aspetti organizzativi e burocratici della scuola.",
+        "telefono": ["3330000000","3320000000"], "email": ["email@example.com","email2@example.com"],
+        "codice_fiscale": "AAABBB70A13A000A", "birthdate":  "1970-01-10", "genere": "F", "language": "it", "published": 1
+      },
+      "relationships": {
+        "ritratto": {"data": {"entity": "file", "type": "image", "id": 10, "url": "https://ouitoulia.github.io/krene/demo/images/persona-14-nicola-preciso.png", "filename": "persona-14-nicola-preciso.png", "filemime": "image/png", "description": "Volto di Carla Attenta"}},
+        "ruolo_persona": {"data": {"entity": "taxonomy_term", "type": "ruoli_persona", "id": 1722}},
+        "tipologia_posto": {"data": {"entity": "taxonomy_term", "type": "tipologia_posti", "id": 1051}},
+        "tipologia_incarico": {"data": {"entity": "taxonomy_term", "type": "tipologia_incarichi", "id": 752}}
+      }
     }
   ]
 }
