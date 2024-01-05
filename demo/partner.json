@@ -25,7 +25,9 @@
           "right": "15.973241000000",
           "bottom": "38.489686000000",
           "geohash": "sqg6gqz6emxb"
-        }]
+        }],
+        "language": "it",
+        "published": 1
       },
       "relationships": {
         "copertina": {"data": {"entity": "media", "type": "image", "id": 3}}
@@ -56,7 +58,9 @@
           "right": "15.973241000000",
           "bottom": "38.489686000000",
           "geohash": "sqg6gqz6emxb"
-        }]
+        }],
+        "language": "it",
+        "published": 1
       },
       "relationships": {
         "copertina": {"data": {"entity": "media", "type": "image", "id": 3}}
@@ -87,7 +91,9 @@
           "right": "15.973241000000",
           "bottom": "38.489686000000",
           "geohash": "sqg6gqz6emxb"
-        }]
+        }],
+        "language": "it",
+        "published": 1
       },
       "relationships": {
         "copertina": {"data": {"entity": "media", "type": "image", "id": 3}}
@@ -118,7 +124,9 @@
           "right": "15.973241000000",
           "bottom": "38.489686000000",
           "geohash": "sqg6gqz6emxb"
-        }]
+        }],
+        "language": "it",
+        "published": 1
       },
       "relationships": {
         "copertina": {"data": {"entity": "media", "type": "image", "id": 3}}
@@ -149,7 +157,9 @@
           "right": "15.973241000000",
           "bottom": "38.489686000000",
           "geohash": "sqg6gqz6emxb"
-        }]
+        }],
+        "language": "it",
+        "published": 1
       },
       "relationships": {
         "copertina": {"data": {"entity": "media", "type": "image", "id": 3}}
@@ -180,7 +190,9 @@
           "right": "15.973241000000",
           "bottom": "38.489686000000",
           "geohash": "sqg6gqz6emxb"
-        }]
+        }],
+        "language": "it",
+        "published": 1
       },
       "relationships": {
         "copertina": {"data": {"entity": "media", "type": "image", "id": 3}}
