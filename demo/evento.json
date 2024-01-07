@@ -9,8 +9,8 @@
         "data_ora_inizio": "2024-06-06T18:00:00",
         "data_ora_fine": "2024-06-06T19:00:00",
         "link": [
-          {"url": "https://example.com", "title": "Sito web evento"},
-          {"url": "https://example.com", "title": "Prenota un posto"}
+          {"uri": "https://example.com", "title": "Sito web evento"},
+          {"uri": "https://example.com", "title": "Prenota un posto"}
         ],
         "email": ["email@example.com","email2@example.com"],
         "telefono": ["3330000000","3320000000"],
@@ -61,8 +61,8 @@
         "data_ora_inizio": "2024-06-07T18:00:00",
         "data_ora_fine": "2024-06-07T19:00:00",
         "link": [
-          {"url": "https://example.com", "title": "Sito web evento"},
-          {"url": "https://example.com", "title": "Prenota un posto"}
+          {"uri": "https://example.com", "title": "Sito web evento"},
+          {"uri": "https://example.com", "title": "Prenota un posto"}
         ],
         "email": ["email@example.com","email2@example.com"],
         "telefono": ["3330000000","3320000000"],
@@ -113,8 +113,8 @@
         "data_ora_inizio": "2024-06-08T18:00:00",
         "data_ora_fine": "2024-06-08T19:00:00",
         "link": [
-          {"url": "https://example.com", "title": "Sito web evento"},
-          {"url": "https://example.com", "title": "Prenota un posto"}
+          {"uri": "https://example.com", "title": "Sito web evento"},
+          {"uri": "https://example.com", "title": "Prenota un posto"}
         ],
         "email": ["email@example.com","email2@example.com"],
         "telefono": ["3330000000","3320000000"],
@@ -165,8 +165,8 @@
         "data_ora_inizio": "2024-06-09T18:00:00",
         "data_ora_fine": "2024-06-09T19:00:00",
         "link": [
-          {"url": "https://example.com", "title": "Sito web evento"},
-          {"url": "https://example.com", "title": "Prenota un posto"}
+          {"uri": "https://example.com", "title": "Sito web evento"},
+          {"uri": "https://example.com", "title": "Prenota un posto"}
         ],
         "email": ["email@example.com","email2@example.com"],
         "telefono": ["3330000000","3320000000"],
@@ -217,8 +217,8 @@
         "data_ora_inizio": "2024-06-10T18:00:00",
         "data_ora_fine": "2024-06-10T19:00:00",
         "link": [
-          {"url": "https://example.com", "title": "Sito web evento"},
-          {"url": "https://example.com", "title": "Prenota un posto"}
+          {"uri": "https://example.com", "title": "Sito web evento"},
+          {"uri": "https://example.com", "title": "Prenota un posto"}
         ],
         "email": ["email@example.com","email2@example.com"],
         "telefono": ["3330000000","3320000000"],
@@ -269,8 +269,8 @@
         "data_ora_inizio": "2024-06-11T18:00:00",
         "data_ora_fine": "2024-06-11T19:00:00",
         "link": [
-          {"url": "https://example.com", "title": "Sito web evento"},
-          {"url": "https://example.com", "title": "Prenota un posto"}
+          {"uri": "https://example.com", "title": "Sito web evento"},
+          {"uri": "https://example.com", "title": "Prenota un posto"}
         ],
         "email": ["email@example.com","email2@example.com"],
         "telefono": ["3330000000","3320000000"],
@@ -321,8 +321,8 @@
         "data_ora_inizio": "2024-06-12T18:00:00",
         "data_ora_fine": "2024-06-12T19:00:00",
         "link": [
-          {"url": "https://example.com", "title": "Sito web evento"},
-          {"url": "https://example.com", "title": "Prenota un posto"}
+          {"uri": "https://example.com", "title": "Sito web evento"},
+          {"uri": "https://example.com", "title": "Prenota un posto"}
         ],
         "email": ["email@example.com","email2@example.com"],
         "telefono": ["3330000000","3320000000"],
@@ -373,8 +373,8 @@
         "data_ora_inizio": "2024-06-13T18:00:00",
         "data_ora_fine": "2024-06-13T19:00:00",
         "link": [
-          {"url": "https://example.com", "title": "Sito web evento"},
-          {"url": "https://example.com", "title": "Prenota un posto"}
+          {"uri": "https://example.com", "title": "Sito web evento"},
+          {"uri": "https://example.com", "title": "Prenota un posto"}
         ],
         "email": ["email@example.com","email2@example.com"],
         "telefono": ["3330000000","3320000000"],
