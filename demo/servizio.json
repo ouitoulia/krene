@@ -33,7 +33,7 @@
         "published": 1
       },
       "relationships": {
-        "tipologia_struttura": {"data": {"entity": "taxonomy_term", "type": "tipologia_struttura", "id": 1201}},
+        "tipologia_servizio": {"data": {"entity": "taxonomy_term", "type": "tipologia_servizi", "id": 1201}},
         "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
         "argomenti": {"data": [
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1426}
@@ -83,7 +83,7 @@
         "published": 1
       },
       "relationships": {
-        "tipologia_struttura": {"data": {"entity": "taxonomy_term", "type": "tipologia_struttura", "id": 1201}},
+        "tipologia_servizio": {"data": {"entity": "taxonomy_term", "type": "tipologia_servizi", "id": 1201}},
         "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
         "argomenti": {"data": [
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1426}
@@ -101,7 +101,7 @@
       }
     },
     {
-      "entity": "node", "type": "servizio", "id": 502,
+      "entity": "node", "type": "servizio", "id": 503,
       "attributes": {
         "titolo": "Registro elettronico Genitori",
         "codice_identificativo": "abc",
@@ -133,7 +133,7 @@
         "published": 1
       },
       "relationships": {
-        "tipologia_struttura": {"data": {"entity": "taxonomy_term", "type": "tipologia_struttura", "id": 1201}},
+        "tipologia_servizio": {"data": {"entity": "taxonomy_term", "type": "tipologia_servizi", "id": 1201}},
         "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
         "argomenti": {"data": [
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1426}
