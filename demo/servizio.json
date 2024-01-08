@@ -13,9 +13,9 @@
         "come_si_accede": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
         "procedure_collegate_esito": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
         "servizio_online": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
-        "azione": [
+        "azione": {"data": [
           {
-            "entity": "paragraph", "type": "call_to_action", "id": 1,
+            "entity": "paragraph", "type": "call_to_action", "id": 2,
             "attributes": {
               "call_to_action": [{"uri": "https://example.com"}],
               "icon_name": "it-link"
@@ -26,7 +26,7 @@
               ]}
             }
           }
-        ],
+        ]},
         "sede_canale_fisico": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
         "casi_particolari": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
         "telefono": ["3330000000","3320000000"],
@@ -135,9 +135,9 @@
         "come_si_accede": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
         "procedure_collegate_esito": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
         "servizio_online": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
-        "azione": [
+        "azione": {"data": [
           {
-            "entity": "paragraph", "type": "call_to_action", "id": 3,
+            "entity": "paragraph", "type": "call_to_action", "id": 2,
             "attributes": {
               "call_to_action": [{"uri": "https://example.com"}],
               "icon_name": "it-link"
@@ -148,7 +148,7 @@
               ]}
             }
           }
-        ],
+        ]},
         "sede_canale_fisico": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
         "casi_particolari": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
         "telefono": ["3330000000","3320000000"],
