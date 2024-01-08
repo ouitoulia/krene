@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "entity": "paragraph", "type": "call_to_action", "id": 1,
+      "entity": "paragraph", "type": "call_to_action", "id": 1, "language": "it",
       "attributes": {
         "call_to_action": [{"uri": "https://example.com"}],
         "icon_name": "it-user"
@@ -11,7 +11,7 @@
       }
     },
     {
-      "entity": "paragraph", "type": "call_to_action", "id": 2,
+      "entity": "paragraph", "type": "call_to_action", "id": 2, "language": "it",
       "attributes": {
         "call_to_action": [{"uri": "https://example.com"}],
         "icon_name": "it-pencil"
@@ -21,7 +21,7 @@
       }
     },
     {
-      "entity": "paragraph", "type": "call_to_action", "id": 3,
+      "entity": "paragraph", "type": "call_to_action", "id": 3, "language": "it",
       "attributes": {
         "call_to_action": [{"uri": "https://example.com"}],
         "icon_name": "it-link"
@@ -31,7 +31,7 @@
       }
     },
     {
-      "entity": "paragraph", "type": "call_to_action", "id": 4,
+      "entity": "paragraph", "type": "call_to_action", "id": 4, "language": "it",
       "attributes": {
         "call_to_action": [{"uri": "https://example.com"}],
         "icon_name": "it-link"
@@ -41,7 +41,7 @@
       }
     },
     {
-      "entity": "paragraph", "type": "call_to_action", "id": 5,
+      "entity": "paragraph", "type": "call_to_action", "id": 5, "language": "it",
       "attributes": {
         "call_to_action": [{"uri": "https://example.com"}],
         "icon_name": "it-download"
@@ -51,7 +51,7 @@
       }
     },
     {
-      "entity": "paragraph", "type": "call_to_action", "id": 6,
+      "entity": "paragraph", "type": "call_to_action", "id": 6, "language": "it",
       "attributes": {
         "call_to_action": [{"uri": "https://example.com"}],
         "icon_name": "it-external-link"
@@ -61,7 +61,7 @@
       }
     },
     {
-      "entity": "paragraph", "type": "call_to_action", "id": 7,
+      "entity": "paragraph", "type": "call_to_action", "id": 7, "language": "it",
       "attributes": {
         "call_to_action": [{"uri": "https://example.com"}],
         "icon_name": "it-zoom-in"
