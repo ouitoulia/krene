@@ -36,6 +36,16 @@
 ## Utenti
 - [Ruoli utente](user/scuola_roles.json)
 
+## Dati demo
+- [Tassonomia Argomenti](demo/argomenti.json)
+- [Media gestiti](demo/media.json)
+- [Tipo di contenuto Persona](demo/persona.json)
+- [Tipo di contenuto Luogo](demo/luogo.json)
+- [Tipo di contenuto Struttura organizzativa](demo/struttura_organizzativa.json)
+- [Tipo di contenuto Partner](demo/partner.json)
+- [Tipo di contenuto Evento](demo/evento.json)
+- [Tipo di contenuto Servizio](demo/servizio.json)
+
 ## License
 
 Copyright (C) 2023 https://github.com/ouitoulia
