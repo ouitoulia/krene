@@ -13,20 +13,6 @@
         "come_si_accede": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
         "procedure_collegate_esito": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
         "servizio_online": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
-        "azione": {"data": [
-          {
-            "entity": "paragraph", "type": "call_to_action", "id": 1,
-            "attributes": {
-              "call_to_action": [{"uri": "https://example.com"}],
-              "icon_name": "it-link"
-            },
-            "relationships": {
-              "azione": {"data": [
-                {"entity": "taxonomy_term", "type": "azioni", "id": 201}
-              ]}
-            }
-          }
-        ]},
         "sede_canale_fisico": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
         "casi_particolari": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
         "telefono": ["3330000000","3320000000"],
@@ -41,16 +27,19 @@
         "argomenti": {"data": [
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1426}
         ]},
+        "azione": {"data": [
+          {"entity": "paragraph", "type": "call_to_action", "id": 1}
+        ]},
         "tipologia_autenticazione": {"data": [
           {"entity": "taxonomy_term", "type": "tipologia_autenticazioni", "id": 601},
           {"entity": "taxonomy_term", "type": "tipologia_autenticazioni", "id": 603}
         ]},
         "luoghi": {"data":  [
-          {"entity": "node", "type": "luogo", "id": 101}]
-        },
+          {"entity": "node", "type": "luogo", "id": 101}
+        ]},
         "cosa_serve": {"data":  [
-          {"entity": "taxonomy_term", "type": "cosa_serve", "id": 301}]
-        },
+          {"entity": "taxonomy_term", "type": "cosa_serve", "id": 301}
+        ]},
         "persona_responsabile": {"data": [
           {"entity": "node", "type": "persona", "id": 10},
           {"entity": "node", "type": "persona", "id": 11},
@@ -74,20 +63,6 @@
         "come_si_accede": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
         "procedure_collegate_esito": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
         "servizio_online": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
-        "azione": {"data": [
-          {
-            "entity": "paragraph", "type": "call_to_action", "id": 2,
-            "attributes": {
-              "call_to_action": [{"uri": "https://example.com"}],
-              "icon_name": "it-link"
-            },
-            "relationships": {
-              "azione": {"data": [
-                {"entity": "taxonomy_term", "type": "azioni", "id": 201}
-              ]}
-            }
-          }
-        ]},
         "sede_canale_fisico": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
         "casi_particolari": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
         "telefono": ["3330000000","3320000000"],
@@ -102,16 +77,19 @@
         "argomenti": {"data": [
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1426}
         ]},
+        "azione": {"data": [
+          {"entity": "paragraph", "type": "call_to_action", "id": 1}
+        ]},
         "tipologia_autenticazione": {"data": [
           {"entity": "taxonomy_term", "type": "tipologia_autenticazioni", "id": 601},
           {"entity": "taxonomy_term", "type": "tipologia_autenticazioni", "id": 603}
         ]},
         "luoghi": {"data":  [
-          {"entity": "node", "type": "luogo", "id": 101}]
-        },
+          {"entity": "node", "type": "luogo", "id": 101}
+        ]},
         "cosa_serve": {"data":  [
-          {"entity": "taxonomy_term", "type": "cosa_serve", "id": 301}]
-        },
+          {"entity": "taxonomy_term", "type": "cosa_serve", "id": 301}
+        ]},
         "persona_responsabile": {"data": [
           {"entity": "node", "type": "persona", "id": 10},
           {"entity": "node", "type": "persona", "id": 11},
@@ -135,20 +113,6 @@
         "come_si_accede": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
         "procedure_collegate_esito": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
         "servizio_online": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
-        "azione": {"data": [
-          {
-            "entity": "paragraph", "type": "call_to_action", "id": 3,
-            "attributes": {
-              "call_to_action": [{"uri": "https://example.com"}],
-              "icon_name": "it-link"
-            },
-            "relationships": {
-              "azione": {"data": [
-                {"entity": "taxonomy_term", "type": "azioni", "id": 201}
-              ]}
-            }
-          }
-        ]},
         "sede_canale_fisico": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
         "casi_particolari": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
         "telefono": ["3330000000","3320000000"],
@@ -163,16 +127,19 @@
         "argomenti": {"data": [
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1426}
         ]},
+        "azione": {"data": [
+          {"entity": "paragraph", "type": "call_to_action", "id": 1}
+        ]},
         "tipologia_autenticazione": {"data": [
           {"entity": "taxonomy_term", "type": "tipologia_autenticazioni", "id": 601},
           {"entity": "taxonomy_term", "type": "tipologia_autenticazioni", "id": 603}
         ]},
         "luoghi": {"data":  [
-          {"entity": "node", "type": "luogo", "id": 101}]
-        },
+          {"entity": "node", "type": "luogo", "id": 101}
+        ]},
         "cosa_serve": {"data":  [
-          {"entity": "taxonomy_term", "type": "cosa_serve", "id": 301}]
-        },
+          {"entity": "taxonomy_term", "type": "cosa_serve", "id": 301}
+        ]},
         "persona_responsabile": {"data": [
           {"entity": "node", "type": "persona", "id": 10},
           {"entity": "node", "type": "persona", "id": 11},
