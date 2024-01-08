@@ -1,0 +1,74 @@
+{
+  "data": [
+    {
+      "entity": "paragraph", "type": "call_to_action", "id": 1,
+      "attributes": {
+        "call_to_action": [{"uri": "https://example.com"}],
+        "icon_name": "it-user"
+      },
+      "relationships": {
+        "azione": {"data": {"entity": "taxonomy_term", "type": "azioni", "id": 201}}
+      }
+    },
+    {
+      "entity": "paragraph", "type": "call_to_action", "id": 2,
+      "attributes": {
+        "call_to_action": [{"uri": "https://example.com"}],
+        "icon_name": "it-pencil"
+      },
+      "relationships": {
+        "azione": {"data": {"entity": "taxonomy_term", "type": "azioni", "id": 202}}
+      }
+    },
+    {
+      "entity": "paragraph", "type": "call_to_action", "id": 3,
+      "attributes": {
+        "call_to_action": [{"uri": "https://example.com"}],
+        "icon_name": "it-link"
+      },
+      "relationships": {
+        "azione": {"data": {"entity": "taxonomy_term", "type": "azioni", "id": 203}}
+      }
+    },
+    {
+      "entity": "paragraph", "type": "call_to_action", "id": 4,
+      "attributes": {
+        "call_to_action": [{"uri": "https://example.com"}],
+        "icon_name": "it-link"
+      },
+      "relationships": {
+        "azione": {"data": {"entity": "taxonomy_term", "type": "azioni", "id": 204}}
+      }
+    },
+    {
+      "entity": "paragraph", "type": "call_to_action", "id": 5,
+      "attributes": {
+        "call_to_action": [{"uri": "https://example.com"}],
+        "icon_name": "it-download"
+      },
+      "relationships": {
+        "azione": {"data": {"entity": "taxonomy_term", "type": "azioni", "id": 205}}
+      }
+    },
+    {
+      "entity": "paragraph", "type": "call_to_action", "id": 6,
+      "attributes": {
+        "call_to_action": [{"uri": "https://example.com"}],
+        "icon_name": "it-external-link"
+      },
+      "relationships": {
+        "azione": {"data": {"entity": "taxonomy_term", "type": "azioni", "id": 206}}
+      }
+    },
+    {
+      "entity": "paragraph", "type": "call_to_action", "id": 7,
+      "attributes": {
+        "call_to_action": [{"uri": "https://example.com"}],
+        "icon_name": "it-zoom-in"
+      },
+      "relationships": {
+        "azione": {"data": {"entity": "taxonomy_term", "type": "azioni", "id": 207}}
+      }
+    }
+  ]
+}
