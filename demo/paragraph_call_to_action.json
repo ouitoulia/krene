@@ -17,7 +17,7 @@
         "icon_name": "it-pencil"
       },
       "relationships": {
-        "azione": {"data": {"entity": "taxonomy_term", "type": "azioni", "id": 202}}
+        "azione": {"data": {"entity": "taxonomy_term", "type": "azioni", "id": 201}}
       }
     },
     {
@@ -37,7 +37,7 @@
         "icon_name": "it-link"
       },
       "relationships": {
-        "azione": {"data": {"entity": "taxonomy_term", "type": "azioni", "id": 204}}
+        "azione": {"data": {"entity": "taxonomy_term", "type": "azioni", "id": 201}}
       }
     },
     {
