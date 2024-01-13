@@ -39,8 +39,8 @@
           {"entity": "node", "type": "luogo", "id": 109}
         ]},
         "luoghi": {"data":  [
-          {"entity": "node", "type": "luogo", "id": 101}]
-        }
+          {"entity": "node", "type": "luogo", "id": 101}
+        ]}
       }
     },
     {
