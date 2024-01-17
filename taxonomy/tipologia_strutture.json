@@ -1,12 +1,12 @@
 {
   "data": [
-    {"entity": "taxonomy_term", "type": "tipologia_strutture", "id": 1301, "attributes": {"name": "Altro"}},
-    {"entity": "taxonomy_term", "type": "tipologia_strutture", "id": 1302, "attributes": {"name": "Associazione scolastica"}},
-    {"entity": "taxonomy_term", "type": "tipologia_strutture", "id": 1303, "attributes": {"name": "Commissione"}},
-    {"entity": "taxonomy_term", "type": "tipologia_strutture", "id": 1304, "attributes": {"name": "Dipartimento"}},
-    {"entity": "taxonomy_term", "type": "tipologia_strutture", "id": 1305, "attributes": {"name": "Dirigenza scolastica"}},
-    {"entity": "taxonomy_term", "type": "tipologia_strutture", "id": 1306, "attributes": {"name": "Scuola/istituto"}},
-    {"entity": "taxonomy_term", "type": "tipologia_strutture", "id": 1307, "attributes": {"name": "Organo collegiale"}},
-    {"entity": "taxonomy_term", "type": "tipologia_strutture", "id": 1308, "attributes": {"name": "Segreteria"}}
+    {"entity": "taxonomy_term", "type": "tipologia_strutture", "id": 1301, "attributes": {"name": "Altro", "icon": "icon-school-building"}},
+    {"entity": "taxonomy_term", "type": "tipologia_strutture", "id": 1302, "attributes": {"name": "Associazione scolastica", "icon": "icon-school-building"}},
+    {"entity": "taxonomy_term", "type": "tipologia_strutture", "id": 1303, "attributes": {"name": "Commissione", "icon": "icon-school-building"}},
+    {"entity": "taxonomy_term", "type": "tipologia_strutture", "id": 1304, "attributes": {"name": "Dipartimento", "icon": "icon-school-building"}},
+    {"entity": "taxonomy_term", "type": "tipologia_strutture", "id": 1305, "attributes": {"name": "Dirigenza scolastica", "icon": "icon-chair-office"}},
+    {"entity": "taxonomy_term", "type": "tipologia_strutture", "id": 1306, "attributes": {"name": "Scuola/istituto", "icon": "icon-school-building"}},
+    {"entity": "taxonomy_term", "type": "tipologia_strutture", "id": 1307, "attributes": {"name": "Organo collegiale", "icon": "icon-building"}},
+    {"entity": "taxonomy_term", "type": "tipologia_strutture", "id": 1308, "attributes": {"name": "Segreteria", "icon": "icon-office-desk"}}
   ]
 }
