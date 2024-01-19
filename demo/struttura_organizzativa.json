@@ -80,7 +80,6 @@
           {"entity": "node", "type": "persona", "id": 13}
         ]},
         "luoghi_gestiti": {"data": [
-          {"entity": "node", "type": "luogo", "id": 101},
           {"entity": "node", "type": "luogo", "id": 102},
           {"entity": "node", "type": "luogo", "id": 103},
           {"entity": "node", "type": "luogo", "id": 104},
