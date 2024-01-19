@@ -179,7 +179,9 @@
       "relationships": {
         "tipologia_evento": {"data": {"entity": "taxonomy_term", "type": "tipologia_eventi", "id": 701}},
         "argomenti": {"data": [
-          {"entity": "taxonomy_term", "type": "argomenti", "id": 1404}
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1427},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1436},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1442}
         ]},
         "copertina": {"data": {"entity": "media", "type": "image", "id": 1}},
         "luoghi": {"data":  [
@@ -231,7 +233,9 @@
       "relationships": {
         "tipologia_evento": {"data": {"entity": "taxonomy_term", "type": "tipologia_eventi", "id": 701}},
         "argomenti": {"data": [
-          {"entity": "taxonomy_term", "type": "argomenti", "id": 1404}
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1427},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1436},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1442}
         ]},
         "copertina": {"data": {"entity": "media", "type": "image", "id": 1}},
         "luoghi": {"data":  [
@@ -283,7 +287,9 @@
       "relationships": {
         "tipologia_evento": {"data": {"entity": "taxonomy_term", "type": "tipologia_eventi", "id": 701}},
         "argomenti": {"data": [
-          {"entity": "taxonomy_term", "type": "argomenti", "id": 1404}
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1427},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1436},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1442}
         ]},
         "copertina": {"data": {"entity": "media", "type": "image", "id": 1}},
         "luoghi": {"data":  [
@@ -335,7 +341,9 @@
       "relationships": {
         "tipologia_evento": {"data": {"entity": "taxonomy_term", "type": "tipologia_eventi", "id": 701}},
         "argomenti": {"data": [
-          {"entity": "taxonomy_term", "type": "argomenti", "id": 1404}
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1418},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1419},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1420}
         ]},
         "copertina": {"data": {"entity": "media", "type": "image", "id": 1}},
         "luoghi": {"data":  [
@@ -392,7 +400,9 @@
       "relationships": {
         "tipologia_evento": {"data": {"entity": "taxonomy_term", "type": "tipologia_eventi", "id": 701}},
         "argomenti": {"data": [
-          {"entity": "taxonomy_term", "type": "argomenti", "id": 1404}
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1418},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1419},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1420}
         ]},
         "copertina": {"data": {"entity": "media", "type": "image", "id": 1}},
         "luoghi": {"data":  [
