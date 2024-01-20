@@ -277,7 +277,7 @@
       "relationships": {
         "argomenti": {"data": [
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1418},
-          {"entity": "taxonomy_term", "type": "argomenti", "id": 1419},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1433},
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1420}
         ]},
         "copertina": {"data": {"entity": "media", "type": "image", "id": 1}},
@@ -308,7 +308,7 @@
       "relationships": {
         "argomenti": {"data": [
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1418},
-          {"entity": "taxonomy_term", "type": "argomenti", "id": 1419},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1433},
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1420}
         ]},
         "copertina": {"data": {"entity": "media", "type": "image", "id": 1}},
@@ -339,7 +339,7 @@
       "relationships": {
         "argomenti": {"data": [
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1418},
-          {"entity": "taxonomy_term", "type": "argomenti", "id": 1419},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1433},
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1420}
         ]},
         "copertina": {"data": {"entity": "media", "type": "image", "id": 1}},
@@ -370,7 +370,7 @@
       "relationships": {
         "argomenti": {"data": [
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1418},
-          {"entity": "taxonomy_term", "type": "argomenti", "id": 1419},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1433},
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1420}
         ]},
         "copertina": {"data": {"entity": "media", "type": "image", "id": 1}},
