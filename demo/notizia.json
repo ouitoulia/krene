@@ -16,6 +16,9 @@
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1442}
         ]},
         "copertina": {"data": {"entity": "media", "type": "image", "id": 1}},
+        "autori": {"data": [
+          {"entity": "node", "type": "persona", "id": 11}
+        ]},
         "persone": {"data": [
           {"entity": "node", "type": "persona", "id": 10},
           {"entity": "node", "type": "persona", "id": 11},
@@ -47,6 +50,10 @@
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1442}
         ]},
         "copertina": {"data": {"entity": "media", "type": "image", "id": 1}},
+        "autori": {"data": [
+          {"entity": "node", "type": "persona", "id": 1},
+          {"entity": "node", "type": "persona", "id": 11}
+        ]},
         "persone": {"data": [
           {"entity": "node", "type": "persona", "id": 9},
           {"entity": "node", "type": "persona", "id": 8},
@@ -78,6 +85,9 @@
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1442}
         ]},
         "copertina": {"data": {"entity": "media", "type": "image", "id": 1}},
+        "autori": {"data": [
+          {"entity": "node", "type": "persona", "id": 9}
+        ]},
         "persone": {"data": [
           {"entity": "node", "type": "persona", "id": 9},
           {"entity": "node", "type": "persona", "id": 8},
@@ -109,6 +119,10 @@
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1442}
         ]},
         "copertina": {"data": {"entity": "media", "type": "image", "id": 1}},
+        "autori": {"data": [
+          {"entity": "node", "type": "persona", "id": 1},
+          {"entity": "node", "type": "persona", "id": 8}
+        ]},
         "persone": {"data": [
           {"entity": "node", "type": "persona", "id": 9},
           {"entity": "node", "type": "persona", "id": 8},
@@ -140,6 +154,9 @@
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1442}
         ]},
         "copertina": {"data": {"entity": "media", "type": "image", "id": 1}},
+        "autori": {"data": [
+          {"entity": "node", "type": "persona", "id": 8}
+        ]},
         "persone": {"data": [
           {"entity": "node", "type": "persona", "id": 9},
           {"entity": "node", "type": "persona", "id": 8},
