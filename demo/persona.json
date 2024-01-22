@@ -202,7 +202,7 @@
       },
       "relationships": {
         "ritratto": {"data": {"entity": "file", "type": "image", "id": 10, "url": "https://ouitoulia.github.io/krene/demo/images/persona-14-nicola-preciso.png", "filename": "persona-14-nicola-preciso.png", "filemime": "image/png", "description": "Volto di Carla Attenta"}},
-        "ruolo_persona": {"data": {"entity": "taxonomy_term", "type": "ruoli_persona", "id": 1722}},
+        "ruolo_persona": {"data": {"entity": "taxonomy_term", "type": "ruoli_persona", "id": 1723}},
         "tipologia_posto": {"data": {"entity": "taxonomy_term", "type": "tipologia_posti", "id": 1051}},
         "tipologia_incarico": {"data": {"entity": "taxonomy_term", "type": "tipologia_incarichi", "id": 752}}
       }
