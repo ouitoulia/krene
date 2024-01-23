@@ -67,6 +67,9 @@
           {"entity": "taxonomy_term", "type": "attributi_luoghi", "id": 103},
           {"entity": "taxonomy_term", "type": "attributi_luoghi", "id": 104}
         ]},
+        "collaborazioni": {"data": [
+          {"entity": "node", "type": "partner", "id": 301}
+        ]},
         "destinazione_uso": {"data": [
           {"entity": "taxonomy_term", "type": "destinazione_uso", "id": 502}
         ]}
@@ -138,6 +141,9 @@
           {"entity": "taxonomy_term", "type": "attributi_luoghi", "id": 102},
           {"entity": "taxonomy_term", "type": "attributi_luoghi", "id": 103},
           {"entity": "taxonomy_term", "type": "attributi_luoghi", "id": 104}
+        ]},
+        "collaborazioni": {"data": [
+          {"entity": "node", "type": "partner", "id": 301}
         ]},
         "destinazione_uso": {"data": [
           {"entity": "taxonomy_term", "type": "destinazione_uso", "id": 502}
@@ -211,6 +217,9 @@
           {"entity": "taxonomy_term", "type": "attributi_luoghi", "id": 103},
           {"entity": "taxonomy_term", "type": "attributi_luoghi", "id": 104}
         ]},
+        "collaborazioni": {"data": [
+          {"entity": "node", "type": "partner", "id": 301}
+        ]},
         "destinazione_uso": {"data": [
           {"entity": "taxonomy_term", "type": "destinazione_uso", "id": 502}
         ]}
@@ -282,6 +291,9 @@
           {"entity": "taxonomy_term", "type": "attributi_luoghi", "id": 102},
           {"entity": "taxonomy_term", "type": "attributi_luoghi", "id": 103},
           {"entity": "taxonomy_term", "type": "attributi_luoghi", "id": 104}
+        ]},
+        "collaborazioni": {"data": [
+          {"entity": "node", "type": "partner", "id": 301}
         ]},
         "destinazione_uso": {"data": [
           {"entity": "taxonomy_term", "type": "destinazione_uso", "id": 502}
@@ -355,6 +367,9 @@
           {"entity": "taxonomy_term", "type": "attributi_luoghi", "id": 103},
           {"entity": "taxonomy_term", "type": "attributi_luoghi", "id": 104}
         ]},
+        "collaborazioni": {"data": [
+          {"entity": "node", "type": "partner", "id": 301}
+        ]},
         "destinazione_uso": {"data": [
           {"entity": "taxonomy_term", "type": "destinazione_uso", "id": 502}
         ]}
@@ -426,6 +441,9 @@
           {"entity": "taxonomy_term", "type": "attributi_luoghi", "id": 102},
           {"entity": "taxonomy_term", "type": "attributi_luoghi", "id": 103},
           {"entity": "taxonomy_term", "type": "attributi_luoghi", "id": 104}
+        ]},
+        "collaborazioni": {"data": [
+          {"entity": "node", "type": "partner", "id": 301}
         ]},
         "destinazione_uso": {"data": [
           {"entity": "taxonomy_term", "type": "destinazione_uso", "id": 502}
@@ -499,6 +517,9 @@
           {"entity": "taxonomy_term", "type": "attributi_luoghi", "id": 103},
           {"entity": "taxonomy_term", "type": "attributi_luoghi", "id": 104}
         ]},
+        "collaborazioni": {"data": [
+          {"entity": "node", "type": "partner", "id": 301}
+        ]},
         "destinazione_uso": {"data": [
           {"entity": "taxonomy_term", "type": "destinazione_uso", "id": 502}
         ]}
@@ -570,6 +591,9 @@
           {"entity": "taxonomy_term", "type": "attributi_luoghi", "id": 102},
           {"entity": "taxonomy_term", "type": "attributi_luoghi", "id": 103},
           {"entity": "taxonomy_term", "type": "attributi_luoghi", "id": 104}
+        ]},
+        "collaborazioni": {"data": [
+          {"entity": "node", "type": "partner", "id": 301}
         ]},
         "destinazione_uso": {"data": [
           {"entity": "taxonomy_term", "type": "destinazione_uso", "id": 502}
@@ -643,6 +667,9 @@
           {"entity": "taxonomy_term", "type": "attributi_luoghi", "id": 103},
           {"entity": "taxonomy_term", "type": "attributi_luoghi", "id": 104}
         ]},
+        "collaborazioni": {"data": [
+          {"entity": "node", "type": "partner", "id": 301}
+        ]},
         "destinazione_uso": {"data": [
           {"entity": "taxonomy_term", "type": "destinazione_uso", "id": 502}
         ]}
@@ -689,6 +716,9 @@
           {"entity": "taxonomy_term", "type": "attributi_luoghi", "id": 102},
           {"entity": "taxonomy_term", "type": "attributi_luoghi", "id": 103},
           {"entity": "taxonomy_term", "type": "attributi_luoghi", "id": 104}
+        ]},
+        "collaborazioni": {"data": [
+          {"entity": "node", "type": "partner", "id": 301}
         ]},
         "destinazione_uso": {"data": [
           {"entity": "taxonomy_term", "type": "destinazione_uso", "id": 502}
