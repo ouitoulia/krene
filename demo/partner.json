@@ -26,6 +26,9 @@
           "bottom": "38.489686000000",
           "geohash": "sqg6gqz6emxb"
         }],
+        "link": [
+          {"uri": "https://example.com", "title": "Vai al sito web del comune"}
+        ],
         "language": "it",
         "published": 1
       },
@@ -59,6 +62,9 @@
           "bottom": "38.489686000000",
           "geohash": "sqg6gqz6emxb"
         }],
+        "link": [
+          {"uri": "https://example.com", "title": "Vai al sito web della città metropolitana"}
+        ],
         "language": "it",
         "published": 1
       },
@@ -92,6 +98,9 @@
           "bottom": "38.489686000000",
           "geohash": "sqg6gqz6emxb"
         }],
+        "link": [
+          {"uri": "https://example.com", "title": "Vai al sito web della regione"}
+        ],
         "language": "it",
         "published": 1
       },
@@ -158,6 +167,9 @@
           "bottom": "38.489686000000",
           "geohash": "sqg6gqz6emxb"
         }],
+        "link": [
+          {"uri": "https://example.com", "title": "Vai al sito web della fondazione"}
+        ],
         "language": "it",
         "published": 1
       },
@@ -191,6 +203,9 @@
           "bottom": "38.489686000000",
           "geohash": "sqg6gqz6emxb"
         }],
+        "link": [
+          {"uri": "https://example.com", "title": "Vai al sito web dell'ordine"}
+        ],
         "language": "it",
         "published": 1
       },
