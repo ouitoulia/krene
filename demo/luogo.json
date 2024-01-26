@@ -67,7 +67,7 @@
           {"entity": "taxonomy_term", "type": "attributi_luoghi", "id": 103},
           {"entity": "taxonomy_term", "type": "attributi_luoghi", "id": 104}
         ]},
-        "collaborazioni": {"data": [
+        "struttura_esterna": {"data": [
           {"entity": "node", "type": "partner", "id": 301}
         ]},
         "destinazione_uso": {"data": [
@@ -142,7 +142,7 @@
           {"entity": "taxonomy_term", "type": "attributi_luoghi", "id": 103},
           {"entity": "taxonomy_term", "type": "attributi_luoghi", "id": 104}
         ]},
-        "collaborazioni": {"data": [
+        "struttura_esterna": {"data": [
           {"entity": "node", "type": "partner", "id": 301}
         ]},
         "destinazione_uso": {"data": [
@@ -217,7 +217,7 @@
           {"entity": "taxonomy_term", "type": "attributi_luoghi", "id": 103},
           {"entity": "taxonomy_term", "type": "attributi_luoghi", "id": 104}
         ]},
-        "collaborazioni": {"data": [
+        "struttura_esterna": {"data": [
           {"entity": "node", "type": "partner", "id": 301}
         ]},
         "destinazione_uso": {"data": [
@@ -292,7 +292,7 @@
           {"entity": "taxonomy_term", "type": "attributi_luoghi", "id": 103},
           {"entity": "taxonomy_term", "type": "attributi_luoghi", "id": 104}
         ]},
-        "collaborazioni": {"data": [
+        "struttura_esterna": {"data": [
           {"entity": "node", "type": "partner", "id": 301}
         ]},
         "destinazione_uso": {"data": [
@@ -367,7 +367,7 @@
           {"entity": "taxonomy_term", "type": "attributi_luoghi", "id": 103},
           {"entity": "taxonomy_term", "type": "attributi_luoghi", "id": 104}
         ]},
-        "collaborazioni": {"data": [
+        "struttura_esterna": {"data": [
           {"entity": "node", "type": "partner", "id": 301}
         ]},
         "destinazione_uso": {"data": [
@@ -442,7 +442,7 @@
           {"entity": "taxonomy_term", "type": "attributi_luoghi", "id": 103},
           {"entity": "taxonomy_term", "type": "attributi_luoghi", "id": 104}
         ]},
-        "collaborazioni": {"data": [
+        "struttura_esterna": {"data": [
           {"entity": "node", "type": "partner", "id": 301}
         ]},
         "destinazione_uso": {"data": [
@@ -517,7 +517,7 @@
           {"entity": "taxonomy_term", "type": "attributi_luoghi", "id": 103},
           {"entity": "taxonomy_term", "type": "attributi_luoghi", "id": 104}
         ]},
-        "collaborazioni": {"data": [
+        "struttura_esterna": {"data": [
           {"entity": "node", "type": "partner", "id": 301}
         ]},
         "destinazione_uso": {"data": [
@@ -592,7 +592,7 @@
           {"entity": "taxonomy_term", "type": "attributi_luoghi", "id": 103},
           {"entity": "taxonomy_term", "type": "attributi_luoghi", "id": 104}
         ]},
-        "collaborazioni": {"data": [
+        "struttura_esterna": {"data": [
           {"entity": "node", "type": "partner", "id": 301}
         ]},
         "destinazione_uso": {"data": [
@@ -667,7 +667,7 @@
           {"entity": "taxonomy_term", "type": "attributi_luoghi", "id": 103},
           {"entity": "taxonomy_term", "type": "attributi_luoghi", "id": 104}
         ]},
-        "collaborazioni": {"data": [
+        "struttura_esterna": {"data": [
           {"entity": "node", "type": "partner", "id": 301}
         ]},
         "destinazione_uso": {"data": [
@@ -717,7 +717,7 @@
           {"entity": "taxonomy_term", "type": "attributi_luoghi", "id": 103},
           {"entity": "taxonomy_term", "type": "attributi_luoghi", "id": 104}
         ]},
-        "collaborazioni": {"data": [
+        "struttura_esterna": {"data": [
           {"entity": "node", "type": "partner", "id": 301}
         ]},
         "destinazione_uso": {"data": [
