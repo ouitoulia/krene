@@ -136,6 +136,10 @@
         "struttura_organizzativa": {"data": [
           {"entity": "node", "type": "struttura_organizzativa", "id": 201}
         ]},
+        "struttura_esterna": {"data": [
+          {"entity": "node", "type": "partner", "id": 301},
+          {"entity": "node", "type": "partner", "id": 302}
+        ]},
         "collaborazioni": {"data": [
           {"entity": "node", "type": "partner", "id": 301}
         ]},
