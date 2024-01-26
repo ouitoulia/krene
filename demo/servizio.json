@@ -22,7 +22,7 @@
         "published": 1
       },
       "relationships": {
-        "tipologia_servizio": {"data": {"entity": "taxonomy_term", "type": "tipologia_servizi", "id": 1201}},
+        "tipologia_servizio": {"data": {"entity": "taxonomy_term", "type": "tipologia_servizi", "id": 1202}},
         "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
         "argomenti": {"data": [
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1426}
@@ -118,7 +118,7 @@
         "published": 1
       },
       "relationships": {
-        "tipologia_servizio": {"data": {"entity": "taxonomy_term", "type": "tipologia_servizi", "id": 1201}},
+        "tipologia_servizio": {"data": {"entity": "taxonomy_term", "type": "tipologia_servizi", "id": 1202}},
         "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
         "argomenti": {"data": [
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1426}
