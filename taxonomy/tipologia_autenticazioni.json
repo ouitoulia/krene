@@ -1,7 +1,8 @@
 {
   "data": [
-    {"entity": "taxonomy_term", "type": "tipologia_autenticazioni", "id": 601, "attributes": {"name": "CIE"}},
-    {"entity": "taxonomy_term", "type": "tipologia_autenticazioni", "id": 602, "attributes": {"name": "Credenziali"}},
-    {"entity": "taxonomy_term", "type": "tipologia_autenticazioni", "id": 603, "attributes": {"name": "SPID"}}
+    {"entity": "taxonomy_term", "type": "tipologia_autenticazioni", "id": 601, "attributes": {"name": "CIE", "description": "Non hai CIE? https://www.cartaidentita.interno.gov.it/la-carta/", "icon": "logo-cie"}},
+    {"entity": "taxonomy_term", "type": "tipologia_autenticazioni", "id": 602, "attributes": {"name": "Credenziali", "icon": "it-user"}},
+    {"entity": "taxonomy_term", "type": "tipologia_autenticazioni", "id": 603, "attributes": {"name": "SPID", "description": "Non hai SPID? https://www.spid.gov.it/", "icon": "logo-spid"}},
+    {"entity": "taxonomy_term", "type": "tipologia_autenticazioni", "id": 603, "attributes": {"name": "CNS", "description": "Non hai CNS? https://www.agid.gov.it/it/piattaforme/carta-nazionale-servizi", "icon": "logo-cns"}}
   ]
 }
