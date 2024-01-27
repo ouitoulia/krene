@@ -3,8 +3,7 @@
     {
       "entity": "paragraph", "type": "call_to_action", "id": 1, "language": "it",
       "attributes": {
-        "call_to_action": [{"uri": "https://example.com"}],
-        "icon_name": "it-user"
+        "call_to_action": [{"uri": "https://example.com"}]
       },
       "relationships": {
         "azione": {"data": {"entity": "taxonomy_term", "type": "azioni", "id": 201}}
@@ -23,11 +22,10 @@
     {
       "entity": "paragraph", "type": "call_to_action", "id": 3, "language": "it",
       "attributes": {
-        "call_to_action": [{"uri": "https://example.com"}],
-        "icon_name": "it-link"
+        "call_to_action": [{"uri": "https://example.com"}]
       },
       "relationships": {
-        "azione": {"data": {"entity": "taxonomy_term", "type": "azioni", "id": 203}}
+        "azione": {"data": {"entity": "taxonomy_term", "type": "azioni", "id": 204}}
       }
     },
     {
