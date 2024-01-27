@@ -1,11 +1,12 @@
 {
   "data": [
-    {"entity": "taxonomy_term", "type": "azioni", "id": 201, "attributes": {"name": "Accedi"}},
-    {"entity": "taxonomy_term", "type": "azioni", "id": 202, "attributes": {"name": "Compila"}},
-    {"entity": "taxonomy_term", "type": "azioni", "id": 203, "attributes": {"name": "Iscriviti"}},
-    {"entity": "taxonomy_term", "type": "azioni", "id": 204, "attributes": {"name": "Registrati"}},
-    {"entity": "taxonomy_term", "type": "azioni", "id": 205, "attributes": {"name": "Scarica"}},
-    {"entity": "taxonomy_term", "type": "azioni", "id": 206, "attributes": {"name": "Vai al sito"}},
-    {"entity": "taxonomy_term", "type": "azioni", "id": 207, "attributes": {"name": "Visualizza"}}
+    {"entity": "taxonomy_term", "type": "azioni", "id": 201, "attributes": {"name": "Accedi", "icon": "it-user", "type": "service-online-access"}},
+    {"entity": "taxonomy_term", "type": "azioni", "id": 202, "attributes": {"name": "Compila", "icon": "it-pencil"}},
+    {"entity": "taxonomy_term", "type": "azioni", "id": 203, "attributes": {"name": "Iscriviti", "icon": "it-pencil"}},
+    {"entity": "taxonomy_term", "type": "azioni", "id": 204, "attributes": {"name": "Prenota appuntamento", "icon": "it-calendar", "type": "service-booking-access"}},
+    {"entity": "taxonomy_term", "type": "azioni", "id": 205, "attributes": {"name": "Registrati", "icon": "it-pencil"}},
+    {"entity": "taxonomy_term", "type": "azioni", "id": 206, "attributes": {"name": "Scarica", "icon": "it-download"}},
+    {"entity": "taxonomy_term", "type": "azioni", "id": 207, "attributes": {"name": "Vai al sito", "icon": "it-external-link"}},
+    {"entity": "taxonomy_term", "type": "azioni", "id": 208, "attributes": {"name": "Visualizza", "icon": "it-zoom-in"}}
   ]
 }
