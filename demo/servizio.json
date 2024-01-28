@@ -45,7 +45,8 @@
         ]},
         "struttura_responsabile": {"data": [
           {"entity": "node", "type": "struttura_organizzativa", "id": 201}
-        ]}
+        ]},
+        "tipologia_licenza": {"data": {"entity": "taxonomy_term", "type": "tipologia_licenze", "id": 904}}
       }
     },
     {
@@ -93,7 +94,8 @@
         ]},
         "struttura_responsabile": {"data": [
           {"entity": "node", "type": "struttura_organizzativa", "id": 201}
-        ]}
+        ]},
+        "tipologia_licenza": {"data": {"entity": "taxonomy_term", "type": "tipologia_licenze", "id": 904}}
       }
     },
     {
@@ -141,7 +143,8 @@
         ]},
         "struttura_responsabile": {"data": [
           {"entity": "node", "type": "struttura_organizzativa", "id": 201}
-        ]}
+        ]},
+        "tipologia_licenza": {"data": {"entity": "taxonomy_term", "type": "tipologia_licenze", "id": 904}}
       }
     }
   ]
