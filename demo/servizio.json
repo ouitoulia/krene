@@ -30,7 +30,8 @@
         "azione": {"data": {"paragraph": [1,3]}},
         "tipologia_autenticazione": {"data": [
           {"entity": "taxonomy_term", "type": "tipologia_autenticazioni", "id": 601},
-          {"entity": "taxonomy_term", "type": "tipologia_autenticazioni", "id": 603}
+          {"entity": "taxonomy_term", "type": "tipologia_autenticazioni", "id": 603},
+          {"entity": "taxonomy_term", "type": "tipologia_autenticazioni", "id": 604}
         ]},
         "luoghi": {"data":  [
           {"entity": "node", "type": "luogo", "id": 101}
