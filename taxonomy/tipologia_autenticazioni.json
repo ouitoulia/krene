@@ -1,8 +1,8 @@
 {
   "data": [
-    {"entity": "taxonomy_term", "type": "tipologia_autenticazioni", "id": 601, "attributes": {"name": "CIE", "description": "Non hai CIE? https://www.cartaidentita.interno.gov.it/la-carta/", "icon": "logo-cie"}},
+    {"entity": "taxonomy_term", "type": "tipologia_autenticazioni", "id": 601, "attributes": {"name": "CIE", "description": "Non hai CIE?<br/><a href=\"https://www.cartaidentita.interno.gov.it/la-carta/\" title=\"Leggi come ottenere la CIE (nuova finestra)\" target=\"_blank\">Scopri di più</a>", "icon": "logo-cie"}},
     {"entity": "taxonomy_term", "type": "tipologia_autenticazioni", "id": 602, "attributes": {"name": "Credenziali", "icon": "it-user"}},
-    {"entity": "taxonomy_term", "type": "tipologia_autenticazioni", "id": 603, "attributes": {"name": "SPID", "description": "Non hai SPID? https://www.spid.gov.it/", "icon": "logo-spid"}},
-    {"entity": "taxonomy_term", "type": "tipologia_autenticazioni", "id": 604, "attributes": {"name": "CNS", "description": "Non hai CNS? https://www.agid.gov.it/it/piattaforme/carta-nazionale-servizi", "icon": "logo-cns"}}
+    {"entity": "taxonomy_term", "type": "tipologia_autenticazioni", "id": 603, "attributes": {"name": "SPID", "description": "Non hai SPID?<br/><a href=\"https://www.spid.gov.it/\" title=\"Leggi come ottenere SPID (nuova finestra)\" target=\"_blank\">Scopri di più</a>", "icon": "logo-spid"}},
+    {"entity": "taxonomy_term", "type": "tipologia_autenticazioni", "id": 604, "attributes": {"name": "CNS", "description": "Non hai CNS?<br/><a href=\"https://www.agid.gov.it/it/piattaforme/carta-nazionale-servizi\" title=\"Leggi come ottenere la CNS (nuova finestra)\" target=\"_blank\">Scopri di più</a>", "icon": "logo-cns"}}
   ]
 }
