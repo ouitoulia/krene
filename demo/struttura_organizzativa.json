@@ -216,7 +216,7 @@
       }
     },
     {
-      "entity": "node", "type": "struttura_organizzativa", "id": 201,
+      "entity": "node", "type": "struttura_organizzativa", "id": 206,
       "attributes": {
         "nome": "Docenti Scuola secondaria Vizzone",
         "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
