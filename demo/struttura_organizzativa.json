@@ -250,6 +250,213 @@
           {"entity": "node", "type": "luogo", "id": 109}
         ]}
       }
+    },
+    {
+      "entity": "node", "type": "struttura_organizzativa", "id": 207,
+      "attributes": {
+        "nome": "Insegnanti Scuola dell'infanzia Bosco",
+        "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "cosa_fa": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.",
+        "telefono": ["3330000000","3320000000"],
+        "email": ["email@example.com","email2@example.com"],
+        "language": "it",
+        "published": 1
+      },
+      "relationships": {
+        "tipologia_struttura": {"data": {"entity": "taxonomy_term", "type": "tipologia_struttura", "id": 1306}},
+        "copertina": {"data": {"entity": "media", "type": "image", "id": 1}},
+        "argomenti": {"data": [
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1427},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1436},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1442}
+        ]},
+        "persona_responsabile": {"data": [
+          {"entity": "node", "type": "persona", "id": 2}
+        ]},
+        "persone": {"data": [
+          {"entity": "node", "type": "persona", "id": 2},
+          {"entity": "node", "type": "persona", "id": 3}
+        ]},
+        "luoghi_gestiti": {"data": [
+          {"entity": "node", "type": "luogo", "id": 102}
+        ]},
+        "luoghi": {"data":  [
+          {"entity": "node", "type": "luogo", "id": 102}
+        ]}
+      }
+    },
+    {
+      "entity": "node", "type": "struttura_organizzativa", "id": 208,
+      "attributes": {
+        "nome": "Insegnanti Scuola dell'infanzia via Convento",
+        "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "cosa_fa": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.",
+        "telefono": ["3330000000","3320000000"],
+        "email": ["email@example.com","email2@example.com"],
+        "language": "it",
+        "published": 1
+      },
+      "relationships": {
+        "tipologia_struttura": {"data": {"entity": "taxonomy_term", "type": "tipologia_struttura", "id": 1306}},
+        "copertina": {"data": {"entity": "media", "type": "image", "id": 1}},
+        "argomenti": {"data": [
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1427},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1436},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1442}
+        ]},
+        "persona_responsabile": {"data": [
+          {"entity": "node", "type": "persona", "id": 2}
+        ]},
+        "persone": {"data": [
+          {"entity": "node", "type": "persona", "id": 2},
+          {"entity": "node", "type": "persona", "id": 3}
+        ]},
+        "luoghi_gestiti": {"data": [
+          {"entity": "node", "type": "luogo", "id": 103}
+        ]},
+        "luoghi": {"data":  [
+          {"entity": "node", "type": "luogo", "id": 103}
+        ]}
+      }
+    },
+    {
+      "entity": "node", "type": "struttura_organizzativa", "id": 209,
+      "attributes": {
+        "nome": "Insegnanti Scuola dell'infanzia via Elena",
+        "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "cosa_fa": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.",
+        "telefono": ["3330000000","3320000000"],
+        "email": ["email@example.com","email2@example.com"],
+        "language": "it",
+        "published": 1
+      },
+      "relationships": {
+        "tipologia_struttura": {"data": {"entity": "taxonomy_term", "type": "tipologia_struttura", "id": 1306}},
+        "copertina": {"data": {"entity": "media", "type": "image", "id": 1}},
+        "argomenti": {"data": [
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1427},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1436},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1442}
+        ]},
+        "persona_responsabile": {"data": [
+          {"entity": "node", "type": "persona", "id": 2}
+        ]},
+        "persone": {"data": [
+          {"entity": "node", "type": "persona", "id": 2},
+          {"entity": "node", "type": "persona", "id": 3}
+        ]},
+        "luoghi_gestiti": {"data": [
+          {"entity": "node", "type": "luogo", "id": 104}
+        ]},
+        "luoghi": {"data":  [
+          {"entity": "node", "type": "luogo", "id": 104}
+        ]}
+      }
+    },
+    {
+      "entity": "node", "type": "struttura_organizzativa", "id": 210,
+      "attributes": {
+        "nome": "Insegnanti Scuola Primaria Bosco",
+        "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "cosa_fa": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.",
+        "telefono": ["3330000000","3320000000"],
+        "email": ["email@example.com","email2@example.com"],
+        "language": "it",
+        "published": 1
+      },
+      "relationships": {
+        "tipologia_struttura": {"data": {"entity": "taxonomy_term", "type": "tipologia_struttura", "id": 1306}},
+        "copertina": {"data": {"entity": "media", "type": "image", "id": 1}},
+        "argomenti": {"data": [
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1427},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1436},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1442}
+        ]},
+        "persona_responsabile": {"data": [
+          {"entity": "node", "type": "persona", "id": 6}
+        ]},
+        "persone": {"data": [
+          {"entity": "node", "type": "persona", "id": 4},
+          {"entity": "node", "type": "persona", "id": 5},
+          {"entity": "node", "type": "persona", "id": 6}
+        ]},
+        "luoghi_gestiti": {"data": [
+          {"entity": "node", "type": "luogo", "id": 106}
+        ]},
+        "luoghi": {"data":  [
+          {"entity": "node", "type": "luogo", "id": 106}
+        ]}
+      }
+    },
+    {
+      "entity": "node", "type": "struttura_organizzativa", "id": 211,
+      "attributes": {
+        "nome": "Insegnanti Scuola Primaria Carretta",
+        "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "cosa_fa": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.",
+        "telefono": ["3330000000","3320000000"],
+        "email": ["email@example.com","email2@example.com"],
+        "language": "it",
+        "published": 1
+      },
+      "relationships": {
+        "tipologia_struttura": {"data": {"entity": "taxonomy_term", "type": "tipologia_struttura", "id": 1306}},
+        "copertina": {"data": {"entity": "media", "type": "image", "id": 1}},
+        "argomenti": {"data": [
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1427},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1436},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1442}
+        ]},
+        "persona_responsabile": {"data": [
+          {"entity": "node", "type": "persona", "id": 6}
+        ]},
+        "persone": {"data": [
+          {"entity": "node", "type": "persona", "id": 4},
+          {"entity": "node", "type": "persona", "id": 5},
+          {"entity": "node", "type": "persona", "id": 6}
+        ]},
+        "luoghi_gestiti": {"data": [
+          {"entity": "node", "type": "luogo", "id": 107}
+        ]},
+        "luoghi": {"data":  [
+          {"entity": "node", "type": "luogo", "id": 107}
+        ]}
+      }
+    },
+    {
+      "entity": "node", "type": "struttura_organizzativa", "id": 212,
+      "attributes": {
+        "nome": "Insegnanti Scuola Primaria Marvasi",
+        "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "cosa_fa": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.",
+        "telefono": ["3330000000","3320000000"],
+        "email": ["email@example.com","email2@example.com"],
+        "language": "it",
+        "published": 1
+      },
+      "relationships": {
+        "tipologia_struttura": {"data": {"entity": "taxonomy_term", "type": "tipologia_struttura", "id": 1306}},
+        "copertina": {"data": {"entity": "media", "type": "image", "id": 1}},
+        "argomenti": {"data": [
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1427},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1436},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1442}
+        ]},
+        "persona_responsabile": {"data": [
+          {"entity": "node", "type": "persona", "id": 6}
+        ]},
+        "persone": {"data": [
+          {"entity": "node", "type": "persona", "id": 4},
+          {"entity": "node", "type": "persona", "id": 5},
+          {"entity": "node", "type": "persona", "id": 6}
+        ]},
+        "luoghi_gestiti": {"data": [
+          {"entity": "node", "type": "luogo", "id": 108}
+        ]},
+        "luoghi": {"data":  [
+          {"entity": "node", "type": "luogo", "id": 108}
+        ]}
+      }
     }
   ]
 }

@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "entity": "node", "type": "percorso_di_studio", "id": 601,
+      "attributes": {
+        "titolo_indirizzo_di_studio": "Infanzia a tempo ridotto (25 ore)",
+        "abstract": "la formazione integrale di bambini e bambine",
+        "cosa_e": "La scuola dell’infanzia fa parte del Sistema integrato di educazione e di istruzione dalla nascita ai sei anni ed è il primo gradino del percorso di istruzione, ha durata triennale, non è obbligatoria ed è aperta a tutte le bambine e i bambini di età compresa fra i tre e i sei anni.",
+        "a_cosa_serve": "La scuola dell’infanzia concorre all’educazione e allo sviluppo affettivo, psicomotorio, cognitivo, morale, religioso e sociale dei bambini e delle bambine. Ha l’obiettivo di promuoverne le potenzialità di relazione, autonomia, creatività, apprendimento e mira ad assicurare un’effettiva uguaglianza delle opportunità educative.Nel rispetto del ruolo educativo dei genitori, contribuisce alla formazione integrale dei bambini e, nella sua autonomia e unitarietà didattica e pedagogica, realizza la continuità educativa con il nido e con la scuola primaria",
+        "come_si_accede": "Possono iscriversi alla scuola dell’infanzia le bambine e i bambini che compiono tre anni di età entro il 31 dicembre dell’anno di riferimento.",
+        "email": ["email@example.com","email2@example.com"],
+        "telefono": ["3330000000","3320000000"],
+        "casi_particolari": "Su richiesta delle famiglie possono iscriversi come anticipatari anche coloro che compiono tre anni di età entro il 30 aprile dell'anno successivo. Questa possibilità dipende dalla disponibilità dei posti, dall’esaurimento di eventuali liste di attesa, dalla disponibilità di locali e dotazioni idonei sotto il profilo dell'agibilità e funzionalità, tali da rispondere alle diverse esigenze dei bambini di età inferiore a tre anni, e infine dalla valutazione pedagogica e didattica, da parte del collegio docenti, dei tempi e delle modalità dell'accoglienza. Le bambine e i bambini che compiono i 24 mesi tra il 1° gennaio e il 31 dicembre dell’anno di riferimento possono iscriversi alle sezioni primavera, se presenti. A differenza degli anticipi scolastici, le sezioni primavera hanno un progetto specifico dedicato a questa particolare fascia d’età.",
+        "language": "it",
+        "published": 1
+      },
+      "relationships": {
+        "field_percorso_di_studio": {"data": {"entity": "taxonomy_term", "type": "percorsi_di_studio", "id": 3004}},
+        "field_grado_di_istruzione": {"data": {"entity": "taxonomy_term", "type": "percorsi_di_studio", "id": 3001}},
+        "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
+        "struttura_didattica": {"data": [
+          {"entity": "node", "type": "struttura_organizzativa", "id": 207},
+          {"entity": "node", "type": "struttura_organizzativa", "id": 208},
+          {"entity": "node", "type": "struttura_organizzativa", "id": 209}
+        ]},
+        "cosa_serve": {"data":  [
+          {"entity": "taxonomy_term", "type": "cosa_serve", "id": 301}
+        ]},
+        "servizio": {"data":  [
+          {"entity": "node", "type": "luogo", "id": 501}
+        ]},
+        "struttura_responsabile": {"data": [
+          {"entity": "node", "type": "struttura_organizzativa", "id": 201}
+        ]},
+        "persona_responsabile": {"data": [
+          {"entity": "node", "type": "persona", "id": 1}
+        ]}
+      }
+    },
+    {
+      "entity": "node", "type": "percorso_di_studio", "id": 602,
+      "attributes": {
+        "titolo_indirizzo_di_studio": "Primaria a tempo normale (24 ore)",
+        "abstract": "l’acquisizione degli apprendimenti di base",
+        "cosa_e": "La scuola primaria è obbligatoria, dura cinque anni e fa parte, insieme con la scuola secondaria di primo grado, del primo ciclo di istruzione. La finalità del primo ciclo è l’acquisizione delle conoscenze e delle abilità fondamentali per sviluppare le competenze culturali di base nella prospettiva del pieno sviluppo della persona.",
+        "a_cosa_serve": "La scuola primaria mira all’acquisizione degli apprendimenti di base come primo esercizio dei diritti costituzionali. Alle bambine e ai bambini che la frequentano offre l’opportunità di sviluppare le dimensioni cognitive, emotive, affettive, sociali, corporee, etiche e religiose e di acquisire i saperi irrinunciabili. Attraverso le conoscenze e i linguaggi caratteristici di ciascuna disciplina, la scuola primaria pone le premesse per lo sviluppo del pensiero riflessivo e critico necessario per diventare cittadini consapevoli e responsabili.",
+        "come_si_accede": "Per iscriversi alla scuola primaria statale è necessario compilare lo specifico modulo online. La frequenza è obbligatoria per tutte le bambine e i bambini presenti sul territorio nazionale, indipendentemente dalla cittadinanza, che abbiano compiuto i sei anni di età entro il 31 dicembre dell’anno di riferimento.",
+        "email": ["email@example.com","email2@example.com"],
+        "telefono": ["3330000000","3320000000"],
+        "casi_particolari": "Possono inoltre essere iscritti alla scuola primaria, su richiesta, le bambine e i bambini che compiono sei anni di età entro il 30 aprile dell'anno scolastico di riferimento.",
+        "language": "it",
+        "published": 1
+      },
+      "relationships": {
+        "field_percorso_di_studio": {"data": {"entity": "taxonomy_term", "type": "percorsi_di_studio", "id": 3052}},
+        "field_grado_di_istruzione": {"data": {"entity": "taxonomy_term", "type": "percorsi_di_studio", "id": 3051}},
+        "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
+        "struttura_didattica": {"data": [
+          {"entity": "node", "type": "struttura_organizzativa", "id": 210},
+          {"entity": "node", "type": "struttura_organizzativa", "id": 211},
+          {"entity": "node", "type": "struttura_organizzativa", "id": 212}
+        ]},
+        "cosa_serve": {"data":  [
+          {"entity": "taxonomy_term", "type": "cosa_serve", "id": 301}
+        ]},
+        "servizio": {"data":  [
+          {"entity": "node", "type": "luogo", "id": 501}
+        ]},
+        "struttura_responsabile": {"data": [
+          {"entity": "node", "type": "struttura_organizzativa", "id": 201}
+        ]},
+        "persona_responsabile": {"data": [
+          {"entity": "node", "type": "persona", "id": 1}
+        ]}
+      }
+    },
+    {
+      "entity": "node", "type": "percorso_di_studio", "id": 603,
+      "attributes": {
+        "titolo_indirizzo_di_studio": "Percorso a indirizzo musicale",
+        "abstract": "lo sviluppo dell’autonomia",
+        "cosa_e": "La scuola secondaria di primo grado ha una durata di tre anni e conclude il primo ciclo di istruzione iniziato con la scuola primaria. È una tappa obbligatoria. Punta a sviluppare le capacità di autonomia delle bambine e dei bambini, fornendo loro una preparazione adeguata per proseguire i successivi percorsi di studi e formazione. I temi e le aree di studio sono indicati a livello nazionale. In aggiunta al tempo normale è disponibile l'indirizzo musicale che ha come obiettivo proprio l’acquisizione del linguaggio musicale da parte degli studenti e delle studentesse.",
+        "a_cosa_serve": "<ul><li>potenzia l’alfabetizzazione di base attraverso i linguaggi e i saperi specifici delle discipline, intese come punti di vista sulla realtà e come modalità di conoscenza, interpretazione e rappresentazione del mondo;</li><li>evita la frammentazione e un’impostazione trasmissiva dei saperi, favorendo negli alunni un’articolata organizzazione delle conoscenze, nella prospettiva dell’elaborazione di un sapere sempre meglio integrato e padroneggiato;</li><li>attraverso le competenze disciplinari promuove lo sviluppo di competenze più ampie e trasversali, che consentono la piena realizzazione personale degli studenti e la loro partecipazione attiva ad una vita sociale orientata ai valori della convivenza civile e del bene comune;</li><li>stimola la crescita delle capacità autonome di studio e di interazione sociale, facendo assumere agli studenti un ruolo attivo nel proprio apprendimento e incoraggiandoli alla costruzione di un proprio progetto di vita;</li><li>organizza e accresce, anche attraverso l'alfabetizzazione e l'approfondimento nelle tecnologie informatiche, le conoscenze e le abilità, anche in relazione alla tradizione culturale e all’evoluzione sociale, culturale e scientifica della realtà contemporanea;</li><li>fornisce occasioni per acquisire consapevolezza delle proprie potenzialità e risorse, svolgendo un fondamentale ruolo educativo e di orientamento per il successivo percorso di istruzione e formazione;</li><li>alla lingua inglese, introdotta a partire dalla scuola primaria, affianca lo studio di una seconda lingua dell'Unione europea.</li></ul>",
+        "come_si_accede": "Per iscriversi al Percorso a indirizzo musicale è necessario compilare lo specifico modulo online di iscrizione e sostenere un esame attitudinale allo studio dello strumento musicale.",
+        "email": ["email@example.com","email2@example.com"],
+        "telefono": ["3330000000","3320000000"],
+        "casi_particolari": "",
+        "language": "it",
+        "published": 1
+      },
+      "relationships": {
+        "field_percorso_di_studio": {"data": {"entity": "taxonomy_term", "type": "percorsi_di_studio", "id": 3102}},
+        "field_grado_di_istruzione": {"data": {"entity": "taxonomy_term", "type": "percorsi_di_studio", "id": 3101}},
+        "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
+        "struttura_didattica": {"data": [
+          {"entity": "node", "type": "struttura_organizzativa", "id": 206}
+        ]},
+        "cosa_serve": {"data":  [
+          {"entity": "taxonomy_term", "type": "cosa_serve", "id": 301}
+        ]},
+        "servizio": {"data":  [
+          {"entity": "node", "type": "luogo", "id": 501}
+        ]},
+        "struttura_responsabile": {"data": [
+          {"entity": "node", "type": "struttura_organizzativa", "id": 201}
+        ]},
+        "persona_responsabile": {"data": [
+          {"entity": "node", "type": "persona", "id": 1}
+        ]}
+      }
+    },
+    {
+      "entity": "node", "type": "percorso_di_studio", "id": 603,
+      "attributes": {
+        "titolo_indirizzo_di_studio": "Tempo normale",
+        "abstract": "lo sviluppo dell’autonomia",
+        "cosa_e": "La scuola secondaria di primo grado ha una durata di tre anni e conclude il primo ciclo di istruzione iniziato con la scuola primaria. È una tappa obbligatoria. Punta a sviluppare le capacità di autonomia delle bambine e dei bambini, fornendo loro una preparazione adeguata per proseguire i successivi percorsi di studi e formazione. I temi e le aree di studio sono indicati a livello nazionale.",
+        "a_cosa_serve": "<ul><li>potenzia l’alfabetizzazione di base attraverso i linguaggi e i saperi specifici delle discipline, intese come punti di vista sulla realtà e come modalità di conoscenza, interpretazione e rappresentazione del mondo;</li><li>evita la frammentazione e un’impostazione trasmissiva dei saperi, favorendo negli alunni un’articolata organizzazione delle conoscenze, nella prospettiva dell’elaborazione di un sapere sempre meglio integrato e padroneggiato;</li><li>attraverso le competenze disciplinari promuove lo sviluppo di competenze più ampie e trasversali, che consentono la piena realizzazione personale degli studenti e la loro partecipazione attiva ad una vita sociale orientata ai valori della convivenza civile e del bene comune;</li><li>stimola la crescita delle capacità autonome di studio e di interazione sociale, facendo assumere agli studenti un ruolo attivo nel proprio apprendimento e incoraggiandoli alla costruzione di un proprio progetto di vita;</li><li>organizza e accresce, anche attraverso l'alfabetizzazione e l'approfondimento nelle tecnologie informatiche, le conoscenze e le abilità, anche in relazione alla tradizione culturale e all’evoluzione sociale, culturale e scientifica della realtà contemporanea;</li><li>fornisce occasioni per acquisire consapevolezza delle proprie potenzialità e risorse, svolgendo un fondamentale ruolo educativo e di orientamento per il successivo percorso di istruzione e formazione;</li><li>alla lingua inglese, introdotta a partire dalla scuola primaria, affianca lo studio di una seconda lingua dell'Unione europea.</li></ul>",
+        "come_si_accede": "Per iscriversi al Percorso a indirizzo musicale è necessario compilare lo specifico modulo online di iscrizione.",
+        "email": ["email@example.com","email2@example.com"],
+        "telefono": ["3330000000","3320000000"],
+        "casi_particolari": "",
+        "language": "it",
+        "published": 1
+      },
+      "relationships": {
+        "field_percorso_di_studio": {"data": {"entity": "taxonomy_term", "type": "percorsi_di_studio", "id": 3103}},
+        "field_grado_di_istruzione": {"data": {"entity": "taxonomy_term", "type": "percorsi_di_studio", "id": 3101}},
+        "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
+        "struttura_didattica": {"data": [
+          {"entity": "node", "type": "struttura_organizzativa", "id": 206}
+        ]},
+        "cosa_serve": {"data":  [
+          {"entity": "taxonomy_term", "type": "cosa_serve", "id": 301}
+        ]},
+        "servizio": {"data":  [
+          {"entity": "node", "type": "luogo", "id": 501}
+        ]},
+        "struttura_responsabile": {"data": [
+          {"entity": "node", "type": "struttura_organizzativa", "id": 201}
+        ]},
+        "persona_responsabile": {"data": [
+          {"entity": "node", "type": "persona", "id": 1}
+        ]}
+      }
+    }
+  ]
+}
