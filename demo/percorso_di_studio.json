@@ -15,8 +15,8 @@
         "published": 1
       },
       "relationships": {
-        "field_percorso_di_studio": {"data": {"entity": "taxonomy_term", "type": "percorsi_di_studio", "id": 3004}},
-        "field_grado_di_istruzione": {"data": {"entity": "taxonomy_term", "type": "percorsi_di_studio", "id": 3001}},
+        "percorso_di_studio": {"data": {"entity": "taxonomy_term", "type": "percorsi_di_studio", "id": 3004}},
+        "grado_di_istruzione": {"data": {"entity": "taxonomy_term", "type": "percorsi_di_studio", "id": 3001}},
         "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
         "struttura_didattica": {"data": [
           {"entity": "node", "type": "struttura_organizzativa", "id": 207},
@@ -52,8 +52,8 @@
         "published": 1
       },
       "relationships": {
-        "field_percorso_di_studio": {"data": {"entity": "taxonomy_term", "type": "percorsi_di_studio", "id": 3052}},
-        "field_grado_di_istruzione": {"data": {"entity": "taxonomy_term", "type": "percorsi_di_studio", "id": 3051}},
+        "percorso_di_studio": {"data": {"entity": "taxonomy_term", "type": "percorsi_di_studio", "id": 3052}},
+        "grado_di_istruzione": {"data": {"entity": "taxonomy_term", "type": "percorsi_di_studio", "id": 3051}},
         "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
         "struttura_didattica": {"data": [
           {"entity": "node", "type": "struttura_organizzativa", "id": 210},
@@ -89,8 +89,8 @@
         "published": 1
       },
       "relationships": {
-        "field_percorso_di_studio": {"data": {"entity": "taxonomy_term", "type": "percorsi_di_studio", "id": 3102}},
-        "field_grado_di_istruzione": {"data": {"entity": "taxonomy_term", "type": "percorsi_di_studio", "id": 3101}},
+        "percorso_di_studio": {"data": {"entity": "taxonomy_term", "type": "percorsi_di_studio", "id": 3102}},
+        "grado_di_istruzione": {"data": {"entity": "taxonomy_term", "type": "percorsi_di_studio", "id": 3101}},
         "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
         "struttura_didattica": {"data": [
           {"entity": "node", "type": "struttura_organizzativa", "id": 206}
@@ -124,8 +124,8 @@
         "published": 1
       },
       "relationships": {
-        "field_percorso_di_studio": {"data": {"entity": "taxonomy_term", "type": "percorsi_di_studio", "id": 3103}},
-        "field_grado_di_istruzione": {"data": {"entity": "taxonomy_term", "type": "percorsi_di_studio", "id": 3101}},
+        "percorso_di_studio": {"data": {"entity": "taxonomy_term", "type": "percorsi_di_studio", "id": 3103}},
+        "grado_di_istruzione": {"data": {"entity": "taxonomy_term", "type": "percorsi_di_studio", "id": 3101}},
         "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
         "struttura_didattica": {"data": [
           {"entity": "node", "type": "struttura_organizzativa", "id": 206}
