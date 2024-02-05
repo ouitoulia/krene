@@ -92,6 +92,7 @@
         "percorso_di_studio": {"data": {"entity": "taxonomy_term", "type": "percorsi_di_studio", "id": 3102}},
         "grado_di_istruzione": {"data": {"entity": "taxonomy_term", "type": "percorsi_di_studio", "id": 3101}},
         "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
+        "piano_di_studio": {"data": {"paragraph": [201,202,203]}},
         "struttura_didattica": {"data": [
           {"entity": "node", "type": "struttura_organizzativa", "id": 206}
         ]},

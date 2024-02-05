@@ -25,6 +25,7 @@
     {"entity": "taxonomy_term", "type": "materie", "id": 2123, "attributes": {"miur_class_id": "AK56", "name": "Saxofono", "description": "Strumento musicale nella scuola secondaria di I grado (SAXOFONO)."}},
     {"entity": "taxonomy_term", "type": "materie", "id": 2124, "attributes": {"miur_class_id": "AL56", "name": "Tromba", "description": "Strumento musicale nella scuola secondaria di I grado (TROMBA)."}},
     {"entity": "taxonomy_term", "type": "materie", "id": 2125, "attributes": {"miur_class_id": "AM56", "name": "Violino", "description": "Strumento musicale nella scuola secondaria di I grado (VIOLINO)."}},
-    {"entity": "taxonomy_term", "type": "materie", "id": 2126, "attributes": {"miur_class_id": "AN56", "name": "Violoncello", "description": "Strumento musicale nella scuola secondaria di I grado (VIOLONCELLO)."}}
+    {"entity": "taxonomy_term", "type": "materie", "id": 2126, "attributes": {"miur_class_id": "AN56", "name": "Violoncello", "description": "Strumento musicale nella scuola secondaria di I grado (VIOLONCELLO)."}},
+    {"entity": "taxonomy_term", "type": "materie", "id": 2127, "attributes": {"miur_class_id": "RLMM", "name": "Religione", "description": "Religione nella scuola secondaria di I grado."}}
   ]
 }

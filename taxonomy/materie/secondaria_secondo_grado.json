@@ -86,6 +86,7 @@
     {"entity": "taxonomy_term", "type": "materie", "id": 2279, "attributes": {"miur_class_id": "A063", "name": "Tecnologie musicali", "description": "Tecnologie musicali."}},
     {"entity": "taxonomy_term", "type": "materie", "id": 2280, "attributes": {"miur_class_id": "A064", "name": "Teoria, analisi e composizione ", "description": "Teoria, analisi e composizione ."}},
     {"entity": "taxonomy_term", "type": "materie", "id": 2281, "attributes": {"miur_class_id": "A065", "name": "Teoria e tecnica della comunicazione", "description": "Teoria e tecnica della comunicazione."}},
-    {"entity": "taxonomy_term", "type": "materie", "id": 2282, "attributes": {"miur_class_id": "A066", "name": "Trattamento testi, dati ed applicazioni. Informatica", "description": "Trattamento testi, dati ed applicazioni. Informatica."}}
+    {"entity": "taxonomy_term", "type": "materie", "id": 2282, "attributes": {"miur_class_id": "A066", "name": "Trattamento testi, dati ed applicazioni. Informatica", "description": "Trattamento testi, dati ed applicazioni. Informatica."}},
+    {"entity": "taxonomy_term", "type": "materie", "id": 2283, "attributes": {"miur_class_id": "RLSS", "name": "Religione", "description": "Religione nella scuola secondaria di II grado."}}
   ]
 }
