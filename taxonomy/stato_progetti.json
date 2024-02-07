@@ -1,11 +1,11 @@
 {
   "data": [
-    {"entity": "taxonomy_term", "type": "stato_progetti", "id": 551, "attributes": {"name": "Progettazione (preliminare)", "icon": "it-pencil"}},
-    {"entity": "taxonomy_term", "type": "stato_progetti", "id": 552, "attributes": {"name": "Presentato", "icon": "it-presentation"}},
-    {"entity": "taxonomy_term", "type": "stato_progetti", "id": 553, "attributes": {"name": "Progettazione (esecutiva)", "icon": "it-file"}},
-    {"entity": "taxonomy_term", "type": "stato_progetti", "id": 554, "attributes": {"name": "Avviato", "icon": "it-exchange-circle"}},
-    {"entity": "taxonomy_term", "type": "stato_progetti", "id": 555, "attributes": {"name": "In corso", "icon": "it-exchange-circle"}},
-    {"entity": "taxonomy_term", "type": "stato_progetti", "id": 556, "attributes": {"name": "Realizzato", "icon": "it-flag"}},
-    {"entity": "taxonomy_term", "type": "stato_progetti", "id": 557, "attributes": {"name": "Rendicontato", "icon": "it-chart-line"}}
+    {"entity": "taxonomy_term", "type": "stato_progetti", "id": 551, "attributes": {"name": "Progettazione (preliminare)", "icon": "it-pencil", "weight": 0}},
+    {"entity": "taxonomy_term", "type": "stato_progetti", "id": 552, "attributes": {"name": "Presentato", "icon": "it-presentation", "weight": 1}},
+    {"entity": "taxonomy_term", "type": "stato_progetti", "id": 553, "attributes": {"name": "Progettazione (esecutiva)", "icon": "it-file", "weight": 2}},
+    {"entity": "taxonomy_term", "type": "stato_progetti", "id": 554, "attributes": {"name": "Avviato", "icon": "it-exchange-circle", "weight": 3}},
+    {"entity": "taxonomy_term", "type": "stato_progetti", "id": 555, "attributes": {"name": "In corso", "icon": "it-exchange-circle", "weight": 4}},
+    {"entity": "taxonomy_term", "type": "stato_progetti", "id": 556, "attributes": {"name": "Realizzato", "icon": "it-flag", "weight": 5}},
+    {"entity": "taxonomy_term", "type": "stato_progetti", "id": 557, "attributes": {"name": "Rendicontato", "icon": "it-chart-line", "weight": 6}}
   ]
 }
