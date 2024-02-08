@@ -22,8 +22,8 @@
         "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
         "stato_progetto": {"data": {"entity": "taxonomy_term", "type": "stato_progetti", "id": 554}},
         "competenze": {"data": [
-          {"entity": "taxonomy_term", "type": "competenze", "id": 7004},
-          {"entity": "taxonomy_term", "type": "competenze", "id": 7007}
+          {"entity": "taxonomy_term", "type": "competenze", "id": 8004},
+          {"entity": "taxonomy_term", "type": "competenze", "id": 8007}
         ]},
         "luoghi": {"data":  [
           {"entity": "node", "type": "luogo", "id": 101}
@@ -63,8 +63,8 @@
         "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
         "stato_progetto": {"data": {"entity": "taxonomy_term", "type": "stato_progetti", "id": 554}},
         "competenze": {"data": [
-          {"entity": "taxonomy_term", "type": "competenze", "id": 7004},
-          {"entity": "taxonomy_term", "type": "competenze", "id": 7007}
+          {"entity": "taxonomy_term", "type": "competenze", "id": 8004},
+          {"entity": "taxonomy_term", "type": "competenze", "id": 8007}
         ]},
         "luoghi": {"data":  [
           {"entity": "node", "type": "luogo", "id": 102}
@@ -104,8 +104,8 @@
         "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
         "stato_progetto": {"data": {"entity": "taxonomy_term", "type": "stato_progetti", "id": 554}},
         "competenze": {"data": [
-          {"entity": "taxonomy_term", "type": "competenze", "id": 7004},
-          {"entity": "taxonomy_term", "type": "competenze", "id": 7007}
+          {"entity": "taxonomy_term", "type": "competenze", "id": 8004},
+          {"entity": "taxonomy_term", "type": "competenze", "id": 8007}
         ]},
         "luoghi": {"data":  [
           {"entity": "node", "type": "luogo", "id": 101}
@@ -145,8 +145,8 @@
         "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
         "stato_progetto": {"data": {"entity": "taxonomy_term", "type": "stato_progetti", "id": 554}},
         "competenze": {"data": [
-          {"entity": "taxonomy_term", "type": "competenze", "id": 7004},
-          {"entity": "taxonomy_term", "type": "competenze", "id": 7007}
+          {"entity": "taxonomy_term", "type": "competenze", "id": 8004},
+          {"entity": "taxonomy_term", "type": "competenze", "id": 8007}
         ]},
         "luoghi": {"data":  [
           {"entity": "node", "type": "luogo", "id": 104}
@@ -186,8 +186,8 @@
         "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
         "stato_progetto": {"data": {"entity": "taxonomy_term", "type": "stato_progetti", "id": 554}},
         "competenze": {"data": [
-          {"entity": "taxonomy_term", "type": "competenze", "id": 7004},
-          {"entity": "taxonomy_term", "type": "competenze", "id": 7007}
+          {"entity": "taxonomy_term", "type": "competenze", "id": 8004},
+          {"entity": "taxonomy_term", "type": "competenze", "id": 8007}
         ]},
         "luoghi": {"data":  [
           {"entity": "node", "type": "luogo", "id": 101}
@@ -227,8 +227,8 @@
         "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
         "stato_progetto": {"data": {"entity": "taxonomy_term", "type": "stato_progetti", "id": 554}},
         "competenze": {"data": [
-          {"entity": "taxonomy_term", "type": "competenze", "id": 7004},
-          {"entity": "taxonomy_term", "type": "competenze", "id": 7007}
+          {"entity": "taxonomy_term", "type": "competenze", "id": 8004},
+          {"entity": "taxonomy_term", "type": "competenze", "id": 8007}
         ]},
         "luoghi": {"data":  [
           {"entity": "node", "type": "luogo", "id": 101}
@@ -268,8 +268,8 @@
         "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
         "stato_progetto": {"data": {"entity": "taxonomy_term", "type": "stato_progetti", "id": 554}},
         "competenze": {"data": [
-          {"entity": "taxonomy_term", "type": "competenze", "id": 7004},
-          {"entity": "taxonomy_term", "type": "competenze", "id": 7007}
+          {"entity": "taxonomy_term", "type": "competenze", "id": 8004},
+          {"entity": "taxonomy_term", "type": "competenze", "id": 8007}
         ]},
         "luoghi": {"data":  [
           {"entity": "node", "type": "luogo", "id": 101}

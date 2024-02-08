@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "entity": "node", "type": "scheda_didattica", "id": 901,
+      "attributes": {
+        "titolo": "Scheda 901",
+        "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "obiettivi": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.",
+        "descrizione_attivita": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.",
+        "durata": {
+          "mesi": 0,
+          "giorni": 0,
+          "ore": 8,
+          "minuti": 0
+        },
+        "language": "it",
+        "published": 1
+      },
+      "relationships": {
+        "grado_di_istruzione": {"data": {"entity": "taxonomy_term", "type": "percorsi_di_studio", "id": 3101}},
+        "persona_responsabile": {"data": [
+          {"entity": "node", "type": "persona", "id": 10},
+          {"entity": "node", "type": "persona", "id": 11}
+        ]},
+        "materie": {"data": [
+          {"entity": "taxonomy_term", "type": "materie", "id": 2115}
+        ]},
+        "copertina": {"data": {"entity": "media", "type": "image", "id": 1}},
+        "argomenti": {"data": [
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1404},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1405}
+        ]},
+        "competenze": {"data": [
+          {"entity": "taxonomy_term", "type": "competenze", "id": 8004},
+          {"entity": "taxonomy_term", "type": "competenze", "id": 8007}
+        ]}
+      }
+    },
+    {
+      "entity": "node", "type": "scheda_didattica", "id": 902,
+      "attributes": {
+        "titolo": "Scheda 902",
+        "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "obiettivi": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.",
+        "descrizione_attivita": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.",
+        "durata": {
+          "mesi": 0,
+          "giorni": 6,
+          "ore": 0,
+          "minuti": 0
+        },
+        "language": "it",
+        "published": 1
+      },
+      "relationships": {
+        "grado_di_istruzione": {"data": {"entity": "taxonomy_term", "type": "percorsi_di_studio", "id": 3101}},
+        "persona_responsabile": {"data": [
+          {"entity": "node", "type": "persona", "id": 9},
+          {"entity": "node", "type": "persona", "id": 10}
+        ]},
+        "materie": {"data": [
+          {"entity": "taxonomy_term", "type": "materie", "id": 2115}
+        ]},
+        "copertina": {"data": {"entity": "media", "type": "image", "id": 1}},
+        "argomenti": {"data": [
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1404},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1405}
+        ]},
+        "competenze": {"data": [
+          {"entity": "taxonomy_term", "type": "competenze", "id": 8004},
+          {"entity": "taxonomy_term", "type": "competenze", "id": 8007}
+        ]}
+      }
+    },
+    {
+      "entity": "node", "type": "scheda_didattica", "id": 903,
+      "attributes": {
+        "titolo": "Scheda 903",
+        "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "obiettivi": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.",
+        "descrizione_attivita": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.",
+        "durata": {
+          "mesi": 0,
+          "giorni": 0,
+          "ore": 8,
+          "minuti": 0
+        },
+        "language": "it",
+        "published": 1
+      },
+      "relationships": {
+        "grado_di_istruzione": {"data": {"entity": "taxonomy_term", "type": "percorsi_di_studio", "id": 3101}},
+        "persona_responsabile": {"data": [
+          {"entity": "node", "type": "persona", "id": 8},
+          {"entity": "node", "type": "persona", "id": 9}
+        ]},
+        "materie": {"data": [
+          {"entity": "taxonomy_term", "type": "materie", "id": 2115}
+        ]},
+        "copertina": {"data": {"entity": "media", "type": "image", "id": 1}},
+        "argomenti": {"data": [
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1404},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1405}
+        ]},
+        "competenze": {"data": [
+          {"entity": "taxonomy_term", "type": "competenze", "id": 8004},
+          {"entity": "taxonomy_term", "type": "competenze", "id": 8007}
+        ]}
+      }
+    },
+    {
+      "entity": "node", "type": "scheda_didattica", "id": 904,
+      "attributes": {
+        "titolo": "Scheda 904",
+        "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "obiettivi": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.",
+        "descrizione_attivita": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.",
+        "durata": {
+          "mesi": 1,
+          "giorni": 6,
+          "ore": 8,
+          "minuti": 30
+        },
+        "language": "it",
+        "published": 1
+      },
+      "relationships": {
+        "grado_di_istruzione": {"data": {"entity": "taxonomy_term", "type": "percorsi_di_studio", "id": 3101}},
+        "persona_responsabile": {"data": [
+          {"entity": "node", "type": "persona", "id": 3},
+          {"entity": "node", "type": "persona", "id": 4}
+        ]},
+        "materie": {"data": [
+          {"entity": "taxonomy_term", "type": "materie", "id": 2115}
+        ]},
+        "copertina": {"data": {"entity": "media", "type": "image", "id": 1}},
+        "argomenti": {"data": [
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1404},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1405}
+        ]},
+        "competenze": {"data": [
+          {"entity": "taxonomy_term", "type": "competenze", "id": 8004},
+          {"entity": "taxonomy_term", "type": "competenze", "id": 8007}
+        ]}
+      }
+    }
+  ]
+}
