@@ -218,7 +218,7 @@
     {
       "entity": "node", "type": "struttura_organizzativa", "id": 206,
       "attributes": {
-        "nome": "Docenti Scuola secondaria Vizzone",
+        "nome": "Scuola secondaria di primo grado Vizzone",
         "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
         "cosa_fa": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.",
         "telefono": ["3330000000","3320000000"],
@@ -233,6 +233,10 @@
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1427},
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1436},
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1442}
+        ]},
+        "struttura_organizzativa": {"data": [
+          {"entity": "node", "type": "struttura_organizzativa", "id": 201},
+          {"entity": "node", "type": "struttura_organizzativa", "id": 204}
         ]},
         "persona_responsabile": {"data": [
           {"entity": "node", "type": "persona", "id": 11}
@@ -254,7 +258,7 @@
     {
       "entity": "node", "type": "struttura_organizzativa", "id": 207,
       "attributes": {
-        "nome": "Insegnanti Scuola dell'infanzia Bosco",
+        "nome": "Scuola dell'infanzia Bosco",
         "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
         "cosa_fa": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.",
         "telefono": ["3330000000","3320000000"],
@@ -269,6 +273,10 @@
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1427},
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1436},
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1442}
+        ]},
+        "struttura_organizzativa": {"data": [
+          {"entity": "node", "type": "struttura_organizzativa", "id": 201},
+          {"entity": "node", "type": "struttura_organizzativa", "id": 204}
         ]},
         "persona_responsabile": {"data": [
           {"entity": "node", "type": "persona", "id": 2}
@@ -288,7 +296,7 @@
     {
       "entity": "node", "type": "struttura_organizzativa", "id": 208,
       "attributes": {
-        "nome": "Insegnanti Scuola dell'infanzia via Convento",
+        "nome": "Scuola dell'infanzia via Convento",
         "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
         "cosa_fa": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.",
         "telefono": ["3330000000","3320000000"],
@@ -303,6 +311,10 @@
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1427},
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1436},
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1442}
+        ]},
+        "struttura_organizzativa": {"data": [
+          {"entity": "node", "type": "struttura_organizzativa", "id": 201},
+          {"entity": "node", "type": "struttura_organizzativa", "id": 204}
         ]},
         "persona_responsabile": {"data": [
           {"entity": "node", "type": "persona", "id": 2}
@@ -322,7 +334,7 @@
     {
       "entity": "node", "type": "struttura_organizzativa", "id": 209,
       "attributes": {
-        "nome": "Insegnanti Scuola dell'infanzia via Elena",
+        "nome": "Scuola dell'infanzia via Elena",
         "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
         "cosa_fa": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.",
         "telefono": ["3330000000","3320000000"],
@@ -337,6 +349,10 @@
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1427},
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1436},
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1442}
+        ]},
+        "struttura_organizzativa": {"data": [
+          {"entity": "node", "type": "struttura_organizzativa", "id": 201},
+          {"entity": "node", "type": "struttura_organizzativa", "id": 204}
         ]},
         "persona_responsabile": {"data": [
           {"entity": "node", "type": "persona", "id": 2}
@@ -356,7 +372,7 @@
     {
       "entity": "node", "type": "struttura_organizzativa", "id": 210,
       "attributes": {
-        "nome": "Insegnanti Scuola Primaria Bosco",
+        "nome": "Scuola Primaria Bosco",
         "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
         "cosa_fa": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.",
         "telefono": ["3330000000","3320000000"],
@@ -371,6 +387,10 @@
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1427},
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1436},
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1442}
+        ]},
+        "struttura_organizzativa": {"data": [
+          {"entity": "node", "type": "struttura_organizzativa", "id": 201},
+          {"entity": "node", "type": "struttura_organizzativa", "id": 204}
         ]},
         "persona_responsabile": {"data": [
           {"entity": "node", "type": "persona", "id": 6}
@@ -391,7 +411,7 @@
     {
       "entity": "node", "type": "struttura_organizzativa", "id": 211,
       "attributes": {
-        "nome": "Insegnanti Scuola Primaria Carretta",
+        "nome": "Scuola Primaria Carretta",
         "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
         "cosa_fa": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.",
         "telefono": ["3330000000","3320000000"],
@@ -406,6 +426,10 @@
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1427},
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1436},
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1442}
+        ]},
+        "struttura_organizzativa": {"data": [
+          {"entity": "node", "type": "struttura_organizzativa", "id": 201},
+          {"entity": "node", "type": "struttura_organizzativa", "id": 204}
         ]},
         "persona_responsabile": {"data": [
           {"entity": "node", "type": "persona", "id": 6}
@@ -426,7 +450,7 @@
     {
       "entity": "node", "type": "struttura_organizzativa", "id": 212,
       "attributes": {
-        "nome": "Insegnanti Scuola Primaria Marvasi",
+        "nome": "Scuola Primaria Marvasi",
         "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
         "cosa_fa": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.",
         "telefono": ["3330000000","3320000000"],
@@ -441,6 +465,10 @@
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1427},
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1436},
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1442}
+        ]},
+        "struttura_organizzativa": {"data": [
+          {"entity": "node", "type": "struttura_organizzativa", "id": 201},
+          {"entity": "node", "type": "struttura_organizzativa", "id": 204}
         ]},
         "persona_responsabile": {"data": [
           {"entity": "node", "type": "persona", "id": 6}
