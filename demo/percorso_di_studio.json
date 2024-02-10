@@ -132,6 +132,171 @@
           {"entity": "node", "type": "persona", "id": 1}
         ]}
       }
+    },
+    {
+      "entity": "node", "type": "percorso_di_studio", "id": 705,
+      "attributes": {
+        "titolo_indirizzo_di_studio": "Infanzia a tempo ridotto (25 ore)",
+        "abstract": "la formazione integrale di bambini e bambine",
+        "cosa_e": "La scuola dell’infanzia fa parte del Sistema integrato di educazione e di istruzione dalla nascita ai sei anni ed è il primo gradino del percorso di istruzione, ha durata triennale, non è obbligatoria ed è aperta a tutte le bambine e i bambini di età compresa fra i tre e i sei anni.",
+        "a_cosa_serve": "La scuola dell’infanzia concorre all’educazione e allo sviluppo affettivo, psicomotorio, cognitivo, morale, religioso e sociale dei bambini e delle bambine. Ha l’obiettivo di promuoverne le potenzialità di relazione, autonomia, creatività, apprendimento e mira ad assicurare un’effettiva uguaglianza delle opportunità educative.Nel rispetto del ruolo educativo dei genitori, contribuisce alla formazione integrale dei bambini e, nella sua autonomia e unitarietà didattica e pedagogica, realizza la continuità educativa con il nido e con la scuola primaria",
+        "come_si_accede": "Possono iscriversi alla scuola dell’infanzia le bambine e i bambini che compiono tre anni di età entro il 31 dicembre dell’anno di riferimento.",
+        "email": ["email@example.com","email2@example.com"],
+        "telefono": ["3330000000","3320000000"],
+        "casi_particolari": "Su richiesta delle famiglie possono iscriversi come anticipatari anche coloro che compiono tre anni di età entro il 30 aprile dell'anno successivo. Questa possibilità dipende dalla disponibilità dei posti, dall’esaurimento di eventuali liste di attesa, dalla disponibilità di locali e dotazioni idonei sotto il profilo dell'agibilità e funzionalità, tali da rispondere alle diverse esigenze dei bambini di età inferiore a tre anni, e infine dalla valutazione pedagogica e didattica, da parte del collegio docenti, dei tempi e delle modalità dell'accoglienza. Le bambine e i bambini che compiono i 24 mesi tra il 1° gennaio e il 31 dicembre dell’anno di riferimento possono iscriversi alle sezioni primavera, se presenti. A differenza degli anticipi scolastici, le sezioni primavera hanno un progetto specifico dedicato a questa particolare fascia d’età.",
+        "language": "it",
+        "published": 1
+      },
+      "relationships": {
+        "percorso_di_studio": {"data": {"entity": "taxonomy_term", "type": "percorsi_di_studio", "id": 3004}},
+        "grado_di_istruzione": {"data": {"entity": "taxonomy_term", "type": "percorsi_di_studio", "id": 3001}},
+        "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
+        "struttura_didattica": {"data": {"entity": "node", "type": "struttura_organizzativa", "id": 208}},
+        "cosa_serve": {"data":  [
+          {"entity": "taxonomy_term", "type": "cosa_serve", "id": 301}
+        ]},
+        "servizio": {"data":  [
+          {"entity": "node", "type": "luogo", "id": 501}
+        ]},
+        "struttura_responsabile": {"data": [
+          {"entity": "node", "type": "struttura_organizzativa", "id": 201}
+        ]},
+        "persona_responsabile": {"data": [
+          {"entity": "node", "type": "persona", "id": 1}
+        ]}
+      }
+    },
+    {
+      "entity": "node", "type": "percorso_di_studio", "id": 706,
+      "attributes": {
+        "titolo_indirizzo_di_studio": "Infanzia a tempo ridotto (25 ore)",
+        "abstract": "la formazione integrale di bambini e bambine",
+        "cosa_e": "La scuola dell’infanzia fa parte del Sistema integrato di educazione e di istruzione dalla nascita ai sei anni ed è il primo gradino del percorso di istruzione, ha durata triennale, non è obbligatoria ed è aperta a tutte le bambine e i bambini di età compresa fra i tre e i sei anni.",
+        "a_cosa_serve": "La scuola dell’infanzia concorre all’educazione e allo sviluppo affettivo, psicomotorio, cognitivo, morale, religioso e sociale dei bambini e delle bambine. Ha l’obiettivo di promuoverne le potenzialità di relazione, autonomia, creatività, apprendimento e mira ad assicurare un’effettiva uguaglianza delle opportunità educative.Nel rispetto del ruolo educativo dei genitori, contribuisce alla formazione integrale dei bambini e, nella sua autonomia e unitarietà didattica e pedagogica, realizza la continuità educativa con il nido e con la scuola primaria",
+        "come_si_accede": "Possono iscriversi alla scuola dell’infanzia le bambine e i bambini che compiono tre anni di età entro il 31 dicembre dell’anno di riferimento.",
+        "email": ["email@example.com","email2@example.com"],
+        "telefono": ["3330000000","3320000000"],
+        "casi_particolari": "Su richiesta delle famiglie possono iscriversi come anticipatari anche coloro che compiono tre anni di età entro il 30 aprile dell'anno successivo. Questa possibilità dipende dalla disponibilità dei posti, dall’esaurimento di eventuali liste di attesa, dalla disponibilità di locali e dotazioni idonei sotto il profilo dell'agibilità e funzionalità, tali da rispondere alle diverse esigenze dei bambini di età inferiore a tre anni, e infine dalla valutazione pedagogica e didattica, da parte del collegio docenti, dei tempi e delle modalità dell'accoglienza. Le bambine e i bambini che compiono i 24 mesi tra il 1° gennaio e il 31 dicembre dell’anno di riferimento possono iscriversi alle sezioni primavera, se presenti. A differenza degli anticipi scolastici, le sezioni primavera hanno un progetto specifico dedicato a questa particolare fascia d’età.",
+        "language": "it",
+        "published": 1
+      },
+      "relationships": {
+        "percorso_di_studio": {"data": {"entity": "taxonomy_term", "type": "percorsi_di_studio", "id": 3004}},
+        "grado_di_istruzione": {"data": {"entity": "taxonomy_term", "type": "percorsi_di_studio", "id": 3001}},
+        "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
+        "struttura_didattica": {"data": {"entity": "node", "type": "struttura_organizzativa", "id": 209}},
+        "cosa_serve": {"data":  [
+          {"entity": "taxonomy_term", "type": "cosa_serve", "id": 301}
+        ]},
+        "servizio": {"data":  [
+          {"entity": "node", "type": "luogo", "id": 501}
+        ]},
+        "struttura_responsabile": {"data": [
+          {"entity": "node", "type": "struttura_organizzativa", "id": 201}
+        ]},
+        "persona_responsabile": {"data": [
+          {"entity": "node", "type": "persona", "id": 1}
+        ]}
+      }
+    },
+    {
+      "entity": "node", "type": "percorso_di_studio", "id": 706,
+      "attributes": {
+        "titolo_indirizzo_di_studio": "Infanzia a tempo ridotto (25 ore)",
+        "abstract": "la formazione integrale di bambini e bambine",
+        "cosa_e": "La scuola dell’infanzia fa parte del Sistema integrato di educazione e di istruzione dalla nascita ai sei anni ed è il primo gradino del percorso di istruzione, ha durata triennale, non è obbligatoria ed è aperta a tutte le bambine e i bambini di età compresa fra i tre e i sei anni.",
+        "a_cosa_serve": "La scuola dell’infanzia concorre all’educazione e allo sviluppo affettivo, psicomotorio, cognitivo, morale, religioso e sociale dei bambini e delle bambine. Ha l’obiettivo di promuoverne le potenzialità di relazione, autonomia, creatività, apprendimento e mira ad assicurare un’effettiva uguaglianza delle opportunità educative.Nel rispetto del ruolo educativo dei genitori, contribuisce alla formazione integrale dei bambini e, nella sua autonomia e unitarietà didattica e pedagogica, realizza la continuità educativa con il nido e con la scuola primaria",
+        "come_si_accede": "Possono iscriversi alla scuola dell’infanzia le bambine e i bambini che compiono tre anni di età entro il 31 dicembre dell’anno di riferimento.",
+        "email": ["email@example.com","email2@example.com"],
+        "telefono": ["3330000000","3320000000"],
+        "casi_particolari": "Su richiesta delle famiglie possono iscriversi come anticipatari anche coloro che compiono tre anni di età entro il 30 aprile dell'anno successivo. Questa possibilità dipende dalla disponibilità dei posti, dall’esaurimento di eventuali liste di attesa, dalla disponibilità di locali e dotazioni idonei sotto il profilo dell'agibilità e funzionalità, tali da rispondere alle diverse esigenze dei bambini di età inferiore a tre anni, e infine dalla valutazione pedagogica e didattica, da parte del collegio docenti, dei tempi e delle modalità dell'accoglienza. Le bambine e i bambini che compiono i 24 mesi tra il 1° gennaio e il 31 dicembre dell’anno di riferimento possono iscriversi alle sezioni primavera, se presenti. A differenza degli anticipi scolastici, le sezioni primavera hanno un progetto specifico dedicato a questa particolare fascia d’età.",
+        "language": "it",
+        "published": 1
+      },
+      "relationships": {
+        "percorso_di_studio": {"data": {"entity": "taxonomy_term", "type": "percorsi_di_studio", "id": 3004}},
+        "grado_di_istruzione": {"data": {"entity": "taxonomy_term", "type": "percorsi_di_studio", "id": 3001}},
+        "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
+        "struttura_didattica": {"data": {"entity": "node", "type": "struttura_organizzativa", "id": 209}},
+        "cosa_serve": {"data":  [
+          {"entity": "taxonomy_term", "type": "cosa_serve", "id": 301}
+        ]},
+        "servizio": {"data":  [
+          {"entity": "node", "type": "luogo", "id": 501}
+        ]},
+        "struttura_responsabile": {"data": [
+          {"entity": "node", "type": "struttura_organizzativa", "id": 201}
+        ]},
+        "persona_responsabile": {"data": [
+          {"entity": "node", "type": "persona", "id": 1}
+        ]}
+      }
+    },
+    {
+      "entity": "node", "type": "percorso_di_studio", "id": 707,
+      "attributes": {
+        "titolo_indirizzo_di_studio": "Primaria a tempo normale (24 ore)",
+        "abstract": "l’acquisizione degli apprendimenti di base",
+        "cosa_e": "La scuola primaria è obbligatoria, dura cinque anni e fa parte, insieme con la scuola secondaria di primo grado, del primo ciclo di istruzione. La finalità del primo ciclo è l’acquisizione delle conoscenze e delle abilità fondamentali per sviluppare le competenze culturali di base nella prospettiva del pieno sviluppo della persona.",
+        "a_cosa_serve": "La scuola primaria mira all’acquisizione degli apprendimenti di base come primo esercizio dei diritti costituzionali. Alle bambine e ai bambini che la frequentano offre l’opportunità di sviluppare le dimensioni cognitive, emotive, affettive, sociali, corporee, etiche e religiose e di acquisire i saperi irrinunciabili. Attraverso le conoscenze e i linguaggi caratteristici di ciascuna disciplina, la scuola primaria pone le premesse per lo sviluppo del pensiero riflessivo e critico necessario per diventare cittadini consapevoli e responsabili.",
+        "come_si_accede": "Per iscriversi alla scuola primaria statale è necessario compilare lo specifico modulo online. La frequenza è obbligatoria per tutte le bambine e i bambini presenti sul territorio nazionale, indipendentemente dalla cittadinanza, che abbiano compiuto i sei anni di età entro il 31 dicembre dell’anno di riferimento.",
+        "email": ["email@example.com","email2@example.com"],
+        "telefono": ["3330000000","3320000000"],
+        "casi_particolari": "Possono inoltre essere iscritti alla scuola primaria, su richiesta, le bambine e i bambini che compiono sei anni di età entro il 30 aprile dell'anno scolastico di riferimento.",
+        "language": "it",
+        "published": 1
+      },
+      "relationships": {
+        "percorso_di_studio": {"data": {"entity": "taxonomy_term", "type": "percorsi_di_studio", "id": 3052}},
+        "grado_di_istruzione": {"data": {"entity": "taxonomy_term", "type": "percorsi_di_studio", "id": 3051}},
+        "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
+        "struttura_didattica": {"data": {"entity": "node", "type": "struttura_organizzativa", "id": 211}},
+        "cosa_serve": {"data":  [
+          {"entity": "taxonomy_term", "type": "cosa_serve", "id": 301}
+        ]},
+        "servizio": {"data":  [
+          {"entity": "node", "type": "luogo", "id": 501}
+        ]},
+        "struttura_responsabile": {"data": [
+          {"entity": "node", "type": "struttura_organizzativa", "id": 201}
+        ]},
+        "persona_responsabile": {"data": [
+          {"entity": "node", "type": "persona", "id": 1}
+        ]}
+      }
+    },
+    {
+      "entity": "node", "type": "percorso_di_studio", "id": 708,
+      "attributes": {
+        "titolo_indirizzo_di_studio": "Primaria a tempo normale (24 ore)",
+        "abstract": "l’acquisizione degli apprendimenti di base",
+        "cosa_e": "La scuola primaria è obbligatoria, dura cinque anni e fa parte, insieme con la scuola secondaria di primo grado, del primo ciclo di istruzione. La finalità del primo ciclo è l’acquisizione delle conoscenze e delle abilità fondamentali per sviluppare le competenze culturali di base nella prospettiva del pieno sviluppo della persona.",
+        "a_cosa_serve": "La scuola primaria mira all’acquisizione degli apprendimenti di base come primo esercizio dei diritti costituzionali. Alle bambine e ai bambini che la frequentano offre l’opportunità di sviluppare le dimensioni cognitive, emotive, affettive, sociali, corporee, etiche e religiose e di acquisire i saperi irrinunciabili. Attraverso le conoscenze e i linguaggi caratteristici di ciascuna disciplina, la scuola primaria pone le premesse per lo sviluppo del pensiero riflessivo e critico necessario per diventare cittadini consapevoli e responsabili.",
+        "come_si_accede": "Per iscriversi alla scuola primaria statale è necessario compilare lo specifico modulo online. La frequenza è obbligatoria per tutte le bambine e i bambini presenti sul territorio nazionale, indipendentemente dalla cittadinanza, che abbiano compiuto i sei anni di età entro il 31 dicembre dell’anno di riferimento.",
+        "email": ["email@example.com","email2@example.com"],
+        "telefono": ["3330000000","3320000000"],
+        "casi_particolari": "Possono inoltre essere iscritti alla scuola primaria, su richiesta, le bambine e i bambini che compiono sei anni di età entro il 30 aprile dell'anno scolastico di riferimento.",
+        "language": "it",
+        "published": 1
+      },
+      "relationships": {
+        "percorso_di_studio": {"data": {"entity": "taxonomy_term", "type": "percorsi_di_studio", "id": 3052}},
+        "grado_di_istruzione": {"data": {"entity": "taxonomy_term", "type": "percorsi_di_studio", "id": 3051}},
+        "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
+        "struttura_didattica": {"data": {"entity": "node", "type": "struttura_organizzativa", "id": 212}},
+        "cosa_serve": {"data":  [
+          {"entity": "taxonomy_term", "type": "cosa_serve", "id": 301}
+        ]},
+        "servizio": {"data":  [
+          {"entity": "node", "type": "luogo", "id": 501}
+        ]},
+        "struttura_responsabile": {"data": [
+          {"entity": "node", "type": "struttura_organizzativa", "id": 201}
+        ]},
+        "persona_responsabile": {"data": [
+          {"entity": "node", "type": "persona", "id": 1}
+        ]}
+      }
     }
   ]
 }
