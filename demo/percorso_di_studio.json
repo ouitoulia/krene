@@ -15,8 +15,8 @@
         "published": 1
       },
       "relationships": {
-        "percorso_di_studio": {"data": {"entity": "taxonomy_term", "type": "percorsi_di_studio", "id": 3004}},
-        "grado_di_istruzione": {"data": {"entity": "taxonomy_term", "type": "percorsi_di_studio", "id": 3001}},
+        "percorso_di_studio": {"data": {"entity": "taxonomy_term", "type": "indirizzi_di_studio", "id": 3004}},
+        "grado_di_istruzione": {"data": {"entity": "taxonomy_term", "type": "indirizzi_di_studio", "id": 3001}},
         "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
         "struttura_didattica": {"data": {"entity": "node", "type": "struttura_organizzativa", "id": 207}},
         "cosa_serve": {"data":  [
@@ -48,8 +48,8 @@
         "published": 1
       },
       "relationships": {
-        "percorso_di_studio": {"data": {"entity": "taxonomy_term", "type": "percorsi_di_studio", "id": 3052}},
-        "grado_di_istruzione": {"data": {"entity": "taxonomy_term", "type": "percorsi_di_studio", "id": 3051}},
+        "percorso_di_studio": {"data": {"entity": "taxonomy_term", "type": "indirizzi_di_studio", "id": 3052}},
+        "grado_di_istruzione": {"data": {"entity": "taxonomy_term", "type": "indirizzi_di_studio", "id": 3051}},
         "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
         "struttura_didattica": {"data": {"entity": "node", "type": "struttura_organizzativa", "id": 210}},
         "cosa_serve": {"data":  [
@@ -81,8 +81,8 @@
         "published": 1
       },
       "relationships": {
-        "percorso_di_studio": {"data": {"entity": "taxonomy_term", "type": "percorsi_di_studio", "id": 3102}},
-        "grado_di_istruzione": {"data": {"entity": "taxonomy_term", "type": "percorsi_di_studio", "id": 3101}},
+        "percorso_di_studio": {"data": {"entity": "taxonomy_term", "type": "indirizzi_di_studio", "id": 3102}},
+        "grado_di_istruzione": {"data": {"entity": "taxonomy_term", "type": "indirizzi_di_studio", "id": 3101}},
         "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
         "piano_di_studio": {"data": {"paragraph": [201,202,203]}},
         "struttura_didattica": {"data": {"entity": "node", "type": "struttura_organizzativa", "id": 206}},
@@ -115,8 +115,8 @@
         "published": 1
       },
       "relationships": {
-        "percorso_di_studio": {"data": {"entity": "taxonomy_term", "type": "percorsi_di_studio", "id": 3103}},
-        "grado_di_istruzione": {"data": {"entity": "taxonomy_term", "type": "percorsi_di_studio", "id": 3101}},
+        "percorso_di_studio": {"data": {"entity": "taxonomy_term", "type": "indirizzi_di_studio", "id": 3103}},
+        "grado_di_istruzione": {"data": {"entity": "taxonomy_term", "type": "indirizzi_di_studio", "id": 3101}},
         "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
         "struttura_didattica": {"data": {"entity": "node", "type": "struttura_organizzativa", "id": 206}},
         "cosa_serve": {"data":  [
@@ -148,8 +148,8 @@
         "published": 1
       },
       "relationships": {
-        "percorso_di_studio": {"data": {"entity": "taxonomy_term", "type": "percorsi_di_studio", "id": 3004}},
-        "grado_di_istruzione": {"data": {"entity": "taxonomy_term", "type": "percorsi_di_studio", "id": 3001}},
+        "percorso_di_studio": {"data": {"entity": "taxonomy_term", "type": "indirizzi_di_studio", "id": 3004}},
+        "grado_di_istruzione": {"data": {"entity": "taxonomy_term", "type": "indirizzi_di_studio", "id": 3001}},
         "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
         "struttura_didattica": {"data": {"entity": "node", "type": "struttura_organizzativa", "id": 208}},
         "cosa_serve": {"data":  [
@@ -181,8 +181,8 @@
         "published": 1
       },
       "relationships": {
-        "percorso_di_studio": {"data": {"entity": "taxonomy_term", "type": "percorsi_di_studio", "id": 3004}},
-        "grado_di_istruzione": {"data": {"entity": "taxonomy_term", "type": "percorsi_di_studio", "id": 3001}},
+        "percorso_di_studio": {"data": {"entity": "taxonomy_term", "type": "indirizzi_di_studio", "id": 3004}},
+        "grado_di_istruzione": {"data": {"entity": "taxonomy_term", "type": "indirizzi_di_studio", "id": 3001}},
         "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
         "struttura_didattica": {"data": {"entity": "node", "type": "struttura_organizzativa", "id": 209}},
         "cosa_serve": {"data":  [
@@ -214,8 +214,8 @@
         "published": 1
       },
       "relationships": {
-        "percorso_di_studio": {"data": {"entity": "taxonomy_term", "type": "percorsi_di_studio", "id": 3004}},
-        "grado_di_istruzione": {"data": {"entity": "taxonomy_term", "type": "percorsi_di_studio", "id": 3001}},
+        "percorso_di_studio": {"data": {"entity": "taxonomy_term", "type": "indirizzi_di_studio", "id": 3004}},
+        "grado_di_istruzione": {"data": {"entity": "taxonomy_term", "type": "indirizzi_di_studio", "id": 3001}},
         "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
         "struttura_didattica": {"data": {"entity": "node", "type": "struttura_organizzativa", "id": 209}},
         "cosa_serve": {"data":  [
@@ -247,8 +247,8 @@
         "published": 1
       },
       "relationships": {
-        "percorso_di_studio": {"data": {"entity": "taxonomy_term", "type": "percorsi_di_studio", "id": 3052}},
-        "grado_di_istruzione": {"data": {"entity": "taxonomy_term", "type": "percorsi_di_studio", "id": 3051}},
+        "percorso_di_studio": {"data": {"entity": "taxonomy_term", "type": "indirizzi_di_studio", "id": 3052}},
+        "grado_di_istruzione": {"data": {"entity": "taxonomy_term", "type": "indirizzi_di_studio", "id": 3051}},
         "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
         "struttura_didattica": {"data": {"entity": "node", "type": "struttura_organizzativa", "id": 211}},
         "cosa_serve": {"data":  [
@@ -280,8 +280,8 @@
         "published": 1
       },
       "relationships": {
-        "percorso_di_studio": {"data": {"entity": "taxonomy_term", "type": "percorsi_di_studio", "id": 3052}},
-        "grado_di_istruzione": {"data": {"entity": "taxonomy_term", "type": "percorsi_di_studio", "id": 3051}},
+        "percorso_di_studio": {"data": {"entity": "taxonomy_term", "type": "indirizzi_di_studio", "id": 3052}},
+        "grado_di_istruzione": {"data": {"entity": "taxonomy_term", "type": "indirizzi_di_studio", "id": 3051}},
         "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
         "struttura_didattica": {"data": {"entity": "node", "type": "struttura_organizzativa", "id": 212}},
         "cosa_serve": {"data":  [

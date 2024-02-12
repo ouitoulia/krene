@@ -1,0 +1,7 @@
+{
+  "data": [
+    {"entity": "taxonomy_term", "type": "indirizzi_di_studio", "id": 5001, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "indirizzi_di_studio", "id": "0"}}}, "attributes": {"weight":  6, "name": "Università", "description": ""}},
+    {"entity": "taxonomy_term", "type": "indirizzi_di_studio", "id": 5002, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "indirizzi_di_studio", "id": "5001"}}}, "attributes": {"weight":  0, "name": "Master", "description": ""}},
+    {"entity": "taxonomy_term", "type": "indirizzi_di_studio", "id": 5003, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "indirizzi_di_studio", "id": "5001"}}}, "attributes": {"weight":  1, "name": "Dottorato", "description": ""}}
+  ]
+}

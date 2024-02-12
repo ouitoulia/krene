@@ -19,7 +19,7 @@
         "published": 1
       },
       "relationships": {
-        "grado_di_istruzione": {"data": {"entity": "taxonomy_term", "type": "percorsi_di_studio", "id": 3101}},
+        "grado_di_istruzione": {"data": {"entity": "taxonomy_term", "type": "indirizzi_di_studio", "id": 3101}},
         "persona_responsabile": {"data": [
           {"entity": "node", "type": "persona", "id": 10},
           {"entity": "node", "type": "persona", "id": 11}
@@ -57,7 +57,7 @@
         "published": 1
       },
       "relationships": {
-        "grado_di_istruzione": {"data": {"entity": "taxonomy_term", "type": "percorsi_di_studio", "id": 3101}},
+        "grado_di_istruzione": {"data": {"entity": "taxonomy_term", "type": "indirizzi_di_studio", "id": 3101}},
         "persona_responsabile": {"data": [
           {"entity": "node", "type": "persona", "id": 9},
           {"entity": "node", "type": "persona", "id": 10}
@@ -95,7 +95,7 @@
         "published": 1
       },
       "relationships": {
-        "grado_di_istruzione": {"data": {"entity": "taxonomy_term", "type": "percorsi_di_studio", "id": 3101}},
+        "grado_di_istruzione": {"data": {"entity": "taxonomy_term", "type": "indirizzi_di_studio", "id": 3101}},
         "persona_responsabile": {"data": [
           {"entity": "node", "type": "persona", "id": 8},
           {"entity": "node", "type": "persona", "id": 9}
@@ -133,7 +133,7 @@
         "published": 1
       },
       "relationships": {
-        "grado_di_istruzione": {"data": {"entity": "taxonomy_term", "type": "percorsi_di_studio", "id": 3101}},
+        "grado_di_istruzione": {"data": {"entity": "taxonomy_term", "type": "indirizzi_di_studio", "id": 3101}},
         "persona_responsabile": {"data": [
           {"entity": "node", "type": "persona", "id": 3},
           {"entity": "node", "type": "persona", "id": 4}
