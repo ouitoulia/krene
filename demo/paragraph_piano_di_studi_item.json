@@ -198,6 +198,147 @@
       "entity": "paragraph", "type": "piano_di_studi_item", "id": 139, "language": "it",
       "attributes": {"ore_settimanali": 3, "monte_ore": 99},
       "relationships": {"materia": {"data": {"entity": "taxonomy_term", "type": "materie", "id": 2125}}}
+    },
+
+
+    {
+      "entity": "paragraph", "type": "piano_di_studi_item", "id": 140, "language": "it",
+      "attributes": {"ore_settimanali": 10, "monte_ore": 330},
+      "relationships": {"materia": {"data": {"entity": "taxonomy_term", "type": "materie", "id": 2102}}}
+    },
+    {
+      "entity": "paragraph", "type": "piano_di_studi_item", "id": 141, "language": "it",
+      "attributes": {"ore_settimanali": 3, "monte_ore": 99},
+      "relationships": {"materia": {"data": {"entity": "taxonomy_term", "type": "materie", "id": 2109}}}
+    },
+    {
+      "entity": "paragraph", "type": "piano_di_studi_item", "id": 142, "language": "it",
+      "attributes": {"ore_settimanali": 2, "monte_ore": 66},
+      "relationships": {"materia": {"data": {"entity": "taxonomy_term", "type": "materie", "id": 2108}}}
+    },
+    {
+      "entity": "paragraph", "type": "piano_di_studi_item", "id": 143, "language": "it",
+      "attributes": {"ore_settimanali": 6, "monte_ore": 198},
+      "relationships": {"materia": {"data": {"entity": "taxonomy_term", "type": "materie", "id": 2103}}}
+    },
+    {
+      "entity": "paragraph", "type": "piano_di_studi_item", "id": 144, "language": "it",
+      "attributes": {"ore_settimanali": 2, "monte_ore": 66},
+      "relationships": {"materia": {"data": {"entity": "taxonomy_term", "type": "materie", "id": 2101}}}
+    },
+    {
+      "entity": "paragraph", "type": "piano_di_studi_item", "id": 145, "language": "it",
+      "attributes": {"ore_settimanali": 2, "monte_ore": 66},
+      "relationships": {"materia": {"data": {"entity": "taxonomy_term", "type": "materie", "id": 2104}}}
+    },
+    {
+      "entity": "paragraph", "type": "piano_di_studi_item", "id": 146, "language": "it",
+      "attributes": {"ore_settimanali": 2, "monte_ore": 66},
+      "relationships": {"materia": {"data": {"entity": "taxonomy_term", "type": "materie", "id": 2105}}}
+    },
+    {
+      "entity": "paragraph", "type": "piano_di_studi_item", "id": 147, "language": "it",
+      "attributes": {"ore_settimanali": 2, "monte_ore": 66},
+      "relationships": {"materia": {"data": {"entity": "taxonomy_term", "type": "materie", "id": 2106}}}
+    },
+    {
+      "entity": "paragraph", "type": "piano_di_studi_item", "id": 148, "language": "it",
+      "attributes": {"ore_settimanali": 1, "monte_ore": 33},
+      "relationships": {"materia": {"data": {"entity": "taxonomy_term", "type": "materie", "id": 2127}}}
+    },
+
+
+    {
+      "entity": "paragraph", "type": "piano_di_studi_item", "id": 149, "language": "it",
+      "attributes": {"ore_settimanali": 10, "monte_ore": 330},
+      "relationships": {"materia": {"data": {"entity": "taxonomy_term", "type": "materie", "id": 2102}}}
+    },
+    {
+      "entity": "paragraph", "type": "piano_di_studi_item", "id": 150, "language": "it",
+      "attributes": {"ore_settimanali": 3, "monte_ore": 99},
+      "relationships": {"materia": {"data": {"entity": "taxonomy_term", "type": "materie", "id": 2109}}}
+    },
+    {
+      "entity": "paragraph", "type": "piano_di_studi_item", "id": 151, "language": "it",
+      "attributes": {"ore_settimanali": 2, "monte_ore": 66},
+      "relationships": {"materia": {"data": {"entity": "taxonomy_term", "type": "materie", "id": 2108}}}
+    },
+    {
+      "entity": "paragraph", "type": "piano_di_studi_item", "id": 152, "language": "it",
+      "attributes": {"ore_settimanali": 6, "monte_ore": 198},
+      "relationships": {"materia": {"data": {"entity": "taxonomy_term", "type": "materie", "id": 2103}}}
+    },
+    {
+      "entity": "paragraph", "type": "piano_di_studi_item", "id": 153, "language": "it",
+      "attributes": {"ore_settimanali": 2, "monte_ore": 66},
+      "relationships": {"materia": {"data": {"entity": "taxonomy_term", "type": "materie", "id": 2101}}}
+    },
+    {
+      "entity": "paragraph", "type": "piano_di_studi_item", "id": 154, "language": "it",
+      "attributes": {"ore_settimanali": 2, "monte_ore": 66},
+      "relationships": {"materia": {"data": {"entity": "taxonomy_term", "type": "materie", "id": 2104}}}
+    },
+    {
+      "entity": "paragraph", "type": "piano_di_studi_item", "id": 155, "language": "it",
+      "attributes": {"ore_settimanali": 2, "monte_ore": 66},
+      "relationships": {"materia": {"data": {"entity": "taxonomy_term", "type": "materie", "id": 2105}}}
+    },
+    {
+      "entity": "paragraph", "type": "piano_di_studi_item", "id": 156, "language": "it",
+      "attributes": {"ore_settimanali": 2, "monte_ore": 66},
+      "relationships": {"materia": {"data": {"entity": "taxonomy_term", "type": "materie", "id": 2106}}}
+    },
+    {
+      "entity": "paragraph", "type": "piano_di_studi_item", "id": 157, "language": "it",
+      "attributes": {"ore_settimanali": 1, "monte_ore": 33},
+      "relationships": {"materia": {"data": {"entity": "taxonomy_term", "type": "materie", "id": 2127}}}
+    },
+
+
+    {
+      "entity": "paragraph", "type": "piano_di_studi_item", "id": 158, "language": "it",
+      "attributes": {"ore_settimanali": 10, "monte_ore": 330},
+      "relationships": {"materia": {"data": {"entity": "taxonomy_term", "type": "materie", "id": 2102}}}
+    },
+    {
+      "entity": "paragraph", "type": "piano_di_studi_item", "id": 159, "language": "it",
+      "attributes": {"ore_settimanali": 3, "monte_ore": 99},
+      "relationships": {"materia": {"data": {"entity": "taxonomy_term", "type": "materie", "id": 2109}}}
+    },
+    {
+      "entity": "paragraph", "type": "piano_di_studi_item", "id": 160, "language": "it",
+      "attributes": {"ore_settimanali": 2, "monte_ore": 66},
+      "relationships": {"materia": {"data": {"entity": "taxonomy_term", "type": "materie", "id": 2108}}}
+    },
+    {
+      "entity": "paragraph", "type": "piano_di_studi_item", "id": 161, "language": "it",
+      "attributes": {"ore_settimanali": 6, "monte_ore": 198},
+      "relationships": {"materia": {"data": {"entity": "taxonomy_term", "type": "materie", "id": 2103}}}
+    },
+    {
+      "entity": "paragraph", "type": "piano_di_studi_item", "id": 162, "language": "it",
+      "attributes": {"ore_settimanali": 2, "monte_ore": 66},
+      "relationships": {"materia": {"data": {"entity": "taxonomy_term", "type": "materie", "id": 2101}}}
+    },
+    {
+      "entity": "paragraph", "type": "piano_di_studi_item", "id": 163, "language": "it",
+      "attributes": {"ore_settimanali": 2, "monte_ore": 66},
+      "relationships": {"materia": {"data": {"entity": "taxonomy_term", "type": "materie", "id": 2104}}}
+    },
+    {
+      "entity": "paragraph", "type": "piano_di_studi_item", "id": 164, "language": "it",
+      "attributes": {"ore_settimanali": 2, "monte_ore": 66},
+      "relationships": {"materia": {"data": {"entity": "taxonomy_term", "type": "materie", "id": 2105}}}
+    },
+    {
+      "entity": "paragraph", "type": "piano_di_studi_item", "id": 165, "language": "it",
+      "attributes": {"ore_settimanali": 2, "monte_ore": 66},
+      "relationships": {"materia": {"data": {"entity": "taxonomy_term", "type": "materie", "id": 2106}}}
+    },
+    {
+      "entity": "paragraph", "type": "piano_di_studi_item", "id": 166, "language": "it",
+      "attributes": {"ore_settimanali": 1, "monte_ore": 33},
+      "relationships": {"materia": {"data": {"entity": "taxonomy_term", "type": "materie", "id": 2127}}}
     }
   ]
 }

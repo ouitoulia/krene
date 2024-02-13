@@ -14,6 +14,23 @@
       "entity": "paragraph", "type": "piano_di_studi", "id": 203, "language": "it",
       "attributes": {"tipo_periodo": "anno", "periodo": 3},
       "relationships": {"piano_di_studi_item": {"data": {"paragraph": [127,128,129,130,131,132,133,134,135,136,137,138,139]}}}
+    },
+
+
+    {
+      "entity": "paragraph", "type": "piano_di_studi", "id": 204, "language": "it",
+      "attributes": {"tipo_periodo": "anno", "periodo": 1},
+      "relationships": {"piano_di_studi_item": {"data": {"paragraph": [140,141,142,143,144,145,146,147,148]}}}
+    },
+    {
+      "entity": "paragraph", "type": "piano_di_studi", "id": 205, "language": "it",
+      "attributes": {"tipo_periodo": "anno", "periodo": 2},
+      "relationships": {"piano_di_studi_item": {"data": {"paragraph": [149,150,151,152,153,154,155,157,157]}}}
+    },
+    {
+      "entity": "paragraph", "type": "piano_di_studi", "id": 206, "language": "it",
+      "attributes": {"tipo_periodo": "anno", "periodo": 3},
+      "relationships": {"piano_di_studi_item": {"data": {"paragraph": [158,159,160,161,162,163,164,165,166]}}}
     }
   ]
 }
