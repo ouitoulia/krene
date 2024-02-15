@@ -1,0 +1,172 @@
+{
+  "data": [
+    {
+      "entity": "node", "type": "classe", "id": 1001,
+      "attributes": {
+        "nome": "1A #2024/2025",
+        "annualita_classe": "1",
+        "sezione": "A",
+        "rappresentanti_genitori": ["Lucia Rosa","Mario Rossi", "Antonello Verdi"],
+        "rappresentanti_alunni": ["Nicoletta Bianchi","Luigi Italia"],
+        "language": "it",
+        "published": 1
+      },
+      "relationships": {
+        "struttura_didattica": {"data": {"entity": "node", "type": "struttura_organizzativa", "id": 206}},
+        "percorso_di_studio": {"data": {"entity": "node", "type": "percorso_di_studio", "id": 703}},
+        "anno_scolastico": {"data": {"entity": "node", "type": "anni_scolastici", "id": 15}},
+        "persona_responsabile": {"data": [
+          {"entity": "node", "type": "persona", "id": 11}
+        ]},
+        "persone": {"data": [
+          {"entity": "node", "type": "persona", "id": 9},
+          {"entity": "node", "type": "persona", "id": 4},
+          {"entity": "node", "type": "persona", "id": 7},
+          {"entity": "node", "type": "persona", "id": 6},
+          {"entity": "node", "type": "persona", "id": 8}
+        ]},
+        "orario_lezioni": {"data": {"entity": "media", "type": "document", "id": 23}}
+      }
+    },
+    {
+      "entity": "node", "type": "classe", "id": 1002,
+      "attributes": {
+        "nome": "2A #2024/2025",
+        "annualita_classe": "2",
+        "sezione": "A",
+        "rappresentanti_genitori": ["Lucia Rosa","Mario Rossi", "Antonello Verdi"],
+        "rappresentanti_alunni": ["Nicoletta Bianchi","Luigi Italia"],
+        "language": "it",
+        "published": 1
+      },
+      "relationships": {
+        "struttura_didattica": {"data": {"entity": "node", "type": "struttura_organizzativa", "id": 206}},
+        "percorso_di_studio": {"data": {"entity": "node", "type": "percorso_di_studio", "id": 703}},
+        "anno_scolastico": {"data": {"entity": "node", "type": "anni_scolastici", "id": 15}},
+        "persona_responsabile": {"data": [
+          {"entity": "node", "type": "persona", "id": 11}
+        ]},
+        "persone": {"data": [
+          {"entity": "node", "type": "persona", "id": 9},
+          {"entity": "node", "type": "persona", "id": 4},
+          {"entity": "node", "type": "persona", "id": 7},
+          {"entity": "node", "type": "persona", "id": 6},
+          {"entity": "node", "type": "persona", "id": 8}
+        ]},
+        "orario_lezioni": {"data": {"entity": "media", "type": "document", "id": 23}}
+      }
+    },
+    {
+      "entity": "node", "type": "classe", "id": 1003,
+      "attributes": {
+        "nome": "3A #2024/2025",
+        "annualita_classe": "3",
+        "sezione": "A",
+        "rappresentanti_genitori": ["Lucia Rosa","Mario Rossi", "Antonello Verdi"],
+        "rappresentanti_alunni": ["Nicoletta Bianchi","Luigi Italia"],
+        "language": "it",
+        "published": 1
+      },
+      "relationships": {
+        "struttura_didattica": {"data": {"entity": "node", "type": "struttura_organizzativa", "id": 206}},
+        "percorso_di_studio": {"data": {"entity": "node", "type": "percorso_di_studio", "id": 703}},
+        "anno_scolastico": {"data": {"entity": "node", "type": "anni_scolastici", "id": 15}},
+        "persona_responsabile": {"data": [
+          {"entity": "node", "type": "persona", "id": 11}
+        ]},
+        "persone": {"data": [
+          {"entity": "node", "type": "persona", "id": 9},
+          {"entity": "node", "type": "persona", "id": 4},
+          {"entity": "node", "type": "persona", "id": 7},
+          {"entity": "node", "type": "persona", "id": 6},
+          {"entity": "node", "type": "persona", "id": 8}
+        ]},
+        "orario_lezioni": {"data": {"entity": "media", "type": "document", "id": 23}}
+      }
+    },
+    {
+      "entity": "node", "type": "classe", "id": 1004,
+      "attributes": {
+        "nome": "1B #2024/2025",
+        "annualita_classe": "1",
+        "sezione": "B",
+        "rappresentanti_genitori": ["Lucia Rosa","Mario Rossi", "Antonello Verdi"],
+        "rappresentanti_alunni": ["Nicoletta Bianchi","Luigi Italia"],
+        "language": "it",
+        "published": 1
+      },
+      "relationships": {
+        "struttura_didattica": {"data": {"entity": "node", "type": "struttura_organizzativa", "id": 206}},
+        "percorso_di_studio": {"data": {"entity": "node", "type": "percorso_di_studio", "id": 704}},
+        "anno_scolastico": {"data": {"entity": "node", "type": "anni_scolastici", "id": 15}},
+        "persona_responsabile": {"data": [
+          {"entity": "node", "type": "persona", "id": 11}
+        ]},
+        "persone": {"data": [
+          {"entity": "node", "type": "persona", "id": 9},
+          {"entity": "node", "type": "persona", "id": 4},
+          {"entity": "node", "type": "persona", "id": 7},
+          {"entity": "node", "type": "persona", "id": 6},
+          {"entity": "node", "type": "persona", "id": 8}
+        ]},
+        "orario_lezioni": {"data": {"entity": "media", "type": "document", "id": 23}}
+      }
+    },
+    {
+      "entity": "node", "type": "classe", "id": 1005,
+      "attributes": {
+        "nome": "2B #2024/2025",
+        "annualita_classe": "2",
+        "sezione": "B",
+        "rappresentanti_genitori": ["Lucia Rosa","Mario Rossi", "Antonello Verdi"],
+        "rappresentanti_alunni": ["Nicoletta Bianchi","Luigi Italia"],
+        "language": "it",
+        "published": 1
+      },
+      "relationships": {
+        "struttura_didattica": {"data": {"entity": "node", "type": "struttura_organizzativa", "id": 206}},
+        "percorso_di_studio": {"data": {"entity": "node", "type": "percorso_di_studio", "id": 704}},
+        "anno_scolastico": {"data": {"entity": "node", "type": "anni_scolastici", "id": 15}},
+        "persona_responsabile": {"data": [
+          {"entity": "node", "type": "persona", "id": 11}
+        ]},
+        "persone": {"data": [
+          {"entity": "node", "type": "persona", "id": 9},
+          {"entity": "node", "type": "persona", "id": 4},
+          {"entity": "node", "type": "persona", "id": 7},
+          {"entity": "node", "type": "persona", "id": 6},
+          {"entity": "node", "type": "persona", "id": 8}
+        ]},
+        "orario_lezioni": {"data": {"entity": "media", "type": "document", "id": 23}}
+      }
+    },
+    {
+      "entity": "node", "type": "classe", "id": 1006,
+      "attributes": {
+        "nome": "3B #2024/2025",
+        "annualita_classe": "3",
+        "sezione": "B",
+        "rappresentanti_genitori": ["Lucia Rosa","Mario Rossi", "Antonello Verdi"],
+        "rappresentanti_alunni": ["Nicoletta Bianchi","Luigi Italia"],
+        "language": "it",
+        "published": 1
+      },
+      "relationships": {
+        "struttura_didattica": {"data": {"entity": "node", "type": "struttura_organizzativa", "id": 206}},
+        "percorso_di_studio": {"data": {"entity": "node", "type": "percorso_di_studio", "id": 704}},
+        "anno_scolastico": {"data": {"entity": "node", "type": "anni_scolastici", "id": 15}},
+        "persona_responsabile": {"data": [
+          {"entity": "node", "type": "persona", "id": 11}
+        ]},
+        "persone": {"data": [
+          {"entity": "node", "type": "persona", "id": 9},
+          {"entity": "node", "type": "persona", "id": 4},
+          {"entity": "node", "type": "persona", "id": 7},
+          {"entity": "node", "type": "persona", "id": 6},
+          {"entity": "node", "type": "persona", "id": 8}
+        ]},
+        "orario_lezioni": {"data": {"entity": "media", "type": "document", "id": 23}}
+      }
+    }
+  ]
+}
