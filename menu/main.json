@@ -1,0 +1,215 @@
+{
+  "data": [
+    {
+      "id": 1, "uuid": "2043ed8b-40ee-4437-8e5d-f6b27f93d2c6", "langcode": "it",
+      "attributes": { "label": "Scuola", "description": "", "type": "main", "weight": -50, "expanded": 1},
+      "link": {
+        "uri": "internal:#", "title": "",
+        "options": {"attributes": {"data-element-child": "school-submenu"}, "container_attributes": {"class": ["section-school"]}}
+      }
+    },
+    {
+      "id": 2, "uuid": "c459014b-4937-44f3-bb0f-05a942eff503", "langcode": "it",
+      "attributes": {"label": "Servizi", "description": "", "type": "main", "weight": -40, "expanded": 1},
+      "link": {
+        "uri": "internal:#",
+        "options": {"attributes": {"data-element-child": "services-submenu"}, "container_attributes": {"class": ["section-services"]}}
+      }
+    },
+    {
+      "id": 3, "uuid": "dd7d6ff9-825c-4447-9496-94379ed7d868", "langcode": "it",
+      "attributes": {"label": "Novità", "description": "", "type": "main", "weight": -30, "expanded": 1},
+      "link": {
+        "uri": "internal:#", "title": "",
+        "options": {"attributes": {"data-element-child": "news-submenu"}, "container_attributes": {"class": ["section-news"]}}
+      }
+    },
+    {
+      "id": 4, "uuid": "0c11e378-1f9f-4dec-9d42-a15dabe4d933", "langcode": "it",
+      "attributes": {"label": "Didattica", "description": "", "type": "main", "weight": -20, "expanded": 1},
+      "link": {
+        "uri": "internal:#", "title": "",
+        "options": {"attributes": {"data-element-child": "teaching-submenu"}, "container_attributes": {"class": ["section-learning"]}}
+      }
+    },
+
+    {
+      "id": 5, "uuid": "62347b1e-3f4b-43de-8889-8b485529ab85", "langcode": "it",
+      "attributes": {"label": "Panoramica", "description": "", "type": "main", "weight": -50},
+      "link": {
+        "uri": "internal:#", "title": "",
+        "options": {"container_attributes": {"class": ["menu-title"]}}
+      },
+      "parent": {"uuid": "2043ed8b-40ee-4437-8e5d-f6b27f93d2c6"}
+    },
+    {
+      "id": 6, "uuid": "761b6630-e0fa-412c-a432-7ee5dec93e7b", "langcode": "it",
+      "attributes": {"label": "Presentazione", "description": "", "type": "main", "weight": 0},
+      "link": {
+        "uri": "internal:#", "title": ""
+      },
+      "parent": {"uuid": "2043ed8b-40ee-4437-8e5d-f6b27f93d2c6"}
+    },
+    {
+      "id": 7, "uuid": "3403ec1f-6320-42f3-a764-b4f048dfdd60", "langcode": "it",
+      "attributes": {"label": "I luoghi", "description": "", "type": "main", "weight": 1},
+      "link": {
+        "uri": "internal:#", "title": ""
+      },
+      "parent": {"uuid": "2043ed8b-40ee-4437-8e5d-f6b27f93d2c6"}
+    },
+    {
+      "id": 8, "uuid": "813421f5-2b3f-4041-b94d-43bcebad5604", "langcode": "it",
+      "attributes": {"label": "Le carte della scuola", "description": "", "type": "main", "weight": 2},
+      "link": {
+        "uri": "internal:#", "title": ""
+      },
+      "parent": {"uuid": "2043ed8b-40ee-4437-8e5d-f6b27f93d2c6"}
+    },
+    {
+      "id": 9, "uuid": "3eff0bcc-9e6b-49b7-9d5b-6819d689ba4b", "langcode": "it",
+      "attributes": {"label": "Organizzazione", "description": "", "type": "main", "weight": 3},
+      "link": {
+        "uri": "internal:#", "title": ""
+      },
+      "parent": {"uuid": "2043ed8b-40ee-4437-8e5d-f6b27f93d2c6"}
+    },
+    {
+      "id": 10, "uuid": "0a0c382b-8e3c-466a-b0b2-f85ab7c60aa4", "langcode": "it",
+      "attributes": {"label": "Le persone", "description": "", "type": "main", "weight": 4},
+      "link": {
+        "uri": "internal:#", "title": ""
+      },
+      "parent": {"uuid": "2043ed8b-40ee-4437-8e5d-f6b27f93d2c6"}
+    },
+    {
+      "id": 11, "uuid": "2bfbf0ea-382e-4aba-a7df-a6591d0393ba", "langcode": "it",
+      "attributes": {"label": "I numeri della scuola", "description": "", "type": "main", "weight": 5},
+      "link": {
+        "uri": "internal:#", "title": ""
+      },
+      "parent": {"uuid": "2043ed8b-40ee-4437-8e5d-f6b27f93d2c6"}
+    },
+    {
+      "id": 12, "uuid": "755acd59-737f-4c5f-96d7-0e26804a4b82", "langcode": "it",
+      "attributes": {"label": "La storia", "description": "", "type": "main", "weight": 6},
+      "link": {
+        "uri": "internal:#", "title": ""
+      },
+      "parent": {"uuid": "2043ed8b-40ee-4437-8e5d-f6b27f93d2c6"}
+    },
+
+
+    {
+      "id": 13, "uuid": "ca996b21-a128-4f12-839e-6d18283fef92", "langcode": "it",
+      "attributes": {"label": "Panoramica", "description": "", "type": "main", "weight": -50},
+      "link": {
+        "uri": "internal:#", "title": "",
+        "options": {"container_attributes": {"class": ["menu-title"]}}
+      },
+      "parent": {"uuid": "c459014b-4937-44f3-bb0f-05a942eff503"}
+    },
+    {
+      "id": 14, "uuid": "b1cc90e3-8f37-47c7-9649-afe527b0db88", "langcode": "it",
+      "attributes": {"label": "Personale scolastico", "description": "", "type": "main", "weight": 0},
+      "link": {
+        "uri": "internal:#", "title": ""
+      },
+      "parent": {"uuid": "c459014b-4937-44f3-bb0f-05a942eff503"}
+    },
+    {
+      "id": 15, "uuid": "ce1a964f-158f-427d-bf59-e26490241c89", "langcode": "it",
+      "attributes": {"label": "Famiglie e studenti", "description": "", "type": "main", "weight": 1},
+      "link": {
+        "uri": "internal:#", "title": ""
+      },
+      "parent": {"uuid": "c459014b-4937-44f3-bb0f-05a942eff503"}
+    },
+    {
+      "id": 16, "uuid": "ec721775-24d7-4f36-b6db-9c7fd433e312", "langcode": "it",
+      "attributes": {"label": "Percorsi di studio", "description": "", "type": "main", "weight": 2},
+      "link": {
+        "uri": "internal:#", "title": ""
+      },
+      "parent": {"uuid": "c459014b-4937-44f3-bb0f-05a942eff503"}
+    },
+
+
+    {
+      "id": 17, "uuid": "7a45b95a-4b9f-4b6b-886a-ca72fbf2c2a8", "langcode": "it",
+      "attributes": {"label": "Panoramica", "description": "", "type": "main", "weight": -50},
+      "link": {
+        "uri": "internal:#", "title": "",
+        "options": {"container_attributes": {"class": ["menu-title"]}}
+      },
+      "parent": {"uuid": "dd7d6ff9-825c-4447-9496-94379ed7d868"}
+    },
+    {
+      "id": 18, "uuid": "d7acc8b9-974c-4cf6-940a-518132c79ac7", "langcode": "it",
+      "attributes": {"label": "Le notizie", "description": "", "type": "main", "weight": 0},
+      "link": {
+        "uri": "internal:#", "title": ""
+      },
+      "parent": {"uuid": "dd7d6ff9-825c-4447-9496-94379ed7d868"}
+    },
+    {
+      "id": 19, "uuid": "eeed8660-e809-401f-8d80-ff4c6ab031a1", "langcode": "it",
+      "attributes": {"label": "Le circolari", "description": "", "type": "main", "weight": 1},
+      "link": {
+        "uri": "internal:#", "title": ""
+      },
+      "parent": {"uuid": "dd7d6ff9-825c-4447-9496-94379ed7d868"}
+    },
+    {
+      "id": 20, "uuid": "153450f9-d3bd-43fa-801b-50eca816c489", "langcode": "it",
+      "attributes": {"label": "Calendario eventi", "description": "", "type": "main", "weight": 2},
+      "link": {
+        "uri": "internal:#", "title": ""
+      },
+      "parent": {"uuid": "dd7d6ff9-825c-4447-9496-94379ed7d868"}
+    },
+    {
+      "id": 21, "uuid": "6ae38c27-3375-419d-8dd3-92f265792603", "langcode": "it",
+      "attributes": {"label": "Albo online", "description": "", "type": "main", "weight": 3},
+      "link": {
+        "uri": "internal:#", "title": ""
+      },
+      "parent": {"uuid": "dd7d6ff9-825c-4447-9496-94379ed7d868"}
+    },
+
+
+    {
+      "id": 22, "uuid": "6f3a2924-4413-4b81-8984-8c70df7be8da", "langcode": "it",
+      "attributes": {"label": "Panoramica", "description": "", "type": "main", "weight": -50},
+      "link": {
+        "uri": "internal:#", "title": "",
+        "options": {"container_attributes": {"class": ["menu-title"]}}
+      },
+      "parent": {"uuid": "0c11e378-1f9f-4dec-9d42-a15dabe4d933"}
+    },
+    {
+      "id": 23, "uuid": "4dcbf6df-33e3-4681-a592-a2d1eb36dbc7", "langcode": "it",
+      "attributes": {"label": "Offerta formativa", "description": "", "type": "main", "weight": 0},
+      "link": {
+        "uri": "internal:#", "title": ""
+      },
+      "parent": {"uuid": "0c11e378-1f9f-4dec-9d42-a15dabe4d933"}
+    },
+    {
+      "id": 24, "uuid": "6160fe83-d844-4774-9312-1176de7b43d3", "langcode": "it",
+      "attributes": {"label": "Le schede didattiche", "description": "", "type": "main", "weight": 1},
+      "link": {
+        "uri": "internal:#", "title": ""
+      },
+      "parent": {"uuid": "0c11e378-1f9f-4dec-9d42-a15dabe4d933"}
+    },
+    {
+      "id": 25, "uuid": "7cf049cc-9f98-4ba7-9685-034a1ebc01e4", "langcode": "it",
+      "attributes": {"label": "I progetti delle classi", "description": "", "type": "main", "weight": 2},
+      "link": {
+        "uri": "internal:#", "title": ""
+      },
+      "parent": {"uuid": "0c11e378-1f9f-4dec-9d42-a15dabe4d933"}
+    }
+  ]
+}

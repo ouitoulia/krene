@@ -1,3 +1,4 @@
+-NODI
 persona                 1-100
 luogo                   101-200
 struttura_organizzativa 201-300
@@ -10,10 +11,15 @@ progetto                801-900
 scheda_didattica        901-1000
 classe                  1001-1001
 
+-PARAGRAFI
 call_to_action          1-100
 piano_di_studio_item    101-200
 piano_di_studio         201-300
 
+-MENU
+main                    1-50
+
+-TASSONOMIE
 anni_scolastici               1-
 attributi_dei_luoghi          101-
 azioni                        201-
