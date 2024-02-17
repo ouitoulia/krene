@@ -21,6 +21,7 @@
 - [Destinatari](taxonomy/destinatari.json)
 - [Destinazione d'uso](taxonomy/destinazione_uso.json)
 - [Ruoli persona](taxonomy/ruoli_persona.json)
+- [Stato progetti](taxonomy/stato_progetti.json)
 - [Tipologia autenticazioni](taxonomy/tipologia_autenticazioni.json)
 - [Tipologia eventi](taxonomy/tipologia_eventi.json)
 - [Tipologia incarichi](taxonomy/tipologia_incarichi.json)
@@ -48,6 +49,13 @@
 - [Tipo di contenuto Partner](demo/partner.json)
 - [Tipo di contenuto Evento](demo/evento.json)
 - [Tipo di contenuto Servizio](demo/servizio.json)
+- [Tipo di contenuto Notizia](demo/notizia.json)
+- [Tipo di contenuto Percorso di studio](demo/percorso_di_studio.json)
+- [Tipo di contenuto Progetto](demo/progetto.json)
+- [Tipo di contenuto Scheda didattica](demo/scheda_didattica.json)
+- [Tipo di contenuto Classe](demo/classe.json)
+- [Tassonomia Autori ed editori](demo/autori_editori.json)
+- [tipo di contenuto Libro](demo/libro.json)
 
 ## License
 

@@ -1,4 +1,4 @@
--NODI
+-NODI DEMO
 persona                 1-100
 luogo                   101-200
 struttura_organizzativa 201-300
@@ -11,15 +11,19 @@ progetto                801-900
 scheda_didattica        901-1000
 classe                  1001-1001
 
--PARAGRAFI
+
+tassonomia_autori       10001-
+tassonomia_editori      101001-
+
+-PARAGRAFI DEMO
 call_to_action          1-100
 piano_di_studio_item    101-200
 piano_di_studio         201-300
 
--MENU
+-MENU PRODUZIONE
 main                    1-50
 
--TASSONOMIE
+-TASSONOMIE PRODUZIONE
 anni_scolastici               1-
 attributi_dei_luoghi          101-
 azioni                        201-
@@ -50,4 +54,4 @@ percorsi_di_studio/superiore  3201-3400
 percorsi_di_studio/afam       4001-
 percorsi_di_studio/università 5001-
 competenze                    8001-
-amministrazione_trasparente   9001-
+amministrazione_trasparente   9001-10000
