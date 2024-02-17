@@ -38,7 +38,7 @@
       "attributes": {"label": "Panoramica", "description": "", "type": "main", "weight": -50},
       "link": {
         "uri": "internal:#", "title": "",
-        "options": {"container_attributes": {"class": ["menu-title"]}}
+        "options": {"attributes": {"data-element": "overview"}, "container_attributes": {"class": ["menu-title"]}}
       },
       "parent": {"uuid": "2043ed8b-40ee-4437-8e5d-f6b27f93d2c6"}
     },
@@ -105,7 +105,7 @@
       "attributes": {"label": "Panoramica", "description": "", "type": "main", "weight": -50},
       "link": {
         "uri": "internal:#", "title": "",
-        "options": {"container_attributes": {"class": ["menu-title"]}}
+        "options": {"attributes": {"data-element": "overview"}, "container_attributes": {"class": ["menu-title"]}}
       },
       "parent": {"uuid": "c459014b-4937-44f3-bb0f-05a942eff503"}
     },
@@ -140,7 +140,7 @@
       "attributes": {"label": "Panoramica", "description": "", "type": "main", "weight": -50},
       "link": {
         "uri": "internal:#", "title": "",
-        "options": {"container_attributes": {"class": ["menu-title"]}}
+        "options": {"attributes": {"data-element": "overview"}, "container_attributes": {"class": ["menu-title"]}}
       },
       "parent": {"uuid": "dd7d6ff9-825c-4447-9496-94379ed7d868"}
     },
@@ -183,7 +183,7 @@
       "attributes": {"label": "Panoramica", "description": "", "type": "main", "weight": -50},
       "link": {
         "uri": "internal:#", "title": "",
-        "options": {"container_attributes": {"class": ["menu-title"]}}
+        "options": {"attributes": {"data-element": "overview"}, "container_attributes": {"class": ["menu-title"]}}
       },
       "parent": {"uuid": "0c11e378-1f9f-4dec-9d42-a15dabe4d933"}
     },
