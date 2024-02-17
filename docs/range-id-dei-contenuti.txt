@@ -11,7 +11,6 @@ progetto                801-900
 scheda_didattica        901-1000
 classe                  1001-1001
 
-
 tassonomia_autori       10001-
 tassonomia_editori      101001-
 
@@ -26,16 +25,19 @@ main                    1-50
 -TASSONOMIE PRODUZIONE
 anni_scolastici               1-
 attributi_dei_luoghi          101-
-azioni                        201-
+azioni                        201-250
+autori                        251-
 cosa_serve                    301-
 destinatari                   401-
-destinazione_uso              501-
+destinazione_uso              501-550
+editori                       551-
 stato_progetti                551-
 tipologia_autenticazioni      601-
 tipologia_eventi              701-
 tipologia_incarichi           751-
 tipologia_istituti            801-
-tipologia_licenze             901-
+tipologia_licenze             901-950
+tipologia_libri               951-1000
 tipologia_luoghi              1001-
 tipologia_posti               1051-
 tipologia_progetti            1101-
