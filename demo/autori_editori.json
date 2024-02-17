@@ -8,12 +8,12 @@
     {"entity": "taxonomy_term", "type": "autori", "id": 10006, "attributes": {"name": "Michele Quadrato"}},
     {"entity": "taxonomy_term", "type": "autori", "id": 10007, "attributes": {"name": "Alberto Motore"}},
 
-    {"entity": "taxonomy_term", "type": "autori", "id": 10101, "attributes": {"name": "Lancere Edizioni"}},
-    {"entity": "taxonomy_term", "type": "autori", "id": 10102, "attributes": {"name": "Alas Editore"}},
-    {"entity": "taxonomy_term", "type": "autori", "id": 10103, "attributes": {"name": "Zecchini S.p.a."}},
-    {"entity": "taxonomy_term", "type": "autori", "id": 10104, "attributes": {"name": "Ferro Editore"}},
-    {"entity": "taxonomy_term", "type": "autori", "id": 10105, "attributes": {"name": "Mattone L. Edizioni"}},
-    {"entity": "taxonomy_term", "type": "autori", "id": 10106, "attributes": {"name": "Juno Editore"}},
-    {"entity": "taxonomy_term", "type": "autori", "id": 10107, "attributes": {"name": "LaTeX Editore"}}
+    {"entity": "taxonomy_term", "type": "editori", "id": 10101, "attributes": {"name": "Lancere Edizioni"}},
+    {"entity": "taxonomy_term", "type": "editori", "id": 10102, "attributes": {"name": "Alas Editore"}},
+    {"entity": "taxonomy_term", "type": "editori", "id": 10103, "attributes": {"name": "Zecchini S.p.a."}},
+    {"entity": "taxonomy_term", "type": "editori", "id": 10104, "attributes": {"name": "Ferro Editore"}},
+    {"entity": "taxonomy_term", "type": "editori", "id": 10105, "attributes": {"name": "Mattone L. Edizioni"}},
+    {"entity": "taxonomy_term", "type": "editori", "id": 10106, "attributes": {"name": "Juno Editore"}},
+    {"entity": "taxonomy_term", "type": "editori", "id": 10107, "attributes": {"name": "LaTeX Editore"}}
   ]
 }
