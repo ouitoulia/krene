@@ -54,7 +54,8 @@
       "id": 7, "uuid": "3403ec1f-6320-42f3-a764-b4f048dfdd60", "langcode": "it",
       "attributes": {"label": "I luoghi", "description": "", "type": "main", "weight": 1},
       "link": {
-        "uri": "internal:#", "title": ""
+        "uri": "internal:#", "title": "",
+        "options": {"attributes": {"data-element": "school-locations"}}
       },
       "parent": {"uuid": "2043ed8b-40ee-4437-8e5d-f6b27f93d2c6"}
     },
@@ -113,7 +114,8 @@
       "id": 14, "uuid": "b1cc90e3-8f37-47c7-9649-afe527b0db88", "langcode": "it",
       "attributes": {"label": "Personale scolastico", "description": "", "type": "main", "weight": 0},
       "link": {
-        "uri": "internal:#", "title": ""
+        "uri": "internal:#", "title": "",
+        "options": {"attributes": {"data-element": "service-type"}}
       },
       "parent": {"uuid": "c459014b-4937-44f3-bb0f-05a942eff503"}
     },
@@ -121,7 +123,8 @@
       "id": 15, "uuid": "ce1a964f-158f-427d-bf59-e26490241c89", "langcode": "it",
       "attributes": {"label": "Famiglie e studenti", "description": "", "type": "main", "weight": 1},
       "link": {
-        "uri": "internal:#", "title": ""
+        "uri": "internal:#", "title": "",
+        "options": {"attributes": {"data-element": "service-type"}}
       },
       "parent": {"uuid": "c459014b-4937-44f3-bb0f-05a942eff503"}
     },

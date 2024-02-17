@@ -36,6 +36,9 @@
 ## Utenti
 - [Ruoli utente](user/scuola_roles.json)
 
+## Menu
+- [Main menu](menu/main.json)
+
 ## Dati demo
 - [Tassonomia Argomenti](demo/argomenti.json)
 - [Media gestiti](demo/media.json)
