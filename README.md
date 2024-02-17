@@ -28,6 +28,7 @@
 - [Tipologia istituti](taxonomy/tipologia_istituti.json)
 - [Tipologia licenze](taxonomy/tipologia_licenze.json)
 - [Tipologia luoghi](taxonomy/tipologia_luoghi.json)
+- [Tipologia libri](taxonomy/tipologia_libri.json)
 - [Tipologia posti](taxonomy/tipologia_posti.json)
 - [Tipologia progetti](taxonomy/tipologia_progetti.json)
 - [Tipologia servizi](taxonomy/tipologia_servizi.json)
