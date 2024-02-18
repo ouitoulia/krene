@@ -23,6 +23,7 @@
           {"entity": "node", "type": "persona", "id": 1}
         ]},
         "persone": {"data": [
+          {"entity": "node", "type": "persona", "id": 1},
           {"entity": "node", "type": "persona", "id": 10},
           {"entity": "node", "type": "persona", "id": 11},
           {"entity": "node", "type": "persona", "id": 12}
@@ -77,6 +78,7 @@
           {"entity": "node", "type": "persona", "id": 10}
         ]},
         "persone": {"data": [
+          {"entity": "node", "type": "persona", "id": 10},
           {"entity": "node", "type": "persona", "id": 13}
         ]},
         "luoghi_gestiti": {"data": [
@@ -119,6 +121,7 @@
           {"entity": "node", "type": "persona", "id": 10}
         ]},
         "persone": {"data": [
+          {"entity": "node", "type": "persona", "id": 10},
           {"entity": "node", "type": "persona", "id": 13}
         ]},
         "luoghi_gestiti": {"data": [
@@ -162,6 +165,7 @@
           {"entity": "node", "type": "persona", "id": 1}
         ]},
         "persone": {"data": [
+          {"entity": "node", "type": "persona", "id": 1},
           {"entity": "node", "type": "persona", "id": 2},
           {"entity": "node", "type": "persona", "id": 3},
           {"entity": "node", "type": "persona", "id": 4},
@@ -204,6 +208,7 @@
           {"entity": "node", "type": "persona", "id": 1}
         ]},
         "persone": {"data": [
+          {"entity": "node", "type": "persona", "id": 1},
           {"entity": "node", "type": "persona", "id": 2},
           {"entity": "node", "type": "persona", "id": 3},
           {"entity": "node", "type": "persona", "id": 4},
