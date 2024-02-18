@@ -1,5 +1,6 @@
 {
   "data": [
-    {"entity": "taxonomy_term", "type": "tipologia_libri", "id": 951, "attributes": {"name": "Libro di testo"}}
+    {"entity": "taxonomy_term", "type": "tipologia_libri", "id": 951, "attributes": {"name": "Libro di testo"}},
+    {"entity": "taxonomy_term", "type": "tipologia_libri", "id": 952, "attributes": {"name": "Dispensa"}}
   ]
 }

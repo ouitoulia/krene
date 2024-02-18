@@ -25,7 +25,18 @@
           {"entity": "node", "type": "persona", "id": 6},
           {"entity": "node", "type": "persona", "id": 8}
         ]},
-        "orario_lezioni": {"data": {"entity": "media", "type": "document", "id": 23}}
+        "orario_lezioni": {"data": {"entity": "media", "type": "document", "id": 23}},
+        "libri_di_testo": {"data": [
+          {"entity": "node", "type": "libro", "id": 1101},
+          {"entity": "node", "type": "libro", "id": 1107},
+          {"entity": "node", "type": "libro", "id": 1102},
+          {"entity": "node", "type": "libro", "id": 1108},
+          {"entity": "node", "type": "libro", "id": 1103},
+          {"entity": "node", "type": "libro", "id": 1109},
+          {"entity": "node", "type": "libro", "id": 1104},
+          {"entity": "node", "type": "libro", "id": 1105},
+          {"entity": "node", "type": "libro", "id": 1106}
+        ]}
       }
     },
     {
@@ -53,7 +64,18 @@
           {"entity": "node", "type": "persona", "id": 6},
           {"entity": "node", "type": "persona", "id": 8}
         ]},
-        "orario_lezioni": {"data": {"entity": "media", "type": "document", "id": 23}}
+        "orario_lezioni": {"data": {"entity": "media", "type": "document", "id": 23}},
+        "libri_di_testo": {"data": [
+          {"entity": "node", "type": "libro", "id": 1101},
+          {"entity": "node", "type": "libro", "id": 1107},
+          {"entity": "node", "type": "libro", "id": 1102},
+          {"entity": "node", "type": "libro", "id": 1108},
+          {"entity": "node", "type": "libro", "id": 1103},
+          {"entity": "node", "type": "libro", "id": 1109},
+          {"entity": "node", "type": "libro", "id": 1104},
+          {"entity": "node", "type": "libro", "id": 1105},
+          {"entity": "node", "type": "libro", "id": 1106}
+        ]}
       }
     },
     {
@@ -81,7 +103,18 @@
           {"entity": "node", "type": "persona", "id": 6},
           {"entity": "node", "type": "persona", "id": 8}
         ]},
-        "orario_lezioni": {"data": {"entity": "media", "type": "document", "id": 23}}
+        "orario_lezioni": {"data": {"entity": "media", "type": "document", "id": 23}},
+        "libri_di_testo": {"data": [
+          {"entity": "node", "type": "libro", "id": 1101},
+          {"entity": "node", "type": "libro", "id": 1107},
+          {"entity": "node", "type": "libro", "id": 1102},
+          {"entity": "node", "type": "libro", "id": 1108},
+          {"entity": "node", "type": "libro", "id": 1103},
+          {"entity": "node", "type": "libro", "id": 1109},
+          {"entity": "node", "type": "libro", "id": 1104},
+          {"entity": "node", "type": "libro", "id": 1105},
+          {"entity": "node", "type": "libro", "id": 1106}
+        ]}
       }
     },
     {
@@ -109,7 +142,18 @@
           {"entity": "node", "type": "persona", "id": 6},
           {"entity": "node", "type": "persona", "id": 8}
         ]},
-        "orario_lezioni": {"data": {"entity": "media", "type": "document", "id": 23}}
+        "orario_lezioni": {"data": {"entity": "media", "type": "document", "id": 23}},
+        "libri_di_testo": {"data": [
+          {"entity": "node", "type": "libro", "id": 1101},
+          {"entity": "node", "type": "libro", "id": 1107},
+          {"entity": "node", "type": "libro", "id": 1102},
+          {"entity": "node", "type": "libro", "id": 1108},
+          {"entity": "node", "type": "libro", "id": 1103},
+          {"entity": "node", "type": "libro", "id": 1109},
+          {"entity": "node", "type": "libro", "id": 1104},
+          {"entity": "node", "type": "libro", "id": 1105},
+          {"entity": "node", "type": "libro", "id": 1106}
+        ]}
       }
     },
     {
@@ -137,7 +181,18 @@
           {"entity": "node", "type": "persona", "id": 6},
           {"entity": "node", "type": "persona", "id": 8}
         ]},
-        "orario_lezioni": {"data": {"entity": "media", "type": "document", "id": 23}}
+        "orario_lezioni": {"data": {"entity": "media", "type": "document", "id": 23}},
+        "libri_di_testo": {"data": [
+          {"entity": "node", "type": "libro", "id": 1101},
+          {"entity": "node", "type": "libro", "id": 1107},
+          {"entity": "node", "type": "libro", "id": 1102},
+          {"entity": "node", "type": "libro", "id": 1108},
+          {"entity": "node", "type": "libro", "id": 1103},
+          {"entity": "node", "type": "libro", "id": 1109},
+          {"entity": "node", "type": "libro", "id": 1104},
+          {"entity": "node", "type": "libro", "id": 1105},
+          {"entity": "node", "type": "libro", "id": 1106}
+        ]}
       }
     },
     {
@@ -165,7 +220,18 @@
           {"entity": "node", "type": "persona", "id": 6},
           {"entity": "node", "type": "persona", "id": 8}
         ]},
-        "orario_lezioni": {"data": {"entity": "media", "type": "document", "id": 23}}
+        "orario_lezioni": {"data": {"entity": "media", "type": "document", "id": 23}},
+        "libri_di_testo": {"data": [
+          {"entity": "node", "type": "libro", "id": 1101},
+          {"entity": "node", "type": "libro", "id": 1107},
+          {"entity": "node", "type": "libro", "id": 1102},
+          {"entity": "node", "type": "libro", "id": 1108},
+          {"entity": "node", "type": "libro", "id": 1103},
+          {"entity": "node", "type": "libro", "id": 1109},
+          {"entity": "node", "type": "libro", "id": 1104},
+          {"entity": "node", "type": "libro", "id": 1105},
+          {"entity": "node", "type": "libro", "id": 1106}
+        ]}
       }
     }
   ]
