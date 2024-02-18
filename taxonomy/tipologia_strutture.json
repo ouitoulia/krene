@@ -1,12 +1,12 @@
 {
   "data": [
-    {"entity": "taxonomy_term", "type": "tipologia_strutture", "id": 1301, "attributes": {"name": "Altro", "icon": "icon-school-building"}},
-    {"entity": "taxonomy_term", "type": "tipologia_strutture", "id": 1302, "attributes": {"name": "Associazione scolastica", "icon": "icon-school-building"}},
-    {"entity": "taxonomy_term", "type": "tipologia_strutture", "id": 1303, "attributes": {"name": "Commissione", "icon": "icon-school-building"}},
-    {"entity": "taxonomy_term", "type": "tipologia_strutture", "id": 1304, "attributes": {"name": "Dipartimento", "icon": "icon-school-building"}},
-    {"entity": "taxonomy_term", "type": "tipologia_strutture", "id": 1305, "attributes": {"name": "Dirigenza scolastica", "icon": "chair-office"}},
-    {"entity": "taxonomy_term", "type": "tipologia_strutture", "id": 1306, "attributes": {"name": "Scuola/istituto", "icon": "icon-school-building"}},
-    {"entity": "taxonomy_term", "type": "tipologia_strutture", "id": 1307, "attributes": {"name": "Organo collegiale", "icon": "icon-building"}},
-    {"entity": "taxonomy_term", "type": "tipologia_strutture", "id": 1308, "attributes": {"name": "Segreteria", "icon": "office-desk"}}
+    {"entity": "taxonomy_term", "type": "tipologia_strutture", "id": 1301, "attributes": {"name": "Altro", "icon": "icon-school-building"}, "uuid": "be7378b2-6a1a-4668-9d15-1d9f7fab6ead"},
+    {"entity": "taxonomy_term", "type": "tipologia_strutture", "id": 1302, "attributes": {"name": "Associazione scolastica", "icon": "icon-school-building"}, "uuid": "e692224b-0a6e-4cfd-b79e-69f201a2d1a0"},
+    {"entity": "taxonomy_term", "type": "tipologia_strutture", "id": 1303, "attributes": {"name": "Commissione", "icon": "icon-school-building"}, "uuid": "a09ac4e9-a1fd-4be7-95e6-5c838638b279"},
+    {"entity": "taxonomy_term", "type": "tipologia_strutture", "id": 1304, "attributes": {"name": "Dipartimento", "icon": "icon-school-building"}, "uuid": "26d1c7b0-1327-42ea-9320-fd5fc692e6b4"},
+    {"entity": "taxonomy_term", "type": "tipologia_strutture", "id": 1305, "attributes": {"name": "Dirigenza scolastica", "icon": "chair-office"}, "uuid": "c289aefc-9b85-40b0-92b2-ac975a32624e"},
+    {"entity": "taxonomy_term", "type": "tipologia_strutture", "id": 1306, "attributes": {"name": "Scuola/istituto", "icon": "icon-school-building"}, "uuid": "6ba8da9d-9709-4c44-81c1-ab944b050a50"},
+    {"entity": "taxonomy_term", "type": "tipologia_strutture", "id": 1307, "attributes": {"name": "Organo collegiale", "icon": "icon-building"}, "uuid": "c0375ec3-338b-407b-bbc2-a261c5f2c102"},
+    {"entity": "taxonomy_term", "type": "tipologia_strutture", "id": 1308, "attributes": {"name": "Segreteria", "icon": "office-desk"}, "uuid": "4603bfcf-ee6e-4130-9357-b2c68b5a0baf"}
   ]
 }
