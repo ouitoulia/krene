@@ -215,6 +215,7 @@
       "relationships": {
         "argomenti": {"data": [
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1427},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1426},
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1436},
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1442}
         ]},
@@ -246,6 +247,7 @@
       "relationships": {
         "argomenti": {"data": [
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1427},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1426},
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1436},
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1442}
         ]},
@@ -277,6 +279,7 @@
       "relationships": {
         "argomenti": {"data": [
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1418},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1426},
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1433},
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1420}
         ]},
@@ -308,6 +311,7 @@
       "relationships": {
         "argomenti": {"data": [
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1418},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1426},
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1433},
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1420}
         ]},
@@ -339,6 +343,7 @@
       "relationships": {
         "argomenti": {"data": [
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1418},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1426},
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1433},
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1420}
         ]},
@@ -370,6 +375,7 @@
       "relationships": {
         "argomenti": {"data": [
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1418},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1426},
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1433},
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1420}
         ]},
