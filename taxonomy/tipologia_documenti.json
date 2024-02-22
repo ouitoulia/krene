@@ -1,0 +1,28 @@
+{
+  "data": [
+    {"entity": "taxonomy_term", "type": "tipologia_documenti", "id": 1801, "attributes": {"name": "Albo online", "icon": "it-file"}},
+    {"entity": "taxonomy_term", "type": "tipologia_documenti", "id": 1802, "attributes": {"name": "Bandi e gare", "icon": "it-file"}},
+    {"entity": "taxonomy_term", "type": "tipologia_documenti", "id": 1803, "attributes": {"name": "Bilancio", "icon": "it-file"}},
+    {"entity": "taxonomy_term", "type": "tipologia_documenti", "id": 1804, "attributes": {"name": "Contratto", "icon": "it-file"}},
+    {"entity": "taxonomy_term", "type": "tipologia_documenti", "id": 1805, "attributes": {"name": "Contratti - Personale ATA", "icon": "it-file"}},
+    {"entity": "taxonomy_term", "type": "tipologia_documenti", "id": 1806, "attributes": {"name": "Contratti - Personale Docente", "icon": "it-file"}},
+    {"entity": "taxonomy_term", "type": "tipologia_documenti", "id": 1807, "attributes": {"name": "Contratti e convenzioni", "icon": "it-file"}},
+    {"entity": "taxonomy_term", "type": "tipologia_documenti", "id": 1808, "attributes": {"name": "Convocazioni", "icon": "it-file"}},
+    {"entity": "taxonomy_term", "type": "tipologia_documenti", "id": 1809, "attributes": {"name": "Delibera", "icon": "it-file"}},
+    {"entity": "taxonomy_term", "type": "tipologia_documenti", "id": 1810, "attributes": {"name": "Delibere Consiglio di Istituto", "icon": "it-file"}},
+    {"entity": "taxonomy_term", "type": "tipologia_documenti", "id": 1811, "attributes": {"name": "Delibere Collegio dei Docenti", "icon": "it-file"}},
+    {"entity": "taxonomy_term", "type": "tipologia_documenti", "id": 1812, "attributes": {"name": "Documenti altre PA", "icon": "it-file"}},
+    {"entity": "taxonomy_term", "type": "tipologia_documenti", "id": 1813, "attributes": {"name": "Documento didattico", "icon": "it-file"}},
+    {"entity": "taxonomy_term", "type": "tipologia_documenti", "id": 1814, "attributes": {"name": "Documento programmatico", "icon": "it-file"}},
+    {"entity": "taxonomy_term", "type": "tipologia_documenti", "id": 1815, "attributes": {"name": "Esiti esami", "icon": "it-file"}},
+    {"entity": "taxonomy_term", "type": "tipologia_documenti", "id": 1816, "attributes": {"name": "Graduatorie", "icon": "it-file"}},
+    {"entity": "taxonomy_term", "type": "tipologia_documenti", "id": 1817, "attributes": {"name": "Modulistica", "icon": "it-file"}},
+    {"entity": "taxonomy_term", "type": "tipologia_documenti", "id": 1818, "attributes": {"name": "Organi collegiali", "icon": "it-file"}},
+    {"entity": "taxonomy_term", "type": "tipologia_documenti", "id": 1819, "attributes": {"name": "Organi collegiali - Elezioni", "icon": "it-file"}},
+    {"entity": "taxonomy_term", "type": "tipologia_documenti", "id": 1820, "attributes": {"name": "Privacy", "icon": "it-file"}},
+    {"entity": "taxonomy_term", "type": "tipologia_documenti", "id": 1821, "attributes": {"name": "Programmi annuali e consuntivi", "icon": "it-file"}},
+    {"entity": "taxonomy_term", "type": "tipologia_documenti", "id": 1822, "attributes": {"name": "Regolamento", "icon": "it-file"}},
+    {"entity": "taxonomy_term", "type": "tipologia_documenti", "id": 1823, "attributes": {"name": "Sicurezza", "icon": "it-file"}},
+    {"entity": "taxonomy_term", "type": "tipologia_documenti", "id": 1824, "attributes": {"name": "Verbale", "icon": "it-file"}}
+  ]
+}

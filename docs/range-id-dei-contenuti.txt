@@ -44,9 +44,10 @@ tipologia_posti               1051-
 tipologia_progetti            1101-
 tipologia_servizi             1201-
 tipologia_strutture           1301-
-argomenti                     1401-1500
+argomenti                     1401-1600
 tipologia_supplenze           1601-
 ruoli_persona                 1701-
+tipologia_documenti           1801-
 materie/media                 2101-
 materie/superiore             2200-2400
 materie/laboratori            2401
