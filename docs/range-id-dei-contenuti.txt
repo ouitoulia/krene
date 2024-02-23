@@ -11,6 +11,7 @@ progetto                801-900
 scheda_didattica        901-1000
 classe                  1001-1100
 libro                   1101-
+documento               1201-
 
 tassonomia_autori       10001-
 tassonomia_editori      101001-
