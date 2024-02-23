@@ -1,8 +1,8 @@
 {
   "data": [
-    {"entity": "taxonomy_term", "type": "tipologia_licenze", "id": 901, "attributes": {"name": "SPDX: CC-BY-4.0"}},
-    {"entity": "taxonomy_term", "type": "tipologia_licenze", "id": 902, "attributes": {"name": "SPDX: CC-BY-SA-4.0"}},
-    {"entity": "taxonomy_term", "type": "tipologia_licenze", "id": 903, "attributes": {"name": "Creative Commons Zero"}},
-    {"entity": "taxonomy_term", "type": "tipologia_licenze", "id": 904, "attributes": {"name": "Creative Commons Attribuzione 4.0 Italia"}}
+    {"entity": "taxonomy_term", "type": "tipologia_licenze", "id": 901, "attributes": {"name": "SPDX: CC-BY-4.0"}, "uuid":  "010d1787-3d4e-4104-8b3b-09f4c530dcfe"},
+    {"entity": "taxonomy_term", "type": "tipologia_licenze", "id": 902, "attributes": {"name": "SPDX: CC-BY-SA-4.0"}, "uuid":  "e1606183-4e99-48db-82ac-3f22dabe2400"},
+    {"entity": "taxonomy_term", "type": "tipologia_licenze", "id": 903, "attributes": {"name": "Creative Commons Zero"}, "uuid":  "1316cde4-0bb9-4aaa-af12-43e0a1903444"},
+    {"entity": "taxonomy_term", "type": "tipologia_licenze", "id": 904, "attributes": {"name": "Creative Commons Attribuzione 4.0 Italia"}, "uuid":  "4cc148d5-7b64-4fdd-aa56-ce7f4521af71"}
   ]
 }
