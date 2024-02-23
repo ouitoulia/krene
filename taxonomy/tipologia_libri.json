@@ -1,6 +1,7 @@
 {
   "data": [
-    {"entity": "taxonomy_term", "type": "tipologia_libri", "id": 951, "attributes": {"name": "Libro di testo"}},
-    {"entity": "taxonomy_term", "type": "tipologia_libri", "id": 952, "attributes": {"name": "Dispensa"}}
+    {"entity": "taxonomy_term", "type": "tipologia_libri", "id": 951, "attributes": {"name": "Libro di testo"}, "uuid": "c4a2dfc4-5489-4d34-8d02-8d0990ba33db"},
+    {"entity": "taxonomy_term", "type": "tipologia_libri", "id": 952, "attributes": {"name": "Dispensa"}, "uuid": "47f1fd9f-d29e-40fa-98c7-16fe38ae9b96"},
+    {"entity": "taxonomy_term", "type": "tipologia_libri", "id": 953, "attributes": {"name": "Materiale didattico"}, "uuid": ""}
   ]
 }
