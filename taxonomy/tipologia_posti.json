@@ -1,6 +1,6 @@
 {
   "data": [
-    {"entity": "taxonomy_term", "type": "tipologia_posti", "id": 1051, "attributes": {"name": "Comune"}},
-    {"entity": "taxonomy_term", "type": "tipologia_posti", "id": 1052, "attributes": {"name": "Sostegno"}}
+    {"entity": "taxonomy_term", "type": "tipologia_posti", "id": 1051, "attributes": {"name": "Comune"}, "uuid": "c5deb3e5-ff4e-4849-879c-ca1899f5105b"},
+    {"entity": "taxonomy_term", "type": "tipologia_posti", "id": 1052, "attributes": {"name": "Sostegno"}, "uuid": "291de48f-90f1-40a0-90cb-0522c8463ec7"}
   ]
 }

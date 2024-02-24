@@ -1,10 +1,10 @@
 {
   "data": [
-    {"entity": "taxonomy_term", "type": "destinatari", "id": 401, "attributes": {"name": "Alunni"}},
-    {"entity": "taxonomy_term", "type": "destinatari", "id": 402, "attributes": {"name": "ATA"}},
-    {"entity": "taxonomy_term", "type": "destinatari", "id": 403, "attributes": {"name": "Docenti"}},
-    {"entity": "taxonomy_term", "type": "destinatari", "id": 404, "attributes": {"name": "Fornitori"}},
-    {"entity": "taxonomy_term", "type": "destinatari", "id": 405, "attributes": {"name": "Genitori"}},
-    {"entity": "taxonomy_term", "type": "destinatari", "id": 406, "attributes": {"name": "Tutta la popolazione"}}
+    {"entity": "taxonomy_term", "type": "destinatari", "id": 401, "attributes": {"name": "Alunni"}, "uuid": "4fa36645-4a44-4774-a747-7bcb3bcbda48"},
+    {"entity": "taxonomy_term", "type": "destinatari", "id": 402, "attributes": {"name": "ATA"}, "uuid": "1ca0d881-3820-46b3-a577-4c7cc27d62a6"},
+    {"entity": "taxonomy_term", "type": "destinatari", "id": 403, "attributes": {"name": "Docenti"}, "uuid": "f67cd001-3ddb-48f3-b771-33b8b100afb8"},
+    {"entity": "taxonomy_term", "type": "destinatari", "id": 404, "attributes": {"name": "Fornitori"}, "uuid": "7b3ca001-5fbd-453f-8b73-f3eb8c5781cf"},
+    {"entity": "taxonomy_term", "type": "destinatari", "id": 405, "attributes": {"name": "Genitori"}, "uuid": "2524883c-16ae-4fbf-8a41-61f7603bb805"},
+    {"entity": "taxonomy_term", "type": "destinatari", "id": 406, "attributes": {"name": "Tutta la popolazione"}, "uuid": "af80acc7-c4dc-4b59-afad-af612abd7f32"}
   ]
 }

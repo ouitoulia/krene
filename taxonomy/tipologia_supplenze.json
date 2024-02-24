@@ -1,9 +1,9 @@
 {
   "data": [
-    {"entity": "taxonomy_term", "type": "tipologia_supplenze", "id": 1601, "attributes": {"name": "Annuale"}},
-    {"entity": "taxonomy_term", "type": "tipologia_supplenze", "id": 1602, "attributes": {"name": "Breve"}},
-    {"entity": "taxonomy_term", "type": "tipologia_supplenze", "id": 1603, "attributes": {"name": "Fino al termine delle lezioni"}},
-    {"entity": "taxonomy_term", "type": "tipologia_supplenze", "id": 1604, "attributes": {"name": "Maternità"}},
-    {"entity": "taxonomy_term", "type": "tipologia_supplenze", "id": 1605, "attributes": {"name": "Paternità"}}
+    {"entity": "taxonomy_term", "type": "tipologia_supplenze", "id": 1601, "attributes": {"name": "Annuale"}, "uuid": "89e0b24a-9f4b-4e22-9ca5-910d60d21248"},
+    {"entity": "taxonomy_term", "type": "tipologia_supplenze", "id": 1602, "attributes": {"name": "Breve"}, "uuid": "1a2fc571-1eb1-4b95-b8d4-64ba83c85472"},
+    {"entity": "taxonomy_term", "type": "tipologia_supplenze", "id": 1603, "attributes": {"name": "Fino al termine delle lezioni"}, "uuid": "fa036e59-1929-49e2-bc88-0c0025ff44e6"},
+    {"entity": "taxonomy_term", "type": "tipologia_supplenze", "id": 1604, "attributes": {"name": "Maternità"}, "uuid": "3f16f26f-cb27-4f3a-b6a1-23d8673e71c5"},
+    {"entity": "taxonomy_term", "type": "tipologia_supplenze", "id": 1605, "attributes": {"name": "Paternità"}, "uuid": "53a5dc02-f3ae-43a4-89e4-400f75589286"}
   ]
 }

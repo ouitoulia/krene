@@ -1,12 +1,12 @@
 {
   "data": [
-    {"entity": "taxonomy_term", "type": "competenze", "id": 8001, "attributes": {"name": "Competenza alfabetica funzionale"}},
-    {"entity": "taxonomy_term", "type": "competenze", "id": 8002, "attributes": {"name": "Competenza multi-linguistica"}},
-    {"entity": "taxonomy_term", "type": "competenze", "id": 8003, "attributes": {"name": "Competenza matematica e competenza di base in scienze e tecnologie"}},
-    {"entity": "taxonomy_term", "type": "competenze", "id": 8004, "attributes": {"name": "Competenza digitale"}},
-    {"entity": "taxonomy_term", "type": "competenze", "id": 8005, "attributes": {"name": "Competenza personale, sociale e capacità di imparare ad imparare"}},
-    {"entity": "taxonomy_term", "type": "competenze", "id": 8006, "attributes": {"name": "Competenza sociale e civica in materia di cittadinanza"}},
-    {"entity": "taxonomy_term", "type": "competenze", "id": 8007, "attributes": {"name": "Competenza imprenditoriale"}},
-    {"entity": "taxonomy_term", "type": "competenze", "id": 8008, "attributes": {"name": "Competenza in materia di consapevolezza ed espressione culturali"}}
+    {"entity": "taxonomy_term", "type": "competenze", "id": 8001, "attributes": {"name": "Competenza alfabetica funzionale"}, "uuid": "b410bc88-b40c-4233-afc7-4735ca213216"},
+    {"entity": "taxonomy_term", "type": "competenze", "id": 8002, "attributes": {"name": "Competenza multi-linguistica"}, "uuid": "f250921c-1729-40cd-b0c4-51afddd47432"},
+    {"entity": "taxonomy_term", "type": "competenze", "id": 8003, "attributes": {"name": "Competenza matematica e competenza di base in scienze e tecnologie"}, "uuid": "4b419bee-51d7-487e-aadc-c41442ec2a19"},
+    {"entity": "taxonomy_term", "type": "competenze", "id": 8004, "attributes": {"name": "Competenza digitale"}, "uuid": "55e839b0-50d7-44d4-98a1-f4a576e0b937"},
+    {"entity": "taxonomy_term", "type": "competenze", "id": 8005, "attributes": {"name": "Competenza personale, sociale e capacità di imparare ad imparare"}, "uuid": "e615b429-c6b6-456e-895a-d2af9f01ef3d"},
+    {"entity": "taxonomy_term", "type": "competenze", "id": 8006, "attributes": {"name": "Competenza sociale e civica in materia di cittadinanza"}, "uuid": "e472b88d-85de-427d-b17f-76671740eaa4"},
+    {"entity": "taxonomy_term", "type": "competenze", "id": 8007, "attributes": {"name": "Competenza imprenditoriale"}, "uuid": "85d8d21d-3f65-4d43-a5f5-95529bcf662b"},
+    {"entity": "taxonomy_term", "type": "competenze", "id": 8008, "attributes": {"name": "Competenza in materia di consapevolezza ed espressione culturali"}, "uuid": "e9396af5-3c1d-4f73-a43e-5e1a5f72962e"}
   ]
 }

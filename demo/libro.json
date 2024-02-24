@@ -143,7 +143,7 @@
           {"entity": "taxonomy_term", "type": "autori", "id": 10002}
         ]},
         "editori": {"data": [
-          {"entity": "taxonomy_term", "type": "editori", "id": 551}
+          {"entity": "taxonomy_term", "type": "editori", "id": 451}
         ]},
         "tipologia_libro": {"data": {"entity": "taxonomy_term", "type": "tipologia_libri", "id": 952}}
       }
@@ -163,7 +163,7 @@
           {"entity": "taxonomy_term", "type": "autori", "id": 10003}
         ]},
         "editori": {"data": [
-          {"entity": "taxonomy_term", "type": "editori", "id": 551}
+          {"entity": "taxonomy_term", "type": "editori", "id": 451}
         ]},
         "tipologia_libro": {"data": {"entity": "taxonomy_term", "type": "tipologia_libri", "id": 952}}
       }
@@ -183,7 +183,7 @@
           {"entity": "taxonomy_term", "type": "autori", "id": 10004}
         ]},
         "editori": {"data": [
-          {"entity": "taxonomy_term", "type": "editori", "id": 551}
+          {"entity": "taxonomy_term", "type": "editori", "id": 451}
         ]},
         "tipologia_libro": {"data": {"entity": "taxonomy_term", "type": "tipologia_libri", "id": 952}}
       }

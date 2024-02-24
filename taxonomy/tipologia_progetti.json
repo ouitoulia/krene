@@ -1,14 +1,14 @@
 {
   "data": [
-    {"entity": "taxonomy_term", "type": "tipologia_progetti", "id": 1101, "attributes": {"name": "Altro"}},
-    {"entity": "taxonomy_term", "type": "tipologia_progetti", "id": 1102, "attributes": {"name": "PNRR"}},
-    {"entity": "taxonomy_term", "type": "tipologia_progetti", "id": 1103, "attributes": {"name": "PON"}},
-    {"entity": "taxonomy_term", "type": "tipologia_progetti", "id": 1104, "attributes": {"name": "POR"}},
-    {"entity": "taxonomy_term", "type": "tipologia_progetti", "id": 1105, "attributes": {"name": "Progetti di integrazione"}},
-    {"entity": "taxonomy_term", "type": "tipologia_progetti", "id": 1106, "attributes": {"name": "Progetti di orientamento"}},
-    {"entity": "taxonomy_term", "type": "tipologia_progetti", "id": 1107, "attributes": {"name": "Progetti territorio e ambiente"}},
-    {"entity": "taxonomy_term", "type": "tipologia_progetti", "id": 1108, "attributes": {"name": "Progetti area umanistica"}},
-    {"entity": "taxonomy_term", "type": "tipologia_progetti", "id": 1109, "attributes": {"name": "Progetti area scientifica"}},
-    {"entity": "taxonomy_term", "type": "tipologia_progetti", "id": 1110, "attributes": {"name": "PTOF"}}
+    {"entity": "taxonomy_term", "type": "tipologia_progetti", "id": 1101, "attributes": {"name": "Altro"}, "uuid": "074a0543-42f5-4914-bc4e-061399649bfd"},
+    {"entity": "taxonomy_term", "type": "tipologia_progetti", "id": 1102, "attributes": {"name": "PNRR"}, "uuid": "8cf4d65f-cc6a-4115-9fa1-49a1771e52c7"},
+    {"entity": "taxonomy_term", "type": "tipologia_progetti", "id": 1103, "attributes": {"name": "PON"}, "uuid": "f7d6a96d-e210-4a13-be4a-cd23ec4f5133"},
+    {"entity": "taxonomy_term", "type": "tipologia_progetti", "id": 1104, "attributes": {"name": "POR"}, "uuid": "27da6ba0-528a-4c41-a093-494e1c102841"},
+    {"entity": "taxonomy_term", "type": "tipologia_progetti", "id": 1105, "attributes": {"name": "Progetti di integrazione"}, "uuid": "96b24f95-bc43-44bd-8bf8-5da93fda315f"},
+    {"entity": "taxonomy_term", "type": "tipologia_progetti", "id": 1106, "attributes": {"name": "Progetti di orientamento"}, "uuid": "f76e8731-291e-478d-8b15-13a05971544e"},
+    {"entity": "taxonomy_term", "type": "tipologia_progetti", "id": 1107, "attributes": {"name": "Progetti territorio e ambiente"}, "uuid": "032971ce-8cce-4cf8-9919-1e00cac60901"},
+    {"entity": "taxonomy_term", "type": "tipologia_progetti", "id": 1108, "attributes": {"name": "Progetti area umanistica"}, "uuid": "6cbab7d8-9537-4bfc-8867-55ad98c865ad"},
+    {"entity": "taxonomy_term", "type": "tipologia_progetti", "id": 1109, "attributes": {"name": "Progetti area scientifica"}, "uuid": "d7778690-ab0b-4c11-9418-5f2475772486"},
+    {"entity": "taxonomy_term", "type": "tipologia_progetti", "id": 1110, "attributes": {"name": "PTOF"}, "uuid": "3af9feee-59f8-4a6a-bd85-03a576024db0"}
   ]
 }

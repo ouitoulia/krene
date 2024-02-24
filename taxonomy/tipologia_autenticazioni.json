@@ -1,8 +1,8 @@
 {
   "data": [
-    {"entity": "taxonomy_term", "type": "tipologia_autenticazioni", "id": 601, "attributes": {"name": "CIE", "description": "Non hai CIE?<br/><a href=\"https://www.cartaidentita.interno.gov.it/la-carta/\" title=\"Leggi come ottenere la CIE (nuova finestra)\" target=\"_blank\">Scopri di più</a>", "icon": "logo-cie"}},
-    {"entity": "taxonomy_term", "type": "tipologia_autenticazioni", "id": 602, "attributes": {"name": "Credenziali", "icon": "it-user"}},
-    {"entity": "taxonomy_term", "type": "tipologia_autenticazioni", "id": 603, "attributes": {"name": "SPID", "description": "Non hai SPID?<br/><a href=\"https://www.spid.gov.it/\" title=\"Leggi come ottenere SPID (nuova finestra)\" target=\"_blank\">Scopri di più</a>", "icon": "logo-spid"}},
-    {"entity": "taxonomy_term", "type": "tipologia_autenticazioni", "id": 604, "attributes": {"name": "CNS", "description": "Non hai CNS?<br/><a href=\"https://www.agid.gov.it/it/piattaforme/carta-nazionale-servizi\" title=\"Leggi come ottenere la CNS (nuova finestra)\" target=\"_blank\">Scopri di più</a>", "icon": "logo-cns"}}
+    {"entity": "taxonomy_term", "type": "tipologia_autenticazioni", "id": 601, "attributes": {"name": "CIE", "description": "Non hai CIE?<br/><a href=\"https://www.cartaidentita.interno.gov.it/la-carta/\" title=\"Leggi come ottenere la CIE (nuova finestra)\" target=\"_blank\">Scopri di più</a>", "icon": "logo-cie"}, "uuid": "b3671f6c-0be8-417e-8a1d-b975691b6326"},
+    {"entity": "taxonomy_term", "type": "tipologia_autenticazioni", "id": 602, "attributes": {"name": "Credenziali", "icon": "it-user"}, "uuid": "38fb9b75-35dc-442f-b5de-5da0ad9c0e3d"},
+    {"entity": "taxonomy_term", "type": "tipologia_autenticazioni", "id": 603, "attributes": {"name": "SPID", "description": "Non hai SPID?<br/><a href=\"https://www.spid.gov.it/\" title=\"Leggi come ottenere SPID (nuova finestra)\" target=\"_blank\">Scopri di più</a>", "icon": "logo-spid"}, "uuid": "90a675c1-ebbb-440a-89a7-a9e22be5fa9c"},
+    {"entity": "taxonomy_term", "type": "tipologia_autenticazioni", "id": 604, "attributes": {"name": "CNS", "description": "Non hai CNS?<br/><a href=\"https://www.agid.gov.it/it/piattaforme/carta-nazionale-servizi\" title=\"Leggi come ottenere la CNS (nuova finestra)\" target=\"_blank\">Scopri di più</a>", "icon": "logo-cns"}, "uuid": "da077ec2-cf25-45f3-a58c-07cba6a93838"}
   ]
 }

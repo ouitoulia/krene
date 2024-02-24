@@ -1,7 +1,7 @@
 {
   "data": [
-    {"entity": "taxonomy_term", "type": "destinazione_uso", "id": 501, "attributes": {"name": "Commerciale"}},
-    {"entity": "taxonomy_term", "type": "destinazione_uso", "id": 502, "attributes": {"name": "Edificio pubblico"}},
-    {"entity": "taxonomy_term", "type": "destinazione_uso", "id": 503, "attributes": {"name": "Residenziale"}}
+    {"entity": "taxonomy_term", "type": "destinazione_uso", "id": 501, "attributes": {"name": "Commerciale"}, "uuid": "1bead746-a274-421f-b312-251d559b12cc"},
+    {"entity": "taxonomy_term", "type": "destinazione_uso", "id": 502, "attributes": {"name": "Edificio pubblico"}, "uuid": "b4d4d75a-c79a-4ef4-ba5a-fbb83693bb9e"},
+    {"entity": "taxonomy_term", "type": "destinazione_uso", "id": 503, "attributes": {"name": "Residenziale"}, "uuid": "eb40a3c5-269d-4fb9-938b-52b833fbde2c"}
   ]
 }

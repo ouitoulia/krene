@@ -1,5 +1,5 @@
 {
   "data": [
-    {"entity": "taxonomy_term", "type": "editori", "id": 551, "attributes": {"name": "Inedito"}}
+    {"entity": "taxonomy_term", "type": "editori", "id": 451, "attributes": {"name": "Inedito"}, "uuid": "105926de-7704-4a8b-b7f2-9048b23f8ebe"}
   ]
 }

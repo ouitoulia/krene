@@ -1,8 +1,8 @@
 {
   "data": [
-    {"entity": "taxonomy_term", "type": "attributi_dei_luoghi", "id": 101, "attributes": {"name": "Ingresso", "icon": "door"}},
-    {"entity": "taxonomy_term", "type": "attributi_dei_luoghi", "id": 102, "attributes": {"name": "Ingresso accessibile", "icon": "chair"}},
-    {"entity": "taxonomy_term", "type": "attributi_dei_luoghi", "id": 103, "attributes": {"name": "Parcheggio", "icon": "parking"}},
-    {"entity": "taxonomy_term", "type": "attributi_dei_luoghi", "id": 104, "attributes": {"name": "Parcheggio accessibile", "icon": "chair"}}
+    {"entity": "taxonomy_term", "type": "attributi_dei_luoghi", "id": 101, "attributes": {"name": "Ingresso", "icon": "door"}, "uuid": "5d9cc4a6-9602-4c4a-a44d-14c748315611"},
+    {"entity": "taxonomy_term", "type": "attributi_dei_luoghi", "id": 102, "attributes": {"name": "Ingresso accessibile", "icon": "chair"}, "uuid": "1d5fdb7b-9f1a-4214-88d1-2040be117338"},
+    {"entity": "taxonomy_term", "type": "attributi_dei_luoghi", "id": 103, "attributes": {"name": "Parcheggio", "icon": "parking"}, "uuid": "616ac870-b70a-411a-8d55-159bc52c7540"},
+    {"entity": "taxonomy_term", "type": "attributi_dei_luoghi", "id": 104, "attributes": {"name": "Parcheggio accessibile", "icon": "chair"}, "uuid": "46a44055-1b2e-4a7d-a50b-1764d28b44a7"}
   ]
 }

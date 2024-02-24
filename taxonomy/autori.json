@@ -1,5 +1,5 @@
 {
   "data": [
-    {"entity": "taxonomy_term", "type": "autori", "id": 251, "attributes": {"name": "Anonimo"}}
+    {"entity": "taxonomy_term", "type": "autori", "id": 251, "attributes": {"name": "Anonimo"}, "uuid": "7a1b1b52-f8d5-4016-b91d-da58b4de59cb"}
   ]
 }

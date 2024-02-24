@@ -1,8 +1,8 @@
 {
   "data": [
-    {"entity": "taxonomy_term", "type": "cosa_serve", "id": 301, "attributes": {"name": "Documentazione", "description": "È necessario fornire documentazione"}},
-    {"entity": "taxonomy_term", "type": "cosa_serve", "id": 302, "attributes": {"name": "Firma elettronica", "description": "Bisogna firmare elettronicamente i documenti"}},
-    {"entity": "taxonomy_term", "type": "cosa_serve", "id": 303, "attributes": {"name": "Iscrizione", "description": "È necessaria l'iscrizione"}},
-    {"entity": "taxonomy_term", "type": "cosa_serve", "id": 304, "attributes": {"name": "Pagamento", "description": "È necessario il pagamento"}}
+    {"entity": "taxonomy_term", "type": "cosa_serve", "id": 301, "attributes": {"name": "Documentazione", "description": "È necessario fornire documentazione"}, "uuid": "e1ccf094-9a3f-43bf-a459-aeb93cc1c633"},
+    {"entity": "taxonomy_term", "type": "cosa_serve", "id": 302, "attributes": {"name": "Firma elettronica", "description": "Bisogna firmare elettronicamente i documenti"}, "uuid": "43a7ed2d-4fbe-48e4-a3ae-4ffdb91644a2"},
+    {"entity": "taxonomy_term", "type": "cosa_serve", "id": 303, "attributes": {"name": "Iscrizione", "description": "È necessaria l'iscrizione"}, "uuid": "cebe10de-084d-4d9f-a817-65b217c0566b"},
+    {"entity": "taxonomy_term", "type": "cosa_serve", "id": 304, "attributes": {"name": "Pagamento", "description": "È necessario il pagamento"}, "uuid": "521c07c8-f45e-4751-9102-76de6e0eb640"}
   ]
 }

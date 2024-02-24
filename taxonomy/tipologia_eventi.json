@@ -1,7 +1,7 @@
 {
   "data": [
-    {"entity": "taxonomy_term", "type": "tipologia_eventi", "id": 701, "attributes": {"name": "Eventi della scuola"}},
-    {"entity": "taxonomy_term", "type": "tipologia_eventi", "id": 702, "attributes": {"name": "Eventi organizzati da enti esterni"}},
-    {"entity": "taxonomy_term", "type": "tipologia_eventi", "id": 703, "attributes": {"name": "Eventi organizzati da enti scolastici"}}
+    {"entity": "taxonomy_term", "type": "tipologia_eventi", "id": 701, "attributes": {"name": "Eventi della scuola"}, "uuid": "c5b7e421-af38-4c92-9b31-ce779ee66c79"},
+    {"entity": "taxonomy_term", "type": "tipologia_eventi", "id": 702, "attributes": {"name": "Eventi organizzati da enti esterni"}, "uuid": "d35669f1-943f-4aab-a4fb-b4f5f57d4314"},
+    {"entity": "taxonomy_term", "type": "tipologia_eventi", "id": 703, "attributes": {"name": "Eventi organizzati da enti scolastici"}, "uuid": "87c73c80-b152-4150-a534-4e512717de95"}
   ]
 }

@@ -1,12 +1,12 @@
 {
   "data": [
-    {"entity": "taxonomy_term", "type": "azioni", "id": 201, "attributes": {"name": "Accedi", "icon": "it-user", "type": "service-online-access"}},
-    {"entity": "taxonomy_term", "type": "azioni", "id": 202, "attributes": {"name": "Compila", "icon": "it-pencil"}},
-    {"entity": "taxonomy_term", "type": "azioni", "id": 203, "attributes": {"name": "Iscriviti", "icon": "it-pencil"}},
-    {"entity": "taxonomy_term", "type": "azioni", "id": 204, "attributes": {"name": "Prenota appuntamento", "icon": "it-calendar", "type": "service-booking-access"}},
-    {"entity": "taxonomy_term", "type": "azioni", "id": 205, "attributes": {"name": "Registrati", "icon": "it-pencil"}},
-    {"entity": "taxonomy_term", "type": "azioni", "id": 206, "attributes": {"name": "Scarica", "icon": "it-download"}},
-    {"entity": "taxonomy_term", "type": "azioni", "id": 207, "attributes": {"name": "Vai al sito", "icon": "it-external-link"}},
-    {"entity": "taxonomy_term", "type": "azioni", "id": 208, "attributes": {"name": "Visualizza", "icon": "it-zoom-in"}}
+    {"entity": "taxonomy_term", "type": "azioni", "id": 201, "attributes": {"name": "Accedi", "icon": "it-user", "type": "service-online-access"}, "uuid": "e82a0167-8c30-44ab-b93b-f839bc073cfa"},
+    {"entity": "taxonomy_term", "type": "azioni", "id": 202, "attributes": {"name": "Compila", "icon": "it-pencil"}, "uuid": "c7dbca39-35fe-4144-911d-46c112131d38"},
+    {"entity": "taxonomy_term", "type": "azioni", "id": 203, "attributes": {"name": "Iscriviti", "icon": "it-pencil"}, "uuid": "c04b5efa-44f5-4cfb-92b7-c2583dd842ae"},
+    {"entity": "taxonomy_term", "type": "azioni", "id": 204, "attributes": {"name": "Prenota appuntamento", "icon": "it-calendar", "type": "service-booking-access"}, "uuid": "42414ab6-123e-469d-92a5-d1a91fa41a05"},
+    {"entity": "taxonomy_term", "type": "azioni", "id": 205, "attributes": {"name": "Registrati", "icon": "it-pencil"}, "uuid": "2d1ef2c6-f8e7-4634-8867-75cfc55cc473"},
+    {"entity": "taxonomy_term", "type": "azioni", "id": 206, "attributes": {"name": "Scarica", "icon": "it-download"}, "uuid": "34c21870-7721-489c-82dd-526400e72f8f"},
+    {"entity": "taxonomy_term", "type": "azioni", "id": 207, "attributes": {"name": "Vai al sito", "icon": "it-external-link"}, "uuid": "acc82cab-8df3-4aa5-9432-9070fbfe57a7"},
+    {"entity": "taxonomy_term", "type": "azioni", "id": 208, "attributes": {"name": "Visualizza", "icon": "it-zoom-in"}, "uuid": "1b84eae5-d8ff-413f-8160-ba71ac105970"}
   ]
 }

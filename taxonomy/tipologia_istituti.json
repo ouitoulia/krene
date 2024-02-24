@@ -1,9 +1,9 @@
 {
   "data": [
-    {"entity": "taxonomy_term", "type": "tipologia_istituti", "id": 801, "attributes": {"name": "Convitto"}},
-    {"entity": "taxonomy_term", "type": "tipologia_istituti", "id": 802, "attributes": {"name": "Educandato"}},
-    {"entity": "taxonomy_term", "type": "tipologia_istituti", "id": 803, "attributes": {"name": "Istituto (scuola)"}},
-    {"entity": "taxonomy_term", "type": "tipologia_istituti", "id": 804, "attributes": {"name": "Istituto comprensivo"}},
-    {"entity": "taxonomy_term", "type": "tipologia_istituti", "id": 805, "attributes": {"name": "Istituto omnicomprensivo"}}
+    {"entity": "taxonomy_term", "type": "tipologia_istituti", "id": 801, "attributes": {"name": "Convitto"}, "uuid": "a9e28bd8-4936-4c9b-8313-b5df10b3fa63"},
+    {"entity": "taxonomy_term", "type": "tipologia_istituti", "id": 802, "attributes": {"name": "Educandato"}, "uuid": "483f0365-06a4-4297-bed6-d0ab5b056c50"},
+    {"entity": "taxonomy_term", "type": "tipologia_istituti", "id": 803, "attributes": {"name": "Istituto (scuola)"}, "uuid": "6c7d1e91-6a1a-4875-bcd2-4298c1048c83"},
+    {"entity": "taxonomy_term", "type": "tipologia_istituti", "id": 804, "attributes": {"name": "Istituto comprensivo"}, "uuid": "3dfddcb4-8251-4362-b480-c7ced2a36cb8"},
+    {"entity": "taxonomy_term", "type": "tipologia_istituti", "id": 805, "attributes": {"name": "Istituto omnicomprensivo"}, "uuid": "cf8ecfd7-7b91-4b34-aa2e-70891fbbda25"}
   ]
 }

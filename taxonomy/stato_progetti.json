@@ -1,11 +1,11 @@
 {
   "data": [
-    {"entity": "taxonomy_term", "type": "stato_progetti", "id": 551, "attributes": {"name": "Progettazione (preliminare)", "icon": "it-pencil", "weight": 0}},
-    {"entity": "taxonomy_term", "type": "stato_progetti", "id": 552, "attributes": {"name": "Presentato", "icon": "it-presentation", "weight": 1}},
-    {"entity": "taxonomy_term", "type": "stato_progetti", "id": 553, "attributes": {"name": "Progettazione (esecutiva)", "icon": "it-file", "weight": 2}},
-    {"entity": "taxonomy_term", "type": "stato_progetti", "id": 554, "attributes": {"name": "Avviato", "icon": "it-exchange-circle", "weight": 3}},
-    {"entity": "taxonomy_term", "type": "stato_progetti", "id": 555, "attributes": {"name": "In corso", "icon": "it-exchange-circle", "weight": 4}},
-    {"entity": "taxonomy_term", "type": "stato_progetti", "id": 556, "attributes": {"name": "Realizzato", "icon": "it-flag", "weight": 5}},
-    {"entity": "taxonomy_term", "type": "stato_progetti", "id": 557, "attributes": {"name": "Rendicontato", "icon": "it-chart-line", "weight": 6}}
+    {"entity": "taxonomy_term", "type": "stato_progetti", "id": 551, "attributes": {"name": "Progettazione (preliminare)", "icon": "it-pencil", "weight": 0}, "uuid": ""},
+    {"entity": "taxonomy_term", "type": "stato_progetti", "id": 552, "attributes": {"name": "Presentato", "icon": "it-presentation", "weight": 1}, "uuid": "2aff9e05-53f9-4247-9692-d2b88584f936"},
+    {"entity": "taxonomy_term", "type": "stato_progetti", "id": 553, "attributes": {"name": "Progettazione (esecutiva)", "icon": "it-file", "weight": 2}, "uuid": "c705ff47-e0b6-4c5e-820d-049d56cb869d"},
+    {"entity": "taxonomy_term", "type": "stato_progetti", "id": 554, "attributes": {"name": "Avviato", "icon": "it-exchange-circle", "weight": 3}, "uuid": "642dcb14-9e78-4383-ae80-55801007190c"},
+    {"entity": "taxonomy_term", "type": "stato_progetti", "id": 555, "attributes": {"name": "In corso", "icon": "it-exchange-circle", "weight": 4}, "uuid": "7518fecd-073c-44ec-8b52-4065e3b6db52"},
+    {"entity": "taxonomy_term", "type": "stato_progetti", "id": 556, "attributes": {"name": "Realizzato", "icon": "it-flag", "weight": 5}, "uuid": "cce0c4fb-dd4c-41e8-9c4a-4a9a4ac43869"},
+    {"entity": "taxonomy_term", "type": "stato_progetti", "id": 557, "attributes": {"name": "Rendicontato", "icon": "it-chart-line", "weight": 6}, "uuid": "4a2147d7-8f8c-48c4-90d9-9dc69d46baaa"}
   ]
 }

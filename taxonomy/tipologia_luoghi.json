@@ -1,20 +1,20 @@
 {
   "data": [
-    {"entity": "taxonomy_term", "type": "tipologia_luoghi", "id": 1001, "attributes": {"name": "Altro", "icon":  "icon-building"}},
-    {"entity": "taxonomy_term", "type": "tipologia_luoghi", "id": 1002, "attributes": {"name": "Auditorium", "icon":  "icon-building"}},
-    {"entity": "taxonomy_term", "type": "tipologia_luoghi", "id": 1003, "attributes": {"name": "Aula", "icon":  "icon-classes"}},
-    {"entity": "taxonomy_term", "type": "tipologia_luoghi", "id": 1004, "attributes": {"name": "Aula di musica", "icon":  "icon-building"}},
-    {"entity": "taxonomy_term", "type": "tipologia_luoghi", "id": 1005, "attributes": {"name": "Aula informatica", "icon":  "icon-building"}},
-    {"entity": "taxonomy_term", "type": "tipologia_luoghi", "id": 1006, "attributes": {"name": "Aula magna", "icon":  "icon-school-building"}},
-    {"entity": "taxonomy_term", "type": "tipologia_luoghi", "id": 1007, "attributes": {"name": "Biblioteca", "icon":  "icon-building"}},
-    {"entity": "taxonomy_term", "type": "tipologia_luoghi", "id": 1008, "attributes": {"name": "Edificio scolastico", "icon":  "school-building"}},
-    {"entity": "taxonomy_term", "type": "tipologia_luoghi", "id": 1009, "attributes": {"name": "Galleria d'arte", "icon":  "school-building"}},
-    {"entity": "taxonomy_term", "type": "tipologia_luoghi", "id": 1010, "attributes": {"name": "Laboratorio", "icon":  "icon-building"}},
-    {"entity": "taxonomy_term", "type": "tipologia_luoghi", "id": 1011, "attributes": {"name": "Mensa", "icon":  "icon-building"}},
-    {"entity": "taxonomy_term", "type": "tipologia_luoghi", "id": 1012, "attributes": {"name": "Museo", "icon":  "icon-building"}},
-    {"entity": "taxonomy_term", "type": "tipologia_luoghi", "id": 1013, "attributes": {"name": "Palestra", "icon":  "icon-building"}},
-    {"entity": "taxonomy_term", "type": "tipologia_luoghi", "id": 1014, "attributes": {"name": "Planetario", "icon":  "icon-building"}},
-    {"entity": "taxonomy_term", "type": "tipologia_luoghi", "id": 1015, "attributes": {"name": "Spazio all'aperto", "icon":  "icon-building"}},
-    {"entity": "taxonomy_term", "type": "tipologia_luoghi", "id": 1016, "attributes": {"name": "Teatro", "icon":  "icon-building"}}
+    {"entity": "taxonomy_term", "type": "tipologia_luoghi", "id": 1001, "attributes": {"name": "Altro", "icon":  "icon-building"}, "uuid": "b0894e17-8a92-4fcc-b003-7b236e370374"},
+    {"entity": "taxonomy_term", "type": "tipologia_luoghi", "id": 1002, "attributes": {"name": "Auditorium", "icon":  "icon-building"}, "uuid": "883242cb-feaf-4d8b-b65b-722e0821341a"},
+    {"entity": "taxonomy_term", "type": "tipologia_luoghi", "id": 1003, "attributes": {"name": "Aula", "icon":  "icon-classes"}, "uuid": "61f51d2e-ea7a-4ae8-a7a6-f14668da0742"},
+    {"entity": "taxonomy_term", "type": "tipologia_luoghi", "id": 1004, "attributes": {"name": "Aula di musica", "icon":  "icon-building"}, "uuid": "f3bcdf34-2b26-42f3-bb0c-74828aa0e945"},
+    {"entity": "taxonomy_term", "type": "tipologia_luoghi", "id": 1005, "attributes": {"name": "Aula informatica", "icon":  "icon-building"}, "uuid": "b9aea6c4-0b8c-43be-95a5-fb91471870fe"},
+    {"entity": "taxonomy_term", "type": "tipologia_luoghi", "id": 1006, "attributes": {"name": "Aula magna", "icon":  "icon-school-building"}, "uuid": "cc2b7a73-563c-45fd-bb9d-74dc4fc6e77e"},
+    {"entity": "taxonomy_term", "type": "tipologia_luoghi", "id": 1007, "attributes": {"name": "Biblioteca", "icon":  "icon-building"}, "uuid": "1115c787-c669-4d45-af67-75566bf529f9"},
+    {"entity": "taxonomy_term", "type": "tipologia_luoghi", "id": 1008, "attributes": {"name": "Edificio scolastico", "icon":  "school-building"}, "uuid": "1a2033db-da6e-43bf-9834-7134d4b07e97"},
+    {"entity": "taxonomy_term", "type": "tipologia_luoghi", "id": 1009, "attributes": {"name": "Galleria d'arte", "icon":  "school-building"}, "uuid": "1579fea7-22a3-4d6e-aea7-575252f5e9ea"},
+    {"entity": "taxonomy_term", "type": "tipologia_luoghi", "id": 1010, "attributes": {"name": "Laboratorio", "icon":  "icon-building"}, "uuid": "2cfad7f4-7338-4634-b317-95a4906dc08d"},
+    {"entity": "taxonomy_term", "type": "tipologia_luoghi", "id": 1011, "attributes": {"name": "Mensa", "icon":  "icon-building"}, "uuid": "4353eefd-87e4-4ecb-8753-72a4f94b9176"},
+    {"entity": "taxonomy_term", "type": "tipologia_luoghi", "id": 1012, "attributes": {"name": "Museo", "icon":  "icon-building"}, "uuid": "b858b2f7-8aa1-4c9e-ac94-8ee955396e07"},
+    {"entity": "taxonomy_term", "type": "tipologia_luoghi", "id": 1013, "attributes": {"name": "Palestra", "icon":  "icon-building"}, "uuid": "10b148e1-64a3-440b-9beb-d948d067ce5a"},
+    {"entity": "taxonomy_term", "type": "tipologia_luoghi", "id": 1014, "attributes": {"name": "Planetario", "icon":  "icon-building"}, "uuid": "0c87f269-1292-4c0d-b3c5-1e7c21a35cf9"},
+    {"entity": "taxonomy_term", "type": "tipologia_luoghi", "id": 1015, "attributes": {"name": "Spazio all'aperto", "icon":  "icon-building"}, "uuid": "ed81d022-0ee9-42cb-86f4-d44c8ac63e43"},
+    {"entity": "taxonomy_term", "type": "tipologia_luoghi", "id": 1016, "attributes": {"name": "Teatro", "icon":  "icon-building"}, "uuid": "33818847-dc05-435f-a5e2-b6cd4ed966a4"}
   ]
 }
