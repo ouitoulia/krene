@@ -389,7 +389,7 @@
           {"entity": "node", "type": "luogo", "id": 109},
           {"entity": "node", "type": "luogo", "id": 101}
         ]},
-        "eventi": {"data":  [
+        "eventi": {"data": [
           {"entity": "node", "type": "evento", "id": 401},
           {"entity": "node", "type": "evento", "id": 402}
         ]}
