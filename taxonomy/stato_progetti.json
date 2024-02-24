@@ -1,6 +1,6 @@
 {
   "data": [
-    {"entity": "taxonomy_term", "type": "stato_progetti", "id": 551, "attributes": {"name": "Progettazione (preliminare)", "icon": "it-pencil", "weight": 0}, "uuid": ""},
+    {"entity": "taxonomy_term", "type": "stato_progetti", "id": 551, "attributes": {"name": "Progettazione (preliminare)", "icon": "it-pencil", "weight": 0}, "uuid": "105926de-7704-4a8b-b7f2-9048b23f8ebe"},
     {"entity": "taxonomy_term", "type": "stato_progetti", "id": 552, "attributes": {"name": "Presentato", "icon": "it-presentation", "weight": 1}, "uuid": "2aff9e05-53f9-4247-9692-d2b88584f936"},
     {"entity": "taxonomy_term", "type": "stato_progetti", "id": 553, "attributes": {"name": "Progettazione (esecutiva)", "icon": "it-file", "weight": 2}, "uuid": "c705ff47-e0b6-4c5e-820d-049d56cb869d"},
     {"entity": "taxonomy_term", "type": "stato_progetti", "id": 554, "attributes": {"name": "Avviato", "icon": "it-exchange-circle", "weight": 3}, "uuid": "642dcb14-9e78-4383-ae80-55801007190c"},
