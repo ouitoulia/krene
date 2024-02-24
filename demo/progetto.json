@@ -25,10 +25,10 @@
           {"entity": "taxonomy_term", "type": "competenze", "id": 8004},
           {"entity": "taxonomy_term", "type": "competenze", "id": 8007}
         ]},
-        "luoghi": {"data":  [
+        "luoghi": {"data": [
           {"entity": "node", "type": "luogo", "id": 101}
         ]},
-        "servizio": {"data":  [
+        "servizio": {"data": [
           {"entity": "node", "type": "servizio", "id": 501}
         ]},
         "persona_responsabile": {"data": [
@@ -66,10 +66,10 @@
           {"entity": "taxonomy_term", "type": "competenze", "id": 8004},
           {"entity": "taxonomy_term", "type": "competenze", "id": 8007}
         ]},
-        "luoghi": {"data":  [
+        "luoghi": {"data": [
           {"entity": "node", "type": "luogo", "id": 102}
         ]},
-        "servizio": {"data":  [
+        "servizio": {"data": [
           {"entity": "node", "type": "servizio", "id": 501}
         ]},
         "persona_responsabile": {"data": [
@@ -107,10 +107,10 @@
           {"entity": "taxonomy_term", "type": "competenze", "id": 8004},
           {"entity": "taxonomy_term", "type": "competenze", "id": 8007}
         ]},
-        "luoghi": {"data":  [
+        "luoghi": {"data": [
           {"entity": "node", "type": "luogo", "id": 101}
         ]},
-        "servizio": {"data":  [
+        "servizio": {"data": [
           {"entity": "node", "type": "servizio", "id": 501}
         ]},
         "persona_responsabile": {"data": [
@@ -148,10 +148,10 @@
           {"entity": "taxonomy_term", "type": "competenze", "id": 8004},
           {"entity": "taxonomy_term", "type": "competenze", "id": 8007}
         ]},
-        "luoghi": {"data":  [
+        "luoghi": {"data": [
           {"entity": "node", "type": "luogo", "id": 104}
         ]},
-        "servizio": {"data":  [
+        "servizio": {"data": [
           {"entity": "node", "type": "luogo", "id": 501}
         ]},
         "persona_responsabile": {"data": [
@@ -189,10 +189,10 @@
           {"entity": "taxonomy_term", "type": "competenze", "id": 8004},
           {"entity": "taxonomy_term", "type": "competenze", "id": 8007}
         ]},
-        "luoghi": {"data":  [
+        "luoghi": {"data": [
           {"entity": "node", "type": "luogo", "id": 101}
         ]},
-        "servizio": {"data":  [
+        "servizio": {"data": [
           {"entity": "node", "type": "servizio", "id": 501}
         ]},
         "persona_responsabile": {"data": [
@@ -230,10 +230,10 @@
           {"entity": "taxonomy_term", "type": "competenze", "id": 8004},
           {"entity": "taxonomy_term", "type": "competenze", "id": 8007}
         ]},
-        "luoghi": {"data":  [
+        "luoghi": {"data": [
           {"entity": "node", "type": "luogo", "id": 101}
         ]},
-        "servizio": {"data":  [
+        "servizio": {"data": [
           {"entity": "node", "type": "servizio", "id": 501}
         ]},
         "persona_responsabile": {"data": [
@@ -271,10 +271,10 @@
           {"entity": "taxonomy_term", "type": "competenze", "id": 8004},
           {"entity": "taxonomy_term", "type": "competenze", "id": 8007}
         ]},
-        "luoghi": {"data":  [
+        "luoghi": {"data": [
           {"entity": "node", "type": "luogo", "id": 101}
         ]},
-        "servizio": {"data":  [
+        "servizio": {"data": [
           {"entity": "node", "type": "servizio", "id": 501}
         ]},
         "persona_responsabile": {"data": [

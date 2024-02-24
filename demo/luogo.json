@@ -710,7 +710,7 @@
           {"entity": "media", "type": "image", "id": 12},
           {"entity": "media", "type": "image", "id": 13}
         ]},
-        "fa_parte_di": {"data":  {"entity": "node", "type": "luogo", "id": 107}},
+        "fa_parte_di": {"data": {"entity": "node", "type": "luogo", "id": 107}},
         "attributi_luogo": {"data": [
           {"entity": "taxonomy_term", "type": "attributi_luoghi", "id": 101},
           {"entity": "taxonomy_term", "type": "attributi_luoghi", "id": 102},

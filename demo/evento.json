@@ -26,7 +26,7 @@
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1404}
         ]},
         "copertina": {"data": {"entity": "media", "type": "image", "id": 1}},
-        "luoghi": {"data":  [
+        "luoghi": {"data": [
           {"entity": "node", "type": "luogo", "id": 101}
         ]},
         "struttura_organizzativa": {"data": [
@@ -78,7 +78,7 @@
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1404}
         ]},
         "copertina": {"data": {"entity": "media", "type": "image", "id": 1}},
-        "luoghi": {"data":  [
+        "luoghi": {"data": [
           {"entity": "node", "type": "luogo", "id": 101}
         ]},
         "struttura_organizzativa": {"data": [
@@ -130,7 +130,7 @@
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1404}
         ]},
         "copertina": {"data": {"entity": "media", "type": "image", "id": 1}},
-        "luoghi": {"data":  [
+        "luoghi": {"data": [
           {"entity": "node", "type": "luogo", "id": 101}
         ]},
         "struttura_organizzativa": {"data": [
@@ -188,7 +188,7 @@
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1442}
         ]},
         "copertina": {"data": {"entity": "media", "type": "image", "id": 1}},
-        "luoghi": {"data":  [
+        "luoghi": {"data": [
           {"entity": "node", "type": "luogo", "id": 101}
         ]},
         "struttura_organizzativa": {"data": [
@@ -242,7 +242,7 @@
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1442}
         ]},
         "copertina": {"data": {"entity": "media", "type": "image", "id": 1}},
-        "luoghi": {"data":  [
+        "luoghi": {"data": [
           {"entity": "node", "type": "luogo", "id": 101}
         ]},
         "struttura_organizzativa": {"data": [
@@ -296,7 +296,7 @@
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1442}
         ]},
         "copertina": {"data": {"entity": "media", "type": "image", "id": 1}},
-        "luoghi": {"data":  [
+        "luoghi": {"data": [
           {"entity": "node", "type": "luogo", "id": 101}
         ]},
         "struttura_organizzativa": {"data": [
@@ -350,7 +350,7 @@
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1420}
         ]},
         "copertina": {"data": {"entity": "media", "type": "image", "id": 1}},
-        "luoghi": {"data":  [
+        "luoghi": {"data": [
           {"entity": "node", "type": "luogo", "id": 101}
         ]},
         "struttura_organizzativa": {"data": [
@@ -409,7 +409,7 @@
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1420}
         ]},
         "copertina": {"data": {"entity": "media", "type": "image", "id": 1}},
-        "luoghi": {"data":  [
+        "luoghi": {"data": [
           {"entity": "node", "type": "luogo", "id": 101}
         ]},
         "struttura_organizzativa": {"data": [

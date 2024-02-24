@@ -19,10 +19,10 @@
         "grado_di_istruzione": {"data": {"entity": "taxonomy_term", "type": "indirizzi_di_studio", "id": 3001}},
         "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
         "struttura_didattica": {"data": {"entity": "node", "type": "struttura_organizzativa", "id": 207}},
-        "cosa_serve": {"data":  [
+        "cosa_serve": {"data": [
           {"entity": "taxonomy_term", "type": "cosa_serve", "id": 301}
         ]},
-        "servizio": {"data":  [
+        "servizio": {"data": [
           {"entity": "node", "type": "luogo", "id": 501}
         ]},
         "struttura_responsabile": {"data": [
@@ -52,10 +52,10 @@
         "grado_di_istruzione": {"data": {"entity": "taxonomy_term", "type": "indirizzi_di_studio", "id": 3051}},
         "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
         "struttura_didattica": {"data": {"entity": "node", "type": "struttura_organizzativa", "id": 210}},
-        "cosa_serve": {"data":  [
+        "cosa_serve": {"data": [
           {"entity": "taxonomy_term", "type": "cosa_serve", "id": 301}
         ]},
-        "servizio": {"data":  [
+        "servizio": {"data": [
           {"entity": "node", "type": "luogo", "id": 501}
         ]},
         "struttura_responsabile": {"data": [
@@ -86,10 +86,10 @@
         "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
         "piano_di_studio": {"data": {"paragraph": [201,202,203]}},
         "struttura_didattica": {"data": {"entity": "node", "type": "struttura_organizzativa", "id": 206}},
-        "cosa_serve": {"data":  [
+        "cosa_serve": {"data": [
           {"entity": "taxonomy_term", "type": "cosa_serve", "id": 301}
         ]},
-        "servizio": {"data":  [
+        "servizio": {"data": [
           {"entity": "node", "type": "luogo", "id": 501}
         ]},
         "struttura_responsabile": {"data": [
@@ -120,10 +120,10 @@
         "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
         "piano_di_studio": {"data": {"paragraph": [204,205,206]}},
         "struttura_didattica": {"data": {"entity": "node", "type": "struttura_organizzativa", "id": 206}},
-        "cosa_serve": {"data":  [
+        "cosa_serve": {"data": [
           {"entity": "taxonomy_term", "type": "cosa_serve", "id": 301}
         ]},
-        "servizio": {"data":  [
+        "servizio": {"data": [
           {"entity": "node", "type": "luogo", "id": 501}
         ]},
         "struttura_responsabile": {"data": [
@@ -153,10 +153,10 @@
         "grado_di_istruzione": {"data": {"entity": "taxonomy_term", "type": "indirizzi_di_studio", "id": 3001}},
         "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
         "struttura_didattica": {"data": {"entity": "node", "type": "struttura_organizzativa", "id": 208}},
-        "cosa_serve": {"data":  [
+        "cosa_serve": {"data": [
           {"entity": "taxonomy_term", "type": "cosa_serve", "id": 301}
         ]},
-        "servizio": {"data":  [
+        "servizio": {"data": [
           {"entity": "node", "type": "luogo", "id": 501}
         ]},
         "struttura_responsabile": {"data": [
@@ -186,10 +186,10 @@
         "grado_di_istruzione": {"data": {"entity": "taxonomy_term", "type": "indirizzi_di_studio", "id": 3001}},
         "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
         "struttura_didattica": {"data": {"entity": "node", "type": "struttura_organizzativa", "id": 209}},
-        "cosa_serve": {"data":  [
+        "cosa_serve": {"data": [
           {"entity": "taxonomy_term", "type": "cosa_serve", "id": 301}
         ]},
-        "servizio": {"data":  [
+        "servizio": {"data": [
           {"entity": "node", "type": "luogo", "id": 501}
         ]},
         "struttura_responsabile": {"data": [
@@ -219,10 +219,10 @@
         "grado_di_istruzione": {"data": {"entity": "taxonomy_term", "type": "indirizzi_di_studio", "id": 3001}},
         "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
         "struttura_didattica": {"data": {"entity": "node", "type": "struttura_organizzativa", "id": 209}},
-        "cosa_serve": {"data":  [
+        "cosa_serve": {"data": [
           {"entity": "taxonomy_term", "type": "cosa_serve", "id": 301}
         ]},
-        "servizio": {"data":  [
+        "servizio": {"data": [
           {"entity": "node", "type": "luogo", "id": 501}
         ]},
         "struttura_responsabile": {"data": [
@@ -252,10 +252,10 @@
         "grado_di_istruzione": {"data": {"entity": "taxonomy_term", "type": "indirizzi_di_studio", "id": 3051}},
         "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
         "struttura_didattica": {"data": {"entity": "node", "type": "struttura_organizzativa", "id": 211}},
-        "cosa_serve": {"data":  [
+        "cosa_serve": {"data": [
           {"entity": "taxonomy_term", "type": "cosa_serve", "id": 301}
         ]},
-        "servizio": {"data":  [
+        "servizio": {"data": [
           {"entity": "node", "type": "luogo", "id": 501}
         ]},
         "struttura_responsabile": {"data": [

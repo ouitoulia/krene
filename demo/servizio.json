@@ -33,10 +33,10 @@
           {"entity": "taxonomy_term", "type": "tipologia_autenticazioni", "id": 603},
           {"entity": "taxonomy_term", "type": "tipologia_autenticazioni", "id": 604}
         ]},
-        "luoghi": {"data":  [
+        "luoghi": {"data": [
           {"entity": "node", "type": "luogo", "id": 101}
         ]},
-        "cosa_serve": {"data":  [
+        "cosa_serve": {"data": [
           {"entity": "taxonomy_term", "type": "cosa_serve", "id": 301}
         ]},
         "persona_responsabile": {"data": [
@@ -82,10 +82,10 @@
           {"entity": "taxonomy_term", "type": "tipologia_autenticazioni", "id": 601},
           {"entity": "taxonomy_term", "type": "tipologia_autenticazioni", "id": 603}
         ]},
-        "luoghi": {"data":  [
+        "luoghi": {"data": [
           {"entity": "node", "type": "luogo", "id": 101}
         ]},
-        "cosa_serve": {"data":  [
+        "cosa_serve": {"data": [
           {"entity": "taxonomy_term", "type": "cosa_serve", "id": 301}
         ]},
         "persona_responsabile": {"data": [
@@ -131,10 +131,10 @@
           {"entity": "taxonomy_term", "type": "tipologia_autenticazioni", "id": 601},
           {"entity": "taxonomy_term", "type": "tipologia_autenticazioni", "id": 603}
         ]},
-        "luoghi": {"data":  [
+        "luoghi": {"data": [
           {"entity": "node", "type": "luogo", "id": 101}
         ]},
-        "cosa_serve": {"data":  [
+        "cosa_serve": {"data": [
           {"entity": "taxonomy_term", "type": "cosa_serve", "id": 301}
         ]},
         "persona_responsabile": {"data": [

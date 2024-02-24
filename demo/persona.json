@@ -1,12 +1,12 @@
 {
   "data": [
     {
-      "entity":  "node", "type":  "persona", "id": 1,
+      "entity": "node", "type": "persona", "id": 1,
       "attributes": {
         "title": "Dirigente Scolastico Mario Determinato", "cognome": "Determinato", "nome": "Mario",
         "abstract": "Dirigente scolastico esperto e determinato con decennale esperienza nella gestione di istituti comprensivi italiani. Abile nel coordinamento di progetti complessi e nel management dei docenti.",
         "telefono": ["3330000000","3320000000"], "email": ["email@example.com","email2@example.com"],
-        "codice_fiscale": "AAABBB70A01A000A", "birthdate":  "1970-01-01", "genere": "M", "language": "it", "published": 1
+        "codice_fiscale": "AAABBB70A01A000A", "birthdate": "1970-01-01", "genere": "M", "language": "it", "published": 1
       },
       "relationships": {
         "ritratto": {"data": {"entity": "file", "type": "image", "id": 1, "url": "https://ouitoulia.github.io/krene/demo/images/persona-01-mario-determinato.png", "filename": "persona-01-mario-determinato.png", "filemime": "image/png", "description": "Volto di Mario Determinato"}},
@@ -15,12 +15,12 @@
       }
     },
     {
-      "entity":  "node", "type":  "persona", "id": 2,
+      "entity": "node", "type": "persona", "id": 2,
       "attributes": {
         "title": "Docente Margherita Amorevole", "cognome": "Amorevole", "nome": "Margherita",
         "abstract": "Esperta docente della Scuola dell'infanzia, si dedicata alla crescita e allo sviluppo dei bambini con un approccio amorevole e creativo.",
         "telefono": ["3330000000","3320000000"], "email": ["email@example.com","email2@example.com"],
-        "codice_fiscale": "AAABBB70A02A000A", "birthdate":  "1970-01-02", "genere": "F", "language": "it", "published": 1
+        "codice_fiscale": "AAABBB70A02A000A", "birthdate": "1970-01-02", "genere": "F", "language": "it", "published": 1
       },
       "relationships": {
         "ritratto": {"data": {"entity": "file", "type": "image", "id": 2, "url": "https://ouitoulia.github.io/krene/demo/images/persona-02-margherita-amorevole.png", "filename": "persona-02-margherita-amorevole.png", "filemime": "image/png", "description": "Volto di Margherita Amorevole"}},
@@ -30,12 +30,12 @@
       }
     },
     {
-      "entity":  "node", "type":  "persona", "id": 3,
+      "entity": "node", "type": "persona", "id": 3,
       "attributes": {
         "title": "Docente Mario Appassionato", "cognome": "Appassionato", "nome": "Mario",
         "abstract": "Insegnante appassionato della Scuola dell'Infanzia, abile nell'ispirare i giovani studenti attraverso giochi educativi e attività coinvolgenti.",
         "telefono": ["3330000000","3320000000"], "email": ["email@example.com","email2@example.com"],
-        "codice_fiscale": "AAABBB70A03A000A", "birthdate":  "1970-01-03", "genere": "M", "language": "it", "published": 1
+        "codice_fiscale": "AAABBB70A03A000A", "birthdate": "1970-01-03", "genere": "M", "language": "it", "published": 1
       },
       "relationships": {
         "ritratto": {"data": {"entity": "file", "type": "image", "id": 3, "url": "https://ouitoulia.github.io/krene/demo/images/persona-03-mario-appassionato.png", "filename": "persona-03-mario-appassionato.png", "filemime": "image/png", "description": "Volto di Mario Appassionato"}},
@@ -45,12 +45,12 @@
       }
     },
     {
-      "entity":  "node", "type":  "persona", "id": 4,
+      "entity": "node", "type": "persona", "id": 4,
       "attributes": {
         "title": "Docente Carlo Specializzato", "cognome": "Specializzato", "nome": "Carlo",
         "abstract": "Docente di Scuola Primaria competente e appassionato, specializzato nell'insegnamento di lingua italiana con un focus su letteratura e grammatica.",
         "telefono": ["3330000000","3320000000"], "email": ["email@example.com","email2@example.com"],
-        "codice_fiscale": "AAABBB70A04A000A", "birthdate":  "1970-01-04", "genere": "M", "language": "it", "published": 1
+        "codice_fiscale": "AAABBB70A04A000A", "birthdate": "1970-01-04", "genere": "M", "language": "it", "published": 1
       },
       "relationships": {
         "ritratto": {"data": {"entity": "file", "type": "image", "id": 4, "url": "https://ouitoulia.github.io/krene/demo/images/persona-04-carlo-specializzato.png", "filename": "persona-04-carlo-specializzato.png", "filemime": "image/png", "description": "Volto di Carlo Specializzato"}},
@@ -60,12 +60,12 @@
       }
     },
     {
-      "entity":  "node", "type":  "persona", "id": 5,
+      "entity": "node", "type": "persona", "id": 5,
       "attributes": {
         "title": "Docente Maria Competente", "cognome": "Competente", "nome": "Maria",
         "abstract": "Educatrice esperta di Scuola Primaria, esperta in matematica e risoluzione di problemi, impegnata a creare una solida base matematica per gli studenti.",
         "telefono": ["3330000000","3320000000"], "email": ["email@example.com","email2@example.com"],
-        "codice_fiscale": "AAABBB70A05A000A", "birthdate":  "1970-01-05", "genere": "F", "language": "it", "published": 1
+        "codice_fiscale": "AAABBB70A05A000A", "birthdate": "1970-01-05", "genere": "F", "language": "it", "published": 1
       },
       "relationships": {
         "ritratto": {"data": {"entity": "file", "type": "image", "id": 5, "url": "https://ouitoulia.github.io/krene/demo/images/persona-05-maria-competente.png", "filename": "persona-05-maria-competente.png", "filemime": "image/png", "description": "Volto di Maria Competente"}},
@@ -75,12 +75,12 @@
       }
     },
     {
-      "entity":  "node", "type":  "persona", "id": 6,
+      "entity": "node", "type": "persona", "id": 6,
       "attributes": {
         "title": "Docente Lucia Creativa", "cognome": "Creativa", "nome": "Lucia",
         "abstract": "Insegnante creativa di Scuola Primaria, con una profonda conoscenza degli strumenti musicali e una passione per ispirare gli studenti attraverso la musica.",
         "telefono": ["3330000000","3320000000"], "email": ["email@example.com","email2@example.com"],
-        "codice_fiscale": "AAABBB70A06A000A", "birthdate":  "1970-01-06", "genere": "F", "language": "it", "published": 1
+        "codice_fiscale": "AAABBB70A06A000A", "birthdate": "1970-01-06", "genere": "F", "language": "it", "published": 1
       },
       "relationships": {
         "ritratto": {"data": {"entity": "file", "type": "image", "id": 6, "url": "https://ouitoulia.github.io/krene/demo/images/persona-06-lucia-creativa.png", "filename": "persona-06-lucia-creativa.png", "filemime": "image/png", "description": "Volto di Lucia Creativa"}},
@@ -90,7 +90,7 @@
       }
     },
     {
-      "entity":  "node", "type":  "persona", "id": 7,
+      "entity": "node", "type": "persona", "id": 7,
       "attributes": {
         "title": "Docente Francesca Esperta", "cognome": "Esperta", "nome": "Francesca",
         "abstract": "Insegnante di italiano nella Scuola Secondaria di primo grado, esperta in letteratura e linguistica, si dedica a formare menti critiche e creative nel campo della lingua italiana.",

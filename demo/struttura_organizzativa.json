@@ -39,7 +39,7 @@
           {"entity": "node", "type": "luogo", "id": 108},
           {"entity": "node", "type": "luogo", "id": 109}
         ]},
-        "luoghi": {"data":  [
+        "luoghi": {"data": [
           {"entity": "node", "type": "luogo", "id": 101}
         ]}
       }
@@ -91,7 +91,7 @@
           {"entity": "node", "type": "luogo", "id": 108},
           {"entity": "node", "type": "luogo", "id": 109}
         ]},
-        "luoghi": {"data":  [
+        "luoghi": {"data": [
           {"entity": "node", "type": "luogo", "id": 101}]
         }
       }
@@ -135,7 +135,7 @@
           {"entity": "node", "type": "luogo", "id": 108},
           {"entity": "node", "type": "luogo", "id": 109}
         ]},
-        "luoghi": {"data":  [
+        "luoghi": {"data": [
           {"entity": "node", "type": "luogo", "id": 101}]
         }
       }
@@ -177,7 +177,7 @@
           {"entity": "node", "type": "persona", "id": 11},
           {"entity": "node", "type": "persona", "id": 12}
         ]},
-        "luoghi": {"data":  [
+        "luoghi": {"data": [
           {"entity": "node", "type": "luogo", "id": 101}]
         }
       }
@@ -215,7 +215,7 @@
           {"entity": "node", "type": "persona", "id": 10},
           {"entity": "node", "type": "persona", "id": 13}
         ]},
-        "luoghi": {"data":  [
+        "luoghi": {"data": [
           {"entity": "node", "type": "luogo", "id": 101}]
         }
       }
@@ -255,7 +255,7 @@
         "luoghi_gestiti": {"data": [
           {"entity": "node", "type": "luogo", "id": 109}
         ]},
-        "luoghi": {"data":  [
+        "luoghi": {"data": [
           {"entity": "node", "type": "luogo", "id": 109}
         ]}
       }
@@ -293,7 +293,7 @@
         "luoghi_gestiti": {"data": [
           {"entity": "node", "type": "luogo", "id": 102}
         ]},
-        "luoghi": {"data":  [
+        "luoghi": {"data": [
           {"entity": "node", "type": "luogo", "id": 102}
         ]}
       }
@@ -331,7 +331,7 @@
         "luoghi_gestiti": {"data": [
           {"entity": "node", "type": "luogo", "id": 103}
         ]},
-        "luoghi": {"data":  [
+        "luoghi": {"data": [
           {"entity": "node", "type": "luogo", "id": 103}
         ]}
       }
@@ -369,7 +369,7 @@
         "luoghi_gestiti": {"data": [
           {"entity": "node", "type": "luogo", "id": 104}
         ]},
-        "luoghi": {"data":  [
+        "luoghi": {"data": [
           {"entity": "node", "type": "luogo", "id": 104}
         ]}
       }
@@ -408,7 +408,7 @@
         "luoghi_gestiti": {"data": [
           {"entity": "node", "type": "luogo", "id": 106}
         ]},
-        "luoghi": {"data":  [
+        "luoghi": {"data": [
           {"entity": "node", "type": "luogo", "id": 106}
         ]}
       }
@@ -447,7 +447,7 @@
         "luoghi_gestiti": {"data": [
           {"entity": "node", "type": "luogo", "id": 107}
         ]},
-        "luoghi": {"data":  [
+        "luoghi": {"data": [
           {"entity": "node", "type": "luogo", "id": 107}
         ]}
       }
@@ -486,7 +486,7 @@
         "luoghi_gestiti": {"data": [
           {"entity": "node", "type": "luogo", "id": 108}
         ]},
-        "luoghi": {"data":  [
+        "luoghi": {"data": [
           {"entity": "node", "type": "luogo", "id": 108}
         ]}
       }
