@@ -17,16 +17,16 @@
         ]},
         "copertina": {"data": {"entity": "media", "type": "image", "id": 1}},
         "autori": {"data": [
-          {"entity": "node", "type": "persona", "id": 11}
+          {"entity": "node", "type": "persona", "id": 81}
         ]},
         "persone": {"data": [
-          {"entity": "node", "type": "persona", "id": 10},
-          {"entity": "node", "type": "persona", "id": 11},
-          {"entity": "node", "type": "persona", "id": 12}
+          {"entity": "node", "type": "persona", "id": 80},
+          {"entity": "node", "type": "persona", "id": 81},
+          {"entity": "node", "type": "persona", "id": 82}
         ]},
         "luoghi": {"data": [
-          {"entity": "node", "type": "luogo", "id": 101},
-          {"entity": "node", "type": "luogo", "id": 102}
+          {"entity": "node", "type": "luogo", "id": 171},
+          {"entity": "node", "type": "luogo", "id": 172}
         ]},
         "eventi": {"data": [
           {"entity": "node", "type": "evento", "id": 401},
@@ -51,17 +51,17 @@
         ]},
         "copertina": {"data": {"entity": "media", "type": "image", "id": 1}},
         "autori": {"data": [
-          {"entity": "node", "type": "persona", "id": 1},
-          {"entity": "node", "type": "persona", "id": 11}
+          {"entity": "node", "type": "persona", "id": 72},
+          {"entity": "node", "type": "persona", "id": 81}
         ]},
         "persone": {"data": [
-          {"entity": "node", "type": "persona", "id": 9},
-          {"entity": "node", "type": "persona", "id": 8},
-          {"entity": "node", "type": "persona", "id": 7}
+          {"entity": "node", "type": "persona", "id": 79},
+          {"entity": "node", "type": "persona", "id": 78},
+          {"entity": "node", "type": "persona", "id": 77}
         ]},
         "luoghi": {"data": [
-          {"entity": "node", "type": "luogo", "id": 109},
-          {"entity": "node", "type": "luogo", "id": 101}
+          {"entity": "node", "type": "luogo", "id": 179},
+          {"entity": "node", "type": "luogo", "id": 171}
         ]},
         "eventi": {"data": [
           {"entity": "node", "type": "evento", "id": 401},
@@ -86,16 +86,16 @@
         ]},
         "copertina": {"data": {"entity": "media", "type": "image", "id": 1}},
         "autori": {"data": [
-          {"entity": "node", "type": "persona", "id": 9}
+          {"entity": "node", "type": "persona", "id": 79}
         ]},
         "persone": {"data": [
-          {"entity": "node", "type": "persona", "id": 9},
-          {"entity": "node", "type": "persona", "id": 8},
-          {"entity": "node", "type": "persona", "id": 7}
+          {"entity": "node", "type": "persona", "id": 79},
+          {"entity": "node", "type": "persona", "id": 78},
+          {"entity": "node", "type": "persona", "id": 77}
         ]},
         "luoghi": {"data": [
-          {"entity": "node", "type": "luogo", "id": 109},
-          {"entity": "node", "type": "luogo", "id": 101}
+          {"entity": "node", "type": "luogo", "id": 179},
+          {"entity": "node", "type": "luogo", "id": 171}
         ]},
         "eventi": {"data": [
           {"entity": "node", "type": "evento", "id": 401},
@@ -120,17 +120,17 @@
         ]},
         "copertina": {"data": {"entity": "media", "type": "image", "id": 1}},
         "autori": {"data": [
-          {"entity": "node", "type": "persona", "id": 1},
-          {"entity": "node", "type": "persona", "id": 8}
+          {"entity": "node", "type": "persona", "id": 72},
+          {"entity": "node", "type": "persona", "id": 78}
         ]},
         "persone": {"data": [
-          {"entity": "node", "type": "persona", "id": 9},
-          {"entity": "node", "type": "persona", "id": 8},
-          {"entity": "node", "type": "persona", "id": 7}
+          {"entity": "node", "type": "persona", "id": 79},
+          {"entity": "node", "type": "persona", "id": 78},
+          {"entity": "node", "type": "persona", "id": 77}
         ]},
         "luoghi": {"data": [
-          {"entity": "node", "type": "luogo", "id": 109},
-          {"entity": "node", "type": "luogo", "id": 101}
+          {"entity": "node", "type": "luogo", "id": 179},
+          {"entity": "node", "type": "luogo", "id": 171}
         ]},
         "eventi": {"data": [
           {"entity": "node", "type": "evento", "id": 401},
@@ -155,16 +155,16 @@
         ]},
         "copertina": {"data": {"entity": "media", "type": "image", "id": 1}},
         "autori": {"data": [
-          {"entity": "node", "type": "persona", "id": 8}
+          {"entity": "node", "type": "persona", "id": 78}
         ]},
         "persone": {"data": [
-          {"entity": "node", "type": "persona", "id": 9},
-          {"entity": "node", "type": "persona", "id": 8},
-          {"entity": "node", "type": "persona", "id": 7}
+          {"entity": "node", "type": "persona", "id": 79},
+          {"entity": "node", "type": "persona", "id": 78},
+          {"entity": "node", "type": "persona", "id": 77}
         ]},
         "luoghi": {"data": [
-          {"entity": "node", "type": "luogo", "id": 109},
-          {"entity": "node", "type": "luogo", "id": 101}
+          {"entity": "node", "type": "luogo", "id": 179},
+          {"entity": "node", "type": "luogo", "id": 171}
         ]},
         "eventi": {"data": [
           {"entity": "node", "type": "evento", "id": 401},
@@ -189,13 +189,13 @@
         ]},
         "copertina": {"data": {"entity": "media", "type": "image", "id": 1}},
         "persone": {"data": [
-          {"entity": "node", "type": "persona", "id": 9},
-          {"entity": "node", "type": "persona", "id": 8},
-          {"entity": "node", "type": "persona", "id": 7}
+          {"entity": "node", "type": "persona", "id": 79},
+          {"entity": "node", "type": "persona", "id": 78},
+          {"entity": "node", "type": "persona", "id": 77}
         ]},
         "luoghi": {"data": [
-          {"entity": "node", "type": "luogo", "id": 109},
-          {"entity": "node", "type": "luogo", "id": 101}
+          {"entity": "node", "type": "luogo", "id": 179},
+          {"entity": "node", "type": "luogo", "id": 171}
         ]},
         "eventi": {"data": [
           {"entity": "node", "type": "evento", "id": 401},
@@ -221,13 +221,13 @@
         ]},
         "copertina": {"data": {"entity": "media", "type": "image", "id": 1}},
         "persone": {"data": [
-          {"entity": "node", "type": "persona", "id": 9},
-          {"entity": "node", "type": "persona", "id": 8},
-          {"entity": "node", "type": "persona", "id": 7}
+          {"entity": "node", "type": "persona", "id": 79},
+          {"entity": "node", "type": "persona", "id": 78},
+          {"entity": "node", "type": "persona", "id": 77}
         ]},
         "luoghi": {"data": [
-          {"entity": "node", "type": "luogo", "id": 109},
-          {"entity": "node", "type": "luogo", "id": 101}
+          {"entity": "node", "type": "luogo", "id": 179},
+          {"entity": "node", "type": "luogo", "id": 171}
         ]},
         "eventi": {"data": [
           {"entity": "node", "type": "evento", "id": 401},
@@ -253,13 +253,13 @@
         ]},
         "copertina": {"data": {"entity": "media", "type": "image", "id": 1}},
         "persone": {"data": [
-          {"entity": "node", "type": "persona", "id": 9},
-          {"entity": "node", "type": "persona", "id": 8},
-          {"entity": "node", "type": "persona", "id": 7}
+          {"entity": "node", "type": "persona", "id": 79},
+          {"entity": "node", "type": "persona", "id": 78},
+          {"entity": "node", "type": "persona", "id": 77}
         ]},
         "luoghi": {"data": [
-          {"entity": "node", "type": "luogo", "id": 109},
-          {"entity": "node", "type": "luogo", "id": 101}
+          {"entity": "node", "type": "luogo", "id": 179},
+          {"entity": "node", "type": "luogo", "id": 171}
         ]},
         "eventi": {"data": [
           {"entity": "node", "type": "evento", "id": 401},
@@ -285,13 +285,13 @@
         ]},
         "copertina": {"data": {"entity": "media", "type": "image", "id": 1}},
         "persone": {"data": [
-          {"entity": "node", "type": "persona", "id": 9},
-          {"entity": "node", "type": "persona", "id": 8},
-          {"entity": "node", "type": "persona", "id": 7}
+          {"entity": "node", "type": "persona", "id": 79},
+          {"entity": "node", "type": "persona", "id": 78},
+          {"entity": "node", "type": "persona", "id": 77}
         ]},
         "luoghi": {"data": [
-          {"entity": "node", "type": "luogo", "id": 109},
-          {"entity": "node", "type": "luogo", "id": 101}
+          {"entity": "node", "type": "luogo", "id": 179},
+          {"entity": "node", "type": "luogo", "id": 171}
         ]},
         "eventi": {"data": [
           {"entity": "node", "type": "evento", "id": 401},
@@ -317,13 +317,13 @@
         ]},
         "copertina": {"data": {"entity": "media", "type": "image", "id": 1}},
         "persone": {"data": [
-          {"entity": "node", "type": "persona", "id": 9},
-          {"entity": "node", "type": "persona", "id": 8},
-          {"entity": "node", "type": "persona", "id": 7}
+          {"entity": "node", "type": "persona", "id": 79},
+          {"entity": "node", "type": "persona", "id": 78},
+          {"entity": "node", "type": "persona", "id": 77}
         ]},
         "luoghi": {"data": [
-          {"entity": "node", "type": "luogo", "id": 109},
-          {"entity": "node", "type": "luogo", "id": 101}
+          {"entity": "node", "type": "luogo", "id": 179},
+          {"entity": "node", "type": "luogo", "id": 171}
         ]},
         "eventi": {"data": [
           {"entity": "node", "type": "evento", "id": 401},
@@ -349,13 +349,13 @@
         ]},
         "copertina": {"data": {"entity": "media", "type": "image", "id": 1}},
         "persone": {"data": [
-          {"entity": "node", "type": "persona", "id": 9},
-          {"entity": "node", "type": "persona", "id": 8},
-          {"entity": "node", "type": "persona", "id": 7}
+          {"entity": "node", "type": "persona", "id": 79},
+          {"entity": "node", "type": "persona", "id": 78},
+          {"entity": "node", "type": "persona", "id": 77}
         ]},
         "luoghi": {"data": [
-          {"entity": "node", "type": "luogo", "id": 109},
-          {"entity": "node", "type": "luogo", "id": 101}
+          {"entity": "node", "type": "luogo", "id": 179},
+          {"entity": "node", "type": "luogo", "id": 171}
         ]},
         "eventi": {"data": [
           {"entity": "node", "type": "evento", "id": 401},
@@ -381,13 +381,13 @@
         ]},
         "copertina": {"data": {"entity": "media", "type": "image", "id": 1}},
         "persone": {"data": [
-          {"entity": "node", "type": "persona", "id": 9},
-          {"entity": "node", "type": "persona", "id": 8},
-          {"entity": "node", "type": "persona", "id": 7}
+          {"entity": "node", "type": "persona", "id": 79},
+          {"entity": "node", "type": "persona", "id": 78},
+          {"entity": "node", "type": "persona", "id": 77}
         ]},
         "luoghi": {"data": [
-          {"entity": "node", "type": "luogo", "id": 109},
-          {"entity": "node", "type": "luogo", "id": 101}
+          {"entity": "node", "type": "luogo", "id": 179},
+          {"entity": "node", "type": "luogo", "id": 171}
         ]},
         "eventi": {"data": [
           {"entity": "node", "type": "evento", "id": 401},

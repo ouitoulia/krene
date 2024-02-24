@@ -1,6 +1,6 @@
 -NODI DEMO
-persona                 1-100
-luogo                   101-200
+persona                 71-170
+luogo                   171-200
 struttura_organizzativa 201-300
 partner                 301-400
 evento                  401-500

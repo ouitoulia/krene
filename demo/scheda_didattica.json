@@ -21,8 +21,8 @@
       "relationships": {
         "grado_di_istruzione": {"data": {"entity": "taxonomy_term", "type": "indirizzi_di_studio", "id": 3101}},
         "persona_responsabile": {"data": [
-          {"entity": "node", "type": "persona", "id": 10},
-          {"entity": "node", "type": "persona", "id": 11}
+          {"entity": "node", "type": "persona", "id": 80},
+          {"entity": "node", "type": "persona", "id": 81}
         ]},
         "materie": {"data": [
           {"entity": "taxonomy_term", "type": "materie", "id": 2115}
@@ -59,8 +59,8 @@
       "relationships": {
         "grado_di_istruzione": {"data": {"entity": "taxonomy_term", "type": "indirizzi_di_studio", "id": 3101}},
         "persona_responsabile": {"data": [
-          {"entity": "node", "type": "persona", "id": 9},
-          {"entity": "node", "type": "persona", "id": 10}
+          {"entity": "node", "type": "persona", "id": 79},
+          {"entity": "node", "type": "persona", "id": 80}
         ]},
         "materie": {"data": [
           {"entity": "taxonomy_term", "type": "materie", "id": 2115}
@@ -97,8 +97,8 @@
       "relationships": {
         "grado_di_istruzione": {"data": {"entity": "taxonomy_term", "type": "indirizzi_di_studio", "id": 3101}},
         "persona_responsabile": {"data": [
-          {"entity": "node", "type": "persona", "id": 8},
-          {"entity": "node", "type": "persona", "id": 9}
+          {"entity": "node", "type": "persona", "id": 78},
+          {"entity": "node", "type": "persona", "id": 79}
         ]},
         "materie": {"data": [
           {"entity": "taxonomy_term", "type": "materie", "id": 2115}
@@ -135,8 +135,8 @@
       "relationships": {
         "grado_di_istruzione": {"data": {"entity": "taxonomy_term", "type": "indirizzi_di_studio", "id": 3101}},
         "persona_responsabile": {"data": [
-          {"entity": "node", "type": "persona", "id": 3},
-          {"entity": "node", "type": "persona", "id": 4}
+          {"entity": "node", "type": "persona", "id": 73},
+          {"entity": "node", "type": "persona", "id": 74}
         ]},
         "materie": {"data": [
           {"entity": "taxonomy_term", "type": "materie", "id": 2115}

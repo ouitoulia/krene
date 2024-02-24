@@ -34,15 +34,15 @@
           {"entity": "taxonomy_term", "type": "tipologia_autenticazioni", "id": 604}
         ]},
         "luoghi": {"data": [
-          {"entity": "node", "type": "luogo", "id": 101}
+          {"entity": "node", "type": "luogo", "id": 171}
         ]},
         "cosa_serve": {"data": [
           {"entity": "taxonomy_term", "type": "cosa_serve", "id": 301}
         ]},
         "persona_responsabile": {"data": [
-          {"entity": "node", "type": "persona", "id": 10},
-          {"entity": "node", "type": "persona", "id": 11},
-          {"entity": "node", "type": "persona", "id": 12}
+          {"entity": "node", "type": "persona", "id": 80},
+          {"entity": "node", "type": "persona", "id": 81},
+          {"entity": "node", "type": "persona", "id": 82}
         ]},
         "struttura_responsabile": {"data": [
           {"entity": "node", "type": "struttura_organizzativa", "id": 201}
@@ -83,15 +83,15 @@
           {"entity": "taxonomy_term", "type": "tipologia_autenticazioni", "id": 603}
         ]},
         "luoghi": {"data": [
-          {"entity": "node", "type": "luogo", "id": 101}
+          {"entity": "node", "type": "luogo", "id": 171}
         ]},
         "cosa_serve": {"data": [
           {"entity": "taxonomy_term", "type": "cosa_serve", "id": 301}
         ]},
         "persona_responsabile": {"data": [
-          {"entity": "node", "type": "persona", "id": 10},
-          {"entity": "node", "type": "persona", "id": 11},
-          {"entity": "node", "type": "persona", "id": 12}
+          {"entity": "node", "type": "persona", "id": 80},
+          {"entity": "node", "type": "persona", "id": 81},
+          {"entity": "node", "type": "persona", "id": 82}
         ]},
         "struttura_responsabile": {"data": [
           {"entity": "node", "type": "struttura_organizzativa", "id": 201}
@@ -132,15 +132,15 @@
           {"entity": "taxonomy_term", "type": "tipologia_autenticazioni", "id": 603}
         ]},
         "luoghi": {"data": [
-          {"entity": "node", "type": "luogo", "id": 101}
+          {"entity": "node", "type": "luogo", "id": 171}
         ]},
         "cosa_serve": {"data": [
           {"entity": "taxonomy_term", "type": "cosa_serve", "id": 301}
         ]},
         "persona_responsabile": {"data": [
-          {"entity": "node", "type": "persona", "id": 10},
-          {"entity": "node", "type": "persona", "id": 11},
-          {"entity": "node", "type": "persona", "id": 12}
+          {"entity": "node", "type": "persona", "id": 80},
+          {"entity": "node", "type": "persona", "id": 81},
+          {"entity": "node", "type": "persona", "id": 82}
         ]},
         "struttura_responsabile": {"data": [
           {"entity": "node", "type": "struttura_organizzativa", "id": 201}

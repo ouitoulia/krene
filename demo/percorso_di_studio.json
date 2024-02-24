@@ -29,7 +29,7 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201}
         ]},
         "persona_responsabile": {"data": [
-          {"entity": "node", "type": "persona", "id": 1}
+          {"entity": "node", "type": "persona", "id": 72}
         ]}
       }
     },
@@ -62,7 +62,7 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201}
         ]},
         "persona_responsabile": {"data": [
-          {"entity": "node", "type": "persona", "id": 1}
+          {"entity": "node", "type": "persona", "id": 72}
         ]}
       }
     },
@@ -96,7 +96,7 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201}
         ]},
         "persona_responsabile": {"data": [
-          {"entity": "node", "type": "persona", "id": 1}
+          {"entity": "node", "type": "persona", "id": 72}
         ]}
       }
     },
@@ -130,7 +130,7 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201}
         ]},
         "persona_responsabile": {"data": [
-          {"entity": "node", "type": "persona", "id": 1}
+          {"entity": "node", "type": "persona", "id": 72}
         ]}
       }
     },
@@ -163,7 +163,7 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201}
         ]},
         "persona_responsabile": {"data": [
-          {"entity": "node", "type": "persona", "id": 1}
+          {"entity": "node", "type": "persona", "id": 72}
         ]}
       }
     },
@@ -196,7 +196,7 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201}
         ]},
         "persona_responsabile": {"data": [
-          {"entity": "node", "type": "persona", "id": 1}
+          {"entity": "node", "type": "persona", "id": 72}
         ]}
       }
     },
@@ -229,7 +229,7 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201}
         ]},
         "persona_responsabile": {"data": [
-          {"entity": "node", "type": "persona", "id": 1}
+          {"entity": "node", "type": "persona", "id": 72}
         ]}
       }
     },
@@ -262,7 +262,7 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201}
         ]},
         "persona_responsabile": {"data": [
-          {"entity": "node", "type": "persona", "id": 1}
+          {"entity": "node", "type": "persona", "id": 72}
         ]}
       }
     },
@@ -295,7 +295,7 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201}
         ]},
         "persona_responsabile": {"data": [
-          {"entity": "node", "type": "persona", "id": 1}
+          {"entity": "node", "type": "persona", "id": 72}
         ]}
       }
     }
