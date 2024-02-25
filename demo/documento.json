@@ -798,6 +798,1605 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
         ]}
       }
+    },
+    {
+      "entity": "node", "type": "documento", "id": 1211,
+      "attributes": {
+        "titolo": "Documento 1211",
+        "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "descrizione_estesa": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+        "link": [
+          {"uri": "https://example.com", "title": "DECRETO LEGISLATIVO 7 marzo 2005, n. 82"},
+          {"uri": "https://example.com", "title": "Articolo 53 del D. Lgs. 7 marzo 2005, n. 82"}
+        ],
+        "protocollo": "AF-349875/H",
+        "data_ora_inizio": "2024-01-13T18:00:00",
+        "cig": "A1B2C3D4E5",
+        "data_ora_fine": "2025-06-13T19:00:00",
+        "codice_identificativo": "1234567890128",
+        "data_oblio": "2032-06-13T19:00:00",
+        "frequenza": "Il documento viene aggiornato ogni 3 mesi",
+        "language": "it",
+        "published": 1
+      },
+      "relationships": {
+        "argomenti": {"data": [
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1457},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1423},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1431}
+        ]},
+        "tipologia_documento": {"data": {"entity": "taxonomy_term", "type": "tipologia_documenti", "id": 1801}},
+        "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
+        "galleria_immagini": {"data": [
+          {"entity": "media", "type": "image", "id": 1},
+          {"entity": "media", "type": "image", "id": 10},
+          {"entity": "media", "type": "image", "id": 11},
+          {"entity": "media", "type": "image", "id": 12},
+          {"entity": "media", "type": "image", "id": 13}
+        ]},
+        "persone": {"data": [
+          {"entity": "node", "type": "persona", "id": 80},
+          {"entity": "node", "type": "persona", "id": 81},
+          {"entity": "node", "type": "persona", "id": 82}
+        ]},
+        "document": {"data":
+        {"entity": "file", "id": 62, "url": "https://ouitoulia.github.io/krene/demo/files/demo.pdf", "filename": "demo.pdf", "filemime": "application/pdf", "description": "Documento .pdf type A demo"}
+        },
+        "servizi": {"data": [
+          {"entity": "node", "type": "servizio", "id": 501},
+          {"entity": "node", "type": "servizio", "id": 502},
+          {"entity": "node", "type": "servizio", "id": 503}
+        ]},
+        "eventi": {"data": [
+          {"entity": "node", "type": "evento", "id": 401},
+          {"entity": "node", "type": "evento", "id": 402},
+          {"entity": "node", "type": "evento", "id": 403}
+        ]},
+        "progetti": {"data": [
+          {"entity": "node", "type": "progetto", "id": 801},
+          {"entity": "node", "type": "progetto", "id": 802},
+          {"entity": "node", "type": "progetto", "id": 803}
+        ]},
+        "percorso_di_studio": {"data": [
+          {"entity": "node", "type": "percorso_di_studio", "id": 701},
+          {"entity": "node", "type": "percorso_di_studio", "id": 702},
+          {"entity": "node", "type": "percorso_di_studio", "id": 703}
+        ]},
+        "notizie": {"data": [
+          {"entity": "node", "type": "notizia", "id": 601},
+          {"entity": "node", "type": "notizia", "id": 602},
+          {"entity": "node", "type": "notizia", "id": 603}
+        ]},
+        "classi": {"data": [
+          {"entity": "node", "type": "classe", "id": 1001},
+          {"entity": "node", "type": "classe", "id": 1002},
+          {"entity": "node", "type": "classe", "id": 1003}
+        ]},
+        "struttura_responsabile": {"data": [
+          {"entity": "node", "type": "struttura_organizzativa", "id": 201},
+          {"entity": "node", "type": "struttura_organizzativa", "id": 202},
+          {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]}
+      }
+    },
+    {
+      "entity": "node", "type": "documento", "id": 1212,
+      "attributes": {
+        "titolo": "Documento 1212",
+        "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "descrizione_estesa": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+        "link": [
+          {"uri": "https://example.com", "title": "DECRETO LEGISLATIVO 7 marzo 2005, n. 82"},
+          {"uri": "https://example.com", "title": "Articolo 53 del D. Lgs. 7 marzo 2005, n. 82"}
+        ],
+        "protocollo": "AF-349875/H",
+        "data_ora_inizio": "2024-02-13T18:00:00",
+        "cig": "A1B2C3D4E5",
+        "data_ora_fine": "2025-07-13T19:00:00",
+        "codice_identificativo": "1234567890128",
+        "data_oblio": "2032-07-13T19:00:00",
+        "frequenza": "Il documento viene aggiornato ogni 3 mesi",
+        "language": "it",
+        "published": 1
+      },
+      "relationships": {
+        "argomenti": {"data": [
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1458},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1424},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1432}
+        ]},
+        "tipologia_documento": {"data": {"entity": "taxonomy_term", "type": "tipologia_documenti", "id": 1802}},
+        "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
+        "galleria_immagini": {"data": [
+          {"entity": "media", "type": "image", "id": 1},
+          {"entity": "media", "type": "image", "id": 10},
+          {"entity": "media", "type": "image", "id": 11},
+          {"entity": "media", "type": "image", "id": 12},
+          {"entity": "media", "type": "image", "id": 13}
+        ]},
+        "persone": {"data": [
+          {"entity": "node", "type": "persona", "id": 81},
+          {"entity": "node", "type": "persona", "id": 82},
+          {"entity": "node", "type": "persona", "id": 83}
+        ]},
+        "document": {"data":
+        {"entity": "file", "id": 62, "url": "https://ouitoulia.github.io/krene/demo/files/demo.pdf", "filename": "demo.pdf", "filemime": "application/pdf", "description": "Documento .pdf type A demo"}
+        },
+        "servizi": {"data": [
+          {"entity": "node", "type": "servizio", "id": 501},
+          {"entity": "node", "type": "servizio", "id": 502},
+          {"entity": "node", "type": "servizio", "id": 503}
+        ]},
+        "eventi": {"data": [
+          {"entity": "node", "type": "evento", "id": 401},
+          {"entity": "node", "type": "evento", "id": 402},
+          {"entity": "node", "type": "evento", "id": 403}
+        ]},
+        "progetti": {"data": [
+          {"entity": "node", "type": "progetto", "id": 801},
+          {"entity": "node", "type": "progetto", "id": 802},
+          {"entity": "node", "type": "progetto", "id": 803}
+        ]},
+        "percorso_di_studio": {"data": [
+          {"entity": "node", "type": "percorso_di_studio", "id": 701},
+          {"entity": "node", "type": "percorso_di_studio", "id": 702},
+          {"entity": "node", "type": "percorso_di_studio", "id": 703}
+        ]},
+        "notizie": {"data": [
+          {"entity": "node", "type": "notizia", "id": 601},
+          {"entity": "node", "type": "notizia", "id": 602},
+          {"entity": "node", "type": "notizia", "id": 603}
+        ]},
+        "classi": {"data": [
+          {"entity": "node", "type": "classe", "id": 1001},
+          {"entity": "node", "type": "classe", "id": 1002},
+          {"entity": "node", "type": "classe", "id": 1003}
+        ]},
+        "struttura_responsabile": {"data": [
+          {"entity": "node", "type": "struttura_organizzativa", "id": 201},
+          {"entity": "node", "type": "struttura_organizzativa", "id": 202},
+          {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]}
+      }
+    },
+    {
+      "entity": "node", "type": "documento", "id": 1213,
+      "attributes": {
+        "titolo": "Documento 1213",
+        "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "descrizione_estesa": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+        "link": [
+          {"uri": "https://example.com", "title": "DECRETO LEGISLATIVO 7 marzo 2005, n. 82"},
+          {"uri": "https://example.com", "title": "Articolo 53 del D. Lgs. 7 marzo 2005, n. 82"}
+        ],
+        "protocollo": "AF-349875/H",
+        "data_ora_inizio": "2024-03-13T18:00:00",
+        "cig": "A1B2C3D4E5",
+        "data_ora_fine": "2025-09-13T19:00:00",
+        "codice_identificativo": "1234567890128",
+        "data_oblio": "2032-09-13T19:00:00",
+        "frequenza": "Il documento viene aggiornato ogni 3 mesi",
+        "language": "it",
+        "published": 1
+      },
+      "relationships": {
+        "argomenti": {"data": [
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1458},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1425},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1439}
+        ]},
+        "tipologia_documento": {"data": {"entity": "taxonomy_term", "type": "tipologia_documenti", "id": 1801}},
+        "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
+        "galleria_immagini": {"data": [
+          {"entity": "media", "type": "image", "id": 1},
+          {"entity": "media", "type": "image", "id": 10},
+          {"entity": "media", "type": "image", "id": 11},
+          {"entity": "media", "type": "image", "id": 12},
+          {"entity": "media", "type": "image", "id": 13}
+        ]},
+        "persone": {"data": [
+          {"entity": "node", "type": "persona", "id": 82},
+          {"entity": "node", "type": "persona", "id": 83},
+          {"entity": "node", "type": "persona", "id": 14}
+        ]},
+        "document": {"data":
+        {"entity": "file", "id": 62, "url": "https://ouitoulia.github.io/krene/demo/files/demo.pdf", "filename": "demo.pdf", "filemime": "application/pdf", "description": "Documento .pdf type A demo"}
+        },
+        "servizi": {"data": [
+          {"entity": "node", "type": "servizio", "id": 501},
+          {"entity": "node", "type": "servizio", "id": 502},
+          {"entity": "node", "type": "servizio", "id": 503}
+        ]},
+        "eventi": {"data": [
+          {"entity": "node", "type": "evento", "id": 401},
+          {"entity": "node", "type": "evento", "id": 402},
+          {"entity": "node", "type": "evento", "id": 403}
+        ]},
+        "progetti": {"data": [
+          {"entity": "node", "type": "progetto", "id": 801},
+          {"entity": "node", "type": "progetto", "id": 802},
+          {"entity": "node", "type": "progetto", "id": 803}
+        ]},
+        "percorso_di_studio": {"data": [
+          {"entity": "node", "type": "percorso_di_studio", "id": 701},
+          {"entity": "node", "type": "percorso_di_studio", "id": 702},
+          {"entity": "node", "type": "percorso_di_studio", "id": 703}
+        ]},
+        "notizie": {"data": [
+          {"entity": "node", "type": "notizia", "id": 601},
+          {"entity": "node", "type": "notizia", "id": 602},
+          {"entity": "node", "type": "notizia", "id": 603}
+        ]},
+        "classi": {"data": [
+          {"entity": "node", "type": "classe", "id": 1001},
+          {"entity": "node", "type": "classe", "id": 1002},
+          {"entity": "node", "type": "classe", "id": 1003}
+        ]},
+        "struttura_responsabile": {"data": [
+          {"entity": "node", "type": "struttura_organizzativa", "id": 201},
+          {"entity": "node", "type": "struttura_organizzativa", "id": 202},
+          {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]}
+      }
+    },
+    {
+      "entity": "node", "type": "documento", "id": 1214,
+      "attributes": {
+        "titolo": "Documento 1214",
+        "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "descrizione_estesa": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+        "link": [
+          {"uri": "https://example.com", "title": "DECRETO LEGISLATIVO 7 marzo 2005, n. 82"},
+          {"uri": "https://example.com", "title": "Articolo 53 del D. Lgs. 7 marzo 2005, n. 82"}
+        ],
+        "protocollo": "AF-349875/H",
+        "data_ora_inizio": "2024-01-13T18:00:00",
+        "cig": "A1B2C3D4E5",
+        "data_ora_fine": "2025-06-13T19:00:00",
+        "codice_identificativo": "1234567890128",
+        "data_oblio": "2032-06-13T19:00:00",
+        "frequenza": "Il documento viene aggiornato ogni 3 mesi",
+        "language": "it",
+        "published": 1
+      },
+      "relationships": {
+        "argomenti": {"data": [
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1457},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1423},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1431}
+        ]},
+        "tipologia_documento": {"data": {"entity": "taxonomy_term", "type": "tipologia_documenti", "id": 1801}},
+        "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
+        "galleria_immagini": {"data": [
+          {"entity": "media", "type": "image", "id": 1},
+          {"entity": "media", "type": "image", "id": 10},
+          {"entity": "media", "type": "image", "id": 11},
+          {"entity": "media", "type": "image", "id": 12},
+          {"entity": "media", "type": "image", "id": 13}
+        ]},
+        "persone": {"data": [
+          {"entity": "node", "type": "persona", "id": 80},
+          {"entity": "node", "type": "persona", "id": 81},
+          {"entity": "node", "type": "persona", "id": 82}
+        ]},
+        "document": {"data":
+        {"entity": "file", "id": 62, "url": "https://ouitoulia.github.io/krene/demo/files/demo.pdf", "filename": "demo.pdf", "filemime": "application/pdf", "description": "Documento .pdf type A demo"}
+        },
+        "servizi": {"data": [
+          {"entity": "node", "type": "servizio", "id": 501},
+          {"entity": "node", "type": "servizio", "id": 502},
+          {"entity": "node", "type": "servizio", "id": 503}
+        ]},
+        "eventi": {"data": [
+          {"entity": "node", "type": "evento", "id": 401},
+          {"entity": "node", "type": "evento", "id": 402},
+          {"entity": "node", "type": "evento", "id": 403}
+        ]},
+        "progetti": {"data": [
+          {"entity": "node", "type": "progetto", "id": 801},
+          {"entity": "node", "type": "progetto", "id": 802},
+          {"entity": "node", "type": "progetto", "id": 803}
+        ]},
+        "percorso_di_studio": {"data": [
+          {"entity": "node", "type": "percorso_di_studio", "id": 701},
+          {"entity": "node", "type": "percorso_di_studio", "id": 702},
+          {"entity": "node", "type": "percorso_di_studio", "id": 703}
+        ]},
+        "notizie": {"data": [
+          {"entity": "node", "type": "notizia", "id": 601},
+          {"entity": "node", "type": "notizia", "id": 602},
+          {"entity": "node", "type": "notizia", "id": 603}
+        ]},
+        "classi": {"data": [
+          {"entity": "node", "type": "classe", "id": 1001},
+          {"entity": "node", "type": "classe", "id": 1002},
+          {"entity": "node", "type": "classe", "id": 1003}
+        ]},
+        "struttura_responsabile": {"data": [
+          {"entity": "node", "type": "struttura_organizzativa", "id": 201},
+          {"entity": "node", "type": "struttura_organizzativa", "id": 202},
+          {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]}
+      }
+    },    {
+      "entity": "node", "type": "documento", "id": 1215,
+      "attributes": {
+        "titolo": "Documento 1215",
+        "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "descrizione_estesa": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+        "link": [
+          {"uri": "https://example.com", "title": "DECRETO LEGISLATIVO 7 marzo 2005, n. 82"},
+          {"uri": "https://example.com", "title": "Articolo 53 del D. Lgs. 7 marzo 2005, n. 82"}
+        ],
+        "protocollo": "AF-349875/H",
+        "data_ora_inizio": "2024-01-13T18:00:00",
+        "cig": "A1B2C3D4E5",
+        "data_ora_fine": "2025-06-13T19:00:00",
+        "codice_identificativo": "1234567890128",
+        "data_oblio": "2032-06-13T19:00:00",
+        "frequenza": "Il documento viene aggiornato ogni 3 mesi",
+        "language": "it",
+        "published": 1
+      },
+      "relationships": {
+        "argomenti": {"data": [
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1457},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1423},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1431}
+        ]},
+        "tipologia_documento": {"data": {"entity": "taxonomy_term", "type": "tipologia_documenti", "id": 1801}},
+        "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
+        "galleria_immagini": {"data": [
+          {"entity": "media", "type": "image", "id": 1},
+          {"entity": "media", "type": "image", "id": 10},
+          {"entity": "media", "type": "image", "id": 11},
+          {"entity": "media", "type": "image", "id": 12},
+          {"entity": "media", "type": "image", "id": 13}
+        ]},
+        "persone": {"data": [
+          {"entity": "node", "type": "persona", "id": 80},
+          {"entity": "node", "type": "persona", "id": 81},
+          {"entity": "node", "type": "persona", "id": 82}
+        ]},
+        "document": {"data":
+        {"entity": "file", "id": 62, "url": "https://ouitoulia.github.io/krene/demo/files/demo.pdf", "filename": "demo.pdf", "filemime": "application/pdf", "description": "Documento .pdf type A demo"}
+        },
+        "servizi": {"data": [
+          {"entity": "node", "type": "servizio", "id": 501},
+          {"entity": "node", "type": "servizio", "id": 502},
+          {"entity": "node", "type": "servizio", "id": 503}
+        ]},
+        "eventi": {"data": [
+          {"entity": "node", "type": "evento", "id": 401},
+          {"entity": "node", "type": "evento", "id": 402},
+          {"entity": "node", "type": "evento", "id": 403}
+        ]},
+        "progetti": {"data": [
+          {"entity": "node", "type": "progetto", "id": 801},
+          {"entity": "node", "type": "progetto", "id": 802},
+          {"entity": "node", "type": "progetto", "id": 803}
+        ]},
+        "percorso_di_studio": {"data": [
+          {"entity": "node", "type": "percorso_di_studio", "id": 701},
+          {"entity": "node", "type": "percorso_di_studio", "id": 702},
+          {"entity": "node", "type": "percorso_di_studio", "id": 703}
+        ]},
+        "notizie": {"data": [
+          {"entity": "node", "type": "notizia", "id": 601},
+          {"entity": "node", "type": "notizia", "id": 602},
+          {"entity": "node", "type": "notizia", "id": 603}
+        ]},
+        "classi": {"data": [
+          {"entity": "node", "type": "classe", "id": 1001},
+          {"entity": "node", "type": "classe", "id": 1002},
+          {"entity": "node", "type": "classe", "id": 1003}
+        ]},
+        "struttura_responsabile": {"data": [
+          {"entity": "node", "type": "struttura_organizzativa", "id": 201},
+          {"entity": "node", "type": "struttura_organizzativa", "id": 202},
+          {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]}
+      }
+    },
+    {
+      "entity": "node", "type": "documento", "id": 1216,
+      "attributes": {
+        "titolo": "Documento 1216",
+        "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "descrizione_estesa": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+        "link": [
+          {"uri": "https://example.com", "title": "DECRETO LEGISLATIVO 7 marzo 2005, n. 82"},
+          {"uri": "https://example.com", "title": "Articolo 53 del D. Lgs. 7 marzo 2005, n. 82"}
+        ],
+        "protocollo": "AF-349875/H",
+        "data_ora_inizio": "2024-02-13T18:00:00",
+        "cig": "A1B2C3D4E5",
+        "data_ora_fine": "2025-07-13T19:00:00",
+        "codice_identificativo": "1234567890128",
+        "data_oblio": "2032-07-13T19:00:00",
+        "frequenza": "Il documento viene aggiornato ogni 3 mesi",
+        "language": "it",
+        "published": 1
+      },
+      "relationships": {
+        "argomenti": {"data": [
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1458},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1424},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1432}
+        ]},
+        "tipologia_documento": {"data": {"entity": "taxonomy_term", "type": "tipologia_documenti", "id": 1802}},
+        "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
+        "galleria_immagini": {"data": [
+          {"entity": "media", "type": "image", "id": 1},
+          {"entity": "media", "type": "image", "id": 10},
+          {"entity": "media", "type": "image", "id": 11},
+          {"entity": "media", "type": "image", "id": 12},
+          {"entity": "media", "type": "image", "id": 13}
+        ]},
+        "persone": {"data": [
+          {"entity": "node", "type": "persona", "id": 81},
+          {"entity": "node", "type": "persona", "id": 82},
+          {"entity": "node", "type": "persona", "id": 83}
+        ]},
+        "document": {"data":
+        {"entity": "file", "id": 62, "url": "https://ouitoulia.github.io/krene/demo/files/demo.pdf", "filename": "demo.pdf", "filemime": "application/pdf", "description": "Documento .pdf type A demo"}
+        },
+        "servizi": {"data": [
+          {"entity": "node", "type": "servizio", "id": 501},
+          {"entity": "node", "type": "servizio", "id": 502},
+          {"entity": "node", "type": "servizio", "id": 503}
+        ]},
+        "eventi": {"data": [
+          {"entity": "node", "type": "evento", "id": 401},
+          {"entity": "node", "type": "evento", "id": 402},
+          {"entity": "node", "type": "evento", "id": 403}
+        ]},
+        "progetti": {"data": [
+          {"entity": "node", "type": "progetto", "id": 801},
+          {"entity": "node", "type": "progetto", "id": 802},
+          {"entity": "node", "type": "progetto", "id": 803}
+        ]},
+        "percorso_di_studio": {"data": [
+          {"entity": "node", "type": "percorso_di_studio", "id": 701},
+          {"entity": "node", "type": "percorso_di_studio", "id": 702},
+          {"entity": "node", "type": "percorso_di_studio", "id": 703}
+        ]},
+        "notizie": {"data": [
+          {"entity": "node", "type": "notizia", "id": 601},
+          {"entity": "node", "type": "notizia", "id": 602},
+          {"entity": "node", "type": "notizia", "id": 603}
+        ]},
+        "classi": {"data": [
+          {"entity": "node", "type": "classe", "id": 1001},
+          {"entity": "node", "type": "classe", "id": 1002},
+          {"entity": "node", "type": "classe", "id": 1003}
+        ]},
+        "struttura_responsabile": {"data": [
+          {"entity": "node", "type": "struttura_organizzativa", "id": 201},
+          {"entity": "node", "type": "struttura_organizzativa", "id": 202},
+          {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]}
+      }
+    },
+    {
+      "entity": "node", "type": "documento", "id": 1217,
+      "attributes": {
+        "titolo": "Documento 1217",
+        "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "descrizione_estesa": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+        "link": [
+          {"uri": "https://example.com", "title": "DECRETO LEGISLATIVO 7 marzo 2005, n. 82"},
+          {"uri": "https://example.com", "title": "Articolo 53 del D. Lgs. 7 marzo 2005, n. 82"}
+        ],
+        "protocollo": "AF-349875/H",
+        "data_ora_inizio": "2024-03-13T18:00:00",
+        "cig": "A1B2C3D4E5",
+        "data_ora_fine": "2025-09-13T19:00:00",
+        "codice_identificativo": "1234567890128",
+        "data_oblio": "2032-09-13T19:00:00",
+        "frequenza": "Il documento viene aggiornato ogni 3 mesi",
+        "language": "it",
+        "published": 1
+      },
+      "relationships": {
+        "argomenti": {"data": [
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1458},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1425},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1439}
+        ]},
+        "tipologia_documento": {"data": {"entity": "taxonomy_term", "type": "tipologia_documenti", "id": 1801}},
+        "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
+        "galleria_immagini": {"data": [
+          {"entity": "media", "type": "image", "id": 1},
+          {"entity": "media", "type": "image", "id": 10},
+          {"entity": "media", "type": "image", "id": 11},
+          {"entity": "media", "type": "image", "id": 12},
+          {"entity": "media", "type": "image", "id": 13}
+        ]},
+        "persone": {"data": [
+          {"entity": "node", "type": "persona", "id": 82},
+          {"entity": "node", "type": "persona", "id": 83},
+          {"entity": "node", "type": "persona", "id": 14}
+        ]},
+        "document": {"data":
+        {"entity": "file", "id": 62, "url": "https://ouitoulia.github.io/krene/demo/files/demo.pdf", "filename": "demo.pdf", "filemime": "application/pdf", "description": "Documento .pdf type A demo"}
+        },
+        "servizi": {"data": [
+          {"entity": "node", "type": "servizio", "id": 501},
+          {"entity": "node", "type": "servizio", "id": 502},
+          {"entity": "node", "type": "servizio", "id": 503}
+        ]},
+        "eventi": {"data": [
+          {"entity": "node", "type": "evento", "id": 401},
+          {"entity": "node", "type": "evento", "id": 402},
+          {"entity": "node", "type": "evento", "id": 403}
+        ]},
+        "progetti": {"data": [
+          {"entity": "node", "type": "progetto", "id": 801},
+          {"entity": "node", "type": "progetto", "id": 802},
+          {"entity": "node", "type": "progetto", "id": 803}
+        ]},
+        "percorso_di_studio": {"data": [
+          {"entity": "node", "type": "percorso_di_studio", "id": 701},
+          {"entity": "node", "type": "percorso_di_studio", "id": 702},
+          {"entity": "node", "type": "percorso_di_studio", "id": 703}
+        ]},
+        "notizie": {"data": [
+          {"entity": "node", "type": "notizia", "id": 601},
+          {"entity": "node", "type": "notizia", "id": 602},
+          {"entity": "node", "type": "notizia", "id": 603}
+        ]},
+        "classi": {"data": [
+          {"entity": "node", "type": "classe", "id": 1001},
+          {"entity": "node", "type": "classe", "id": 1002},
+          {"entity": "node", "type": "classe", "id": 1003}
+        ]},
+        "struttura_responsabile": {"data": [
+          {"entity": "node", "type": "struttura_organizzativa", "id": 201},
+          {"entity": "node", "type": "struttura_organizzativa", "id": 202},
+          {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]}
+      }
+    },
+    {
+      "entity": "node", "type": "documento", "id": 1218,
+      "attributes": {
+        "titolo": "Documento 1218",
+        "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "descrizione_estesa": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+        "link": [
+          {"uri": "https://example.com", "title": "DECRETO LEGISLATIVO 7 marzo 2005, n. 82"},
+          {"uri": "https://example.com", "title": "Articolo 53 del D. Lgs. 7 marzo 2005, n. 82"}
+        ],
+        "protocollo": "AF-349875/H",
+        "data_ora_inizio": "2024-01-13T18:00:00",
+        "cig": "A1B2C3D4E5",
+        "data_ora_fine": "2025-06-13T19:00:00",
+        "codice_identificativo": "1234567890128",
+        "data_oblio": "2032-06-13T19:00:00",
+        "frequenza": "Il documento viene aggiornato ogni 3 mesi",
+        "language": "it",
+        "published": 1
+      },
+      "relationships": {
+        "argomenti": {"data": [
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1457},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1423},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1431}
+        ]},
+        "tipologia_documento": {"data": {"entity": "taxonomy_term", "type": "tipologia_documenti", "id": 1801}},
+        "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
+        "galleria_immagini": {"data": [
+          {"entity": "media", "type": "image", "id": 1},
+          {"entity": "media", "type": "image", "id": 10},
+          {"entity": "media", "type": "image", "id": 11},
+          {"entity": "media", "type": "image", "id": 12},
+          {"entity": "media", "type": "image", "id": 13}
+        ]},
+        "persone": {"data": [
+          {"entity": "node", "type": "persona", "id": 80},
+          {"entity": "node", "type": "persona", "id": 81},
+          {"entity": "node", "type": "persona", "id": 82}
+        ]},
+        "document": {"data":
+        {"entity": "file", "id": 62, "url": "https://ouitoulia.github.io/krene/demo/files/demo.pdf", "filename": "demo.pdf", "filemime": "application/pdf", "description": "Documento .pdf type A demo"}
+        },
+        "servizi": {"data": [
+          {"entity": "node", "type": "servizio", "id": 501},
+          {"entity": "node", "type": "servizio", "id": 502},
+          {"entity": "node", "type": "servizio", "id": 503}
+        ]},
+        "eventi": {"data": [
+          {"entity": "node", "type": "evento", "id": 401},
+          {"entity": "node", "type": "evento", "id": 402},
+          {"entity": "node", "type": "evento", "id": 403}
+        ]},
+        "progetti": {"data": [
+          {"entity": "node", "type": "progetto", "id": 801},
+          {"entity": "node", "type": "progetto", "id": 802},
+          {"entity": "node", "type": "progetto", "id": 803}
+        ]},
+        "percorso_di_studio": {"data": [
+          {"entity": "node", "type": "percorso_di_studio", "id": 701},
+          {"entity": "node", "type": "percorso_di_studio", "id": 702},
+          {"entity": "node", "type": "percorso_di_studio", "id": 703}
+        ]},
+        "notizie": {"data": [
+          {"entity": "node", "type": "notizia", "id": 601},
+          {"entity": "node", "type": "notizia", "id": 602},
+          {"entity": "node", "type": "notizia", "id": 603}
+        ]},
+        "classi": {"data": [
+          {"entity": "node", "type": "classe", "id": 1001},
+          {"entity": "node", "type": "classe", "id": 1002},
+          {"entity": "node", "type": "classe", "id": 1003}
+        ]},
+        "struttura_responsabile": {"data": [
+          {"entity": "node", "type": "struttura_organizzativa", "id": 201},
+          {"entity": "node", "type": "struttura_organizzativa", "id": 202},
+          {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]}
+      }
+    },
+    {
+      "entity": "node", "type": "documento", "id": 1219,
+      "attributes": {
+        "titolo": "Documento 1219",
+        "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "descrizione_estesa": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+        "link": [
+          {"uri": "https://example.com", "title": "DECRETO LEGISLATIVO 7 marzo 2005, n. 82"},
+          {"uri": "https://example.com", "title": "Articolo 53 del D. Lgs. 7 marzo 2005, n. 82"}
+        ],
+        "protocollo": "AF-349875/H",
+        "data_ora_inizio": "2024-01-13T18:00:00",
+        "cig": "A1B2C3D4E5",
+        "data_ora_fine": "2025-06-13T19:00:00",
+        "codice_identificativo": "1234567890128",
+        "data_oblio": "2032-06-13T19:00:00",
+        "frequenza": "Il documento viene aggiornato ogni 3 mesi",
+        "language": "it",
+        "published": 1
+      },
+      "relationships": {
+        "argomenti": {"data": [
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1457},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1423},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1431}
+        ]},
+        "tipologia_documento": {"data": {"entity": "taxonomy_term", "type": "tipologia_documenti", "id": 1801}},
+        "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
+        "galleria_immagini": {"data": [
+          {"entity": "media", "type": "image", "id": 1},
+          {"entity": "media", "type": "image", "id": 10},
+          {"entity": "media", "type": "image", "id": 11},
+          {"entity": "media", "type": "image", "id": 12},
+          {"entity": "media", "type": "image", "id": 13}
+        ]},
+        "persone": {"data": [
+          {"entity": "node", "type": "persona", "id": 80},
+          {"entity": "node", "type": "persona", "id": 81},
+          {"entity": "node", "type": "persona", "id": 82}
+        ]},
+        "document": {"data":
+        {"entity": "file", "id": 62, "url": "https://ouitoulia.github.io/krene/demo/files/demo.pdf", "filename": "demo.pdf", "filemime": "application/pdf", "description": "Documento .pdf type A demo"}
+        },
+        "servizi": {"data": [
+          {"entity": "node", "type": "servizio", "id": 501},
+          {"entity": "node", "type": "servizio", "id": 502},
+          {"entity": "node", "type": "servizio", "id": 503}
+        ]},
+        "eventi": {"data": [
+          {"entity": "node", "type": "evento", "id": 401},
+          {"entity": "node", "type": "evento", "id": 402},
+          {"entity": "node", "type": "evento", "id": 403}
+        ]},
+        "progetti": {"data": [
+          {"entity": "node", "type": "progetto", "id": 801},
+          {"entity": "node", "type": "progetto", "id": 802},
+          {"entity": "node", "type": "progetto", "id": 803}
+        ]},
+        "percorso_di_studio": {"data": [
+          {"entity": "node", "type": "percorso_di_studio", "id": 701},
+          {"entity": "node", "type": "percorso_di_studio", "id": 702},
+          {"entity": "node", "type": "percorso_di_studio", "id": 703}
+        ]},
+        "notizie": {"data": [
+          {"entity": "node", "type": "notizia", "id": 601},
+          {"entity": "node", "type": "notizia", "id": 602},
+          {"entity": "node", "type": "notizia", "id": 603}
+        ]},
+        "classi": {"data": [
+          {"entity": "node", "type": "classe", "id": 1001},
+          {"entity": "node", "type": "classe", "id": 1002},
+          {"entity": "node", "type": "classe", "id": 1003}
+        ]},
+        "struttura_responsabile": {"data": [
+          {"entity": "node", "type": "struttura_organizzativa", "id": 201},
+          {"entity": "node", "type": "struttura_organizzativa", "id": 202},
+          {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]}
+      }
+    },
+    {
+      "entity": "node", "type": "documento", "id": 1220,
+      "attributes": {
+        "titolo": "Documento 1220",
+        "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "descrizione_estesa": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+        "link": [
+          {"uri": "https://example.com", "title": "DECRETO LEGISLATIVO 7 marzo 2005, n. 82"},
+          {"uri": "https://example.com", "title": "Articolo 53 del D. Lgs. 7 marzo 2005, n. 82"}
+        ],
+        "protocollo": "AF-349875/H",
+        "data_ora_inizio": "2024-01-13T18:00:00",
+        "cig": "A1B2C3D4E5",
+        "data_ora_fine": "2025-06-13T19:00:00",
+        "codice_identificativo": "1234567890128",
+        "data_oblio": "2032-06-13T19:00:00",
+        "frequenza": "Il documento viene aggiornato ogni 3 mesi",
+        "language": "it",
+        "published": 1
+      },
+      "relationships": {
+        "argomenti": {"data": [
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1457},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1423},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1431}
+        ]},
+        "tipologia_documento": {"data": {"entity": "taxonomy_term", "type": "tipologia_documenti", "id": 1801}},
+        "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
+        "galleria_immagini": {"data": [
+          {"entity": "media", "type": "image", "id": 1},
+          {"entity": "media", "type": "image", "id": 10},
+          {"entity": "media", "type": "image", "id": 11},
+          {"entity": "media", "type": "image", "id": 12},
+          {"entity": "media", "type": "image", "id": 13}
+        ]},
+        "persone": {"data": [
+          {"entity": "node", "type": "persona", "id": 80},
+          {"entity": "node", "type": "persona", "id": 81},
+          {"entity": "node", "type": "persona", "id": 82}
+        ]},
+        "document": {"data":
+        {"entity": "file", "id": 62, "url": "https://ouitoulia.github.io/krene/demo/files/demo.pdf", "filename": "demo.pdf", "filemime": "application/pdf", "description": "Documento .pdf type A demo"}
+        },
+        "servizi": {"data": [
+          {"entity": "node", "type": "servizio", "id": 501},
+          {"entity": "node", "type": "servizio", "id": 502},
+          {"entity": "node", "type": "servizio", "id": 503}
+        ]},
+        "eventi": {"data": [
+          {"entity": "node", "type": "evento", "id": 401},
+          {"entity": "node", "type": "evento", "id": 402},
+          {"entity": "node", "type": "evento", "id": 403}
+        ]},
+        "progetti": {"data": [
+          {"entity": "node", "type": "progetto", "id": 801},
+          {"entity": "node", "type": "progetto", "id": 802},
+          {"entity": "node", "type": "progetto", "id": 803}
+        ]},
+        "percorso_di_studio": {"data": [
+          {"entity": "node", "type": "percorso_di_studio", "id": 701},
+          {"entity": "node", "type": "percorso_di_studio", "id": 702},
+          {"entity": "node", "type": "percorso_di_studio", "id": 703}
+        ]},
+        "notizie": {"data": [
+          {"entity": "node", "type": "notizia", "id": 601},
+          {"entity": "node", "type": "notizia", "id": 602},
+          {"entity": "node", "type": "notizia", "id": 603}
+        ]},
+        "classi": {"data": [
+          {"entity": "node", "type": "classe", "id": 1001},
+          {"entity": "node", "type": "classe", "id": 1002},
+          {"entity": "node", "type": "classe", "id": 1003}
+        ]},
+        "struttura_responsabile": {"data": [
+          {"entity": "node", "type": "struttura_organizzativa", "id": 201},
+          {"entity": "node", "type": "struttura_organizzativa", "id": 202},
+          {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]}
+      }
+    },
+    {
+      "entity": "node", "type": "documento", "id": 1221,
+      "attributes": {
+        "titolo": "Documento 1221",
+        "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "descrizione_estesa": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+        "link": [
+          {"uri": "https://example.com", "title": "DECRETO LEGISLATIVO 7 marzo 2005, n. 82"},
+          {"uri": "https://example.com", "title": "Articolo 53 del D. Lgs. 7 marzo 2005, n. 82"}
+        ],
+        "protocollo": "AF-349875/H",
+        "data_ora_inizio": "2024-01-13T18:00:00",
+        "cig": "A1B2C3D4E5",
+        "data_ora_fine": "2025-06-13T19:00:00",
+        "codice_identificativo": "1234567890128",
+        "data_oblio": "2032-06-13T19:00:00",
+        "frequenza": "Il documento viene aggiornato ogni 3 mesi",
+        "language": "it",
+        "published": 1
+      },
+      "relationships": {
+        "argomenti": {"data": [
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1457},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1423},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1431}
+        ]},
+        "tipologia_documento": {"data": {"entity": "taxonomy_term", "type": "tipologia_documenti", "id": 1801}},
+        "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
+        "galleria_immagini": {"data": [
+          {"entity": "media", "type": "image", "id": 1},
+          {"entity": "media", "type": "image", "id": 10},
+          {"entity": "media", "type": "image", "id": 11},
+          {"entity": "media", "type": "image", "id": 12},
+          {"entity": "media", "type": "image", "id": 13}
+        ]},
+        "persone": {"data": [
+          {"entity": "node", "type": "persona", "id": 80},
+          {"entity": "node", "type": "persona", "id": 81},
+          {"entity": "node", "type": "persona", "id": 82}
+        ]},
+        "document": {"data":
+        {"entity": "file", "id": 62, "url": "https://ouitoulia.github.io/krene/demo/files/demo.pdf", "filename": "demo.pdf", "filemime": "application/pdf", "description": "Documento .pdf type A demo"}
+        },
+        "servizi": {"data": [
+          {"entity": "node", "type": "servizio", "id": 501},
+          {"entity": "node", "type": "servizio", "id": 502},
+          {"entity": "node", "type": "servizio", "id": 503}
+        ]},
+        "eventi": {"data": [
+          {"entity": "node", "type": "evento", "id": 401},
+          {"entity": "node", "type": "evento", "id": 402},
+          {"entity": "node", "type": "evento", "id": 403}
+        ]},
+        "progetti": {"data": [
+          {"entity": "node", "type": "progetto", "id": 801},
+          {"entity": "node", "type": "progetto", "id": 802},
+          {"entity": "node", "type": "progetto", "id": 803}
+        ]},
+        "percorso_di_studio": {"data": [
+          {"entity": "node", "type": "percorso_di_studio", "id": 701},
+          {"entity": "node", "type": "percorso_di_studio", "id": 702},
+          {"entity": "node", "type": "percorso_di_studio", "id": 703}
+        ]},
+        "notizie": {"data": [
+          {"entity": "node", "type": "notizia", "id": 601},
+          {"entity": "node", "type": "notizia", "id": 602},
+          {"entity": "node", "type": "notizia", "id": 603}
+        ]},
+        "classi": {"data": [
+          {"entity": "node", "type": "classe", "id": 1001},
+          {"entity": "node", "type": "classe", "id": 1002},
+          {"entity": "node", "type": "classe", "id": 1003}
+        ]},
+        "struttura_responsabile": {"data": [
+          {"entity": "node", "type": "struttura_organizzativa", "id": 201},
+          {"entity": "node", "type": "struttura_organizzativa", "id": 202},
+          {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]}
+      }
+    },
+    {
+      "entity": "node", "type": "documento", "id": 1222,
+      "attributes": {
+        "titolo": "Documento 1222",
+        "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "descrizione_estesa": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+        "link": [
+          {"uri": "https://example.com", "title": "DECRETO LEGISLATIVO 7 marzo 2005, n. 82"},
+          {"uri": "https://example.com", "title": "Articolo 53 del D. Lgs. 7 marzo 2005, n. 82"}
+        ],
+        "protocollo": "AF-349875/H",
+        "data_ora_inizio": "2024-02-13T18:00:00",
+        "cig": "A1B2C3D4E5",
+        "data_ora_fine": "2025-07-13T19:00:00",
+        "codice_identificativo": "1234567890128",
+        "data_oblio": "2032-07-13T19:00:00",
+        "frequenza": "Il documento viene aggiornato ogni 3 mesi",
+        "language": "it",
+        "published": 1
+      },
+      "relationships": {
+        "argomenti": {"data": [
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1458},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1424},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1432}
+        ]},
+        "tipologia_documento": {"data": {"entity": "taxonomy_term", "type": "tipologia_documenti", "id": 1802}},
+        "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
+        "galleria_immagini": {"data": [
+          {"entity": "media", "type": "image", "id": 1},
+          {"entity": "media", "type": "image", "id": 10},
+          {"entity": "media", "type": "image", "id": 11},
+          {"entity": "media", "type": "image", "id": 12},
+          {"entity": "media", "type": "image", "id": 13}
+        ]},
+        "persone": {"data": [
+          {"entity": "node", "type": "persona", "id": 81},
+          {"entity": "node", "type": "persona", "id": 82},
+          {"entity": "node", "type": "persona", "id": 83}
+        ]},
+        "document": {"data":
+        {"entity": "file", "id": 62, "url": "https://ouitoulia.github.io/krene/demo/files/demo.pdf", "filename": "demo.pdf", "filemime": "application/pdf", "description": "Documento .pdf type A demo"}
+        },
+        "servizi": {"data": [
+          {"entity": "node", "type": "servizio", "id": 501},
+          {"entity": "node", "type": "servizio", "id": 502},
+          {"entity": "node", "type": "servizio", "id": 503}
+        ]},
+        "eventi": {"data": [
+          {"entity": "node", "type": "evento", "id": 401},
+          {"entity": "node", "type": "evento", "id": 402},
+          {"entity": "node", "type": "evento", "id": 403}
+        ]},
+        "progetti": {"data": [
+          {"entity": "node", "type": "progetto", "id": 801},
+          {"entity": "node", "type": "progetto", "id": 802},
+          {"entity": "node", "type": "progetto", "id": 803}
+        ]},
+        "percorso_di_studio": {"data": [
+          {"entity": "node", "type": "percorso_di_studio", "id": 701},
+          {"entity": "node", "type": "percorso_di_studio", "id": 702},
+          {"entity": "node", "type": "percorso_di_studio", "id": 703}
+        ]},
+        "notizie": {"data": [
+          {"entity": "node", "type": "notizia", "id": 601},
+          {"entity": "node", "type": "notizia", "id": 602},
+          {"entity": "node", "type": "notizia", "id": 603}
+        ]},
+        "classi": {"data": [
+          {"entity": "node", "type": "classe", "id": 1001},
+          {"entity": "node", "type": "classe", "id": 1002},
+          {"entity": "node", "type": "classe", "id": 1003}
+        ]},
+        "struttura_responsabile": {"data": [
+          {"entity": "node", "type": "struttura_organizzativa", "id": 201},
+          {"entity": "node", "type": "struttura_organizzativa", "id": 202},
+          {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]}
+      }
+    },
+    {
+      "entity": "node", "type": "documento", "id": 1223,
+      "attributes": {
+        "titolo": "Documento 1223",
+        "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "descrizione_estesa": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+        "link": [
+          {"uri": "https://example.com", "title": "DECRETO LEGISLATIVO 7 marzo 2005, n. 82"},
+          {"uri": "https://example.com", "title": "Articolo 53 del D. Lgs. 7 marzo 2005, n. 82"}
+        ],
+        "protocollo": "AF-349875/H",
+        "data_ora_inizio": "2024-03-13T18:00:00",
+        "cig": "A1B2C3D4E5",
+        "data_ora_fine": "2025-09-13T19:00:00",
+        "codice_identificativo": "1234567890128",
+        "data_oblio": "2032-09-13T19:00:00",
+        "frequenza": "Il documento viene aggiornato ogni 3 mesi",
+        "language": "it",
+        "published": 1
+      },
+      "relationships": {
+        "argomenti": {"data": [
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1458},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1425},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1439}
+        ]},
+        "tipologia_documento": {"data": {"entity": "taxonomy_term", "type": "tipologia_documenti", "id": 1801}},
+        "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
+        "galleria_immagini": {"data": [
+          {"entity": "media", "type": "image", "id": 1},
+          {"entity": "media", "type": "image", "id": 10},
+          {"entity": "media", "type": "image", "id": 11},
+          {"entity": "media", "type": "image", "id": 12},
+          {"entity": "media", "type": "image", "id": 13}
+        ]},
+        "persone": {"data": [
+          {"entity": "node", "type": "persona", "id": 82},
+          {"entity": "node", "type": "persona", "id": 83},
+          {"entity": "node", "type": "persona", "id": 14}
+        ]},
+        "document": {"data":
+        {"entity": "file", "id": 62, "url": "https://ouitoulia.github.io/krene/demo/files/demo.pdf", "filename": "demo.pdf", "filemime": "application/pdf", "description": "Documento .pdf type A demo"}
+        },
+        "servizi": {"data": [
+          {"entity": "node", "type": "servizio", "id": 501},
+          {"entity": "node", "type": "servizio", "id": 502},
+          {"entity": "node", "type": "servizio", "id": 503}
+        ]},
+        "eventi": {"data": [
+          {"entity": "node", "type": "evento", "id": 401},
+          {"entity": "node", "type": "evento", "id": 402},
+          {"entity": "node", "type": "evento", "id": 403}
+        ]},
+        "progetti": {"data": [
+          {"entity": "node", "type": "progetto", "id": 801},
+          {"entity": "node", "type": "progetto", "id": 802},
+          {"entity": "node", "type": "progetto", "id": 803}
+        ]},
+        "percorso_di_studio": {"data": [
+          {"entity": "node", "type": "percorso_di_studio", "id": 701},
+          {"entity": "node", "type": "percorso_di_studio", "id": 702},
+          {"entity": "node", "type": "percorso_di_studio", "id": 703}
+        ]},
+        "notizie": {"data": [
+          {"entity": "node", "type": "notizia", "id": 601},
+          {"entity": "node", "type": "notizia", "id": 602},
+          {"entity": "node", "type": "notizia", "id": 603}
+        ]},
+        "classi": {"data": [
+          {"entity": "node", "type": "classe", "id": 1001},
+          {"entity": "node", "type": "classe", "id": 1002},
+          {"entity": "node", "type": "classe", "id": 1003}
+        ]},
+        "struttura_responsabile": {"data": [
+          {"entity": "node", "type": "struttura_organizzativa", "id": 201},
+          {"entity": "node", "type": "struttura_organizzativa", "id": 202},
+          {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]}
+      }
+    },
+    {
+      "entity": "node", "type": "documento", "id": 1224,
+      "attributes": {
+        "titolo": "Documento 1224",
+        "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "descrizione_estesa": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+        "link": [
+          {"uri": "https://example.com", "title": "DECRETO LEGISLATIVO 7 marzo 2005, n. 82"},
+          {"uri": "https://example.com", "title": "Articolo 53 del D. Lgs. 7 marzo 2005, n. 82"}
+        ],
+        "protocollo": "AF-349875/H",
+        "data_ora_inizio": "2024-01-13T18:00:00",
+        "cig": "A1B2C3D4E5",
+        "data_ora_fine": "2025-06-13T19:00:00",
+        "codice_identificativo": "1234567890128",
+        "data_oblio": "2032-06-13T19:00:00",
+        "frequenza": "Il documento viene aggiornato ogni 3 mesi",
+        "language": "it",
+        "published": 1
+      },
+      "relationships": {
+        "argomenti": {"data": [
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1457},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1423},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1431}
+        ]},
+        "tipologia_documento": {"data": {"entity": "taxonomy_term", "type": "tipologia_documenti", "id": 1801}},
+        "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
+        "galleria_immagini": {"data": [
+          {"entity": "media", "type": "image", "id": 1},
+          {"entity": "media", "type": "image", "id": 10},
+          {"entity": "media", "type": "image", "id": 11},
+          {"entity": "media", "type": "image", "id": 12},
+          {"entity": "media", "type": "image", "id": 13}
+        ]},
+        "persone": {"data": [
+          {"entity": "node", "type": "persona", "id": 80},
+          {"entity": "node", "type": "persona", "id": 81},
+          {"entity": "node", "type": "persona", "id": 82}
+        ]},
+        "document": {"data":
+        {"entity": "file", "id": 62, "url": "https://ouitoulia.github.io/krene/demo/files/demo.pdf", "filename": "demo.pdf", "filemime": "application/pdf", "description": "Documento .pdf type A demo"}
+        },
+        "servizi": {"data": [
+          {"entity": "node", "type": "servizio", "id": 501},
+          {"entity": "node", "type": "servizio", "id": 502},
+          {"entity": "node", "type": "servizio", "id": 503}
+        ]},
+        "eventi": {"data": [
+          {"entity": "node", "type": "evento", "id": 401},
+          {"entity": "node", "type": "evento", "id": 402},
+          {"entity": "node", "type": "evento", "id": 403}
+        ]},
+        "progetti": {"data": [
+          {"entity": "node", "type": "progetto", "id": 801},
+          {"entity": "node", "type": "progetto", "id": 802},
+          {"entity": "node", "type": "progetto", "id": 803}
+        ]},
+        "percorso_di_studio": {"data": [
+          {"entity": "node", "type": "percorso_di_studio", "id": 701},
+          {"entity": "node", "type": "percorso_di_studio", "id": 702},
+          {"entity": "node", "type": "percorso_di_studio", "id": 703}
+        ]},
+        "notizie": {"data": [
+          {"entity": "node", "type": "notizia", "id": 601},
+          {"entity": "node", "type": "notizia", "id": 602},
+          {"entity": "node", "type": "notizia", "id": 603}
+        ]},
+        "classi": {"data": [
+          {"entity": "node", "type": "classe", "id": 1001},
+          {"entity": "node", "type": "classe", "id": 1002},
+          {"entity": "node", "type": "classe", "id": 1003}
+        ]},
+        "struttura_responsabile": {"data": [
+          {"entity": "node", "type": "struttura_organizzativa", "id": 201},
+          {"entity": "node", "type": "struttura_organizzativa", "id": 202},
+          {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]}
+      }
+    },
+    {
+      "entity": "node", "type": "documento", "id": 1225,
+      "attributes": {
+        "titolo": "Documento 1225",
+        "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "descrizione_estesa": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+        "link": [
+          {"uri": "https://example.com", "title": "DECRETO LEGISLATIVO 7 marzo 2005, n. 82"},
+          {"uri": "https://example.com", "title": "Articolo 53 del D. Lgs. 7 marzo 2005, n. 82"}
+        ],
+        "protocollo": "AF-349875/H",
+        "data_ora_inizio": "2024-01-13T18:00:00",
+        "cig": "A1B2C3D4E5",
+        "data_ora_fine": "2025-06-13T19:00:00",
+        "codice_identificativo": "1234567890128",
+        "data_oblio": "2032-06-13T19:00:00",
+        "frequenza": "Il documento viene aggiornato ogni 3 mesi",
+        "language": "it",
+        "published": 1
+      },
+      "relationships": {
+        "argomenti": {"data": [
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1457},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1423},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1431}
+        ]},
+        "tipologia_documento": {"data": {"entity": "taxonomy_term", "type": "tipologia_documenti", "id": 1801}},
+        "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
+        "galleria_immagini": {"data": [
+          {"entity": "media", "type": "image", "id": 1},
+          {"entity": "media", "type": "image", "id": 10},
+          {"entity": "media", "type": "image", "id": 11},
+          {"entity": "media", "type": "image", "id": 12},
+          {"entity": "media", "type": "image", "id": 13}
+        ]},
+        "persone": {"data": [
+          {"entity": "node", "type": "persona", "id": 80},
+          {"entity": "node", "type": "persona", "id": 81},
+          {"entity": "node", "type": "persona", "id": 82}
+        ]},
+        "document": {"data":
+        {"entity": "file", "id": 62, "url": "https://ouitoulia.github.io/krene/demo/files/demo.pdf", "filename": "demo.pdf", "filemime": "application/pdf", "description": "Documento .pdf type A demo"}
+        },
+        "servizi": {"data": [
+          {"entity": "node", "type": "servizio", "id": 501},
+          {"entity": "node", "type": "servizio", "id": 502},
+          {"entity": "node", "type": "servizio", "id": 503}
+        ]},
+        "eventi": {"data": [
+          {"entity": "node", "type": "evento", "id": 401},
+          {"entity": "node", "type": "evento", "id": 402},
+          {"entity": "node", "type": "evento", "id": 403}
+        ]},
+        "progetti": {"data": [
+          {"entity": "node", "type": "progetto", "id": 801},
+          {"entity": "node", "type": "progetto", "id": 802},
+          {"entity": "node", "type": "progetto", "id": 803}
+        ]},
+        "percorso_di_studio": {"data": [
+          {"entity": "node", "type": "percorso_di_studio", "id": 701},
+          {"entity": "node", "type": "percorso_di_studio", "id": 702},
+          {"entity": "node", "type": "percorso_di_studio", "id": 703}
+        ]},
+        "notizie": {"data": [
+          {"entity": "node", "type": "notizia", "id": 601},
+          {"entity": "node", "type": "notizia", "id": 602},
+          {"entity": "node", "type": "notizia", "id": 603}
+        ]},
+        "classi": {"data": [
+          {"entity": "node", "type": "classe", "id": 1001},
+          {"entity": "node", "type": "classe", "id": 1002},
+          {"entity": "node", "type": "classe", "id": 1003}
+        ]},
+        "struttura_responsabile": {"data": [
+          {"entity": "node", "type": "struttura_organizzativa", "id": 201},
+          {"entity": "node", "type": "struttura_organizzativa", "id": 202},
+          {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]}
+      }
+    },
+    {
+      "entity": "node", "type": "documento", "id": 1226,
+      "attributes": {
+        "titolo": "Documento 1226",
+        "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "descrizione_estesa": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+        "link": [
+          {"uri": "https://example.com", "title": "DECRETO LEGISLATIVO 7 marzo 2005, n. 82"},
+          {"uri": "https://example.com", "title": "Articolo 53 del D. Lgs. 7 marzo 2005, n. 82"}
+        ],
+        "protocollo": "AF-349875/H",
+        "data_ora_inizio": "2024-02-13T18:00:00",
+        "cig": "A1B2C3D4E5",
+        "data_ora_fine": "2025-07-13T19:00:00",
+        "codice_identificativo": "1234567890128",
+        "data_oblio": "2032-07-13T19:00:00",
+        "frequenza": "Il documento viene aggiornato ogni 3 mesi",
+        "language": "it",
+        "published": 1
+      },
+      "relationships": {
+        "argomenti": {"data": [
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1458},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1424},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1432}
+        ]},
+        "tipologia_documento": {"data": {"entity": "taxonomy_term", "type": "tipologia_documenti", "id": 1802}},
+        "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
+        "galleria_immagini": {"data": [
+          {"entity": "media", "type": "image", "id": 1},
+          {"entity": "media", "type": "image", "id": 10},
+          {"entity": "media", "type": "image", "id": 11},
+          {"entity": "media", "type": "image", "id": 12},
+          {"entity": "media", "type": "image", "id": 13}
+        ]},
+        "persone": {"data": [
+          {"entity": "node", "type": "persona", "id": 81},
+          {"entity": "node", "type": "persona", "id": 82},
+          {"entity": "node", "type": "persona", "id": 83}
+        ]},
+        "document": {"data":
+        {"entity": "file", "id": 62, "url": "https://ouitoulia.github.io/krene/demo/files/demo.pdf", "filename": "demo.pdf", "filemime": "application/pdf", "description": "Documento .pdf type A demo"}
+        },
+        "servizi": {"data": [
+          {"entity": "node", "type": "servizio", "id": 501},
+          {"entity": "node", "type": "servizio", "id": 502},
+          {"entity": "node", "type": "servizio", "id": 503}
+        ]},
+        "eventi": {"data": [
+          {"entity": "node", "type": "evento", "id": 401},
+          {"entity": "node", "type": "evento", "id": 402},
+          {"entity": "node", "type": "evento", "id": 403}
+        ]},
+        "progetti": {"data": [
+          {"entity": "node", "type": "progetto", "id": 801},
+          {"entity": "node", "type": "progetto", "id": 802},
+          {"entity": "node", "type": "progetto", "id": 803}
+        ]},
+        "percorso_di_studio": {"data": [
+          {"entity": "node", "type": "percorso_di_studio", "id": 701},
+          {"entity": "node", "type": "percorso_di_studio", "id": 702},
+          {"entity": "node", "type": "percorso_di_studio", "id": 703}
+        ]},
+        "notizie": {"data": [
+          {"entity": "node", "type": "notizia", "id": 601},
+          {"entity": "node", "type": "notizia", "id": 602},
+          {"entity": "node", "type": "notizia", "id": 603}
+        ]},
+        "classi": {"data": [
+          {"entity": "node", "type": "classe", "id": 1001},
+          {"entity": "node", "type": "classe", "id": 1002},
+          {"entity": "node", "type": "classe", "id": 1003}
+        ]},
+        "struttura_responsabile": {"data": [
+          {"entity": "node", "type": "struttura_organizzativa", "id": 201},
+          {"entity": "node", "type": "struttura_organizzativa", "id": 202},
+          {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]}
+      }
+    },
+    {
+      "entity": "node", "type": "documento", "id": 1227,
+      "attributes": {
+        "titolo": "Documento 1227",
+        "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "descrizione_estesa": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+        "link": [
+          {"uri": "https://example.com", "title": "DECRETO LEGISLATIVO 7 marzo 2005, n. 82"},
+          {"uri": "https://example.com", "title": "Articolo 53 del D. Lgs. 7 marzo 2005, n. 82"}
+        ],
+        "protocollo": "AF-349875/H",
+        "data_ora_inizio": "2024-03-13T18:00:00",
+        "cig": "A1B2C3D4E5",
+        "data_ora_fine": "2025-09-13T19:00:00",
+        "codice_identificativo": "1234567890128",
+        "data_oblio": "2032-09-13T19:00:00",
+        "frequenza": "Il documento viene aggiornato ogni 3 mesi",
+        "language": "it",
+        "published": 1
+      },
+      "relationships": {
+        "argomenti": {"data": [
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1458},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1425},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1439}
+        ]},
+        "tipologia_documento": {"data": {"entity": "taxonomy_term", "type": "tipologia_documenti", "id": 1801}},
+        "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
+        "galleria_immagini": {"data": [
+          {"entity": "media", "type": "image", "id": 1},
+          {"entity": "media", "type": "image", "id": 10},
+          {"entity": "media", "type": "image", "id": 11},
+          {"entity": "media", "type": "image", "id": 12},
+          {"entity": "media", "type": "image", "id": 13}
+        ]},
+        "persone": {"data": [
+          {"entity": "node", "type": "persona", "id": 82},
+          {"entity": "node", "type": "persona", "id": 83},
+          {"entity": "node", "type": "persona", "id": 14}
+        ]},
+        "document": {"data":
+        {"entity": "file", "id": 62, "url": "https://ouitoulia.github.io/krene/demo/files/demo.pdf", "filename": "demo.pdf", "filemime": "application/pdf", "description": "Documento .pdf type A demo"}
+        },
+        "servizi": {"data": [
+          {"entity": "node", "type": "servizio", "id": 501},
+          {"entity": "node", "type": "servizio", "id": 502},
+          {"entity": "node", "type": "servizio", "id": 503}
+        ]},
+        "eventi": {"data": [
+          {"entity": "node", "type": "evento", "id": 401},
+          {"entity": "node", "type": "evento", "id": 402},
+          {"entity": "node", "type": "evento", "id": 403}
+        ]},
+        "progetti": {"data": [
+          {"entity": "node", "type": "progetto", "id": 801},
+          {"entity": "node", "type": "progetto", "id": 802},
+          {"entity": "node", "type": "progetto", "id": 803}
+        ]},
+        "percorso_di_studio": {"data": [
+          {"entity": "node", "type": "percorso_di_studio", "id": 701},
+          {"entity": "node", "type": "percorso_di_studio", "id": 702},
+          {"entity": "node", "type": "percorso_di_studio", "id": 703}
+        ]},
+        "notizie": {"data": [
+          {"entity": "node", "type": "notizia", "id": 601},
+          {"entity": "node", "type": "notizia", "id": 602},
+          {"entity": "node", "type": "notizia", "id": 603}
+        ]},
+        "classi": {"data": [
+          {"entity": "node", "type": "classe", "id": 1001},
+          {"entity": "node", "type": "classe", "id": 1002},
+          {"entity": "node", "type": "classe", "id": 1003}
+        ]},
+        "struttura_responsabile": {"data": [
+          {"entity": "node", "type": "struttura_organizzativa", "id": 201},
+          {"entity": "node", "type": "struttura_organizzativa", "id": 202},
+          {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]}
+      }
+    },
+    {
+      "entity": "node", "type": "documento", "id": 1228,
+      "attributes": {
+        "titolo": "Documento 1228",
+        "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "descrizione_estesa": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+        "link": [
+          {"uri": "https://example.com", "title": "DECRETO LEGISLATIVO 7 marzo 2005, n. 82"},
+          {"uri": "https://example.com", "title": "Articolo 53 del D. Lgs. 7 marzo 2005, n. 82"}
+        ],
+        "protocollo": "AF-349875/H",
+        "data_ora_inizio": "2024-01-13T18:00:00",
+        "cig": "A1B2C3D4E5",
+        "data_ora_fine": "2025-06-13T19:00:00",
+        "codice_identificativo": "1234567890128",
+        "data_oblio": "2032-06-13T19:00:00",
+        "frequenza": "Il documento viene aggiornato ogni 3 mesi",
+        "language": "it",
+        "published": 1
+      },
+      "relationships": {
+        "argomenti": {"data": [
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1457},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1423},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1431}
+        ]},
+        "tipologia_documento": {"data": {"entity": "taxonomy_term", "type": "tipologia_documenti", "id": 1801}},
+        "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
+        "galleria_immagini": {"data": [
+          {"entity": "media", "type": "image", "id": 1},
+          {"entity": "media", "type": "image", "id": 10},
+          {"entity": "media", "type": "image", "id": 11},
+          {"entity": "media", "type": "image", "id": 12},
+          {"entity": "media", "type": "image", "id": 13}
+        ]},
+        "persone": {"data": [
+          {"entity": "node", "type": "persona", "id": 80},
+          {"entity": "node", "type": "persona", "id": 81},
+          {"entity": "node", "type": "persona", "id": 82}
+        ]},
+        "document": {"data":
+        {"entity": "file", "id": 62, "url": "https://ouitoulia.github.io/krene/demo/files/demo.pdf", "filename": "demo.pdf", "filemime": "application/pdf", "description": "Documento .pdf type A demo"}
+        },
+        "servizi": {"data": [
+          {"entity": "node", "type": "servizio", "id": 501},
+          {"entity": "node", "type": "servizio", "id": 502},
+          {"entity": "node", "type": "servizio", "id": 503}
+        ]},
+        "eventi": {"data": [
+          {"entity": "node", "type": "evento", "id": 401},
+          {"entity": "node", "type": "evento", "id": 402},
+          {"entity": "node", "type": "evento", "id": 403}
+        ]},
+        "progetti": {"data": [
+          {"entity": "node", "type": "progetto", "id": 801},
+          {"entity": "node", "type": "progetto", "id": 802},
+          {"entity": "node", "type": "progetto", "id": 803}
+        ]},
+        "percorso_di_studio": {"data": [
+          {"entity": "node", "type": "percorso_di_studio", "id": 701},
+          {"entity": "node", "type": "percorso_di_studio", "id": 702},
+          {"entity": "node", "type": "percorso_di_studio", "id": 703}
+        ]},
+        "notizie": {"data": [
+          {"entity": "node", "type": "notizia", "id": 601},
+          {"entity": "node", "type": "notizia", "id": 602},
+          {"entity": "node", "type": "notizia", "id": 603}
+        ]},
+        "classi": {"data": [
+          {"entity": "node", "type": "classe", "id": 1001},
+          {"entity": "node", "type": "classe", "id": 1002},
+          {"entity": "node", "type": "classe", "id": 1003}
+        ]},
+        "struttura_responsabile": {"data": [
+          {"entity": "node", "type": "struttura_organizzativa", "id": 201},
+          {"entity": "node", "type": "struttura_organizzativa", "id": 202},
+          {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]}
+      }
+    },
+    {
+      "entity": "node", "type": "documento", "id": 1229,
+      "attributes": {
+        "titolo": "Documento 1229",
+        "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "descrizione_estesa": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+        "link": [
+          {"uri": "https://example.com", "title": "DECRETO LEGISLATIVO 7 marzo 2005, n. 82"},
+          {"uri": "https://example.com", "title": "Articolo 53 del D. Lgs. 7 marzo 2005, n. 82"}
+        ],
+        "protocollo": "AF-349875/H",
+        "data_ora_inizio": "2024-01-13T18:00:00",
+        "cig": "A1B2C3D4E5",
+        "data_ora_fine": "2025-06-13T19:00:00",
+        "codice_identificativo": "1234567890128",
+        "data_oblio": "2032-06-13T19:00:00",
+        "frequenza": "Il documento viene aggiornato ogni 3 mesi",
+        "language": "it",
+        "published": 1
+      },
+      "relationships": {
+        "argomenti": {"data": [
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1457},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1423},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1431}
+        ]},
+        "tipologia_documento": {"data": {"entity": "taxonomy_term", "type": "tipologia_documenti", "id": 1801}},
+        "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
+        "galleria_immagini": {"data": [
+          {"entity": "media", "type": "image", "id": 1},
+          {"entity": "media", "type": "image", "id": 10},
+          {"entity": "media", "type": "image", "id": 11},
+          {"entity": "media", "type": "image", "id": 12},
+          {"entity": "media", "type": "image", "id": 13}
+        ]},
+        "persone": {"data": [
+          {"entity": "node", "type": "persona", "id": 80},
+          {"entity": "node", "type": "persona", "id": 81},
+          {"entity": "node", "type": "persona", "id": 82}
+        ]},
+        "document": {"data":
+        {"entity": "file", "id": 62, "url": "https://ouitoulia.github.io/krene/demo/files/demo.pdf", "filename": "demo.pdf", "filemime": "application/pdf", "description": "Documento .pdf type A demo"}
+        },
+        "servizi": {"data": [
+          {"entity": "node", "type": "servizio", "id": 501},
+          {"entity": "node", "type": "servizio", "id": 502},
+          {"entity": "node", "type": "servizio", "id": 503}
+        ]},
+        "eventi": {"data": [
+          {"entity": "node", "type": "evento", "id": 401},
+          {"entity": "node", "type": "evento", "id": 402},
+          {"entity": "node", "type": "evento", "id": 403}
+        ]},
+        "progetti": {"data": [
+          {"entity": "node", "type": "progetto", "id": 801},
+          {"entity": "node", "type": "progetto", "id": 802},
+          {"entity": "node", "type": "progetto", "id": 803}
+        ]},
+        "percorso_di_studio": {"data": [
+          {"entity": "node", "type": "percorso_di_studio", "id": 701},
+          {"entity": "node", "type": "percorso_di_studio", "id": 702},
+          {"entity": "node", "type": "percorso_di_studio", "id": 703}
+        ]},
+        "notizie": {"data": [
+          {"entity": "node", "type": "notizia", "id": 601},
+          {"entity": "node", "type": "notizia", "id": 602},
+          {"entity": "node", "type": "notizia", "id": 603}
+        ]},
+        "classi": {"data": [
+          {"entity": "node", "type": "classe", "id": 1001},
+          {"entity": "node", "type": "classe", "id": 1002},
+          {"entity": "node", "type": "classe", "id": 1003}
+        ]},
+        "struttura_responsabile": {"data": [
+          {"entity": "node", "type": "struttura_organizzativa", "id": 201},
+          {"entity": "node", "type": "struttura_organizzativa", "id": 202},
+          {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]}
+      }
+    },
+    {
+      "entity": "node", "type": "documento", "id": 1230,
+      "attributes": {
+        "titolo": "Documento 1230",
+        "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "descrizione_estesa": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+        "link": [
+          {"uri": "https://example.com", "title": "DECRETO LEGISLATIVO 7 marzo 2005, n. 82"},
+          {"uri": "https://example.com", "title": "Articolo 53 del D. Lgs. 7 marzo 2005, n. 82"}
+        ],
+        "protocollo": "AF-349875/H",
+        "data_ora_inizio": "2024-01-13T18:00:00",
+        "cig": "A1B2C3D4E5",
+        "data_ora_fine": "2025-06-13T19:00:00",
+        "codice_identificativo": "1234567890128",
+        "data_oblio": "2032-06-13T19:00:00",
+        "frequenza": "Il documento viene aggiornato ogni 3 mesi",
+        "language": "it",
+        "published": 1
+      },
+      "relationships": {
+        "argomenti": {"data": [
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1457},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1423},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1431}
+        ]},
+        "tipologia_documento": {"data": {"entity": "taxonomy_term", "type": "tipologia_documenti", "id": 1801}},
+        "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
+        "galleria_immagini": {"data": [
+          {"entity": "media", "type": "image", "id": 1},
+          {"entity": "media", "type": "image", "id": 10},
+          {"entity": "media", "type": "image", "id": 11},
+          {"entity": "media", "type": "image", "id": 12},
+          {"entity": "media", "type": "image", "id": 13}
+        ]},
+        "persone": {"data": [
+          {"entity": "node", "type": "persona", "id": 80},
+          {"entity": "node", "type": "persona", "id": 81},
+          {"entity": "node", "type": "persona", "id": 82}
+        ]},
+        "document": {"data":
+          {"entity": "file", "id": 62, "url": "https://ouitoulia.github.io/krene/demo/files/demo.pdf", "filename": "demo.pdf", "filemime": "application/pdf", "description": "Documento .pdf type A demo"}
+        },
+        "servizi": {"data": [
+          {"entity": "node", "type": "servizio", "id": 501},
+          {"entity": "node", "type": "servizio", "id": 502},
+          {"entity": "node", "type": "servizio", "id": 503}
+        ]},
+        "eventi": {"data": [
+          {"entity": "node", "type": "evento", "id": 401},
+          {"entity": "node", "type": "evento", "id": 402},
+          {"entity": "node", "type": "evento", "id": 403}
+        ]},
+        "progetti": {"data": [
+          {"entity": "node", "type": "progetto", "id": 801},
+          {"entity": "node", "type": "progetto", "id": 802},
+          {"entity": "node", "type": "progetto", "id": 803}
+        ]},
+        "percorso_di_studio": {"data": [
+          {"entity": "node", "type": "percorso_di_studio", "id": 701},
+          {"entity": "node", "type": "percorso_di_studio", "id": 702},
+          {"entity": "node", "type": "percorso_di_studio", "id": 703}
+        ]},
+        "notizie": {"data": [
+          {"entity": "node", "type": "notizia", "id": 601},
+          {"entity": "node", "type": "notizia", "id": 602},
+          {"entity": "node", "type": "notizia", "id": 603}
+        ]},
+        "classi": {"data": [
+          {"entity": "node", "type": "classe", "id": 1001},
+          {"entity": "node", "type": "classe", "id": 1002},
+          {"entity": "node", "type": "classe", "id": 1003}
+        ]},
+        "struttura_responsabile": {"data": [
+          {"entity": "node", "type": "struttura_organizzativa", "id": 201},
+          {"entity": "node", "type": "struttura_organizzativa", "id": 202},
+          {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]}
+      }
     }
   ]
 }
