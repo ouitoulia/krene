@@ -1,7 +1,7 @@
 {
   "data": [
-    {"entity": "taxonomy_term", "type": "indirizzi_di_studio", "id": 5001, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "indirizzi_di_studio", "id": "0"}}}, "attributes": {"weight":  6, "name": "Università", "description": ""}},
-    {"entity": "taxonomy_term", "type": "indirizzi_di_studio", "id": 5002, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "indirizzi_di_studio", "id": "5001"}}}, "attributes": {"weight":  0, "name": "Master", "description": ""}},
-    {"entity": "taxonomy_term", "type": "indirizzi_di_studio", "id": 5003, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "indirizzi_di_studio", "id": "5001"}}}, "attributes": {"weight":  1, "name": "Dottorato", "description": ""}}
+    {"entity": "taxonomy_term", "type": "indirizzi_di_studio", "id": 5001, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "indirizzi_di_studio", "id": "0"}}}, "attributes": {"weight":  6, "name": "Università", "description": ""}, "uuid": "070b5c2c-8cce-42bc-84a4-d1ffcf4f052b"},
+    {"entity": "taxonomy_term", "type": "indirizzi_di_studio", "id": 5002, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "indirizzi_di_studio", "id": "5001"}}}, "attributes": {"weight":  0, "name": "Master", "description": ""}, "uuid": "1333ef2f-e6cf-487f-81fa-5cc3058f418d"},
+    {"entity": "taxonomy_term", "type": "indirizzi_di_studio", "id": 5003, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "indirizzi_di_studio", "id": "5001"}}}, "attributes": {"weight":  1, "name": "Dottorato", "description": ""}, "uuid": "8d3b56f0-519b-4f84-82f3-bb2a46657e81"}
   ]
 }

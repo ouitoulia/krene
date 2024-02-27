@@ -1,7 +1,7 @@
 {
   "data": [
-    {"entity": "taxonomy_term", "type": "indirizzi_di_studio", "id": 4001, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "indirizzi_di_studio", "id": "0" }}}, "attributes": {"weight":  7, "name": "AFAM", "description": ""}},
-    {"entity": "taxonomy_term", "type": "indirizzi_di_studio", "id": 4002, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "indirizzi_di_studio", "id": "4001" }}}, "attributes": {"weight":  0, "name": "Accademia delle belle arti", "description": ""}},
-    {"entity": "taxonomy_term", "type": "indirizzi_di_studio", "id": 4003, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "indirizzi_di_studio", "id": "4001" }}}, "attributes": {"weight":  1, "name": "Conservatorio", "description": ""}}
+    {"entity": "taxonomy_term", "type": "indirizzi_di_studio", "id": 4001, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "indirizzi_di_studio", "id": "0" }}}, "attributes": {"weight":  7, "name": "AFAM", "description": ""}, "uuid": "a6487a37-1753-48f3-8419-554588c352a6"},
+    {"entity": "taxonomy_term", "type": "indirizzi_di_studio", "id": 4002, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "indirizzi_di_studio", "id": "4001" }}}, "attributes": {"weight":  0, "name": "Accademia delle belle arti", "description": ""}, "uuid": "958d630f-5897-4838-9cd8-144fed68ab00"},
+    {"entity": "taxonomy_term", "type": "indirizzi_di_studio", "id": 4003, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "indirizzi_di_studio", "id": "4001" }}}, "attributes": {"weight":  1, "name": "Conservatorio", "description": ""}, "uuid": "207b37f9-8c4b-4adf-9659-2316b207087d"}
   ]
 }
