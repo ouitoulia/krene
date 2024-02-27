@@ -12,7 +12,7 @@
         "published": 1
       },
       "relationships": {
-        "persone": {"data": [
+        "persona_responsabile": {"data": [
           {"entity": "node", "type": "persona", "id": 70},
           {"entity": "node", "type": "persona", "id": 71},
           {"entity": "node", "type": "persona", "id": 72}
@@ -46,7 +46,7 @@
         "published": 1
       },
       "relationships": {
-        "persone": {"data": [
+        "persona_responsabile": {"data": [
           {"entity": "node", "type": "persona", "id": 70},
           {"entity": "node", "type": "persona", "id": 71},
           {"entity": "node", "type": "persona", "id": 72}
@@ -80,7 +80,7 @@
         "published": 1
       },
       "relationships": {
-        "persone": {"data": [
+        "persona_responsabile": {"data": [
           {"entity": "node", "type": "persona", "id": 70},
           {"entity": "node", "type": "persona", "id": 71},
           {"entity": "node", "type": "persona", "id": 72}
@@ -114,7 +114,7 @@
         "published": 1
       },
       "relationships": {
-        "persone": {"data": [
+        "persona_responsabile": {"data": [
           {"entity": "node", "type": "persona", "id": 70},
           {"entity": "node", "type": "persona", "id": 71},
           {"entity": "node", "type": "persona", "id": 72}
@@ -148,7 +148,7 @@
         "published": 1
       },
       "relationships": {
-        "persone": {"data": [
+        "persona_responsabile": {"data": [
           {"entity": "node", "type": "persona", "id": 70},
           {"entity": "node", "type": "persona", "id": 71},
           {"entity": "node", "type": "persona", "id": 72}
@@ -182,7 +182,7 @@
         "published": 1
       },
       "relationships": {
-        "persone": {"data": [
+        "persona_responsabile": {"data": [
           {"entity": "node", "type": "persona", "id": 70},
           {"entity": "node", "type": "persona", "id": 71},
           {"entity": "node", "type": "persona", "id": 72}
@@ -216,7 +216,7 @@
         "published": 1
       },
       "relationships": {
-        "persone": {"data": [
+        "persona_responsabile": {"data": [
           {"entity": "node", "type": "persona", "id": 70},
           {"entity": "node", "type": "persona", "id": 71},
           {"entity": "node", "type": "persona", "id": 72}
@@ -250,7 +250,7 @@
         "published": 1
       },
       "relationships": {
-        "persone": {"data": [
+        "persona_responsabile": {"data": [
           {"entity": "node", "type": "persona", "id": 70},
           {"entity": "node", "type": "persona", "id": 71},
           {"entity": "node", "type": "persona", "id": 72}
@@ -284,7 +284,7 @@
         "published": 1
       },
       "relationships": {
-        "persone": {"data": [
+        "persona_responsabile": {"data": [
           {"entity": "node", "type": "persona", "id": 70},
           {"entity": "node", "type": "persona", "id": 71},
           {"entity": "node", "type": "persona", "id": 72}
@@ -318,7 +318,7 @@
         "published": 1
       },
       "relationships": {
-        "persone": {"data": [
+        "persona_responsabile": {"data": [
           {"entity": "node", "type": "persona", "id": 70},
           {"entity": "node", "type": "persona", "id": 71},
           {"entity": "node", "type": "persona", "id": 72}
