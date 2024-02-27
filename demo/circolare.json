@@ -1,0 +1,344 @@
+{
+  "data": [
+    {
+      "entity": "node", "type": "circolare", "id": 1301,
+      "attributes": {
+        "titolo": "Circolare 1301",
+        "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+        "numero_circolare": 1,
+        "data_oblio": "2032-06-13T19:00:00",
+        "testo_circolare": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+        "language": "it",
+        "published": 1
+      },
+      "relationships": {
+        "persone": {"data": [
+          {"entity": "node", "type": "persona", "id": 70},
+          {"entity": "node", "type": "persona", "id": 71},
+          {"entity": "node", "type": "persona", "id": 72}
+        ]},
+        "destinatari": {"data": [
+          {"entity": "taxonomy_term", "type": "destinatari", "id": 401},
+          {"entity": "taxonomy_term", "type": "destinatari", "id": 403}
+        ]},
+        "anno_scolastico": {"data": {"entity": "node", "type": "anni_scolastici", "id": 15}},
+        "eventi": {"data": [
+          {"entity": "node", "type": "evento", "id": 401},
+          {"entity": "node", "type": "evento", "id": 402},
+          {"entity": "node", "type": "evento", "id": 403}
+        ]},
+        "argomenti": {"data": [
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1457},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1423},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1431}
+        ]}
+      }
+    },
+    {
+      "entity": "node", "type": "circolare", "id": 1302,
+      "attributes": {
+        "titolo": "Circolare 1302",
+        "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+        "numero_circolare": 2,
+        "data_oblio": "2032-06-13T19:00:00",
+        "testo_circolare": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+        "language": "it",
+        "published": 1
+      },
+      "relationships": {
+        "persone": {"data": [
+          {"entity": "node", "type": "persona", "id": 70},
+          {"entity": "node", "type": "persona", "id": 71},
+          {"entity": "node", "type": "persona", "id": 72}
+        ]},
+        "destinatari": {"data": [
+          {"entity": "taxonomy_term", "type": "destinatari", "id": 401},
+          {"entity": "taxonomy_term", "type": "destinatari", "id": 403}
+        ]},
+        "anno_scolastico": {"data": {"entity": "node", "type": "anni_scolastici", "id": 15}},
+        "eventi": {"data": [
+          {"entity": "node", "type": "evento", "id": 401},
+          {"entity": "node", "type": "evento", "id": 402},
+          {"entity": "node", "type": "evento", "id": 403}
+        ]},
+        "argomenti": {"data": [
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1457},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1423},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1431}
+        ]}
+      }
+    },
+    {
+      "entity": "node", "type": "circolare", "id": 1303,
+      "attributes": {
+        "titolo": "Circolare 1303",
+        "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+        "numero_circolare": 3,
+        "data_oblio": "2032-06-13T19:00:00",
+        "testo_circolare": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+        "language": "it",
+        "published": 1
+      },
+      "relationships": {
+        "persone": {"data": [
+          {"entity": "node", "type": "persona", "id": 70},
+          {"entity": "node", "type": "persona", "id": 71},
+          {"entity": "node", "type": "persona", "id": 72}
+        ]},
+        "destinatari": {"data": [
+          {"entity": "taxonomy_term", "type": "destinatari", "id": 401},
+          {"entity": "taxonomy_term", "type": "destinatari", "id": 403}
+        ]},
+        "anno_scolastico": {"data": {"entity": "node", "type": "anni_scolastici", "id": 15}},
+        "eventi": {"data": [
+          {"entity": "node", "type": "evento", "id": 401},
+          {"entity": "node", "type": "evento", "id": 402},
+          {"entity": "node", "type": "evento", "id": 403}
+        ]},
+        "argomenti": {"data": [
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1457},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1423},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1431}
+        ]}
+      }
+    },
+    {
+      "entity": "node", "type": "circolare", "id": 1304,
+      "attributes": {
+        "titolo": "Circolare 1304",
+        "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+        "numero_circolare": 4,
+        "data_oblio": "2032-06-13T19:00:00",
+        "testo_circolare": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+        "language": "it",
+        "published": 1
+      },
+      "relationships": {
+        "persone": {"data": [
+          {"entity": "node", "type": "persona", "id": 70},
+          {"entity": "node", "type": "persona", "id": 71},
+          {"entity": "node", "type": "persona", "id": 72}
+        ]},
+        "destinatari": {"data": [
+          {"entity": "taxonomy_term", "type": "destinatari", "id": 401},
+          {"entity": "taxonomy_term", "type": "destinatari", "id": 403}
+        ]},
+        "anno_scolastico": {"data": {"entity": "node", "type": "anni_scolastici", "id": 15}},
+        "eventi": {"data": [
+          {"entity": "node", "type": "evento", "id": 401},
+          {"entity": "node", "type": "evento", "id": 402},
+          {"entity": "node", "type": "evento", "id": 403}
+        ]},
+        "argomenti": {"data": [
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1457},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1423},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1431}
+        ]}
+      }
+    },
+    {
+      "entity": "node", "type": "circolare", "id": 1305,
+      "attributes": {
+        "titolo": "Circolare 1305",
+        "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+        "numero_circolare": 5,
+        "data_oblio": "2032-06-13T19:00:00",
+        "testo_circolare": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+        "language": "it",
+        "published": 1
+      },
+      "relationships": {
+        "persone": {"data": [
+          {"entity": "node", "type": "persona", "id": 70},
+          {"entity": "node", "type": "persona", "id": 71},
+          {"entity": "node", "type": "persona", "id": 72}
+        ]},
+        "destinatari": {"data": [
+          {"entity": "taxonomy_term", "type": "destinatari", "id": 401},
+          {"entity": "taxonomy_term", "type": "destinatari", "id": 403}
+        ]},
+        "anno_scolastico": {"data": {"entity": "node", "type": "anni_scolastici", "id": 15}},
+        "eventi": {"data": [
+          {"entity": "node", "type": "evento", "id": 401},
+          {"entity": "node", "type": "evento", "id": 402},
+          {"entity": "node", "type": "evento", "id": 403}
+        ]},
+        "argomenti": {"data": [
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1457},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1423},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1431}
+        ]}
+      }
+    },
+    {
+      "entity": "node", "type": "circolare", "id": 1306,
+      "attributes": {
+        "titolo": "Circolare 1306",
+        "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+        "numero_circolare": 6,
+        "data_oblio": "2032-06-13T19:00:00",
+        "testo_circolare": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+        "language": "it",
+        "published": 1
+      },
+      "relationships": {
+        "persone": {"data": [
+          {"entity": "node", "type": "persona", "id": 70},
+          {"entity": "node", "type": "persona", "id": 71},
+          {"entity": "node", "type": "persona", "id": 72}
+        ]},
+        "destinatari": {"data": [
+          {"entity": "taxonomy_term", "type": "destinatari", "id": 401},
+          {"entity": "taxonomy_term", "type": "destinatari", "id": 403}
+        ]},
+        "anno_scolastico": {"data": {"entity": "node", "type": "anni_scolastici", "id": 15}},
+        "eventi": {"data": [
+          {"entity": "node", "type": "evento", "id": 401},
+          {"entity": "node", "type": "evento", "id": 402},
+          {"entity": "node", "type": "evento", "id": 403}
+        ]},
+        "argomenti": {"data": [
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1457},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1423},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1431}
+        ]}
+      }
+    },
+    {
+      "entity": "node", "type": "circolare", "id": 1307,
+      "attributes": {
+        "titolo": "Circolare 1307",
+        "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+        "numero_circolare": 7,
+        "data_oblio": "2032-06-13T19:00:00",
+        "testo_circolare": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+        "language": "it",
+        "published": 1
+      },
+      "relationships": {
+        "persone": {"data": [
+          {"entity": "node", "type": "persona", "id": 70},
+          {"entity": "node", "type": "persona", "id": 71},
+          {"entity": "node", "type": "persona", "id": 72}
+        ]},
+        "destinatari": {"data": [
+          {"entity": "taxonomy_term", "type": "destinatari", "id": 401},
+          {"entity": "taxonomy_term", "type": "destinatari", "id": 403}
+        ]},
+        "anno_scolastico": {"data": {"entity": "node", "type": "anni_scolastici", "id": 15}},
+        "eventi": {"data": [
+          {"entity": "node", "type": "evento", "id": 401},
+          {"entity": "node", "type": "evento", "id": 402},
+          {"entity": "node", "type": "evento", "id": 403}
+        ]},
+        "argomenti": {"data": [
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1457},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1423},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1431}
+        ]}
+      }
+    },
+    {
+      "entity": "node", "type": "circolare", "id": 1308,
+      "attributes": {
+        "titolo": "Circolare 1308",
+        "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+        "numero_circolare": 8,
+        "data_oblio": "2032-06-13T19:00:00",
+        "testo_circolare": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+        "language": "it",
+        "published": 1
+      },
+      "relationships": {
+        "persone": {"data": [
+          {"entity": "node", "type": "persona", "id": 70},
+          {"entity": "node", "type": "persona", "id": 71},
+          {"entity": "node", "type": "persona", "id": 72}
+        ]},
+        "destinatari": {"data": [
+          {"entity": "taxonomy_term", "type": "destinatari", "id": 401},
+          {"entity": "taxonomy_term", "type": "destinatari", "id": 403}
+        ]},
+        "anno_scolastico": {"data": {"entity": "node", "type": "anni_scolastici", "id": 15}},
+        "eventi": {"data": [
+          {"entity": "node", "type": "evento", "id": 401},
+          {"entity": "node", "type": "evento", "id": 402},
+          {"entity": "node", "type": "evento", "id": 403}
+        ]},
+        "argomenti": {"data": [
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1457},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1423},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1431}
+        ]}
+      }
+    },
+    {
+      "entity": "node", "type": "circolare", "id": 1309,
+      "attributes": {
+        "titolo": "Circolare 1309",
+        "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+        "numero_circolare": 9,
+        "data_oblio": "2032-06-13T19:00:00",
+        "testo_circolare": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+        "language": "it",
+        "published": 1
+      },
+      "relationships": {
+        "persone": {"data": [
+          {"entity": "node", "type": "persona", "id": 70},
+          {"entity": "node", "type": "persona", "id": 71},
+          {"entity": "node", "type": "persona", "id": 72}
+        ]},
+        "destinatari": {"data": [
+          {"entity": "taxonomy_term", "type": "destinatari", "id": 401},
+          {"entity": "taxonomy_term", "type": "destinatari", "id": 403}
+        ]},
+        "anno_scolastico": {"data": {"entity": "node", "type": "anni_scolastici", "id": 15}},
+        "eventi": {"data": [
+          {"entity": "node", "type": "evento", "id": 401},
+          {"entity": "node", "type": "evento", "id": 402},
+          {"entity": "node", "type": "evento", "id": 403}
+        ]},
+        "argomenti": {"data": [
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1457},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1423},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1431}
+        ]}
+      }
+    },
+    {
+      "entity": "node", "type": "circolare", "id": 1310,
+      "attributes": {
+        "titolo": "Circolare 1310",
+        "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+        "numero_circolare": 10,
+        "data_oblio": "2032-06-13T19:00:00",
+        "testo_circolare": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+        "language": "it",
+        "published": 1
+      },
+      "relationships": {
+        "persone": {"data": [
+          {"entity": "node", "type": "persona", "id": 70},
+          {"entity": "node", "type": "persona", "id": 71},
+          {"entity": "node", "type": "persona", "id": 72}
+        ]},
+        "destinatari": {"data": [
+          {"entity": "taxonomy_term", "type": "destinatari", "id": 401},
+          {"entity": "taxonomy_term", "type": "destinatari", "id": 403}
+        ]},
+        "anno_scolastico": {"data": {"entity": "node", "type": "anni_scolastici", "id": 15}},
+        "eventi": {"data": [
+          {"entity": "node", "type": "evento", "id": 401},
+          {"entity": "node", "type": "evento", "id": 402},
+          {"entity": "node", "type": "evento", "id": 403}
+        ]},
+        "argomenti": {"data": [
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1457},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1423},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1431}
+        ]}
+      }
+    }
+  ]
+}
