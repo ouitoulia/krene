@@ -1,7 +1,8 @@
 {
   "data": [
-    {"entity": "taxonomy_term", "type": "tipologia_servizi", "id": 1201, "attributes": {"name": "Servizi per il personale scolastico"}, "uuid": "9089e12a-f220-4988-a71b-7745a2d71fd4"},
-    {"entity": "taxonomy_term", "type": "tipologia_servizi", "id": 1202, "attributes": {"name": "Servizi per famiglie e studenti"}, "uuid": "2d7edaca-43c1-41e5-aa81-e98012c06525"},
-    {"entity": "taxonomy_term", "type": "tipologia_servizi", "id": 1203, "attributes": {"name": "Servizi per i fornitori e le aziende"}, "uuid": "53101855-7e96-4ad5-b867-08ae9545eb40"}
+    {"entity": "taxonomy_term", "type": "tipologia_servizi", "id": 1201, "attributes": {"name": "Personale scolastico"}, "uuid": "9089e12a-f220-4988-a71b-7745a2d71fd4"},
+    {"entity": "taxonomy_term", "type": "tipologia_servizi", "id": 1202, "attributes": {"name": "Famiglie e studenti"}, "uuid": "2d7edaca-43c1-41e5-aa81-e98012c06525"},
+    {"entity": "taxonomy_term", "type": "tipologia_servizi", "id": 1203, "attributes": {"name": "Fornitori e aziende"}, "uuid": "53101855-7e96-4ad5-b867-08ae9545eb40"},
+    {"entity": "taxonomy_term", "type": "tipologia_servizi", "id": 1204, "attributes": {"name": "Trasparenza"}, "uuid": "1248e216-4f3b-4239-a485-26452fd3f25d"}
   ]
 }
