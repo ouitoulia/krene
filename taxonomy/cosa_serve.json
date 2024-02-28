@@ -5,6 +5,6 @@
     {"entity": "taxonomy_term", "type": "cosa_serve", "id": 303, "attributes": {"name": "Iscrizione", "description": "È necessaria l'iscrizione"}, "uuid": "cebe10de-084d-4d9f-a817-65b217c0566b"},
     {"entity": "taxonomy_term", "type": "cosa_serve", "id": 304, "attributes": {"name": "Pagamento", "description": "È necessario il pagamento"}, "uuid": "521c07c8-f45e-4751-9102-76de6e0eb640"},
     {"entity": "taxonomy_term", "type": "cosa_serve", "id": 305, "attributes": {"name": "Nessun documento", "description": "Non sono necessari documenti"}, "uuid": "4ab93f48-2780-4c4f-8afa-ec31bd9ae518"},
-    {"entity": "taxonomy_term", "type": "cosa_serve", "id": 9999, "attributes": {"name": "-- Voce Tecnica --", "description": "Questa è una voce tecnica necessaria al funzionamento del processo di aggiornamento della tassonomia. Non pubblicare la voce se noti che è nello stato non pubblicato.", "published": 0}}
+    {"entity": "taxonomy_term", "type": "cosa_serve", "id": 9999, "attributes": {"name": "-- Voce Tecnica --", "description": "Questa è una voce tecnica necessaria al funzionamento del processo di aggiornamento della tassonomia. Non pubblicare la voce se noti che è nello stato non pubblicato.", "published": 0}, "uuid": "2effa9e2-dee6-4205-b406-64254d55e050"}
   ]
 }
