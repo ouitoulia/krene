@@ -1,4 +1,5 @@
 -NODI DEMO
+page                    1-70
 persona                 71-170
 luogo                   171-200
 struttura_organizzativa 201-300
@@ -60,4 +61,5 @@ percorsi_di_studio/superiore  3201-3400
 percorsi_di_studio/afam       4001-
 percorsi_di_studio/università 5001-
 competenze                    8001-
-amministrazione_trasparente   9001-10000
+amministrazione_trasparente   9001-9998
+dummy                         9999
