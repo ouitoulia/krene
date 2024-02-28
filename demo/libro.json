@@ -145,7 +145,10 @@
         "editori": {"data": [
           {"entity": "taxonomy_term", "type": "editori", "id": 451}
         ]},
-        "tipologia_libro": {"data": {"entity": "taxonomy_term", "type": "tipologia_libri", "id": 952}}
+        "tipologia_libro": {"data": {"entity": "taxonomy_term", "type": "tipologia_libri", "id": 952}},
+        "document": {"data":
+          {"entity": "file", "id": 62, "url": "https://ouitoulia.github.io/krene/demo/files/demo.pdf", "filename": "demo.pdf", "filemime": "application/pdf", "description": "Documento .pdf type A demo"}
+        }
       }
     },
     {
@@ -165,7 +168,10 @@
         "editori": {"data": [
           {"entity": "taxonomy_term", "type": "editori", "id": 451}
         ]},
-        "tipologia_libro": {"data": {"entity": "taxonomy_term", "type": "tipologia_libri", "id": 952}}
+        "tipologia_libro": {"data": {"entity": "taxonomy_term", "type": "tipologia_libri", "id": 952}},
+        "document": {"data":
+          {"entity": "file", "id": 62, "url": "https://ouitoulia.github.io/krene/demo/files/demo.pdf", "filename": "demo.pdf", "filemime": "application/pdf", "description": "Documento .pdf type A demo"}
+        }
       }
     },
     {
@@ -185,7 +191,10 @@
         "editori": {"data": [
           {"entity": "taxonomy_term", "type": "editori", "id": 451}
         ]},
-        "tipologia_libro": {"data": {"entity": "taxonomy_term", "type": "tipologia_libri", "id": 952}}
+        "tipologia_libro": {"data": {"entity": "taxonomy_term", "type": "tipologia_libri", "id": 952}},
+        "document": {"data":
+          {"entity": "file", "id": 62, "url": "https://ouitoulia.github.io/krene/demo/files/demo.pdf", "filename": "demo.pdf", "filemime": "application/pdf", "description": "Documento .pdf type A demo"}
+        }
       }
     }
 
