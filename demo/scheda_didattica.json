@@ -133,6 +133,17 @@
         "competenze": {"data": [
           {"entity": "taxonomy_term", "type": "competenze", "id": 8004},
           {"entity": "taxonomy_term", "type": "competenze", "id": 8007}
+        ]},
+        "libri_di_testo": {"data": [
+          {"entity": "node", "type": "libro", "id": 1101},
+          {"entity": "node", "type": "libro", "id": 1107},
+          {"entity": "node", "type": "libro", "id": 1102},
+          {"entity": "node", "type": "libro", "id": 1108},
+          {"entity": "node", "type": "libro", "id": 1103},
+          {"entity": "node", "type": "libro", "id": 1109},
+          {"entity": "node", "type": "libro", "id": 1104},
+          {"entity": "node", "type": "libro", "id": 1105},
+          {"entity": "node", "type": "libro", "id": 1106}
         ]}
       }
     },
