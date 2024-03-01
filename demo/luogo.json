@@ -32,6 +32,7 @@
           {"day": 5, "starthours": 1300, "endhours": 1400}
         ],
         "email": ["email@example.com","email2@example.com"],
+        "pec": ["email@pec.example.com"],
         "telefono": ["3330000000","3320000000"],
         "prenotabile": 0,
         "posti": 300,
@@ -44,6 +45,11 @@
         "superficie_area_totale": 5000,
         "superficie_area_libera": 1500,
         "volume": 31500,
+        "sede_legale": 1,
+        "codice_meccanografico": "rcic825005",
+        "codice_fiscale": "91006770803",
+        "ipa": "istsc_rcic825005",
+        "codice_cuf": "UFF8QZ",
         "language": "it",
         "published": 1
       },
