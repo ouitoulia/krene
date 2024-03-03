@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "entity": "node", "type": "page", "id": 1,
+      "attributes": {
+        "titolo": "Note legali",
+        "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+        "language": "it",
+        "published": 1
+      }
+    },
+    {
+      "entity": "node", "type": "page", "id": 2,
+      "attributes": {
+        "titolo": "Privacy Policy",
+        "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+        "language": "it",
+        "published": 1
+      }
+    }
+  ]
+}
