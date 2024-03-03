@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "id": 52, "uuid": "959f60e4-76d5-4606-a9b8-e5600a9abe91", "langcode": "it",
+      "attributes": { "label": "Ufficio Scolastico Regionale", "description": "", "type": "link-esterni", "weight": 0, "expanded": 1},
+      "link": {
+        "uri": "https://www.istruzione.calabria.it/", "title": "",
+        "options": {"attributes": {"target": "_blank"}}
+      }
+    },
+    {
+      "id": 53, "uuid": "3309be04-a899-4d04-bbbc-76af1e533853", "langcode": "it",
+      "attributes": { "label": "Ufficio Scolastico Territoriale", "description": "", "type": "link-esterni", "weight": 1, "expanded": 1},
+      "link": {
+        "uri": "https://www.istruzioneatprc.it/", "title": "",
+        "options": {"attributes": {"target": "_blank"}}
+      }
+    },
+    {
+      "id": 54, "uuid": "45749811-2ad4-411b-9b9f-b42243b9cb24", "langcode": "it",
+      "attributes": { "label": "Scuola in chiaro", "description": "", "type": "link-esterni", "weight": 2, "expanded": 1},
+      "link": {
+        "uri": "https://cercalatuascuola.istruzione.it/cercalatuascuola/istituti/RCIC825005/marvasi-vizzone/", "title": "",
+        "options": {"attributes": {"target": "_blank"}}
+      }
+    },
+    {
+      "id": 55, "uuid": "4237b33a-71a6-4779-92bd-a16f65216721", "langcode": "it",
+      "attributes": { "label": "Iscrizioni On Line", "description": "", "type": "link-esterni", "weight": 3, "expanded": 1},
+      "link": {
+        "uri": "https://unica.istruzione.gov.it/", "title": "",
+        "options": {"attributes": {"target": "_blank"}}
+      }
+    },
+    {
+      "id": 56, "uuid": "26e76174-895e-49fc-8da6-2e4658aa14d8", "langcode": "it",
+      "attributes": { "label": "Invalsi", "description": "", "type": "link-esterni", "weight": 3, "expanded": 1},
+      "link": {
+        "uri": "https://www.invalsi.it", "title": "",
+        "options": {"attributes": {"target": "_blank"}}
+      }
+    },
+    {
+      "id": 57, "uuid": "a76b1f89-7fe7-4552-a099-a060e6b1db84", "langcode": "it",
+      "attributes": { "label": "", "description": "", "type": "link-esterni", "weight": 3, "expanded": 1},
+      "link": {
+        "uri": "https://www.comune.rosarno.rc.it/", "title": "Comune di Rosarno",
+        "options": {"attributes": {"target": "_blank"}}
+      }
+    },
+    {
+      "id": 58, "uuid": "efaf9fec-5b50-481e-b2f1-56733dd01c09", "langcode": "it",
+      "attributes": { "label": "Comune di San Ferdinando", "description": "", "type": "link-esterni", "weight": 3, "expanded": 1},
+      "link": {
+        "uri": "https://www.comune.sanferdinando.rc.it/", "title": "",
+        "options": {"attributes": {"target": "_blank"}}
+      }
+    }
+  ]
+}

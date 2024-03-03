@@ -1,0 +1,12 @@
+{
+  "data": [
+    {
+      "id": 51, "uuid": "303cabc7-f2d2-4482-84c5-d7fcb397203d", "langcode": "it",
+      "attributes": { "label": "Ministero dell'Istruzione e del Merito", "description": "", "type": "link-esterni", "weight": -50, "expanded": 1},
+      "link": {
+        "uri": "https://www.miur.gov.it/", "title": "",
+        "options": {"attributes": {"target": "_blank"}}
+      }
+    }
+  ]
+}
