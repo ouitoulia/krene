@@ -42,7 +42,7 @@
     },
     {
       "id": 57, "uuid": "a76b1f89-7fe7-4552-a099-a060e6b1db84", "langcode": "it",
-      "attributes": { "label": "", "description": "", "type": "link-esterni", "weight": 3, "expanded": 1},
+      "attributes": { "label": "Comune di Rosarno", "description": "", "type": "link-esterni", "weight": 3, "expanded": 1},
       "link": {
         "uri": "https://www.comune.rosarno.rc.it/", "title": "Comune di Rosarno",
         "options": {"attributes": {"target": "_blank"}}
