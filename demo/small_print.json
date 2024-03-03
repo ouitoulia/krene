@@ -1,5 +1,44 @@
 {
   "data": [
-
+    {
+      "id": 70, "uuid": "7d457e4b-ab70-4c28-9383-4634735683bd", "langcode": "it",
+      "attributes": { "label": "Note Legali", "description": "", "type": "small-prints", "weight": 0, "expanded": 1},
+      "link": {
+        "uri": "entity:node/1", "title": "",
+        "options": {"attributes": {"data-element": "legal-notes"}}
+      }
+    },
+    {
+      "id": 71, "uuid": "2d2fc467-0120-47fc-ba9a-5ceb630cf1bc", "langcode": "it",
+      "attributes": { "label": "Amministrazione Trasparente", "description": "", "type": "small-prints", "weight": 1, "expanded": 1},
+      "link": {
+        "uri": "internal:#", "title": "",
+        "options": {}
+      }
+    },
+    {
+      "id": 72, "uuid": "05e06a24-93c4-42f4-9851-962709a53ee0", "langcode": "it",
+      "attributes": { "label": "Albo online", "description": "", "type": "small-prints", "weight": 2, "expanded": 1},
+      "link": {
+        "uri": "internal:#", "title": "",
+        "options": {}
+      }
+    },
+    {
+      "id": 73, "uuid": "abd44908-286d-40de-98c6-27d3258cf128", "langcode": "it",
+      "attributes": { "label": "Privacy Policy", "description": "", "type": "small-prints", "weight": 3, "expanded": 1},
+      "link": {
+        "uri": "entity:node/2", "title": "",
+        "options": {"attributes": {"data-element": "privacy-policy-link"}}
+      }
+    },
+    {
+      "id": 74, "uuid": "12c2be44-c036-413b-9b0c-a5e85eeb7598", "langcode": "it",
+      "attributes": { "label": "Dichiarazioni di accessibilità", "description": "", "type": "small-prints", "weight": 4, "expanded": 1},
+      "link": {
+        "uri": "entity:node/3", "title": "",
+        "options": {"attributes": {"data-element": "accessibility-link"}}
+      }
+    }
   ]
 }

@@ -20,7 +20,7 @@ tassonomia_editori      101001-
 
 -MENU DEMO
 link_esterni            52-58
-small_print             60-
+small_print             70-
 
 -PARAGRAFI DEMO
 call_to_action          1-100
