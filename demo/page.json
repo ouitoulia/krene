@@ -23,6 +23,18 @@
       "relationships": {
         "copertina": {"data": {"entity": "media", "type": "image", "id": 1}}
       }
+    },
+    {
+      "entity": "node", "type": "page", "id": 3,
+      "attributes": {
+        "titolo": "Dichiarazioni di accessibilità",
+        "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+        "language": "it",
+        "published": 1
+      },
+      "relationships": {
+        "copertina": {"data": {"entity": "media", "type": "image", "id": 1}}
+      }
     }
   ]
 }
