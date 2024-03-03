@@ -7,6 +7,9 @@
         "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
         "language": "it",
         "published": 1
+      },
+      "relationships": {
+        "copertina": {"data": {"entity": "media", "type": "image", "id": 1}}
       }
     },
     {
@@ -16,6 +19,9 @@
         "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
         "language": "it",
         "published": 1
+      },
+      "relationships": {
+        "copertina": {"data": {"entity": "media", "type": "image", "id": 1}}
       }
     }
   ]

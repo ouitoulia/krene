@@ -19,7 +19,8 @@ tassonomia_autori       10001-
 tassonomia_editori      101001-
 
 -MENU DEMO
-link_esterni            52-
+link_esterni            52-58
+small_print             60-
 
 -PARAGRAFI DEMO
 call_to_action          1-100
@@ -29,6 +30,7 @@ piano_di_studio         201-300
 -MENU PRODUZIONE
 main                    1-50
 link_esterni            51-100
+small_print             101-150
 
 
 -TASSONOMIE PRODUZIONE
