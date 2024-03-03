@@ -11,7 +11,10 @@
     {
       "id": 71, "uuid": "2d2fc467-0120-47fc-ba9a-5ceb630cf1bc", "langcode": "it",
       "attributes": { "label": "Amministrazione Trasparente", "description": "", "type": "small-prints", "weight": 1, "expanded": 1},
-      "link": {}
+      "link": {
+        "uri": "internal:#", "title": "",
+        "options": {}
+      }
     },
     {
       "id": 72, "uuid": "05e06a24-93c4-42f4-9851-962709a53ee0", "langcode": "it",
