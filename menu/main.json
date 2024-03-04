@@ -79,7 +79,7 @@
       "id": 10, "uuid": "0a0c382b-8e3c-466a-b0b2-f85ab7c60aa4", "langcode": "it",
       "attributes": {"label": "Le persone", "description": "", "type": "main", "weight": 4},
       "link": {
-        "uri": "/scuola/le-persone", "title": ""
+        "uri": "internal:/scuola/le-persone", "title": ""
       },
       "parent": {"uuid": "2043ed8b-40ee-4437-8e5d-f6b27f93d2c6"}
     },
