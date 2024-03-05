@@ -71,7 +71,7 @@
       "id": 9, "uuid": "3eff0bcc-9e6b-49b7-9d5b-6819d689ba4b", "langcode": "it",
       "attributes": {"label": "Organizzazione", "description": "", "type": "main", "weight": 3},
       "link": {
-        "uri": "internal:#", "title": ""
+        "uri": "internal:/scuola/organizzazione", "title": ""
       },
       "parent": {"uuid": "2043ed8b-40ee-4437-8e5d-f6b27f93d2c6"}
     },
