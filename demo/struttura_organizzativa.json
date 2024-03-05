@@ -20,7 +20,7 @@
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1442}
         ]},
         "persona_responsabile": {"data": [
-          {"entity": "node", "type": "persona", "id": 72}
+          {"entity": "node", "type": "persona", "id": 71}
         ]},
         "persone": {"data": [
           {"entity": "node", "type": "persona", "id": 72},
