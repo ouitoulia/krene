@@ -54,7 +54,7 @@
       "id": 7, "uuid": "3403ec1f-6320-42f3-a764-b4f048dfdd60", "langcode": "it",
       "attributes": {"label": "I luoghi", "description": "", "type": "main", "weight": 1},
       "link": {
-        "uri": "internal:#", "title": "",
+        "uri": "internal:/scuola/i-luoghi", "title": "",
         "options": {"attributes": {"data-element": "school-locations"}}
       },
       "parent": {"uuid": "2043ed8b-40ee-4437-8e5d-f6b27f93d2c6"}
