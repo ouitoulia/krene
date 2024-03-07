@@ -105,7 +105,7 @@
       "id": 13, "uuid": "ca996b21-a128-4f12-839e-6d18283fef92", "langcode": "it",
       "attributes": {"label": "Panoramica", "description": "", "type": "main", "weight": -50},
       "link": {
-        "uri": "internal:#", "title": "",
+        "uri": "internal:/servizi", "title": "",
         "options": {"attributes": {"data-element": "overview"}, "container_attributes": {"class": ["menu-title"]}}
       },
       "parent": {"uuid": "c459014b-4937-44f3-bb0f-05a942eff503"}
