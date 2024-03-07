@@ -114,7 +114,7 @@
       "id": 14, "uuid": "b1cc90e3-8f37-47c7-9649-afe527b0db88", "langcode": "it",
       "attributes": {"label": "Personale scolastico", "description": "", "type": "main", "weight": 0},
       "link": {
-        "uri": "internal:/servizi-personale-scolastico", "title": "",
+        "uri": "internal:/servizi/personale-scolastico", "title": "",
         "options": {"attributes": {"data-element": "service-type"}}
       },
       "parent": {"uuid": "c459014b-4937-44f3-bb0f-05a942eff503"}
