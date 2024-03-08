@@ -539,6 +539,349 @@
         ]},
         "tipologia_licenza": {"data": {"entity": "taxonomy_term", "type": "tipologia_licenze", "id": 904}}
       }
+    },
+    {
+      "entity": "node", "type": "servizio", "id": 512,
+      "attributes": {
+        "titolo": "Servizio 512",
+        "codice_identificativo": "abc",
+        "attivo": 1,
+        "servizio_non_attivo": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr",
+        "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "cosa_e": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "a_cosa_serve": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "come_si_accede": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "procedure_collegate_esito": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "servizio_online": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "sede_canale_fisico": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "casi_particolari": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "telefono": ["3330000000","3320000000"],
+        "email": ["email@example.com","email2@example.com"],
+        "ipa": "istsc_rcic825005",
+        "language": "it",
+        "published": 1
+      },
+      "relationships": {
+        "tipologia_servizio": {"data": {"entity": "taxonomy_term", "type": "tipologia_servizi", "id": 1201}},
+        "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
+        "argomenti": {"data": [
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1426}
+        ]},
+        "azione": {"data": {"paragraph": [2,4]}},
+        "tipologia_autenticazione": {"data": [
+          {"entity": "taxonomy_term", "type": "tipologia_autenticazioni", "id": 601},
+          {"entity": "taxonomy_term", "type": "tipologia_autenticazioni", "id": 603}
+        ]},
+        "luoghi": {"data": [
+          {"entity": "node", "type": "luogo", "id": 171}
+        ]},
+        "cosa_serve": {"data": [
+          {"entity": "taxonomy_term", "type": "cosa_serve", "id": 301}
+        ]},
+        "persona_responsabile": {"data": [
+          {"entity": "node", "type": "persona", "id": 80},
+          {"entity": "node", "type": "persona", "id": 81},
+          {"entity": "node", "type": "persona", "id": 82}
+        ]},
+        "struttura_responsabile": {"data": [
+          {"entity": "node", "type": "struttura_organizzativa", "id": 201}
+        ]},
+        "tipologia_licenza": {"data": {"entity": "taxonomy_term", "type": "tipologia_licenze", "id": 904}}
+      }
+    },
+    {
+      "entity": "node", "type": "servizio", "id": 513,
+      "attributes": {
+        "titolo": "Servizio 513",
+        "codice_identificativo": "abc",
+        "attivo": 1,
+        "servizio_non_attivo": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr",
+        "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "cosa_e": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "a_cosa_serve": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "come_si_accede": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "procedure_collegate_esito": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "servizio_online": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "sede_canale_fisico": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "casi_particolari": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "telefono": ["3330000000","3320000000"],
+        "email": ["email@example.com","email2@example.com"],
+        "ipa": "istsc_rcic825005",
+        "language": "it",
+        "published": 1
+      },
+      "relationships": {
+        "tipologia_servizio": {"data": {"entity": "taxonomy_term", "type": "tipologia_servizi", "id": 1201}},
+        "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
+        "argomenti": {"data": [
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1426}
+        ]},
+        "azione": {"data": {"paragraph": [2,4]}},
+        "tipologia_autenticazione": {"data": [
+          {"entity": "taxonomy_term", "type": "tipologia_autenticazioni", "id": 601},
+          {"entity": "taxonomy_term", "type": "tipologia_autenticazioni", "id": 603}
+        ]},
+        "luoghi": {"data": [
+          {"entity": "node", "type": "luogo", "id": 171}
+        ]},
+        "cosa_serve": {"data": [
+          {"entity": "taxonomy_term", "type": "cosa_serve", "id": 301}
+        ]},
+        "persona_responsabile": {"data": [
+          {"entity": "node", "type": "persona", "id": 80},
+          {"entity": "node", "type": "persona", "id": 81},
+          {"entity": "node", "type": "persona", "id": 82}
+        ]},
+        "struttura_responsabile": {"data": [
+          {"entity": "node", "type": "struttura_organizzativa", "id": 201}
+        ]},
+        "tipologia_licenza": {"data": {"entity": "taxonomy_term", "type": "tipologia_licenze", "id": 904}}
+      }
+    },
+    {
+      "entity": "node", "type": "servizio", "id": 514,
+      "attributes": {
+        "titolo": "Servizio 514",
+        "codice_identificativo": "abc",
+        "attivo": 1,
+        "servizio_non_attivo": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr",
+        "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "cosa_e": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "a_cosa_serve": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "come_si_accede": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "procedure_collegate_esito": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "servizio_online": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "sede_canale_fisico": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "casi_particolari": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "telefono": ["3330000000","3320000000"],
+        "email": ["email@example.com","email2@example.com"],
+        "ipa": "istsc_rcic825005",
+        "language": "it",
+        "published": 1
+      },
+      "relationships": {
+        "tipologia_servizio": {"data": {"entity": "taxonomy_term", "type": "tipologia_servizi", "id": 1201}},
+        "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
+        "argomenti": {"data": [
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1426}
+        ]},
+        "azione": {"data": {"paragraph": [2,4]}},
+        "tipologia_autenticazione": {"data": [
+          {"entity": "taxonomy_term", "type": "tipologia_autenticazioni", "id": 601},
+          {"entity": "taxonomy_term", "type": "tipologia_autenticazioni", "id": 603}
+        ]},
+        "luoghi": {"data": [
+          {"entity": "node", "type": "luogo", "id": 171}
+        ]},
+        "cosa_serve": {"data": [
+          {"entity": "taxonomy_term", "type": "cosa_serve", "id": 301}
+        ]},
+        "persona_responsabile": {"data": [
+          {"entity": "node", "type": "persona", "id": 80},
+          {"entity": "node", "type": "persona", "id": 81},
+          {"entity": "node", "type": "persona", "id": 82}
+        ]},
+        "struttura_responsabile": {"data": [
+          {"entity": "node", "type": "struttura_organizzativa", "id": 201}
+        ]},
+        "tipologia_licenza": {"data": {"entity": "taxonomy_term", "type": "tipologia_licenze", "id": 904}}
+      }
+    },
+    {
+      "entity": "node", "type": "servizio", "id": 515,
+      "attributes": {
+        "titolo": "Servizio 515",
+        "codice_identificativo": "abc",
+        "attivo": 1,
+        "servizio_non_attivo": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr",
+        "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "cosa_e": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "a_cosa_serve": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "come_si_accede": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "procedure_collegate_esito": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "servizio_online": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "sede_canale_fisico": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "casi_particolari": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "telefono": ["3330000000","3320000000"],
+        "email": ["email@example.com","email2@example.com"],
+        "ipa": "istsc_rcic825005",
+        "language": "it",
+        "published": 1
+      },
+      "relationships": {
+        "tipologia_servizio": {"data": {"entity": "taxonomy_term", "type": "tipologia_servizi", "id": 1201}},
+        "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
+        "argomenti": {"data": [
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1426}
+        ]},
+        "azione": {"data": {"paragraph": [2,4]}},
+        "tipologia_autenticazione": {"data": [
+          {"entity": "taxonomy_term", "type": "tipologia_autenticazioni", "id": 601},
+          {"entity": "taxonomy_term", "type": "tipologia_autenticazioni", "id": 603}
+        ]},
+        "luoghi": {"data": [
+          {"entity": "node", "type": "luogo", "id": 171}
+        ]},
+        "cosa_serve": {"data": [
+          {"entity": "taxonomy_term", "type": "cosa_serve", "id": 301}
+        ]},
+        "persona_responsabile": {"data": [
+          {"entity": "node", "type": "persona", "id": 80},
+          {"entity": "node", "type": "persona", "id": 81},
+          {"entity": "node", "type": "persona", "id": 82}
+        ]},
+        "struttura_responsabile": {"data": [
+          {"entity": "node", "type": "struttura_organizzativa", "id": 201}
+        ]},
+        "tipologia_licenza": {"data": {"entity": "taxonomy_term", "type": "tipologia_licenze", "id": 904}}
+      }
+    },
+    {
+      "entity": "node", "type": "servizio", "id": 516,
+      "attributes": {
+        "titolo": "Servizio 516",
+        "codice_identificativo": "abc",
+        "attivo": 1,
+        "servizio_non_attivo": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr",
+        "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "cosa_e": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "a_cosa_serve": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "come_si_accede": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "procedure_collegate_esito": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "servizio_online": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "sede_canale_fisico": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "casi_particolari": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "telefono": ["3330000000","3320000000"],
+        "email": ["email@example.com","email2@example.com"],
+        "ipa": "istsc_rcic825005",
+        "language": "it",
+        "published": 1
+      },
+      "relationships": {
+        "tipologia_servizio": {"data": {"entity": "taxonomy_term", "type": "tipologia_servizi", "id": 1201}},
+        "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
+        "argomenti": {"data": [
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1426}
+        ]},
+        "azione": {"data": {"paragraph": [2,4]}},
+        "tipologia_autenticazione": {"data": [
+          {"entity": "taxonomy_term", "type": "tipologia_autenticazioni", "id": 601},
+          {"entity": "taxonomy_term", "type": "tipologia_autenticazioni", "id": 603}
+        ]},
+        "luoghi": {"data": [
+          {"entity": "node", "type": "luogo", "id": 171}
+        ]},
+        "cosa_serve": {"data": [
+          {"entity": "taxonomy_term", "type": "cosa_serve", "id": 301}
+        ]},
+        "persona_responsabile": {"data": [
+          {"entity": "node", "type": "persona", "id": 80},
+          {"entity": "node", "type": "persona", "id": 81},
+          {"entity": "node", "type": "persona", "id": 82}
+        ]},
+        "struttura_responsabile": {"data": [
+          {"entity": "node", "type": "struttura_organizzativa", "id": 201}
+        ]},
+        "tipologia_licenza": {"data": {"entity": "taxonomy_term", "type": "tipologia_licenze", "id": 904}}
+      }
+    },
+    {
+      "entity": "node", "type": "servizio", "id": 517,
+      "attributes": {
+        "titolo": "Servizio 517",
+        "codice_identificativo": "abc",
+        "attivo": 1,
+        "servizio_non_attivo": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr",
+        "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "cosa_e": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "a_cosa_serve": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "come_si_accede": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "procedure_collegate_esito": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "servizio_online": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "sede_canale_fisico": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "casi_particolari": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "telefono": ["3330000000","3320000000"],
+        "email": ["email@example.com","email2@example.com"],
+        "ipa": "istsc_rcic825005",
+        "language": "it",
+        "published": 1
+      },
+      "relationships": {
+        "tipologia_servizio": {"data": {"entity": "taxonomy_term", "type": "tipologia_servizi", "id": 1201}},
+        "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
+        "argomenti": {"data": [
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1426}
+        ]},
+        "azione": {"data": {"paragraph": [2,4]}},
+        "tipologia_autenticazione": {"data": [
+          {"entity": "taxonomy_term", "type": "tipologia_autenticazioni", "id": 601},
+          {"entity": "taxonomy_term", "type": "tipologia_autenticazioni", "id": 603}
+        ]},
+        "luoghi": {"data": [
+          {"entity": "node", "type": "luogo", "id": 171}
+        ]},
+        "cosa_serve": {"data": [
+          {"entity": "taxonomy_term", "type": "cosa_serve", "id": 301}
+        ]},
+        "persona_responsabile": {"data": [
+          {"entity": "node", "type": "persona", "id": 80},
+          {"entity": "node", "type": "persona", "id": 81},
+          {"entity": "node", "type": "persona", "id": 82}
+        ]},
+        "struttura_responsabile": {"data": [
+          {"entity": "node", "type": "struttura_organizzativa", "id": 201}
+        ]},
+        "tipologia_licenza": {"data": {"entity": "taxonomy_term", "type": "tipologia_licenze", "id": 904}}
+      }
+    },
+    {
+      "entity": "node", "type": "servizio", "id": 518,
+      "attributes": {
+        "titolo": "Servizio 518",
+        "codice_identificativo": "abc",
+        "attivo": 1,
+        "servizio_non_attivo": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr",
+        "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "cosa_e": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "a_cosa_serve": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "come_si_accede": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "procedure_collegate_esito": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "servizio_online": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "sede_canale_fisico": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "casi_particolari": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "telefono": ["3330000000","3320000000"],
+        "email": ["email@example.com","email2@example.com"],
+        "ipa": "istsc_rcic825005",
+        "language": "it",
+        "published": 1
+      },
+      "relationships": {
+        "tipologia_servizio": {"data": {"entity": "taxonomy_term", "type": "tipologia_servizi", "id": 1201}},
+        "copertina": {"data": {"entity": "media", "type": "image", "id": 6}},
+        "argomenti": {"data": [
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1426}
+        ]},
+        "azione": {"data": {"paragraph": [2,4]}},
+        "tipologia_autenticazione": {"data": [
+          {"entity": "taxonomy_term", "type": "tipologia_autenticazioni", "id": 601},
+          {"entity": "taxonomy_term", "type": "tipologia_autenticazioni", "id": 603}
+        ]},
+        "luoghi": {"data": [
+          {"entity": "node", "type": "luogo", "id": 171}
+        ]},
+        "cosa_serve": {"data": [
+          {"entity": "taxonomy_term", "type": "cosa_serve", "id": 301}
+        ]},
+        "persona_responsabile": {"data": [
+          {"entity": "node", "type": "persona", "id": 80},
+          {"entity": "node", "type": "persona", "id": 81},
+          {"entity": "node", "type": "persona", "id": 82}
+        ]},
+        "struttura_responsabile": {"data": [
+          {"entity": "node", "type": "struttura_organizzativa", "id": 201}
+        ]},
+        "tipologia_licenza": {"data": {"entity": "taxonomy_term", "type": "tipologia_licenze", "id": 904}}
+      }
     }
   ]
 }
