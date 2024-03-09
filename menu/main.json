@@ -132,7 +132,7 @@
       "id": 16, "uuid": "ec721775-24d7-4f36-b6db-9c7fd433e312", "langcode": "it",
       "attributes": {"label": "Percorsi di studio", "description": "", "type": "main", "weight": 2},
       "link": {
-        "uri": "internal:/servizi/percorsi-di-studio", "title": ""
+        "uri": "internal:/servizi/indirizzi-di-studio", "title": ""
       },
       "parent": {"uuid": "c459014b-4937-44f3-bb0f-05a942eff503"}
     },
