@@ -1,7 +1,7 @@
 {
   "data": [
-    {"entity": "taxonomy_term", "type": "tipologia_notizie", "id": 651, "attributes": {"name": "Articolo"}},
-    {"entity": "taxonomy_term", "type": "tipologia_notizie", "id": 652, "attributes": {"name": "Notizia"}},
-    {"entity": "taxonomy_term", "type": "tipologia_notizie", "id": 653, "attributes": {"name": "Rassegna stampa"}}
+    {"entity": "taxonomy_term", "type": "tipologia_notizie", "id": 651, "attributes": {"name": "Articolo"}, "uuid": "65ab592d-7793-43da-a8c6-4756c1be949e"},
+    {"entity": "taxonomy_term", "type": "tipologia_notizie", "id": 652, "attributes": {"name": "Notizia"}, "uuid": "ad85f787-664c-4028-a66f-7106398cb825"},
+    {"entity": "taxonomy_term", "type": "tipologia_notizie", "id": 653, "attributes": {"name": "Rassegna stampa"}, "uuid": "e7a1a5a2-1d72-4c23-9a9a-9257dbfececc"}
   ]
 }
