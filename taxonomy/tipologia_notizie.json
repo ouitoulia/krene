@@ -1,0 +1,7 @@
+{
+  "data": [
+    {"entity": "taxonomy_term", "type": "tipologia_notizie", "id": 651, "attributes": {"name": "Articolo"}},
+    {"entity": "taxonomy_term", "type": "tipologia_notizie", "id": 652, "attributes": {"name": "Notizia"}},
+    {"entity": "taxonomy_term", "type": "tipologia_notizie", "id": 653, "attributes": {"name": "Rassegna stampa"}}
+  ]
+}
