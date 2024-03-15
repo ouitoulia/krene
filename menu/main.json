@@ -142,7 +142,7 @@
       "id": 17, "uuid": "7a45b95a-4b9f-4b6b-886a-ca72fbf2c2a8", "langcode": "it",
       "attributes": {"label": "Panoramica", "description": "", "type": "main", "weight": -50},
       "link": {
-        "uri": "internal:#/novita", "title": "",
+        "uri": "internal:/novita", "title": "",
         "options": {"attributes": {"data-element": "overview"}, "container_attributes": {"class": ["menu-title"]}}
       },
       "parent": {"uuid": "dd7d6ff9-825c-4447-9496-94379ed7d868"}
@@ -159,7 +159,7 @@
       "id": 19, "uuid": "eeed8660-e809-401f-8d80-ff4c6ab031a1", "langcode": "it",
       "attributes": {"label": "Le circolari", "description": "", "type": "main", "weight": 1},
       "link": {
-        "uri": "internal:#/novita/circolari", "title": ""
+        "uri": "internal:/novita/circolari", "title": ""
       },
       "parent": {"uuid": "dd7d6ff9-825c-4447-9496-94379ed7d868"}
     },
@@ -167,7 +167,7 @@
       "id": 20, "uuid": "153450f9-d3bd-43fa-801b-50eca816c489", "langcode": "it",
       "attributes": {"label": "Calendario eventi", "description": "", "type": "main", "weight": 2},
       "link": {
-        "uri": "internal:#/novita/eventi", "title": ""
+        "uri": "internal:/novita/eventi", "title": ""
       },
       "parent": {"uuid": "dd7d6ff9-825c-4447-9496-94379ed7d868"}
     },
