@@ -167,7 +167,7 @@
       "id": 20, "uuid": "153450f9-d3bd-43fa-801b-50eca816c489", "langcode": "it",
       "attributes": {"label": "Calendario eventi", "description": "", "type": "main", "weight": 2},
       "link": {
-        "uri": "internal:#", "title": ""
+        "uri": "internal:#/novita/eventi", "title": ""
       },
       "parent": {"uuid": "dd7d6ff9-825c-4447-9496-94379ed7d868"}
     },
