@@ -151,7 +151,7 @@
       "id": 18, "uuid": "d7acc8b9-974c-4cf6-940a-518132c79ac7", "langcode": "it",
       "attributes": {"label": "Le notizie", "description": "", "type": "main", "weight": 0},
       "link": {
-        "uri": "internal:/novita/notizie", "title": ""
+        "uri": "internal:/novita/le-notizie", "title": ""
       },
       "parent": {"uuid": "dd7d6ff9-825c-4447-9496-94379ed7d868"}
     },
@@ -159,7 +159,7 @@
       "id": 19, "uuid": "eeed8660-e809-401f-8d80-ff4c6ab031a1", "langcode": "it",
       "attributes": {"label": "Le circolari", "description": "", "type": "main", "weight": 1},
       "link": {
-        "uri": "internal:/novita/circolari", "title": ""
+        "uri": "internal:/novita/le-circolari", "title": ""
       },
       "parent": {"uuid": "dd7d6ff9-825c-4447-9496-94379ed7d868"}
     },
