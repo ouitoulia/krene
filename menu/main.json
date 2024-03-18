@@ -185,7 +185,7 @@
       "id": 22, "uuid": "6f3a2924-4413-4b81-8984-8c70df7be8da", "langcode": "it",
       "attributes": {"label": "Panoramica", "description": "", "type": "main", "weight": -50},
       "link": {
-        "uri": "internal:#", "title": "",
+        "uri": "internal:/didattica", "title": "",
         "options": {"attributes": {"data-element": "overview"}, "container_attributes": {"class": ["menu-title"]}}
       },
       "parent": {"uuid": "0c11e378-1f9f-4dec-9d42-a15dabe4d933"}
@@ -194,7 +194,7 @@
       "id": 23, "uuid": "4dcbf6df-33e3-4681-a592-a2d1eb36dbc7", "langcode": "it",
       "attributes": {"label": "Offerta formativa", "description": "", "type": "main", "weight": 0},
       "link": {
-        "uri": "internal:#", "title": ""
+        "uri": "internal:/didattica/offerta-formativa", "title": ""
       },
       "parent": {"uuid": "0c11e378-1f9f-4dec-9d42-a15dabe4d933"}
     },
@@ -202,7 +202,7 @@
       "id": 24, "uuid": "6160fe83-d844-4774-9312-1176de7b43d3", "langcode": "it",
       "attributes": {"label": "Le schede didattiche", "description": "", "type": "main", "weight": 1},
       "link": {
-        "uri": "internal:#", "title": ""
+        "uri": "internal:/didattica/le-schede-didattiche", "title": ""
       },
       "parent": {"uuid": "0c11e378-1f9f-4dec-9d42-a15dabe4d933"}
     },
@@ -210,7 +210,7 @@
       "id": 25, "uuid": "7cf049cc-9f98-4ba7-9685-034a1ebc01e4", "langcode": "it",
       "attributes": {"label": "I progetti delle classi", "description": "", "type": "main", "weight": 2},
       "link": {
-        "uri": "internal:#", "title": ""
+        "uri": "internal:/didattica/i-progetti-delle-classi", "title": ""
       },
       "parent": {"uuid": "0c11e378-1f9f-4dec-9d42-a15dabe4d933"}
     }
