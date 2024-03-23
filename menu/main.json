@@ -87,7 +87,7 @@
       "id": 11, "uuid": "2bfbf0ea-382e-4aba-a7df-a6591d0393ba", "langcode": "it",
       "attributes": {"label": "I numeri della scuola", "description": "", "type": "main", "weight": 5},
       "link": {
-        "uri": "internal:#", "title": ""
+        "uri": "internal:/scuola/i-numeri-della-scuola", "title": ""
       },
       "parent": {"uuid": "2043ed8b-40ee-4437-8e5d-f6b27f93d2c6"}
     },
