@@ -37,7 +37,7 @@
       "id": 5, "uuid": "62347b1e-3f4b-43de-8889-8b485529ab85", "langcode": "it",
       "attributes": {"label": "Panoramica", "description": "", "type": "main", "weight": -50},
       "link": {
-        "uri": "internal:/la-scuola", "title": "",
+        "uri": "internal:/scuola", "title": "",
         "options": {"attributes": {"data-element": "overview"}, "container_attributes": {"class": ["menu-title"]}}
       },
       "parent": {"uuid": "2043ed8b-40ee-4437-8e5d-f6b27f93d2c6"}
@@ -46,7 +46,7 @@
       "id": 6, "uuid": "761b6630-e0fa-412c-a432-7ee5dec93e7b", "langcode": "it",
       "attributes": {"label": "Presentazione", "description": "", "type": "main", "weight": 0},
       "link": {
-        "uri": "internal:/la-scuola/presentazione", "title": ""
+        "uri": "internal:/scuola/presentazione", "title": ""
       },
       "parent": {"uuid": "2043ed8b-40ee-4437-8e5d-f6b27f93d2c6"}
     },
@@ -54,7 +54,7 @@
       "id": 7, "uuid": "3403ec1f-6320-42f3-a764-b4f048dfdd60", "langcode": "it",
       "attributes": {"label": "I luoghi", "description": "", "type": "main", "weight": 1},
       "link": {
-        "uri": "internal:/la-scuola/i-luoghi", "title": "",
+        "uri": "internal:/scuola/i-luoghi", "title": "",
         "options": {"attributes": {"data-element": "school-locations"}}
       },
       "parent": {"uuid": "2043ed8b-40ee-4437-8e5d-f6b27f93d2c6"}
@@ -63,7 +63,7 @@
       "id": 8, "uuid": "813421f5-2b3f-4041-b94d-43bcebad5604", "langcode": "it",
       "attributes": {"label": "Le carte della scuola", "description": "", "type": "main", "weight": 2},
       "link": {
-        "uri": "internal:/la-scuola/le-carte-della-scuola", "title": ""
+        "uri": "internal:/scuola/le-carte-della-scuola", "title": ""
       },
       "parent": {"uuid": "2043ed8b-40ee-4437-8e5d-f6b27f93d2c6"}
     },
@@ -71,7 +71,7 @@
       "id": 9, "uuid": "3eff0bcc-9e6b-49b7-9d5b-6819d689ba4b", "langcode": "it",
       "attributes": {"label": "Organizzazione", "description": "", "type": "main", "weight": 3},
       "link": {
-        "uri": "internal:/la-scuola/organizzazione", "title": ""
+        "uri": "internal:/scuola/organizzazione", "title": ""
       },
       "parent": {"uuid": "2043ed8b-40ee-4437-8e5d-f6b27f93d2c6"}
     },
@@ -79,7 +79,7 @@
       "id": 10, "uuid": "0a0c382b-8e3c-466a-b0b2-f85ab7c60aa4", "langcode": "it",
       "attributes": {"label": "Le persone", "description": "", "type": "main", "weight": 4},
       "link": {
-        "uri": "internal:/la-scuola/le-persone", "title": ""
+        "uri": "internal:/scuola/le-persone", "title": ""
       },
       "parent": {"uuid": "2043ed8b-40ee-4437-8e5d-f6b27f93d2c6"}
     },
@@ -87,7 +87,7 @@
       "id": 11, "uuid": "2bfbf0ea-382e-4aba-a7df-a6591d0393ba", "langcode": "it",
       "attributes": {"label": "I numeri della scuola", "description": "", "type": "main", "weight": 5},
       "link": {
-        "uri": "internal:/la-scuola/i-numeri-della-scuola", "title": ""
+        "uri": "internal:/scuola/i-numeri-della-scuola", "title": ""
       },
       "parent": {"uuid": "2043ed8b-40ee-4437-8e5d-f6b27f93d2c6"}
     },
@@ -95,7 +95,7 @@
       "id": 12, "uuid": "755acd59-737f-4c5f-96d7-0e26804a4b82", "langcode": "it",
       "attributes": {"label": "La storia", "description": "", "type": "main", "weight": 6},
       "link": {
-        "uri": "internal:/la-scuola/la-storia", "title": ""
+        "uri": "internal:/scuola/la-storia", "title": ""
       },
       "parent": {"uuid": "2043ed8b-40ee-4437-8e5d-f6b27f93d2c6"}
     },
