@@ -32,7 +32,11 @@
       "attributes": {
         "titolo": "La storia",
         "abstract": "Da qui ha inizio la nostra storia",
-        "alias": "/scuola/la-storia",
+        "tipologia_sezione": "scuola",
+        "path": {
+          "auto": 0,
+          "alias": "/scuola/la-storia"
+        },
         "language": "it",
         "published": 1
       }
