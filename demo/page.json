@@ -5,6 +5,9 @@
       "attributes": {
         "titolo": "Note legali",
         "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+        "path": {
+          "pathauto": 1
+        },
         "language": "it",
         "published": 1
       }
@@ -14,6 +17,9 @@
       "attributes": {
         "titolo": "Privacy Policy",
         "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+        "path": {
+          "pathauto": 1
+        },
         "language": "it",
         "published": 1
       }
@@ -23,6 +29,9 @@
       "attributes": {
         "titolo": "Dichiarazioni di accessibilità",
         "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+        "path": {
+          "pathauto": 1
+        },
         "language": "it",
         "published": 1
       }
@@ -34,7 +43,7 @@
         "abstract": "Da qui ha inizio la nostra storia",
         "tipologia_sezione": "scuola",
         "path": {
-          "auto": "0",
+          "pathauto": 0,
           "alias": "/scuola/la-storia"
         },
         "language": "it",
