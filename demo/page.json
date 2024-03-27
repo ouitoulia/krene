@@ -50,7 +50,7 @@
         "published": 1
       },
       "relationships": {
-        "sezioni": {"data": {"paragraph": [851]}}
+        "extra_info": {"data": {"paragraph": [851]}}
       }
     }
   ]
