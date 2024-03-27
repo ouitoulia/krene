@@ -34,7 +34,7 @@
         "abstract": "Da qui ha inizio la nostra storia",
         "tipologia_sezione": "scuola",
         "path": {
-          "auto": 0,
+          "auto": "0",
           "alias": "/scuola/la-storia"
         },
         "language": "it",
