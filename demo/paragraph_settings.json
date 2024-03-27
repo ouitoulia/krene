@@ -1,0 +1,12 @@
+{
+  "data": [
+    {
+      "entity": "paragraph", "type": "settings", "id": 301, "language": "it",
+      "attributes": {
+        "full_width": 1,
+        "enable_container": 1,
+        "inline_style": "bg-bluedark py-5"
+      }
+    }
+  ]
+}

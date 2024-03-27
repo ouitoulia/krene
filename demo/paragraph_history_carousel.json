@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "entity": "paragraph", "type": "history_carousel", "id": 851, "language": "it",
+      "attributes": {
+        "title": "La storia della scuola",
+        "title_tag": "h2"
+      },
+      "relationships": {
+        "history_carousel_item": {"data": {"paragraph": [801,802,803,804,805]}},
+        "settings": {"data": {"paragraph": [301]}}
+      }
+    }
+  ]
+}
