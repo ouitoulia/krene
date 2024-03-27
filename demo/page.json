@@ -7,9 +7,6 @@
         "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
         "language": "it",
         "published": 1
-      },
-      "relationships": {
-        "copertina": {"data": {"entity": "media", "type": "image", "id": 1}}
       }
     },
     {
@@ -19,9 +16,6 @@
         "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
         "language": "it",
         "published": 1
-      },
-      "relationships": {
-        "copertina": {"data": {"entity": "media", "type": "image", "id": 1}}
       }
     },
     {
@@ -31,9 +25,16 @@
         "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
         "language": "it",
         "published": 1
-      },
-      "relationships": {
-        "copertina": {"data": {"entity": "media", "type": "image", "id": 1}}
+      }
+    },
+    {
+      "entity": "node", "type": "page", "id": 50,
+      "attributes": {
+        "titolo": "La storia",
+        "abstract": "Da qui ha inizio la nostra storia",
+        "alias": "/scuola/la-storia",
+        "language": "it",
+        "published": 1
       }
     }
   ]
