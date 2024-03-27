@@ -5,7 +5,7 @@
       "attributes": {
         "full_width": 1,
         "enable_container": 1,
-        "inline_style": "bg-bluedark py-5"
+        "container_classes": "bg-bluedark py-5"
       }
     }
   ]
