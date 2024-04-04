@@ -2495,6 +2495,7 @@
         "codice_identificativo": "1234567890128",
         "data_oblio": "2032-06-13T19:00:00",
         "frequenza": "Il documento viene aggiornato ogni 3 mesi",
+        "promote": 1,
         "language": "it",
         "published": 1
       },
@@ -2575,6 +2576,7 @@
         "codice_identificativo": "1234567890128",
         "data_oblio": "2032-06-13T19:00:00",
         "frequenza": "Il documento viene aggiornato ogni 3 mesi",
+        "promote": 1,
         "language": "it",
         "published": 1
       },
@@ -2654,6 +2656,7 @@
         "data_ora_fine": "2025-06-13T19:00:00",
         "codice_identificativo": "1234567890128",
         "frequenza": "Il documento viene aggiornato ogni 3 mesi",
+        "promote": 1,
         "language": "it",
         "published": 1
       },
@@ -2734,6 +2737,7 @@
         "codice_identificativo": "1234567890128",
         "data_oblio": "2023-06-13T19:00:00",
         "frequenza": "Il documento viene aggiornato ogni 3 mesi",
+        "promote": 1,
         "language": "it",
         "published": 1
       },
@@ -2814,6 +2818,7 @@
         "codice_identificativo": "1234567890128",
         "data_oblio": "2032-06-13T19:00:00",
         "frequenza": "Il documento viene aggiornato ogni 3 mesi",
+        "promote": 1,
         "language": "it",
         "published": 1
       },

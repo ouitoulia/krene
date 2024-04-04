@@ -52,6 +52,20 @@
       "relationships": {
         "extra_info": {"data": {"paragraph": [851]}}
       }
+    },
+    {
+      "entity": "node", "type": "page", "id": 51,
+      "attributes": {
+        "titolo": "Scuola",
+        "abstract": "L'istruzione e l'educazione sono le più grandi innovazioni dell'umanità",
+        "tipologia_sezione": "scuola",
+        "path": {
+          "pathauto": 0,
+          "alias": "/scuola"
+        },
+        "language": "it",
+        "published": 1
+      }
     }
   ]
 }
