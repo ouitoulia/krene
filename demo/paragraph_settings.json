@@ -7,6 +7,12 @@
         "enable_container": 1,
         "container_classes": "bg-bluedark py-5"
       }
+    },
+    {
+      "entity": "paragraph", "type": "settings", "id": 302, "language": "it",
+      "attributes": {
+        "container_classes": "bg-gray-light py-5"
+      }
     }
   ]
 }

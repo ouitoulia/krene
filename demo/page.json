@@ -79,6 +79,9 @@
         },
         "language": "it",
         "published": 1
+      },
+      "relationships": {
+        "extra_info": {"data": {"paragraph": [901]}}
       }
     }
   ]
