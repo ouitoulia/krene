@@ -55,6 +55,7 @@
         "link": [
           {"uri": "https://cercalatuascuola.istruzione.it/cercalatuascuola/istituti/RCIC825005/marvasi-vizzone/", "title": "Scopri di più"}
         ],
+        "promote": 1,
         "language": "it",
         "published": 1
       },
@@ -132,6 +133,7 @@
         "superficie_area_totale": 5000,
         "superficie_area_libera": 1500,
         "volume": 31500,
+        "promote": 1,
         "language": "it",
         "published": 1
       },
@@ -209,6 +211,7 @@
         "superficie_area_totale": 5000,
         "superficie_area_libera": 1500,
         "volume": 31500,
+        "promote": 1,
         "language": "it",
         "published": 1
       },
@@ -286,6 +289,7 @@
         "superficie_area_totale": 5000,
         "superficie_area_libera": 1500,
         "volume": 31500,
+        "promote": 1,
         "language": "it",
         "published": 1
       },
@@ -363,6 +367,7 @@
         "superficie_area_totale": 5000,
         "superficie_area_libera": 1500,
         "volume": 31500,
+        "promote": 1,
         "language": "it",
         "published": 1
       },
@@ -440,6 +445,7 @@
         "superficie_area_totale": 5000,
         "superficie_area_libera": 1500,
         "volume": 31500,
+        "promote": 1,
         "language": "it",
         "published": 1
       },
@@ -517,6 +523,7 @@
         "superficie_area_totale": 5000,
         "superficie_area_libera": 1500,
         "volume": 31500,
+        "promote": 1,
         "language": "it",
         "published": 1
       },
@@ -594,6 +601,7 @@
         "superficie_area_totale": 5000,
         "superficie_area_libera": 1500,
         "volume": 31500,
+        "promote": 1,
         "language": "it",
         "published": 1
       },
@@ -671,6 +679,7 @@
         "superficie_area_totale": 5000,
         "superficie_area_libera": 1500,
         "volume": 31500,
+        "promote": 1,
         "language": "it",
         "published": 1
       },
