@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "entity": "paragraph", "type": "attachments", "id": 951, "language": "it",
+      "attributes": {
+        "title": "Lorem ipsum dolor sit amet"
+      },
+      "relationships": {
+        "settings": {"data": {"paragraph": [303]}},
+        "file_managed": {"data": [
+          {"entity": "media", "type": "document", "id": 21},
+          {"entity": "media", "type": "document", "id": 23},
+          {"entity": "media", "type": "document", "id": 32}
+        ]}
+      }
+    }
+  ]
+}

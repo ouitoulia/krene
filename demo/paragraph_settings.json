@@ -13,6 +13,14 @@
       "attributes": {
         "container_classes": "bg-gray-light py-5"
       }
+    },
+    {
+      "entity": "paragraph", "type": "settings", "id": 303, "language": "it",
+      "attributes": {
+        "full_width": 1,
+        "enable_container": 1,
+        "container_classes": "py-5"
+      }
     }
   ]
 }
