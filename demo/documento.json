@@ -2496,6 +2496,7 @@
         "data_oblio": "2032-06-13T19:00:00",
         "frequenza": "Il documento viene aggiornato ogni 3 mesi",
         "promote": 1,
+        "sticky": 1,
         "language": "it",
         "published": 1
       },
