@@ -13,7 +13,8 @@ scheda_didattica        901-1000
 classe                  1001-1100
 libro                   1101-
 documento               1201-
-circolare               1301-
+circolare               1301-1400
+finanziamento           1401-
 
 -TASSONOMIA DEMO
 tassonomia_autori       10001-

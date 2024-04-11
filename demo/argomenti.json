@@ -111,6 +111,7 @@
     {"entity": "taxonomy_term", "type": "argomenti", "id": 1510, "attributes": {"name": "USR - Ufficio Scolastico Regionale"}},
     {"entity": "taxonomy_term", "type": "argomenti", "id": 1511, "attributes": {"name": "UST - Ufficio Scolastico Territoriale"}},
     {"entity": "taxonomy_term", "type": "argomenti", "id": 1512, "attributes": {"name": "Vicepresidenza"}},
-    {"entity": "taxonomy_term", "type": "argomenti", "id": 1513, "attributes": {"name": "Violino"}}
+    {"entity": "taxonomy_term", "type": "argomenti", "id": 1513, "attributes": {"name": "Violino"}},
+    {"entity": "taxonomy_term", "type": "argomenti", "id": 1514, "attributes": {"name": "PNRR"}}
   ]
 }
