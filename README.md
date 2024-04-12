@@ -15,20 +15,23 @@
 - [Anni scolastici](taxonomy/anni_scolastici.json)
 - [Argomenti (Le parole della scuola)](taxonomy/argomenti.json)
 - [Attributi dei luoghi](taxonomy/attributi_dei_luoghi.json)
+- [Autori](taxonomy/autori.json)
 - [Azioni](taxonomy/azioni.json)
 - [Competenze](taxonomy/competenze.json)
 - [Cosa serve](taxonomy/cosa_serve.json)
 - [Destinatari](taxonomy/destinatari.json)
 - [Destinazione d'uso](taxonomy/destinazione_uso.json)
+- [Editori](taxonomy/editori.json)
 - [Ruoli persona](taxonomy/ruoli_persona.json)
 - [Stato progetti](taxonomy/stato_progetti.json)
 - [Tipologia autenticazioni](taxonomy/tipologia_autenticazioni.json)
+- [Tipologia documenti](taxonomy/tipologia_documenti.json)
 - [Tipologia eventi](taxonomy/tipologia_eventi.json)
 - [Tipologia incarichi](taxonomy/tipologia_incarichi.json)
 - [Tipologia istituti](taxonomy/tipologia_istituti.json)
+- [Tipologia libri](taxonomy/tipologia_libri.json)
 - [Tipologia licenze](taxonomy/tipologia_licenze.json)
 - [Tipologia luoghi](taxonomy/tipologia_luoghi.json)
-- [Tipologia libri](taxonomy/tipologia_libri.json)
 - [Tipologia posti](taxonomy/tipologia_posti.json)
 - [Tipologia progetti](taxonomy/tipologia_progetti.json)
 - [Tipologia servizi](taxonomy/tipologia_servizi.json)
@@ -40,6 +43,7 @@
 
 ## Menu
 - [Main menu](menu/main.json)
+- [Link esterni](menu/link_esterni.json)
 
 ## Dati demo
 - [Tassonomia Argomenti](demo/argomenti.json)
@@ -57,6 +61,10 @@
 - [Tipo di contenuto Classe](demo/classe.json)
 - [Tassonomia Autori ed editori](demo/autori_editori.json)
 - [tipo di contenuto Libro](demo/libro.json)
+- [Tipo di contenuto Documento](demo/documento.json)
+- [Tipo di contenuto Finanziamento](demo/finanziamento.json)
+- [Menu Link esterni](demo/link_esterni.json)
+- [Menu Small Print](demo/small_print.json)
 
 ## License
 
