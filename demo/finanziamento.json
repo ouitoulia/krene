@@ -20,6 +20,7 @@
         "published": 1
       },
       "relationships": {
+        "tipologia_progetto": {"data": {"entity": "taxonomy_term", "type": "tipologia_progetti", "id": 1102}},
         "argomenti": {"data": [
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1514},
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1423}
