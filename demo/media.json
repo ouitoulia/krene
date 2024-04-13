@@ -306,10 +306,10 @@
     },
     {
       "entity": "media", "type": "image", "id": 35,
-      "attributes": {"title": "Logo Pon 2014-2020", "icon": "", "language": "it", "published": 1},
+      "attributes": {"title": "Logo Pon 2014/2020", "icon": "", "language": "it", "published": 1},
       "relationships": {
         "image": {"data":
-          {"entity": "file", "id": 45, "url": "https://ouitoulia.github.io/krene/demo/images/logo-pon-2014-2020.png", "filename": "logo-pon-2014-2020.png", "filemime": "image/png", "description": "Logo PON 2014-2020 - Per la scuola competenze e ambienti per l'apprendimento", "focalpoint": [50,50]}
+          {"entity": "file", "id": 45, "url": "https://ouitoulia.github.io/krene/demo/images/logo-pon-2014-2020.png", "filename": "logo-pon-2014-2020.png", "filemime": "image/png", "description": "Logo PON 2014/2020 - Per la scuola competenze e ambienti per l'apprendimento", "focalpoint": [50,50]}
         }
       }
     },
