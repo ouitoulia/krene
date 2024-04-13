@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "entity": "taxonomy_term", "type": "tipologia_progetti", "id": 1102,
+      "attributes": {"name": "PNRR"},
+      "relationships": {
+        "copertina": {"data": {"entity": "media", "type": "image", "id": 36}}
+      },
+      "uuid": "8cf4d65f-cc6a-4115-9fa1-49a1771e52c7"
+    },
+    {"entity": "taxonomy_term", "type": "tipologia_progetti", "id": 1103,
+      "attributes": {"name": "PON 2014/2020"},
+      "relationships": {
+        "copertina": {"data": {"entity": "media", "type": "image", "id": 35}}
+      },
+      "uuid": "f7d6a96d-e210-4a13-be4a-cd23ec4f5133"
+    }
+  ]
+}

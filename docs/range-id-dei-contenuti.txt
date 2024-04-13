@@ -18,7 +18,8 @@ finanziamento           1401-
 
 -TASSONOMIA DEMO
 tassonomia_autori       10001-
-tassonomia_editori      101001-
+tassonomia_editori      10101-
+tassonomie_varie        10201-
 
 -MENU DEMO
 link_esterni            52-58

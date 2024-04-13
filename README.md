@@ -46,7 +46,7 @@
 - [Link esterni](menu/link_esterni.json)
 
 ## Dati demo
-- [Tassonomia Argomenti](demo/argomenti.json)
+- [Tassonomia Argomenti](demo/tassonomia_argomenti.json)
 - [Media gestiti](demo/media.json)
 - [Tipo di contenuto Persona](demo/persona.json)
 - [Tipo di contenuto Luogo](demo/luogo.json)
@@ -59,8 +59,8 @@
 - [Tipo di contenuto Progetto](demo/progetto.json)
 - [Tipo di contenuto Scheda didattica](demo/scheda_didattica.json)
 - [Tipo di contenuto Classe](demo/classe.json)
-- [Tassonomia Autori ed editori](demo/autori_editori.json)
-- [tipo di contenuto Libro](demo/libro.json)
+- [Tassonomia Autori ed editori](demo/tassonomia_autori_editori.json)
+- [Tipo di contenuto Libro](demo/libro.json)
 - [Tipo di contenuto Documento](demo/documento.json)
 - [Tipo di contenuto Finanziamento](demo/finanziamento.json)
 - [Menu Link esterni](demo/link_esterni.json)
