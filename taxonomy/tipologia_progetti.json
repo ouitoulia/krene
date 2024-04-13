@@ -9,6 +9,8 @@
     {"entity": "taxonomy_term", "type": "tipologia_progetti", "id": 1107, "attributes": {"name": "Progetti territorio e ambiente"}, "uuid": "032971ce-8cce-4cf8-9919-1e00cac60901"},
     {"entity": "taxonomy_term", "type": "tipologia_progetti", "id": 1108, "attributes": {"name": "Progetti area umanistica"}, "uuid": "6cbab7d8-9537-4bfc-8867-55ad98c865ad"},
     {"entity": "taxonomy_term", "type": "tipologia_progetti", "id": 1109, "attributes": {"name": "Progetti area scientifica"}, "uuid": "d7778690-ab0b-4c11-9418-5f2475772486"},
-    {"entity": "taxonomy_term", "type": "tipologia_progetti", "id": 1110, "attributes": {"name": "PTOF"}, "uuid": "3af9feee-59f8-4a6a-bd85-03a576024db0"}
+    {"entity": "taxonomy_term", "type": "tipologia_progetti", "id": 1110, "attributes": {"name": "PTOF"}, "uuid": "3af9feee-59f8-4a6a-bd85-03a576024db0"},
+    {"entity": "taxonomy_term", "type": "tipologia_progetti", "id": 1111, "attributes": {"name": "FIS"}, "uuid": "5b9f2fbf-c3b7-4975-9a31-cddee7e17c20"},
+    {"entity": "taxonomy_term", "type": "tipologia_progetti", "id": 1112, "attributes": {"name": "Monitor 440"}, "uuid": "99e849bb-41d8-4c52-bb87-414bf7c29db2"}
   ]
 }

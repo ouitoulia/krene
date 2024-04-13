@@ -303,6 +303,24 @@
         "embed_video_url": "https://vimeo.com/1132937",
         "transcription": "Il video open source \"Elephants Dream\" della Blender Foundation è un viaggio straordinario nel mondo dell'animazione digitale. Rilasciato nel 2006, questo cortometraggio pionieristico è stato creato interamente con software open source, in particolare con il software di animazione 3D Blender. La trama segue i protagonisti, Emo e Proog, mentre esplorano un ambiente surreale e misterioso, intrappolati in un labirinto di illusioni e paradossi. La narrazione intricata e la qualità visiva eccezionale dimostrano la potenza degli strumenti open source nel campo dell'animazione.\n\nRealizzato con un budget limitato, \"Elephants Dream\" è stato un banco di prova cruciale per dimostrare la validità degli strumenti di produzione open source nel settore cinematografico. La Blender Foundation ha riunito un team internazionale di artisti e sviluppatori, dimostrando che la creatività e l'innovazione possono prosperare senza l'uso di software proprietari costosi.\n\nOltre alla trama avvincente, il film è noto per le sue animazioni di alta qualità e la resa grafica impressionante, dimostrando che il software open source come Blender può competere con le soluzioni commerciali più costose. \"Elephants Dream\" rappresenta quindi non solo un risultato artistico di successo, ma anche un importante passo avanti nella dimostrazione della maturità e della competitività degli strumenti open source nell'industria dell'animazione."
       }
+    },
+    {
+      "entity": "media", "type": "image", "id": 35,
+      "attributes": {"title": "Logo Pon 2014-2020", "icon": "", "language": "it", "published": 1},
+      "relationships": {
+        "image": {"data":
+          {"entity": "file", "id": 45, "url": "https://ouitoulia.github.io/krene/demo/images/logo-pon-2014-2020.png", "filename": "logo-pon-2014-2020.png", "filemime": "image/png", "description": "Logo PON 2014-2020 - Per la scuola competenze e ambienti per l'apprendimento", "focalpoint": [50,50]}
+        }
+      }
+    },
+    {
+      "entity": "media", "type": "image", "id": 36,
+      "attributes": {"title": "Logo PNRR", "icon": "", "language": "it", "published": 1},
+      "relationships": {
+        "image": {"data":
+        {"entity": "file", "id": 46, "url": "https://ouitoulia.github.io/krene/demo/images/logo-pnrr.png", "filename": "logo-pnrr.png", "filemime": "image/png", "description": "Logo PNRR - Finanziato dall'Unione europea NextGenerationEU", "focalpoint": [50,50]}
+        }
+      }
     }
   ]
 }
