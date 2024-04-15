@@ -77,6 +77,9 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1407}
         ]}
       }
     },
@@ -157,6 +160,9 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1407}
         ]}
       }
     },
@@ -237,6 +243,9 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1407}
         ]}
       }
     },
@@ -317,9 +326,13 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1407}
         ]}
       }
-    },    {
+    },
+    {
       "entity": "node", "type": "documento", "id": 1205,
       "attributes": {
         "titolo": "Documento 1205",
@@ -396,6 +409,9 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1407}
         ]}
       }
     },
@@ -476,6 +492,9 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1407}
         ]}
       }
     },
@@ -556,6 +575,9 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1407}
         ]}
       }
     },
@@ -636,6 +658,9 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1407}
         ]}
       }
     },
@@ -716,6 +741,9 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1407}
         ]}
       }
     },
@@ -796,6 +824,9 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1407}
         ]}
       }
     },
@@ -876,6 +907,9 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1407}
         ]}
       }
     },
@@ -956,6 +990,9 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1407}
         ]}
       }
     },
@@ -1036,6 +1073,9 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1407}
         ]}
       }
     },
@@ -1116,9 +1156,13 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1407}
         ]}
       }
-    },    {
+    },
+    {
       "entity": "node", "type": "documento", "id": 1215,
       "attributes": {
         "titolo": "Documento 1215",
@@ -1195,6 +1239,9 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1406}
         ]}
       }
     },
@@ -1275,6 +1322,9 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1406}
         ]}
       }
     },
@@ -1355,6 +1405,9 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1406}
         ]}
       }
     },
@@ -1435,6 +1488,9 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1406}
         ]}
       }
     },
@@ -1515,6 +1571,9 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1406}
         ]}
       }
     },
@@ -1595,6 +1654,9 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1406}
         ]}
       }
     },
@@ -1675,6 +1737,9 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1406}
         ]}
       }
     },
@@ -1755,6 +1820,9 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1406}
         ]}
       }
     },
@@ -1835,6 +1903,9 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1406}
         ]}
       }
     },
@@ -1915,6 +1986,9 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1406}
         ]}
       }
     },
@@ -1995,6 +2069,9 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1406}
         ]}
       }
     },
@@ -2075,6 +2152,9 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1406}
         ]}
       }
     },
@@ -2155,6 +2235,9 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1406}
         ]}
       }
     },
@@ -2235,6 +2318,9 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1406}
         ]}
       }
     },
@@ -2315,6 +2401,9 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1405}
         ]}
       }
     },
@@ -2395,6 +2484,9 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1405}
         ]}
       }
     },
@@ -2475,6 +2567,9 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1405}
         ]}
       }
     },
@@ -2557,6 +2652,9 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1405}
         ]}
       }
     },
@@ -2638,6 +2736,9 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1405}
         ]}
       }
     },
@@ -2718,6 +2819,9 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1405}
         ]}
       }
     },
@@ -2799,6 +2903,9 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1405}
         ]}
       }
     },
@@ -2880,6 +2987,9 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1405}
         ]}
       }
     },
@@ -2960,6 +3070,9 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1405}
         ]}
       }
     },
@@ -3040,6 +3153,9 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1404}
         ]}
       }
     },
@@ -3120,6 +3236,9 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1404}
         ]}
       }
     },
@@ -3200,9 +3319,13 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1404}
         ]}
       }
-    },    {
+    },
+    {
       "entity": "node", "type": "documento", "id": 1241,
       "attributes": {
         "titolo": "Documento 1241",
@@ -3279,6 +3402,9 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1404}
         ]}
       }
     },
@@ -3359,6 +3485,9 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1404}
         ]}
       }
     },
@@ -3439,6 +3568,9 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1404}
         ]}
       }
     },
@@ -3519,6 +3651,9 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1404}
         ]}
       }
     },
@@ -3599,6 +3734,9 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1403}
         ]}
       }
     },
@@ -3679,6 +3817,9 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1403}
         ]}
       }
     },
@@ -3759,6 +3900,9 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1403}
         ]}
       }
     },
@@ -3839,6 +3983,9 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1403}
         ]}
       }
     },
@@ -3919,6 +4066,9 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1403}
         ]}
       }
     },
@@ -3999,9 +4149,13 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1403}
         ]}
       }
-    },    {
+    },
+    {
       "entity": "node", "type": "documento", "id": 1251,
       "attributes": {
         "titolo": "Documento 1251",
@@ -4078,6 +4232,9 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1403}
         ]}
       }
     },
@@ -4158,6 +4315,9 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1403}
         ]}
       }
     },
@@ -4238,6 +4398,9 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1403}
         ]}
       }
     },
@@ -4318,6 +4481,9 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1402}
         ]}
       }
     },
@@ -4398,6 +4564,9 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1402}
         ]}
       }
     },
@@ -4478,6 +4647,9 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1402}
         ]}
       }
     },
@@ -4558,6 +4730,9 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1402}
         ]}
       }
     },
@@ -4638,6 +4813,9 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1402}
         ]}
       }
     },
@@ -4718,6 +4896,9 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1402}
         ]}
       }
     },
@@ -4798,6 +4979,9 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1402}
         ]}
       }
     },
@@ -4878,6 +5062,9 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1402}
         ]}
       }
     },
@@ -4958,6 +5145,9 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1402}
         ]}
       }
     },
@@ -5038,6 +5228,9 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1402}
         ]}
       }
     },
@@ -5118,6 +5311,9 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1402}
         ]}
       }
     },
@@ -5198,6 +5394,9 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1401}
         ]}
       }
     },
@@ -5278,6 +5477,9 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1401}
         ]}
       }
     },
@@ -5358,6 +5560,9 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1401}
         ]}
       }
     },
@@ -5438,6 +5643,9 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1401}
         ]}
       }
     },
@@ -5518,6 +5726,9 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1401}
         ]}
       }
     },
@@ -5598,6 +5809,9 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1401}
         ]}
       }
     },
@@ -5678,6 +5892,9 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1401}
         ]}
       }
     },
@@ -5722,7 +5939,7 @@
           {"entity": "node", "type": "persona", "id": 82}
         ]},
         "document": {"data":
-        {"entity": "file", "id": 62, "url": "https://ouitoulia.github.io/krene/demo/files/demo.pdf", "filename": "demo.pdf", "filemime": "application/pdf", "description": "Documento .pdf type A demo"}
+          {"entity": "file", "id": 62, "url": "https://ouitoulia.github.io/krene/demo/files/demo.pdf", "filename": "demo.pdf", "filemime": "application/pdf", "description": "Documento .pdf type A demo"}
         },
         "servizi": {"data": [
           {"entity": "node", "type": "servizio", "id": 501},
@@ -5758,6 +5975,9 @@
           {"entity": "node", "type": "struttura_organizzativa", "id": 201},
           {"entity": "node", "type": "struttura_organizzativa", "id": 202},
           {"entity": "node", "type": "struttura_organizzativa", "id": 203}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "classe", "id": 1401}
         ]}
       }
     }
