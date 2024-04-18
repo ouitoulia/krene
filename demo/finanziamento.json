@@ -20,7 +20,7 @@
         "published": 1
       },
       "relationships": {
-        "tipologia_finanziamenti": {"data": {"entity": "taxonomy_term", "type": "tipologia_finanziamenti", "id": 1152}},
+        "tipologia_finanziamento": {"data": {"entity": "taxonomy_term", "type": "tipologia_finanziamenti", "id": 1152}},
         "argomenti": {"data": [
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1514},
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1423}
@@ -63,7 +63,7 @@
         "published": 1
       },
       "relationships": {
-        "tipologia_finanziamenti": {"data": {"entity": "taxonomy_term", "type": "tipologia_finanziamenti", "id": 1153}},
+        "tipologia_finanziamento": {"data": {"entity": "taxonomy_term", "type": "tipologia_finanziamenti", "id": 1153}},
         "argomenti": {"data": [
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1514},
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1423}
@@ -106,7 +106,7 @@
         "published": 1
       },
       "relationships": {
-        "tipologia_finanziamenti": {"data": {"entity": "taxonomy_term", "type": "tipologia_finanziamenti", "id": 1154}},
+        "tipologia_finanziamento": {"data": {"entity": "taxonomy_term", "type": "tipologia_finanziamenti", "id": 1154}},
         "argomenti": {"data": [
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1514},
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1423}
@@ -149,7 +149,7 @@
         "published": 1
       },
       "relationships": {
-        "tipologia_finanziamenti": {"data": {"entity": "taxonomy_term", "type": "tipologia_finanziamenti", "id": 1150}},
+        "tipologia_finanziamento": {"data": {"entity": "taxonomy_term", "type": "tipologia_finanziamenti", "id": 1150}},
         "argomenti": {"data": [
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1514},
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1423}
@@ -192,7 +192,7 @@
         "published": 1
       },
       "relationships": {
-        "tipologia_finanziamenti": {"data": {"entity": "taxonomy_term", "type": "tipologia_finanziamenti", "id": 1151}},
+        "tipologia_finanziamento": {"data": {"entity": "taxonomy_term", "type": "tipologia_finanziamenti", "id": 1151}},
         "argomenti": {"data": [
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1514},
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1423}
@@ -235,7 +235,7 @@
         "published": 1
       },
       "relationships": {
-        "tipologia_finanziamenti": {"data": {"entity": "taxonomy_term", "type": "tipologia_finanziamenti", "id": 1152}},
+        "tipologia_finanziamento": {"data": {"entity": "taxonomy_term", "type": "tipologia_finanziamenti", "id": 1152}},
         "argomenti": {"data": [
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1514},
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1423}
@@ -278,7 +278,7 @@
         "published": 1
       },
       "relationships": {
-        "tipologia_finanziamenti": {"data": {"entity": "taxonomy_term", "type": "tipologia_finanziamenti", "id": 1153}},
+        "tipologia_finanziamento": {"data": {"entity": "taxonomy_term", "type": "tipologia_finanziamenti", "id": 1153}},
         "argomenti": {"data": [
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1514},
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1423}
