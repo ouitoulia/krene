@@ -149,7 +149,7 @@
         "published": 1
       },
       "relationships": {
-        "tipologia_finanziamento": {"data": {"entity": "taxonomy_term", "type": "tipologia_finanziamenti", "id": 1150}},
+        "tipologia_finanziamento": {"data": {"entity": "taxonomy_term", "type": "tipologia_finanziamenti", "id": 1157}},
         "argomenti": {"data": [
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1514},
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1423}
