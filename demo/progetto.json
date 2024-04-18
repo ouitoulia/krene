@@ -13,7 +13,7 @@
         "published": 1
       },
       "relationships": {
-        "tipologia_progetto": {"data": {"entity": "taxonomy_term", "type": "tipologia_progetti", "id": 1102}},
+        "tipologia_progetto": {"data": {"entity": "taxonomy_term", "type": "tipologia_progetti", "id": 1105}},
         "anno_scolastico": {"data": {"entity": "taxonomy_term", "type": "anni_scolastici", "id": 13}},
         "argomenti": {"data": [
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1404},
@@ -54,7 +54,7 @@
         "published": 1
       },
       "relationships": {
-        "tipologia_progetto": {"data": {"entity": "taxonomy_term", "type": "tipologia_progetti", "id": 1103}},
+        "tipologia_progetto": {"data": {"entity": "taxonomy_term", "type": "tipologia_progetti", "id": 1105}},
         "anno_scolastico": {"data": {"entity": "taxonomy_term", "type": "anni_scolastici", "id": 13}},
         "argomenti": {"data": [
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1406},
@@ -95,7 +95,7 @@
         "published": 1
       },
       "relationships": {
-        "tipologia_progetto": {"data": {"entity": "taxonomy_term", "type": "tipologia_progetti", "id": 1102}},
+        "tipologia_progetto": {"data": {"entity": "taxonomy_term", "type": "tipologia_progetti", "id": 1106}},
         "anno_scolastico": {"data": {"entity": "taxonomy_term", "type": "anni_scolastici", "id": 13}},
         "argomenti": {"data": [
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1404},
@@ -136,7 +136,7 @@
         "published": 1
       },
       "relationships": {
-        "tipologia_progetto": {"data": {"entity": "taxonomy_term", "type": "tipologia_progetti", "id": 1102}},
+        "tipologia_progetto": {"data": {"entity": "taxonomy_term", "type": "tipologia_progetti", "id": 1107}},
         "anno_scolastico": {"data": {"entity": "taxonomy_term", "type": "anni_scolastici", "id": 13}},
         "argomenti": {"data": [
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1404},
@@ -177,7 +177,7 @@
         "published": 1
       },
       "relationships": {
-        "tipologia_progetto": {"data": {"entity": "taxonomy_term", "type": "tipologia_progetti", "id": 1102}},
+        "tipologia_progetto": {"data": {"entity": "taxonomy_term", "type": "tipologia_progetti", "id": 1108}},
         "anno_scolastico": {"data": {"entity": "taxonomy_term", "type": "anni_scolastici", "id": 13}},
         "argomenti": {"data": [
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1404},
@@ -218,7 +218,7 @@
         "published": 1
       },
       "relationships": {
-        "tipologia_progetto": {"data": {"entity": "taxonomy_term", "type": "tipologia_progetti", "id": 1102}},
+        "tipologia_progetto": {"data": {"entity": "taxonomy_term", "type": "tipologia_progetti", "id": 1109}},
         "anno_scolastico": {"data": {"entity": "taxonomy_term", "type": "anni_scolastici", "id": 13}},
         "argomenti": {"data": [
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1404},
@@ -259,7 +259,7 @@
         "published": 1
       },
       "relationships": {
-        "tipologia_progetto": {"data": {"entity": "taxonomy_term", "type": "tipologia_progetti", "id": 1102}},
+        "tipologia_progetto": {"data": {"entity": "taxonomy_term", "type": "tipologia_progetti", "id": 1110}},
         "anno_scolastico": {"data": {"entity": "taxonomy_term", "type": "anni_scolastici", "id": 13}},
         "argomenti": {"data": [
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1404},

@@ -64,7 +64,8 @@ tipologia_licenze             901-950
 tipologia_libri               951-1000
 tipologia_luoghi              1001-1050
 tipologia_posti               1051-1100
-tipologia_progetti            1101-
+tipologia_progetti            1101-1150
+tipologia_finanziamenti       1151-1200
 tipologia_servizi             1201-
 tipologia_strutture           1301-
 argomenti                     1401-1600
