@@ -2,14 +2,14 @@
   "data": [
     {
       "entity": "taxonomy_term", "type": "tipologia_finanziamenti", "id": 1154,
-      "attributes": {"name": "PNRR"},
+      "attributes": {"name": "PNRR", "published": 1},
       "relationships": {
         "copertina": {"data": {"entity": "media", "type": "image", "id": 36}}
       },
       "uuid": "f96c2389-4f08-49f9-ba17-c42e845c4a48"
     },
     {"entity": "taxonomy_term", "type": "tipologia_finanziamenti", "id": 1157,
-      "attributes": {"name": "PON 2014/2020"},
+      "attributes": {"name": "PON 2014/2020", "published": 1},
       "relationships": {
         "copertina": {"data": {"entity": "media", "type": "image", "id": 35}}
       },
