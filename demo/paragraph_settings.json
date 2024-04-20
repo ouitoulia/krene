@@ -26,6 +26,9 @@
     },
     {
       "entity": "paragraph", "type": "settings", "id": 304, "language": "it"
+    },
+    {
+      "entity": "paragraph", "type": "settings", "id": 305, "language": "it"
     }
   ]
 }

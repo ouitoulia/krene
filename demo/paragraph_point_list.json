@@ -4,7 +4,7 @@
       "entity": "paragraph", "type": "point_list", "id": 1501, "language": "it",
       "relationships": {
         "point_list_item": {"data": {"paragraph": [1401,1402,1403]}},
-        "settings": {"data": {"paragraph": [304]}}
+        "settings": {"data": {"paragraph": [305]}}
       }
     }
   ]
