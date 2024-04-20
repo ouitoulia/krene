@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "entity": "paragraph", "type": "point_list_item", "id": 1401, "language": "it",
+      "attributes": {
+        "title": "At vero eos et accusam et justo duo dolores et ea rebum.",
+        "kicker": "15 Sept",
+        "data_element": "service-calendar-list",
+        "variants": "success"
+      }
+    },
+    {
+      "entity": "paragraph", "type": "point_list_item", "id": 1402, "language": "it",
+      "attributes": {
+        "title": "Stet clita kasd gubergren.",
+        "kicker": "9 Oct",
+        "data_element": "service-calendar-list",
+        "variants": "success"
+      }
+    },
+    {
+      "entity": "paragraph", "type": "point_list_item", "id": 1403, "language": "it",
+      "attributes": {
+        "title": "No sea takimata sanctus est Lorem ipsum dolor sit amet.",
+        "kicker": "14 Oct",
+        "data_element": "service-calendar-list",
+        "variants": "success"
+      }
+    }
+  ]
+}

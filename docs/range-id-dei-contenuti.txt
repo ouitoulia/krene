@@ -34,7 +34,10 @@ history_carousel_item   801-850
 history_carousel        851-900
 section                 901-950
 attachments             951-1000
-content                 1001-
+content                 1001-1400
+point_list_item         1401-1500
+point_list              1501-1600
+
 
 
 -------------------------------------------------------------------------------
