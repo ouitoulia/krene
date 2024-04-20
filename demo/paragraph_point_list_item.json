@@ -15,7 +15,7 @@
         "title": "Stet clita kasd gubergren.",
         "kicker": "9 Oct",
         "data_element": "service-calendar-list",
-        "variants": "success"
+        "variants": "primary"
       }
     },
     {
@@ -24,7 +24,7 @@
         "title": "No sea takimata sanctus est Lorem ipsum dolor sit amet.",
         "kicker": "14 Oct",
         "data_element": "service-calendar-list",
-        "variants": "success"
+        "variants": "danger"
       }
     }
   ]
