@@ -25,8 +25,7 @@
       }
     },
     {
-      "entity": "paragraph", "type": "settings", "id": 304, "language": "it",
-      "attributes": {"container_classes": "py-5"}
+      "entity": "paragraph", "type": "settings", "id": 304, "language": "it"
     }
   ]
 }
