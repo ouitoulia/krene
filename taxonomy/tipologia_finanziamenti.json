@@ -7,6 +7,7 @@
     {"entity": "taxonomy_term", "type": "tipologia_finanziamenti", "id": 1155, "attributes": {"name": "PON 1994/1999"}, "uuid": "52a1a8c8-b01e-4198-a8b0-c1d27d3fc499"},
     {"entity": "taxonomy_term", "type": "tipologia_finanziamenti", "id": 1156, "attributes": {"name": "PON 2007/2013"}, "uuid": "9970f309-caec-413c-9fd0-eee986e8bfbb"},
     {"entity": "taxonomy_term", "type": "tipologia_finanziamenti", "id": 1157, "attributes": {"name": "PON 2014/2020"}, "uuid": "b179f8ff-70b3-4d35-a0c0-69f9325b38f5"},
-    {"entity": "taxonomy_term", "type": "tipologia_finanziamenti", "id": 1158, "attributes": {"name": "POR"}, "uuid": "39b74d5b-5784-410d-bbd9-e583d5248684"}
+    {"entity": "taxonomy_term", "type": "tipologia_finanziamenti", "id": 1158, "attributes": {"name": "POR"}, "uuid": "39b74d5b-5784-410d-bbd9-e583d5248684"},
+    {"entity": "taxonomy_term", "type": "tipologia_finanziamenti", "id": 1159, "attributes": {"name": "PNRR Futura"}, "uuid": "7aa290e5-31bc-42aa-8675-e6d3a897057f"}
   ]
 }
