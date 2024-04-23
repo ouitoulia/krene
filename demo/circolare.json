@@ -31,7 +31,10 @@
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1457},
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1423},
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1431}
-        ]}
+        ]},
+        "document": {"data":
+          {"entity": "file", "id": 62, "url": "https://ouitoulia.github.io/krene/demo/files/demo.pdf", "filename": "demo.pdf", "filemime": "application/pdf", "description": "Documento .pdf type A demo"}
+        }
       }
     },
     {
@@ -66,7 +69,10 @@
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1457},
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1423},
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1431}
-        ]}
+        ]},
+        "document": {"data":
+          {"entity": "file", "id": 62, "url": "https://ouitoulia.github.io/krene/demo/files/demo.pdf", "filename": "demo.pdf", "filemime": "application/pdf", "description": "Documento .pdf type A demo"}
+        }
       }
     },
     {
@@ -100,7 +106,10 @@
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1457},
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1423},
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1431}
-        ]}
+        ]},
+        "document": {"data":
+          {"entity": "file", "id": 62, "url": "https://ouitoulia.github.io/krene/demo/files/demo.pdf", "filename": "demo.pdf", "filemime": "application/pdf", "description": "Documento .pdf type A demo"}
+        }
       }
     },
     {
@@ -134,7 +143,10 @@
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1457},
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1423},
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1431}
-        ]}
+        ]},
+        "document": {"data":
+          {"entity": "file", "id": 62, "url": "https://ouitoulia.github.io/krene/demo/files/demo.pdf", "filename": "demo.pdf", "filemime": "application/pdf", "description": "Documento .pdf type A demo"}
+        }
       }
     },
     {
@@ -169,7 +181,10 @@
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1457},
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1423},
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1431}
-        ]}
+        ]},
+        "document": {"data":
+          {"entity": "file", "id": 62, "url": "https://ouitoulia.github.io/krene/demo/files/demo.pdf", "filename": "demo.pdf", "filemime": "application/pdf", "description": "Documento .pdf type A demo"}
+        }
       }
     },
     {
@@ -203,7 +218,10 @@
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1457},
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1423},
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1431}
-        ]}
+        ]},
+        "document": {"data":
+          {"entity": "file", "id": 62, "url": "https://ouitoulia.github.io/krene/demo/files/demo.pdf", "filename": "demo.pdf", "filemime": "application/pdf", "description": "Documento .pdf type A demo"}
+        }
       }
     },
     {
@@ -237,7 +255,10 @@
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1457},
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1423},
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1431}
-        ]}
+        ]},
+        "document": {"data":
+          {"entity": "file", "id": 62, "url": "https://ouitoulia.github.io/krene/demo/files/demo.pdf", "filename": "demo.pdf", "filemime": "application/pdf", "description": "Documento .pdf type A demo"}
+        }
       }
     },
     {
@@ -271,7 +292,10 @@
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1457},
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1423},
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1431}
-        ]}
+        ]},
+        "document": {"data":
+          {"entity": "file", "id": 62, "url": "https://ouitoulia.github.io/krene/demo/files/demo.pdf", "filename": "demo.pdf", "filemime": "application/pdf", "description": "Documento .pdf type A demo"}
+        }
       }
     },
     {
@@ -306,7 +330,10 @@
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1457},
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1423},
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1431}
-        ]}
+        ]},
+        "document": {"data":
+          {"entity": "file", "id": 62, "url": "https://ouitoulia.github.io/krene/demo/files/demo.pdf", "filename": "demo.pdf", "filemime": "application/pdf", "description": "Documento .pdf type A demo"}
+        }
       }
     },
     {
@@ -340,7 +367,10 @@
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1457},
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1423},
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1431}
-        ]}
+        ]},
+        "document": {"data":
+          {"entity": "file", "id": 62, "url": "https://ouitoulia.github.io/krene/demo/files/demo.pdf", "filename": "demo.pdf", "filemime": "application/pdf", "description": "Documento .pdf type A demo"}
+        }
       }
     }
   ]

@@ -124,7 +124,7 @@
           {"entity": "node", "type": "persona", "id": 73}
         ]},
         "document": {"data":
-        {"entity": "file", "id": 62, "url": "https://ouitoulia.github.io/krene/demo/files/demo.pdf", "filename": "demo.pdf", "filemime": "application/pdf", "description": "Documento .pdf type A demo"}
+          {"entity": "file", "id": 62, "url": "https://ouitoulia.github.io/krene/demo/files/demo.pdf", "filename": "demo.pdf", "filemime": "application/pdf", "description": "Documento .pdf type A demo"}
         },
         "servizi": {"data": [
           {"entity": "node", "type": "servizio", "id": 501},
