@@ -19,6 +19,17 @@
     {"entity": "taxonomy_term", "type": "anni_scolastici", "id": 17, "attributes": {"name": "2026/2027", "weight": "1"}, "uuid": "7968cbdc-6177-43e1-8ceb-2380ef697933"},
     {"entity": "taxonomy_term", "type": "anni_scolastici", "id": 18, "attributes": {"name": "2027/2028", "weight": "2"}, "uuid": "89eecb19-4cb1-4c33-9f1e-a1b6d98e6c59"},
     {"entity": "taxonomy_term", "type": "anni_scolastici", "id": 19, "attributes": {"name": "2028/2029", "weight": "3"}, "uuid": "7c206bee-6c08-4e13-abdc-7651f54dcf5b"},
-    {"entity": "taxonomy_term", "type": "anni_scolastici", "id": 20, "attributes": {"name": "2029/2030", "weight": "4"}, "uuid": "9672b2c4-c0f4-4799-a63e-f9086e50da15"}
+    {"entity": "taxonomy_term", "type": "anni_scolastici", "id": 20, "attributes": {"name": "2029/2030", "weight": "4"}, "uuid": "9672b2c4-c0f4-4799-a63e-f9086e50da15"},
+    {"entity": "taxonomy_term", "type": "anni_scolastici", "id": 21, "attributes": {"name": "2030/2031", "weight": "5"}, "uuid": "c3f21c89-4204-48db-9a3e-4688e9d435b1"},
+    {"entity": "taxonomy_term", "type": "anni_scolastici", "id": 22, "attributes": {"name": "2031/2032", "weight": "6"}, "uuid": "4a56acfd-e859-4029-9342-fc0b320ac528"},
+    {"entity": "taxonomy_term", "type": "anni_scolastici", "id": 23, "attributes": {"name": "2032/2033", "weight": "7"}, "uuid": "23136132-b6a6-4ef0-9bed-2ca410e06536"},
+    {"entity": "taxonomy_term", "type": "anni_scolastici", "id": 24, "attributes": {"name": "2033/2034", "weight": "8"}, "uuid": "5deaa939-65b9-4474-b0b0-dc8197dd6211"},
+    {"entity": "taxonomy_term", "type": "anni_scolastici", "id": 25, "attributes": {"name": "2034/2035", "weight": "9"}, "uuid": "9dd3bad2-bd3d-4a1d-97d4-90186c1d62eb"},
+    {"entity": "taxonomy_term", "type": "anni_scolastici", "id": 26, "attributes": {"name": "2035/2036", "weight": "10"}, "uuid": "62bac3c5-07bf-49ae-be77-d7829b11a942"},
+    {"entity": "taxonomy_term", "type": "anni_scolastici", "id": 27, "attributes": {"name": "2036/2037", "weight": "11"}, "uuid": "022ca128-dec9-4ac5-8ebb-ce16e6e04c99"},
+    {"entity": "taxonomy_term", "type": "anni_scolastici", "id": 28, "attributes": {"name": "2037/2038", "weight": "12"}, "uuid": "187d03aa-0779-4efa-8cae-9d21c48de717"},
+    {"entity": "taxonomy_term", "type": "anni_scolastici", "id": 29, "attributes": {"name": "2038/2039", "weight": "13"}, "uuid": "1deacbe5-7495-4e45-bec7-d66bb28d9e88"},
+    {"entity": "taxonomy_term", "type": "anni_scolastici", "id": 30, "attributes": {"name": "2039/2040", "weight": "14"}, "uuid": "0eeaa474-32dd-4ee0-9093-47851b55b41d"},
+    {"entity": "taxonomy_term", "type": "anni_scolastici", "id": 31, "attributes": {"name": "2040/2041", "weight": "15"}, "uuid": "2a8f0ac8-f290-499d-b99f-c6629a7d2db1"}
   ]
 }
