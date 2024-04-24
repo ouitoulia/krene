@@ -8,6 +8,10 @@
         "numero_circolare": 1,
         "data_oblio": "2032-06-13T19:00:00",
         "testo_circolare": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+        "link": [
+          {"uri": "https://example.com", "title": "DECRETO LEGISLATIVO 7 marzo 2005, n. 82"},
+          {"uri": "https://example.com", "title": "Articolo 53 del D. Lgs. 7 marzo 2005, n. 82"}
+        ],
         "language": "it",
         "published": 1
       },
@@ -46,6 +50,10 @@
         "data_oblio": "2032-06-13T19:00:00",
         "testo_circolare": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
         "promote": 1,
+        "link": [
+          {"uri": "https://example.com", "title": "DECRETO LEGISLATIVO 7 marzo 2005, n. 82"},
+          {"uri": "https://example.com", "title": "Articolo 53 del D. Lgs. 7 marzo 2005, n. 82"}
+        ],
         "language": "it",
         "published": 1
       },
@@ -83,6 +91,10 @@
         "numero_circolare": 3,
         "data_oblio": "2032-06-13T19:00:00",
         "testo_circolare": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+        "link": [
+          {"uri": "https://example.com", "title": "DECRETO LEGISLATIVO 7 marzo 2005, n. 82"},
+          {"uri": "https://example.com", "title": "Articolo 53 del D. Lgs. 7 marzo 2005, n. 82"}
+        ],
         "language": "it",
         "published": 1
       },
@@ -120,6 +132,10 @@
         "numero_circolare": 4,
         "data_oblio": "2032-06-13T19:00:00",
         "testo_circolare": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+        "link": [
+          {"uri": "https://example.com", "title": "DECRETO LEGISLATIVO 7 marzo 2005, n. 82"},
+          {"uri": "https://example.com", "title": "Articolo 53 del D. Lgs. 7 marzo 2005, n. 82"}
+        ],
         "language": "it",
         "published": 1
       },
@@ -158,6 +174,10 @@
         "data_oblio": "2032-06-13T19:00:00",
         "testo_circolare": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
         "promote": 1,
+        "link": [
+          {"uri": "https://example.com", "title": "DECRETO LEGISLATIVO 7 marzo 2005, n. 82"},
+          {"uri": "https://example.com", "title": "Articolo 53 del D. Lgs. 7 marzo 2005, n. 82"}
+        ],
         "language": "it",
         "published": 1
       },
@@ -195,6 +215,10 @@
         "numero_circolare": 6,
         "data_oblio": "2032-06-13T19:00:00",
         "testo_circolare": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+        "link": [
+          {"uri": "https://example.com", "title": "DECRETO LEGISLATIVO 7 marzo 2005, n. 82"},
+          {"uri": "https://example.com", "title": "Articolo 53 del D. Lgs. 7 marzo 2005, n. 82"}
+        ],
         "language": "it",
         "published": 1
       },
@@ -232,6 +256,10 @@
         "numero_circolare": 7,
         "data_oblio": "2032-06-13T19:00:00",
         "testo_circolare": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+        "link": [
+          {"uri": "https://example.com", "title": "DECRETO LEGISLATIVO 7 marzo 2005, n. 82"},
+          {"uri": "https://example.com", "title": "Articolo 53 del D. Lgs. 7 marzo 2005, n. 82"}
+        ],
         "language": "it",
         "published": 1
       },
@@ -269,6 +297,10 @@
         "numero_circolare": 8,
         "data_oblio": "2032-06-13T19:00:00",
         "testo_circolare": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+        "link": [
+          {"uri": "https://example.com", "title": "DECRETO LEGISLATIVO 7 marzo 2005, n. 82"},
+          {"uri": "https://example.com", "title": "Articolo 53 del D. Lgs. 7 marzo 2005, n. 82"}
+        ],
         "language": "it",
         "published": 1
       },
@@ -306,6 +338,10 @@
         "numero_circolare": 9,
         "data_oblio": "2017-06-13T19:00:00",
         "testo_circolare": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+        "link": [
+          {"uri": "https://example.com", "title": "DECRETO LEGISLATIVO 7 marzo 2005, n. 82"},
+          {"uri": "https://example.com", "title": "Articolo 53 del D. Lgs. 7 marzo 2005, n. 82"}
+        ],
         "promote": 1,
         "language": "it",
         "published": 1
@@ -343,6 +379,10 @@
         "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
         "numero_circolare": 10,
         "testo_circolare": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+        "link": [
+          {"uri": "https://example.com", "title": "DECRETO LEGISLATIVO 7 marzo 2005, n. 82"},
+          {"uri": "https://example.com", "title": "Articolo 53 del D. Lgs. 7 marzo 2005, n. 82"}
+        ],
         "promote": 1,
         "language": "it",
         "published": 1
