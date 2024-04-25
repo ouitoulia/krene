@@ -22,7 +22,7 @@
       "relationships": {
         "tipologia_finanziamento": {"data": {"entity": "taxonomy_term", "type": "tipologia_finanziamenti", "id": 1152}},
         "argomenti": {"data": [
-          {"entity": "taxonomy_term", "type": "argomenti", "id": 1514},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1501},
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1423}
         ]},
         "stato_progetto": {"data": {"entity": "taxonomy_term", "type": "stato_progetti", "id": 554}},
@@ -65,7 +65,7 @@
       "relationships": {
         "tipologia_finanziamento": {"data": {"entity": "taxonomy_term", "type": "tipologia_finanziamenti", "id": 1153}},
         "argomenti": {"data": [
-          {"entity": "taxonomy_term", "type": "argomenti", "id": 1514},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1501},
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1423}
         ]},
         "stato_progetto": {"data": {"entity": "taxonomy_term", "type": "stato_progetti", "id": 554}},
@@ -108,7 +108,7 @@
       "relationships": {
         "tipologia_finanziamento": {"data": {"entity": "taxonomy_term", "type": "tipologia_finanziamenti", "id": 1154}},
         "argomenti": {"data": [
-          {"entity": "taxonomy_term", "type": "argomenti", "id": 1514},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1501},
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1423}
         ]},
         "stato_progetto": {"data": {"entity": "taxonomy_term", "type": "stato_progetti", "id": 554}},
@@ -151,7 +151,7 @@
       "relationships": {
         "tipologia_finanziamento": {"data": {"entity": "taxonomy_term", "type": "tipologia_finanziamenti", "id": 1157}},
         "argomenti": {"data": [
-          {"entity": "taxonomy_term", "type": "argomenti", "id": 1514},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1501},
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1423}
         ]},
         "stato_progetto": {"data": {"entity": "taxonomy_term", "type": "stato_progetti", "id": 554}},
@@ -194,7 +194,7 @@
       "relationships": {
         "tipologia_finanziamento": {"data": {"entity": "taxonomy_term", "type": "tipologia_finanziamenti", "id": 1151}},
         "argomenti": {"data": [
-          {"entity": "taxonomy_term", "type": "argomenti", "id": 1514},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1501},
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1423}
         ]},
         "stato_progetto": {"data": {"entity": "taxonomy_term", "type": "stato_progetti", "id": 554}},
@@ -237,7 +237,7 @@
       "relationships": {
         "tipologia_finanziamento": {"data": {"entity": "taxonomy_term", "type": "tipologia_finanziamenti", "id": 1152}},
         "argomenti": {"data": [
-          {"entity": "taxonomy_term", "type": "argomenti", "id": 1514},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1501},
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1423}
         ]},
         "stato_progetto": {"data": {"entity": "taxonomy_term", "type": "stato_progetti", "id": 554}},
@@ -280,7 +280,7 @@
       "relationships": {
         "tipologia_finanziamento": {"data": {"entity": "taxonomy_term", "type": "tipologia_finanziamenti", "id": 1153}},
         "argomenti": {"data": [
-          {"entity": "taxonomy_term", "type": "argomenti", "id": 1514},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1501},
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1423}
         ]},
         "stato_progetto": {"data": {"entity": "taxonomy_term", "type": "stato_progetti", "id": 554}},
@@ -323,7 +323,7 @@
       "relationships": {
         "tipologia_finanziamento": {"data": {"entity": "taxonomy_term", "type": "tipologia_finanziamenti", "id": 1157}},
         "argomenti": {"data": [
-          {"entity": "taxonomy_term", "type": "argomenti", "id": 1514},
+          {"entity": "taxonomy_term", "type": "argomenti", "id": 1501},
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1423}
         ]},
         "stato_progetto": {"data": {"entity": "taxonomy_term", "type": "stato_progetti", "id": 554}},
