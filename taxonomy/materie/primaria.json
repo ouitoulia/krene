@@ -1,14 +1,14 @@
 {
   "data": [
-    {"entity": "taxonomy_term", "type": "materie", "id": 2151, "attributes": {"miur_class_id": "EEEE", "name": "Italiano", "description": ""}},
-    {"entity": "taxonomy_term", "type": "materie", "id": 2152, "attributes": {"miur_class_id": "EEEE", "name": "Lingua inglese", "description": ""}},
-    {"entity": "taxonomy_term", "type": "materie", "id": 2153, "attributes": {"miur_class_id": "EEEE", "name": "Storia", "description": ""}},
-    {"entity": "taxonomy_term", "type": "materie", "id": 2154, "attributes": {"miur_class_id": "EEEE", "name": "Geografia", "description": ""}},
-    {"entity": "taxonomy_term", "type": "materie", "id": 2155, "attributes": {"miur_class_id": "EEEE", "name": "Matematica", "description": ""}},
-    {"entity": "taxonomy_term", "type": "materie", "id": 2156, "attributes": {"miur_class_id": "EEEE", "name": "Scienze", "description": ""}},
-    {"entity": "taxonomy_term", "type": "materie", "id": 2157, "attributes": {"miur_class_id": "EEEE", "name": "Musica", "description": ""}},
-    {"entity": "taxonomy_term", "type": "materie", "id": 2158, "attributes": {"miur_class_id": "EEEE", "name": "Arte e immagine", "description": ""}},
-    {"entity": "taxonomy_term", "type": "materie", "id": 2159, "attributes": {"miur_class_id": "EEEE", "name": "Educazione fisica", "description": ""}},
-    {"entity": "taxonomy_term", "type": "materie", "id": 2160, "attributes": {"miur_class_id": "EEEE", "name": "Tecnologia", "description": ""}}
+    {"entity": "taxonomy_term", "type": "materie", "id": 2151, "attributes": {"miur_class_id": "EEEE", "name": "Italiano", "description": ""}, "uuid": "602c67e2-8e67-4b52-a4eb-0efffb911d3c"},
+    {"entity": "taxonomy_term", "type": "materie", "id": 2152, "attributes": {"miur_class_id": "EEEE", "name": "Lingua inglese", "description": ""}, "uuid": "4dc3a36b-0176-4408-845b-9b39bff5bd73"},
+    {"entity": "taxonomy_term", "type": "materie", "id": 2153, "attributes": {"miur_class_id": "EEEE", "name": "Storia", "description": ""}, "uuid": "2afa867f-4ebd-4e9d-aebc-ef9eaba416ce"},
+    {"entity": "taxonomy_term", "type": "materie", "id": 2154, "attributes": {"miur_class_id": "EEEE", "name": "Geografia", "description": ""}, "uuid": "fb143175-7277-4877-9425-b63e97c3a4a3"},
+    {"entity": "taxonomy_term", "type": "materie", "id": 2155, "attributes": {"miur_class_id": "EEEE", "name": "Matematica", "description": ""}, "uuid": "622146f0-03d1-42fb-aa78-a00625dcf551"},
+    {"entity": "taxonomy_term", "type": "materie", "id": 2156, "attributes": {"miur_class_id": "EEEE", "name": "Scienze", "description": ""}, "uuid": "b8005aba-7022-4738-ab9c-1da72a008624"},
+    {"entity": "taxonomy_term", "type": "materie", "id": 2157, "attributes": {"miur_class_id": "EEEE", "name": "Musica", "description": ""}, "uuid": "b525c12d-da2d-459d-911c-8b14c851cec7"},
+    {"entity": "taxonomy_term", "type": "materie", "id": 2158, "attributes": {"miur_class_id": "EEEE", "name": "Arte e immagine", "description": ""}, "uuid": "479af561-cb65-449f-8804-027334c34460"},
+    {"entity": "taxonomy_term", "type": "materie", "id": 2159, "attributes": {"miur_class_id": "EEEE", "name": "Educazione fisica", "description": ""}, "uuid": "29d10877-4712-4549-9c47-2a3e18b61fa5"},
+    {"entity": "taxonomy_term", "type": "materie", "id": 2160, "attributes": {"miur_class_id": "EEEE", "name": "Tecnologia", "description": ""}, "uuid": "fa168ba6-214d-414d-9cce-64fd1698f6b4"}
   ]
 }
