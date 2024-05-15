@@ -1,9 +1,9 @@
 {
   "data": [
-    {"entity": "taxonomy_term", "type": "materie", "id": 2181, "attributes": {"miur_class_id": "AAAA", "name": "Il sé e l’altro"}},
-    {"entity": "taxonomy_term", "type": "materie", "id": 2182, "attributes": {"miur_class_id": "AAAA", "name": "Il corpo e il movimento"}},
-    {"entity": "taxonomy_term", "type": "materie", "id": 2183, "attributes": {"miur_class_id": "AAAA", "name": "Immagini, suoni, colori"}},
-    {"entity": "taxonomy_term", "type": "materie", "id": 2184, "attributes": {"miur_class_id": "AAAA", "name": "I discorsi e le parole"}},
-    {"entity": "taxonomy_term", "type": "materie", "id": 2185, "attributes": {"miur_class_id": "AAAA", "name": "La conoscenza del mondo"}}
+    {"entity": "taxonomy_term", "type": "materie", "id": 2181, "attributes": {"miur_class_id": "AAAA", "name": "Il sé e l’altro"}, "uuid": "299472e5-6663-4cc8-b68c-103ebc7f1d25"},
+    {"entity": "taxonomy_term", "type": "materie", "id": 2182, "attributes": {"miur_class_id": "AAAA", "name": "Il corpo e il movimento"}, "uuid": "62898217-b595-4d0b-8ab1-02688cd67de3"},
+    {"entity": "taxonomy_term", "type": "materie", "id": 2183, "attributes": {"miur_class_id": "AAAA", "name": "Immagini, suoni, colori"}, "uuid": "93930e79-b571-4eef-9f5f-c20208006141"},
+    {"entity": "taxonomy_term", "type": "materie", "id": 2184, "attributes": {"miur_class_id": "AAAA", "name": "I discorsi e le parole"}, "uuid": "79fcc436-0a56-450b-ae37-6307e3676db9"},
+    {"entity": "taxonomy_term", "type": "materie", "id": 2185, "attributes": {"miur_class_id": "AAAA", "name": "La conoscenza del mondo"}, "uuid": "bb9dcea8-7e00-4e68-8eb9-7ec253001f30"}
   ]
 }
