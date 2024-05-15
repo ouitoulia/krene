@@ -1,0 +1,9 @@
+{
+  "data": [
+    {"entity": "taxonomy_term", "type": "materie", "id": 2181, "attributes": {"miur_class_id": "AAAA", "name": "Il sé e l’altro"}},
+    {"entity": "taxonomy_term", "type": "materie", "id": 2182, "attributes": {"miur_class_id": "AAAA", "name": "Il corpo e il movimento"}},
+    {"entity": "taxonomy_term", "type": "materie", "id": 2183, "attributes": {"miur_class_id": "AAAA", "name": "Immagini, suoni, colori"}},
+    {"entity": "taxonomy_term", "type": "materie", "id": 2184, "attributes": {"miur_class_id": "AAAA", "name": "I discorsi e le parole"}},
+    {"entity": "taxonomy_term", "type": "materie", "id": 2185, "attributes": {"miur_class_id": "AAAA", "name": "La conoscenza del mondo"}}
+  ]
+}

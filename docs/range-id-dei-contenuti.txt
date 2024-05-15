@@ -77,7 +77,8 @@ tipologia_supplenze           1601-
 ruoli_persona                 1701-
 tipologia_documenti           1801-
 materie/media                 2101-2150
-materie/primaria              2151-2200
+materie/primaria              2151-2180
+materie/infanzia              2181-2200
 materie/superiore             2200-2400
 materie/laboratori            2401-2500
 percorsi_di_studio/infanzia   3001-3050
