@@ -35,7 +35,7 @@
 
     {
       "id": 5, "uuid": "62347b1e-3f4b-43de-8889-8b485529ab85", "langcode": "it",
-      "attributes": {"label": "Panoramica", "description": "", "type": "main", "weight": -50},
+      "attributes": {"label": "Panoramica", "description": "Panoramica sulla scuola", "type": "main", "weight": -50},
       "link": {
         "uri": "internal:/scuola", "title": "",
         "options": {"attributes": {"data-element": "overview"}, "container_attributes": {"class": ["menu-title"]}}
@@ -103,7 +103,7 @@
 
     {
       "id": 13, "uuid": "ca996b21-a128-4f12-839e-6d18283fef92", "langcode": "it",
-      "attributes": {"label": "Panoramica", "description": "", "type": "main", "weight": -50},
+      "attributes": {"label": "Panoramica", "description": "Panoramica sui servizi offerti", "type": "main", "weight": -50},
       "link": {
         "uri": "internal:/servizi", "title": "",
         "options": {"attributes": {"data-element": "overview"}, "container_attributes": {"class": ["menu-title"]}}
@@ -140,7 +140,7 @@
 
     {
       "id": 17, "uuid": "7a45b95a-4b9f-4b6b-886a-ca72fbf2c2a8", "langcode": "it",
-      "attributes": {"label": "Panoramica", "description": "", "type": "main", "weight": -50},
+      "attributes": {"label": "Panoramica", "description": "Panoramica sulle novità", "type": "main", "weight": -50},
       "link": {
         "uri": "internal:/novita", "title": "",
         "options": {"attributes": {"data-element": "overview"}, "container_attributes": {"class": ["menu-title"]}}
@@ -183,7 +183,7 @@
 
     {
       "id": 22, "uuid": "6f3a2924-4413-4b81-8984-8c70df7be8da", "langcode": "it",
-      "attributes": {"label": "Panoramica", "description": "", "type": "main", "weight": -50},
+      "attributes": {"label": "Panoramica", "description": "Panoramica sulla didattica", "type": "main", "weight": -50},
       "link": {
         "uri": "internal:/didattica", "title": "",
         "options": {"attributes": {"data-element": "overview"}, "container_attributes": {"class": ["menu-title"]}}
