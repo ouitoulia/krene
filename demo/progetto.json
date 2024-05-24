@@ -38,6 +38,10 @@
         "collaborazioni": {"data": [
           {"entity": "node", "type": "partner", "id": 301},
           {"entity": "node", "type": "partner", "id": 302}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "finanziamento", "id": 1401},
+          {"entity": "node", "type": "finanziamento", "id": 1402}
         ]}
       }
     },
@@ -79,6 +83,10 @@
         "collaborazioni": {"data": [
           {"entity": "node", "type": "partner", "id": 301},
           {"entity": "node", "type": "partner", "id": 302}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "finanziamento", "id": 1401},
+          {"entity": "node", "type": "finanziamento", "id": 1402}
         ]}
       }
     },
@@ -120,6 +128,10 @@
         "collaborazioni": {"data": [
           {"entity": "node", "type": "partner", "id": 301},
           {"entity": "node", "type": "partner", "id": 302}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "finanziamento", "id": 1403},
+          {"entity": "node", "type": "finanziamento", "id": 1404}
         ]}
       }
     },
@@ -161,6 +173,10 @@
         "collaborazioni": {"data": [
           {"entity": "node", "type": "partner", "id": 301},
           {"entity": "node", "type": "partner", "id": 302}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "finanziamento", "id": 1403},
+          {"entity": "node", "type": "finanziamento", "id": 1404}
         ]}
       }
     },
@@ -202,6 +218,10 @@
         "collaborazioni": {"data": [
           {"entity": "node", "type": "partner", "id": 301},
           {"entity": "node", "type": "partner", "id": 302}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "finanziamento", "id": 1405},
+          {"entity": "node", "type": "finanziamento", "id": 1406}
         ]}
       }
     },
@@ -243,6 +263,10 @@
         "collaborazioni": {"data": [
           {"entity": "node", "type": "partner", "id": 301},
           {"entity": "node", "type": "partner", "id": 302}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "finanziamento", "id": 1405},
+          {"entity": "node", "type": "finanziamento", "id": 1406}
         ]}
       }
     },
@@ -284,6 +308,10 @@
         "collaborazioni": {"data": [
           {"entity": "node", "type": "partner", "id": 301},
           {"entity": "node", "type": "partner", "id": 302}
+        ]},
+        "finanziamenti": {"data": [
+          {"entity": "node", "type": "finanziamento", "id": 1405},
+          {"entity": "node", "type": "finanziamento", "id": 1406}
         ]}
       }
     }
