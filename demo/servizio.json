@@ -132,7 +132,7 @@
         "argomenti": {"data": [
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1503}
         ]},
-        "azione": {"data": {"paragraph": [5,6,7]}},
+        "azione": {"data": {"paragraph": [2,4,6]}},
         "tipologia_autenticazione": {"data": [
           {"entity": "taxonomy_term", "type": "tipologia_autenticazioni", "id": 601},
           {"entity": "taxonomy_term", "type": "tipologia_autenticazioni", "id": 603}
@@ -337,7 +337,7 @@
         "argomenti": {"data": [
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1503}
         ]},
-        "azione": {"data": {"paragraph": [5,6,7]}},
+        "azione": {"data": {"paragraph": [2,6,7]}},
         "tipologia_autenticazione": {"data": [
           {"entity": "taxonomy_term", "type": "tipologia_autenticazioni", "id": 601},
           {"entity": "taxonomy_term", "type": "tipologia_autenticazioni", "id": 603}
@@ -491,7 +491,7 @@
         "argomenti": {"data": [
           {"entity": "taxonomy_term", "type": "argomenti", "id": 1503}
         ]},
-        "azione": {"data": {"paragraph": [5,6,7]}},
+        "azione": {"data": {"paragraph": [2,6,7]}},
         "tipologia_autenticazione": {"data": [
           {"entity": "taxonomy_term", "type": "tipologia_autenticazioni", "id": 601},
           {"entity": "taxonomy_term", "type": "tipologia_autenticazioni", "id": 603}
