@@ -70,6 +70,7 @@
         "telefono": ["3330000000","3320000000"],
         "email": ["email@example.com","email2@example.com"],
         "ipa": "istsc_rcic825005",
+        "promote": 1,
         "language": "it",
         "published": 1
       },
@@ -121,6 +122,7 @@
         "telefono": ["3330000000","3320000000"],
         "email": ["email@example.com","email2@example.com"],
         "ipa": "istsc_rcic825005",
+        "promote": 1,
         "language": "it",
         "published": 1
       },
@@ -325,6 +327,7 @@
         "telefono": ["3330000000","3320000000"],
         "email": ["email@example.com","email2@example.com"],
         "ipa": "istsc_rcic825005",
+        "promote": 1,
         "language": "it",
         "published": 1
       },
@@ -478,6 +481,7 @@
         "telefono": ["3330000000","3320000000"],
         "email": ["email@example.com","email2@example.com"],
         "ipa": "istsc_rcic825005",
+        "promote": 1,
         "language": "it",
         "published": 1
       },
