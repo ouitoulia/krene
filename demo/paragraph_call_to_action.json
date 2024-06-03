@@ -13,7 +13,7 @@
       "entity": "paragraph", "type": "call_to_action", "id": 2, "language": "it",
       "attributes": {
         "call_to_action": [{"uri": "https://example.com"}],
-        "icon_name": "it-pencil"
+        "icon_name": "it-user"
       },
       "relationships": {
         "azione": {"data": {"entity": "taxonomy_term", "type": "azioni", "id": 201}}
