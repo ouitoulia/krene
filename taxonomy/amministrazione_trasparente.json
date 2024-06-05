@@ -44,6 +44,12 @@
     {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9073, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9070"}}}, "attributes": {"name": "Relazione sulla Performance", "weight":  2}},
     {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9074, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9070"}}}, "attributes": {"name": "Ammontare complessivo dei premi", "weight":  3}},
     {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9075, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9070"}}}, "attributes": {"name": "Dati relativi ai premi", "weight":  4}},
-    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9076, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9070"}}}, "attributes": {"name": "Benessere organizzativo", "weight":  5}}
+    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9076, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9070"}}}, "attributes": {"name": "Benessere organizzativo", "weight":  5}},
+
+    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9080, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}}}, "attributes": {"name": "Enti controllati", "weight":  "-8"}},
+    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9081, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9080"}}}, "attributes": {"name": "Enti pubblici vigilati", "weight":  0}},
+    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9082, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9080"}}}, "attributes": {"name": "Società partecipate", "weight":  1}},
+    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9083, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9080"}}}, "attributes": {"name": "Enti di diritto privato controllati", "weight":  2}},
+    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9084, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9080"}}}, "attributes": {"name": "Rappresentazione Grafica", "weight":  3}}
   ]
 }
