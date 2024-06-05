@@ -34,6 +34,16 @@
     {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9049, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9040"}}}, "attributes": {"name": "Incarichi conferiti e autorizzati ai dipendenti (dirigenti e non dirigenti)", "weight":  8}},
     {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9051, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9040"}}}, "attributes": {"name": "Contrattazione collettiva", "weight":  9}},
     {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9052, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9040"}}}, "attributes": {"name": "Contrattazione integrativa", "weight":  10}},
-    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9053, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9040"}}}, "attributes": {"name": "OIV", "weight":  11}}
+    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9053, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9040"}}}, "attributes": {"name": "OIV", "weight":  11}},
+
+    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9060, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}}}, "attributes": {"name": "Bandi di concorso", "weight":  "-10"}},
+
+    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9070, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}}}, "attributes": {"name": "Performance", "weight":  "-9"}},
+    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9071, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9070"}}}, "attributes": {"name": "Sistema di misurazione della performance", "weight":  0}},
+    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9072, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9070"}}}, "attributes": {"name": "Piano della performance", "weight":  1}},
+    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9073, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9070"}}}, "attributes": {"name": "Relazione sulla Performance", "weight":  2}},
+    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9074, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9070"}}}, "attributes": {"name": "Ammontare complessivo dei premi", "weight":  3}},
+    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9075, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9070"}}}, "attributes": {"name": "Dati relativi ai premi", "weight":  4}},
+    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9076, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9070"}}}, "attributes": {"name": "Benessere organizzativo", "weight":  5}}
   ]
 }
