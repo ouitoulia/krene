@@ -50,6 +50,14 @@
     {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9081, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9080"}}}, "attributes": {"name": "Enti pubblici vigilati", "weight":  0}},
     {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9082, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9080"}}}, "attributes": {"name": "Società partecipate", "weight":  1}},
     {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9083, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9080"}}}, "attributes": {"name": "Enti di diritto privato controllati", "weight":  2}},
-    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9084, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9080"}}}, "attributes": {"name": "Rappresentazione Grafica", "weight":  3}}
+    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9084, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9080"}}}, "attributes": {"name": "Rappresentazione Grafica", "weight":  3}},
+
+    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9090, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}}}, "attributes": {"name": "Attività e procedimenti", "weight":  "-7"}},
+    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9091, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9090"}}}, "attributes": {"name": "[DA-VERIFICARE] Dati aggregati attività amministrativa", "weight":  0}},
+    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9092, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9090"}}}, "attributes": {"name": "Tipologie di procedimento", "weight":  1}},
+    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9093, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9090"}}}, "attributes": {"name": "[DA-VERIFICARE] Monitoraggio tempi procedimentali", "weight":  2}},
+    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9094, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9090"}}}, "attributes": {"name": "Dichiarazioni sostitutive e acquisizione d'ufficio dei dati", "weight":  3}},
+
+    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9100, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}}}, "attributes": {"name": "Provvedimenti", "weight":  "-6"}}
   ]
 }
