@@ -1,12 +1,17 @@
 {
   "data": [
-    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9001, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}}}, "attributes": {"name": "Disposizioni generali", "weight":  0}},
+    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9001, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}}}, "attributes": {"name": "Disposizioni generali", "weight":  "-15"}},
     {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9002, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9001"}}}, "attributes": {"name": "Piano triennale per la prevenzione della corruzione e della trasparenza", "weight":  0}},
     {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9003, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9001"}}}, "attributes": {"name": "Atti generali", "weight":  1}},
     {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9004, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9001"}}}, "attributes": {"name": "Oneri informativi per cittadini e imprese", "weight":  2}},
     {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9005, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9001"}}}, "attributes": {"name": "Attestazioni OIV o struttura analoga", "weight":  3}},
     {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9006, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9001"}}}, "attributes": {"name": "Burocrazia zero", "weight":  4}},
 
-    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9010, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}}}, "attributes": {"name": "Organizzazione", "weight":  1}}
+    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9010, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}}}, "attributes": {"name": "Organizzazione", "weight":  "-14"}},
+    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9011, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9010"}}}, "attributes": {"name": "Titolari di incarichi politici, di amministrazione, di direzione o di governo", "weight":  0}},
+    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9012, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9010"}}}, "attributes": {"name": "Sanzioni per mancata comunicazione dei dati", "weight":  1}},
+    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9013, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9010"}}}, "attributes": {"name": "Rendiconti gruppi consiliari regionali/provinciali", "weight":  2}},
+    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9014, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9010"}}}, "attributes": {"name": "Articolazione degli uffici", "weight":  3}},
+    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9015, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9010"}}}, "attributes": {"name": "Telefono e posta elettronica", "weight":  4}}
   ]
 }
