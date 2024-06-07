@@ -94,6 +94,29 @@
     {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9175, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9170"}}}, "attributes": {"name": "Servizi in rete", "weight":  4}},
     {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9176, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9170"}}}, "attributes": {"name": "[DA-VERIFICARE] Tempi medi di erogazione dei servizi", "weight":  5}},
 
-    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9180, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}}}, "attributes": {"name": "Pagamenti dell'amministrazione", "weight":  2}}
+    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9180, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}}}, "attributes": {"name": "Pagamenti dell'amministrazione", "weight":  2}},
+    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9181, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9180"}}}, "attributes": {"name": "Dati sui pagamenti", "weight":  0}},
+    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9182, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9180"}}}, "attributes": {"name": "Dati sui pagamenti del servizio sanitario nazionale", "weight":  1}},
+    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9183, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9180"}}}, "attributes": {"name": "Indicatore di tempestività dei pagamenti", "weight":  2}},
+    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9184, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9180"}}}, "attributes": {"name": "IBAN e pagamenti informatici", "weight":  3}},
+
+    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9190, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}}}, "attributes": {"name": "Opere pubbliche", "weight":  3}},
+    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9191, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9190"}}}, "attributes": {"name": "Nuclei di valutazione e verifica degli investimenti pubblici", "weight":  0}},
+    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9192, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9190"}}}, "attributes": {"name": "Atti di programmazione delle opere pubbliche", "weight":  1}},
+    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9193, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9190"}}}, "attributes": {"name": "Tempi costi e indicatori di realizzazione delle opere pubbliche", "weight":  2}},
+
+    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9200, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}}}, "attributes": {"name": "Pianificazione e governo del territorio", "weight":  4}},
+
+    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9210, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}}}, "attributes": {"name": "Informazioni ambientali", "weight":  5}},
+
+    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9220, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}}}, "attributes": {"name": "Interventi straordinari e di emergenza", "weight":  6}},
+
+    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9230, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}}}, "attributes": {"name": "[DA-VERIFICARE] Strutture sanitarie private accreditate", "weight":  7}},
+
+    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9240, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}}}, "attributes": {"name": "Altri contenuti", "weight":  8}},
+    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9241, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9240"}}}, "attributes": {"name": "Prevenzione della Corruzione", "weight":  0}},
+    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9242, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9240"}}}, "attributes": {"name": "Accesso Civico", "weight":  1}},
+    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9243, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9240"}}}, "attributes": {"name": "Accessibilità e catalogo di dati, metadati e banche dati", "weight":  2}},
+    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9244, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9240"}}}, "attributes": {"name": "Dati ulteriori", "weight":  3}}
   ]
 }
