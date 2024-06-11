@@ -5,21 +5,34 @@
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9002, "uuid": "8c6b4168-0edc-4087-8261-45417781a845",
       "attributes": {"name": "Piano triennale per la prevenzione della corruzione e della trasparenza", "weight":  0},
       "relationships": {
-        "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9001"}}
+        "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9001"}},
+        "obblighi_di_pubblicazione": {"data": [
+          {"entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9401}
+        ]}
       }
     },
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9003, "uuid": "b23494a2-0865-4309-8fd1-0a8cd2ccd83d",
       "attributes": {"name": "Atti generali", "weight":  1},
       "relationships": {
-        "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9001"}}
+        "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9001"}},
+        "obblighi_di_pubblicazione": {"data": [
+          {"entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9402},
+          {"entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9403},
+          {"entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9404},
+          {"entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9405}
+        ]}
       }
     },
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9004, "uuid": "32a12d59-580d-4465-8b7a-3d6a16b0c50b",
       "attributes": {"name": "Oneri informativi per cittadini e imprese", "weight":  2},
       "relationships": {
-        "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9001"}}
+        "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9001"}},
+        "obblighi_di_pubblicazione": {"data": [
+          {"entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9406},
+          {"entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9407}
+        ]}
       }
     },
     {
@@ -33,7 +46,11 @@
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9006, "uuid": "ebd5635a-043d-4df1-911d-8d3fd3a3b004",
       "attributes": {"name": "Burocrazia zero", "weight":  4},
       "relationships": {
-        "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9001"}}
+        "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9001"}},
+        "obblighi_di_pubblicazione": {"data": [
+          {"entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9408},
+          {"entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9409}
+        ]}
       }
     },
 
