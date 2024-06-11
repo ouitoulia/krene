@@ -80,8 +80,8 @@
       "attributes": {
         "denominazione": "Oneri informativi per cittadini e imprese",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 34, d.lgs. n. 33/2013"},
-          {"uri": "#", "title": "D.lgs. 97/2016"}
+          {"uri": "#", "title": "D.lgs. 97/2016"},
+          {"uri": "#", "title": "Art. 34, d.lgs. n. 33/2013"}
         ],
         "contenuto": "Regolamenti ministeriali o interministeriali, provvedimenti amministrativi a carattere generale adottati dalle amministrazioni dello Stato per regolare l'esercizio di poteri autorizzatori, concessori o certificatori, nonchè l'accesso ai servizi pubblici ovvero la concessione di benefici con allegato elenco di tutti gli oneri informativi gravanti sui cittadini e sulle imprese introdotti o eliminati con i medesimi atti.",
         "frequenza_aggiornamento": "Dati non più soggetti a pubblicazione obbligatoria ai sensi del d.lgs. 97/2016.",
@@ -94,8 +94,8 @@
       "attributes": {
         "denominazione": "Burocrazia zero",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 37, c. 3, d.l. n. 69/2013"},
-          {"uri": "#", "title": "D.lgs. 10/2016"}
+          {"uri": "#", "title": "D.lgs. 10/2016"},
+          {"uri": "#", "title": "Art. 37, c. 3, d.l. n. 69/2013"}
         ],
         "contenuto": "Casi in cui il rilascio delle autorizzazioni di competenza è sostituito da una comunicazione dell'interessato.",
         "frequenza_aggiornamento": "Dati non più soggetti a pubblicazione obbligatoria ai sensi del d.lgs. 10/2016",
@@ -107,8 +107,8 @@
       "attributes": {
         "denominazione": "Attività soggette a controllo",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 37, c. 3-bis, d.l. n. 69/2013"},
-          {"uri": "#", "title": "D.lgs. 10/2016"}
+          {"uri": "#", "title": "D.lgs. 10/2016"},
+          {"uri": "#", "title": "Art. 37, c. 3-bis, d.l. n. 69/2013"}
         ],
         "contenuto": "Elenco delle attività delle imprese soggette a controllo (ovvero per le quali le pubbliche amministrazioni competenti ritengono necessarie l'autorizzazione, la segnalazione certificata di inizio attività o la mera comunicazione).",
         "frequenza_aggiornamento": "Dati non più soggetti a pubblicazione obbligatoria ai sensi del d.lgs. 10/2016",
@@ -620,13 +620,11 @@
       "attributes": {
         "denominazione": "Consulenti e collaboratori",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 15, c. 1, lett. b), d.lgs. n. 33/2013"},
-          {"uri": "#", "title": "Art. 15, c. 1, lett. c), d.lgs. n. 33/2013"},
-          {"uri": "#", "title": "Art. 15, c. 1, lett. d), d.lgs. n. 33/2013"},
-          {"uri": "#", "title": "Art. 15, c. 2, d.lgs. n. 33/2013"},
-          {"uri": "#", "title": "Art. 53, c. 14, d.lgs. n. 165/2001"}
+          {"uri": "#", "title": "Art. 53, c. 14, d.lgs. n. 165/2001"},
+          {"uri": "#", "title": "Art. 15, c. 1, lett. b), c) e d) d.lgs. n. 33/2013"},
+          {"uri": "#", "title": "Art. 15, c. 2, d.lgs. n. 33/2013"}
         ],
-        "contenuto": "Estremi degli atti di conferimento di incarichi di collaborazione o di consulenza a soggetti esterni a qualsiasi titolo (compresi quelli affidati con contratto di collaborazione coordinata e continuativa) con indicazione dei soggetti percettori, della ragione dell'incarico e dell'ammontare erogato. Per ciascun titolare di incarico: 1) curriculum vitae, redatto in conformità al vigente modello europeo (Art. 15, c. 1, lett. b), d.lgs. n. 33/2013); 2) dati relativi allo svolgimento di incarichi o alla titolarità di cariche in enti di diritto privato regolati o finanziati dalla pubblica amministrazione o allo svolgimento di attività professionali (Art. 15, c. 1, lett. c), d.lgs. n. 33/2013); 3) compensi comunque denominati, relativi al rapporto di lavoro, di consulenza o di collaborazione (compresi quelli affidati con contratto di collaborazione coordinata e continuativa), con specifica evidenza delle eventuali componenti variabili o legate alla valutazione del risultato (Art. 15, c. 1, lett. d), d.lgs. n. 33/2013). Tabelle relative agli elenchi dei consulenti con indicazione di oggetto, durata e compenso dell'incarico (comunicate alla Funzione pubblica, Art. 15, c. 2, d.lgs. n. 33/2013, Art. 53, c. 14, d.lgs. n. 165/2001). Attestazione dell'avvenuta verifica dell'insussistenza di situazioni, anche potenziali, di conflitto di interesse (Art. 53, c. 14, d.lgs. n. 165/2001).",
+        "contenuto": "Estremi degli atti di conferimento di incarichi di collaborazione o di consulenza a soggetti esterni a qualsiasi titolo (compresi quelli affidati con contratto di collaborazione coordinata e continuativa) con indicazione dei soggetti percettori, della ragione dell'incarico e dell'ammontare erogato. Per ciascun titolare di incarico: 1) curriculum vitae, redatto in conformità al vigente modello europeo [Art. 15, c. 1, lett. b), d.lgs. n. 33/2013]; 2) dati relativi allo svolgimento di incarichi o alla titolarità di cariche in enti di diritto privato regolati o finanziati dalla pubblica amministrazione o allo svolgimento di attività professionali [Art. 15, c. 1, lett. c), d.lgs. n. 33/2013]; 3) compensi comunque denominati, relativi al rapporto di lavoro, di consulenza o di collaborazione (compresi quelli affidati con contratto di collaborazione coordinata e continuativa), con specifica evidenza delle eventuali componenti variabili o legate alla valutazione del risultato [Art. 15, c. 1, lett. d), d.lgs. n. 33/2013]. Tabelle relative agli elenchi dei consulenti con indicazione di oggetto, durata e compenso dell'incarico (comunicate alla Funzione pubblica) [Art. 15, c. 2, d.lgs. n. 33/2013, Art. 53, c. 14, d.lgs. n. 165/2001]. Attestazione dell'avvenuta verifica dell'insussistenza di situazioni, anche potenziali, di conflitto di interesse [Art. 53, c. 14, d.lgs. n. 165/2001].",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
         "persona_responsabile": "Dirigente scolastico"
       }
@@ -634,9 +632,12 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9449, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "Incarichi amministrativi di vertice",
         "riferimento_legislativo": [
-          {"uri": "", "title": ""}
+          {"uri": "#", "title": "Art. 20, c. 3, d.lgs. n. 39/2013"},
+          {"uri": "#", "title": "Art. 14, c. 1, lett. da a) ad f) e c. 1-bis, d.lgs. n. 33/2013"},
+          {"uri": "#", "title": "Art. 14, c. 1-ter, secondo periodo, d.lgs. n. 33/2013"},
+          {"uri": "#", "title": "Art. 2, c. 1, punto 1 e 2, l. n. 441/1982"}
         ],
         "contenuto": "",
         "frequenza_aggiornamento": "",
@@ -646,9 +647,12 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9450, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "Incarichi dirigenziali, a qualsiasi titolo conferiti, ivi inclusi quelli conferiti discrezionalmente dall'organo di indirizzo politico senza procedure pubbliche di selezione e titolari di posizione organizzativa con funzioni dirigenziali",
         "riferimento_legislativo": [
-          {"uri": "", "title": ""}
+          {"uri": "#", "title": "Art. 20, c. 3, d.lgs. n. 39/2013"},
+          {"uri": "#", "title": "Art. 14, c. 1, lett. da a) ad f) e c. 1-bis, d.lgs. n. 33/2013"},
+          {"uri": "#", "title": "Art. 14, c. 1-ter, secondo periodo, d.lgs. n. 33/2013"},
+          {"uri": "#", "title": "Art. 2, c. 1, punto 1 e 2, l. n. 441/1982"}
         ],
         "contenuto": "",
         "frequenza_aggiornamento": "",
@@ -658,45 +662,47 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9451, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "Elenco posizioni dirigenziali discrezionali",
         "riferimento_legislativo": [
-          {"uri": "", "title": ""}
+          {"uri": "#", "title": "D.lgs. 97/2016"},
+          {"uri": "#", "title": "Art. 15, c. 5, d.lgs. n. 33/2013"}
         ],
-        "contenuto": "",
-        "frequenza_aggiornamento": "",
+        "contenuto": "Elenco delle posizioni dirigenziali, integrato dai relativi titoli e curricula, attribuite a persone, anche esterne alle pubbliche amministrazioni, individuate discrezionalmente dall'organo di indirizzo politico senza procedure pubbliche di selezione",
+        "frequenza_aggiornamento": "Dati non più soggetti a pubblicazione obbligatoria ai sensi del d.lgs. 97/2016",
         "persona_responsabile": ""
       }
     },
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9452, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "Posti di funzione disponibili",
         "riferimento_legislativo": [
-          {"uri": "", "title": ""}
+          {"uri": "#", "title": "Art. 19, c. 1-bis, d.lgs. n. 165/2001"}
         ],
-        "contenuto": "",
-        "frequenza_aggiornamento": "",
+        "contenuto": "Numero e tipologia dei posti di funzione che si rendono disponibili nella dotazione organica e relativi criteri di scelta",
+        "frequenza_aggiornamento": "Tempestivo",
         "persona_responsabile": ""
       }
     },
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9453, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "Ruolo dirigenti",
         "riferimento_legislativo": [
-          {"uri": "", "title": ""}
+          {"uri": "#", "title": "Art. 1, c. 7, d.p.r. n. 108/2004"}
         ],
-        "contenuto": "",
-        "frequenza_aggiornamento": "",
+        "contenuto": "Ruolo dei dirigenti",
+        "frequenza_aggiornamento": "Annuale",
         "persona_responsabile": ""
       }
     },
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9454, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "Dirigenti cessati dal rapporto di lavoro",
         "riferimento_legislativo": [
-          {"uri": "", "title": ""}
+          {"uri": "#", "title": "Art. 14, c. 1, lett. da a) ad f), d.lgs. n. 33/2013"},
+          {"uri": "#", "title": "Art. 2, c. 1, punto 2, l. n. 441/1982"}
         ],
         "contenuto": "",
         "frequenza_aggiornamento": "",
@@ -706,161 +712,238 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9455, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "Sanzioni per mancata o incompleta comunicazione dei dati da parte dei titolari di incarichi dirigenziali",
         "riferimento_legislativo": [
-          {"uri": "", "title": ""}
+          {"uri": "#", "title": "Art. 47, c. 1, d.lgs. n. 33/2013"}
         ],
-        "contenuto": "",
-        "frequenza_aggiornamento": "",
+        "contenuto": "Provvedimenti sanzionatori a carico del responsabile della mancata o incompleta comunicazione dei dati di cui all'articolo 14, concernenti la situazione patrimoniale complessiva del titolare dell'incarico al momento dell'assunzione della carica, la titolarità di imprese, le partecipazioni azionarie proprie nonché tutti i compensi cui dà diritto l'assunzione della carica",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
         "persona_responsabile": ""
       }
     },
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9456, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "Posizioni organizzative",
         "riferimento_legislativo": [
-          {"uri": "", "title": ""}
+          {"uri": "#", "title": "Art. 14, c. 1-quinquies., d.lgs. n. 33/2013"}
         ],
-        "contenuto": "",
-        "frequenza_aggiornamento": "",
+        "contenuto": "Curricula dei titolari di posizioni organizzative redatti in conformità al vigente modello europeo",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
         "persona_responsabile": ""
       }
     },
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9457, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "Conto annuale del personale",
         "riferimento_legislativo": [
-          {"uri": "", "title": ""}
+          {"uri": "#", "title": "Art. 16, c. 1, d.lgs. n. 33/2013"}
         ],
-        "contenuto": "",
-        "frequenza_aggiornamento": "",
+        "contenuto": "Conto annuale del personale e relative spese sostenute, nell'ambito del quale sono rappresentati i dati relativi alla dotazione organica e al personale effettivamente in servizio e al relativo costo, con l'indicazione della distribuzione tra le diverse qualifiche e aree professionali, con particolare riguardo al personale assegnato agli uffici di diretta collaborazione con gli organi di indirizzo politico.",
+        "frequenza_aggiornamento": "Annuale (art. 16, c. 1, d.lgs. n. 33/2013)",
         "persona_responsabile": ""
       }
     },
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9458, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "Costo personale tempo indeterminato",
         "riferimento_legislativo": [
-          {"uri": "", "title": ""}
+          {"uri": "#", "title": "Art. 16, c. 2, d.lgs. n. 33/2013"}
         ],
-        "contenuto": "",
-        "frequenza_aggiornamento": "",
+        "contenuto": "Costo complessivo del personale a tempo indeterminato in servizio, articolato per aree professionali, con particolare riguardo al personale assegnato agli uffici di diretta collaborazione con gli organi di indirizzo politico.",
+        "frequenza_aggiornamento": "Annuale (art. 16, c. 2, d.lgs. n. 33/2013)",
         "persona_responsabile": ""
       }
     },
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9459, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "Personale non a tempo indeterminato",
         "riferimento_legislativo": [
-          {"uri": "", "title": ""}
+          {"uri": "#", "title": "Art. 17, c. 1, d.lgs. n. 33/2013"}
         ],
-        "contenuto": "",
-        "frequenza_aggiornamento": "",
+        "contenuto": "Personale con rapporto di lavoro non a tempo indeterminato, ivi compreso il personale assegnato agli uffici di diretta collaborazione con gli organi di indirizzo politico.",
+        "frequenza_aggiornamento": "Annuale (art. 17, c. 1, d.lgs. n. 33/2013)",
         "persona_responsabile": ""
       }
     },
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9460, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "Costo del personale non a tempo indeterminato",
         "riferimento_legislativo": [
-          {"uri": "", "title": ""}
+          {"uri": "#", "title": "Art. 17, c. 2, d.lgs. n. 33/2013"}
         ],
-        "contenuto": "",
-        "frequenza_aggiornamento": "",
+        "contenuto": "Costo complessivo del personale con rapporto di lavoro non a tempo indeterminato, con particolare riguardo al personale assegnato agli uffici di diretta collaborazione con gli organi di indirizzo politico.",
+        "frequenza_aggiornamento": "Trimestrale (art. 17, c. 2, d.lgs. n. 33/2013)",
         "persona_responsabile": ""
       }
     },
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9461, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "Tassi di assenza trimestrali",
         "riferimento_legislativo": [
-          {"uri": "", "title": ""}
+          {"uri": "#", "title": "Art. 16, c. 3, d.lgs. n. 33/2013"}
         ],
-        "contenuto": "",
-        "frequenza_aggiornamento": "",
+        "contenuto": "Tassi di assenza del personale distinti per uffici di livello dirigenziale",
+        "frequenza_aggiornamento": "Trimestrale (art. 16, c. 3, d.lgs. n. 33/2013)",
         "persona_responsabile": ""
       }
     },
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9462, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "Incarichi conferiti e autorizzati ai dipendenti (dirigenti e non dirigenti)",
         "riferimento_legislativo": [
-          {"uri": "", "title": ""}
+          {"uri": "#", "title": "Art. 53, c. 14, d.lgs. n. 165/2001"},
+          {"uri": "#", "title": "Art. 18, d.lgs. n. 33/2013"}
         ],
-        "contenuto": "",
-        "frequenza_aggiornamento": "",
-        "persona_responsabile": ""
+        "contenuto": "Elenco degli incarichi conferiti o autorizzati a ciascun dipendente (dirigente e non dirigente), con l'indicazione dell'oggetto, della durata e del compenso spettante per ogni incarico.",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
+        "persona_responsabile": "Dirigente scolastico"
       }
     },
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9463, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "Contrattazione collettiva",
         "riferimento_legislativo": [
-          {"uri": "", "title": ""}
+          {"uri": "#", "title": "Art. 47, c. 8, d.lgs. n. 165/2001"},
+          {"uri": "#", "title": "Art. 21, c. 1, d.lgs. n. 33/2013"}
         ],
-        "contenuto": "",
-        "frequenza_aggiornamento": "",
-        "persona_responsabile": ""
+        "contenuto": "Riferimenti necessari per la consultazione dei contratti e accordi collettivi nazionali ed eventuali interpretazioni autentiche.",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
+        "persona_responsabile": "Dirigente scolastico"
       }
     },
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9464, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "Contratti integrativi",
         "riferimento_legislativo": [
-          {"uri": "", "title": ""}
+          {"uri": "#", "title": "Art. 21, c. 2, d.lgs. n. 33/2013"}
         ],
-        "contenuto": "",
-        "frequenza_aggiornamento": "",
-        "persona_responsabile": ""
+        "contenuto": "Contratti integrativi stipulati, con la relazione tecnico-finanziaria e quella illustrativa, certificate dagli organi di controllo (collegio dei revisori dei conti, collegio sindacale, uffici centrali di bilancio o analoghi organi previsti dai rispettivi ordinamenti).",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
+        "persona_responsabile": "Dirigente scolastico"
       }
     },
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9465, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "Costi contratti integrativi",
         "riferimento_legislativo": [
-          {"uri": "", "title": ""}
+          {"uri": "#", "title": "Art. 21, c. 2, d.lgs. n. 33/2013"},
+          {"uri": "#", "title": "Art. 55, c. 4,d.lgs. n. 150/2009"}
         ],
-        "contenuto": "",
-        "frequenza_aggiornamento": "",
+        "contenuto": "Specifiche informazioni sui costi  della contrattazione integrativa, certificate dagli organi di controllo  interno, trasmesse al  Ministero dell'Economia e delle finanze, che predispone, allo scopo, uno specifico modello di rilevazione, d'intesa con la Corte dei conti e con la Presidenza del Consiglio dei Ministri - Dipartimento della funzione pubblica.",
+        "frequenza_aggiornamento": "Annuale (art. 55, c. 4, d.lgs. n. 150/2009)",
         "persona_responsabile": ""
       }
     },
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9466, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "OIV",
         "riferimento_legislativo": [
-          {"uri": "", "title": ""}
+          {"uri": "#", "title": "Art. 10, c. 8, lett. c), d.lgs. n. 33/2013"},
+          {"uri": "#", "title": "Par. 14.2, delib. CiVIT n. 12/2013"}
         ],
-        "contenuto": "",
-        "frequenza_aggiornamento": "",
+        "contenuto": "OIV: nominativi, Curricula, Compensi.",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
         "persona_responsabile": ""
       }
     },
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9467, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "Bandi di concorso",
         "riferimento_legislativo": [
-          {"uri": "", "title": ""}
+          {"uri": "#", "title": "Art. 19, d.lgs. n. 33/2013"}
         ],
-        "contenuto": "",
-        "frequenza_aggiornamento": "",
-        "persona_responsabile": ""
+        "contenuto": "Bandi di concorso per il reclutamento, a qualsiasi titolo, di personale presso l'amministrazione nonché i criteri di valutazione della Commissione e le tracce delle prove scritte.",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
+        "persona_responsabile": "Dirigente scolastico"
       }
     },
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9468, "uuid": "",
+      "attributes": {
+        "denominazione": "Sistema di misurazione e valutazione della Performance",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "Par. 1, delib. CiVIT n. 104/2010"}
+        ],
+        "contenuto": "Sistema di misurazione e valutazione della Performance (art. 7, d.lgs. n. 150/2009)",
+        "frequenza_aggiornamento": "Tempestivo",
+        "persona_responsabile": "Dirigente scolastico"
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9469, "uuid": "",
+      "attributes": {
+        "denominazione": "Piano della Performance/Piano esecutivo di gestione",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "Art. 10, c. 8, lett. b), d.lgs. n. 33/2013"}
+        ],
+        "contenuto": "Piano della Performance (art. 10, d.lgs. 150/2009). Piano esecutivo di gestione (per gli enti locali) (art. 169, c. 3-bis, d.lgs. n. 267/2000)",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
+        "persona_responsabile": "Dirigente scolastico"
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9470, "uuid": "",
+      "attributes": {
+        "denominazione": "Relazione sulla Performance",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "Art. 10, c. 8, lett. b), d.lgs. n. 33/2013"}
+        ],
+        "contenuto": "Relazione sulla Performance (art. 10, d.lgs. 150/2009)",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
+        "persona_responsabile": "Dirigente scolastico"
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9471, "uuid": "",
+      "attributes": {
+        "denominazione": "Ammontare complessivo dei premi",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "Art. 20, c. 1, d.lgs. n. 33/2013"}
+        ],
+        "contenuto": "Ammontare complessivo dei premi collegati alla performance stanziati. Ammontare dei premi effettivamente distribuiti.",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
+        "persona_responsabile": "Dirigente scolastico"
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9472, "uuid": "",
+      "attributes": {
+        "denominazione": "Dati relativi ai premi",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "Art. 20, c. 2, d.lgs. n. 33/2013"}
+        ],
+        "contenuto": "Criteri definiti nei sistemi di misurazione e valutazione della performance per l’assegnazione del trattamento accessorio. Distribuzione del trattamento accessorio, in forma aggregata, al fine di dare conto del livello di selettività utilizzato nella distribuzione dei premi e degli incentivi. Grado di differenziazione dell'utilizzo della premialità sia per i dirigenti sia per i dipendenti.",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9473, "uuid": "",
+      "attributes": {
+        "denominazione": "Benessere organizzativo",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "Dlg.s 97/2016"},
+          {"uri": "#", "title": "Art. 20, c. 3, d.lgs. n. 33/2013"}
+        ],
+        "contenuto": "Livelli di benessere organizzativo",
+        "frequenza_aggiornamento": "Dati non più soggetti a pubblicazione obbligatoria ai sensi del d.lg.s 97/2016",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9474, "uuid": "",
       "attributes": {
         "denominazione": "",
         "riferimento_legislativo": [
@@ -872,7 +955,415 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9469, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9475, "uuid": "",
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9476, "uuid": "",
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9477, "uuid": "",
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9478, "uuid": "",
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9479, "uuid": "",
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9480, "uuid": "",
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9481, "uuid": "",
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9482, "uuid": "",
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9483, "uuid": "",
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9484, "uuid": "",
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9485, "uuid": "",
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9486, "uuid": "",
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9487, "uuid": "",
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9488, "uuid": "",
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9489, "uuid": "",
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9490, "uuid": "",
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9491, "uuid": "",
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9492, "uuid": "",
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9493, "uuid": "",
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9494, "uuid": "",
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9495, "uuid": "",
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9496, "uuid": "",
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9497, "uuid": "",
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9498, "uuid": "",
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9499, "uuid": "",
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9500, "uuid": "",
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9501, "uuid": "",
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9502, "uuid": "",
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9503, "uuid": "",
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9504, "uuid": "",
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9505, "uuid": "",
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9506, "uuid": "",
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9507, "uuid": "",
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9508, "uuid": "",
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9509, "uuid": "",
       "attributes": {
         "denominazione": "",
         "riferimento_legislativo": [
