@@ -88,5 +88,6 @@ percorsi_di_studio/superiore  3201-3400
 percorsi_di_studio/afam       4001-5000
 percorsi_di_studio/università 5001-7000
 competenze                    8001-9000
-amministrazione_trasparente   9001-9998
+amministrazione_trasparente   9001-9399
+obblighi_di_pubblicazione     9400-9998
 dummy                         9999

@@ -1,0 +1,887 @@
+{
+  "data": [
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9401,
+      "attributes": {
+        "denominazione": "Piano triennale per la prevenzione della corruzione e della trasparenza (PTPCT)",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "Art. 10, c. 8, lett. a), d.lgs. n. 33/2013"}
+        ],
+        "contenuto": "Piano triennale per la prevenzione della corruzione e della trasparenza e suoi allegati, le misure integrative di prevenzione della corruzione individuate ai sensi dell’articolo 1,comma 2-bis della legge n. 190 del 2012, (MOG 231) (link alla sotto-sezione Altri contenuti/Anticorruzione)",
+        "frequenza_aggiornamento": "Annuale",
+        "persona_responsabile": ""
+      }
+    },
+
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9402,
+      "attributes": {
+        "denominazione": "Riferimenti normativi su organizzazione e attività",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "Art. 12, c. 1, d.lgs. n. 33/2013"}
+        ],
+        "contenuto": "Riferimenti normativi con i relativi link alle norme di legge statale pubblicate nella banca dati \"Normattiva\" che regolano l'istituzione, l'organizzazione e l'attività delle pubbliche amministrazioni.",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9403,
+      "attributes": {
+        "denominazione": "Atti amministrativi generali",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "Art. 12, c. 1, d.lgs. n. 33/2013"}
+        ],
+        "contenuto": "Direttive, circolari, programmi, istruzioni e ogni atto che dispone in generale sulla organizzazione, sulle funzioni, sugli obiettivi, sui procedimenti, ovvero nei quali si determina l'interpretazione di norme giuridiche che riguardano o dettano disposizioni per l'applicazione di esse.",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
+        "persona_responsabile": "Dirigente scolastico"
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9404,
+      "attributes": {
+        "denominazione": "Documenti di programmazione strategico-gestionale",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "Art. 12, c. 1, d.lgs. n. 33/2013"}
+        ],
+        "contenuto": "Direttive ministri, documento di programmazione, obiettivi strategici in materia di prevenzione della corruzione e trasparenza.",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9405,
+      "attributes": {
+        "denominazione": "Codice disciplinare e codice di condotta",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "Art. 55, c. 2, d.lgs. n. 165/2001"},
+          {"uri": "#", "title": "Art. 12, c. 1, d.lgs. n. 33/2013"}
+        ],
+        "contenuto": "Codice disciplinare, recante l'indicazione delle  infrazioni del codice disciplinare e relative sanzioni (pubblicazione on line in alternativa all'affissione in luogo accessibile a tutti - art. 7, l. n. 300/1970). Codice di condotta inteso quale codice di comportamento.",
+        "frequenza_aggiornamento": "Tempestivo",
+        "persona_responsabile": "Dirigente scolastico"
+      }
+    },
+
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9406,
+      "attributes": {
+        "denominazione": "Scadenzario obblighi amministrativi",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "Art. 12, c. 1-bis, d.lgs. n. 33/2013"}
+        ],
+        "contenuto": "Scadenzario con l'indicazione delle date di efficacia dei nuovi obblighi amministrativi a carico di cittadini e imprese introdotti dalle amministrazioni secondo le modalità definite con DPCM 8 novembre 2013.",
+        "frequenza_aggiornamento": "Tempestivo",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9407,
+      "attributes": {
+        "denominazione": "Oneri informativi per cittadini e imprese",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "Art. 34, d.lgs. n. 33/2013"},
+          {"uri": "#", "title": "D.lgs. 97/2016"}
+        ],
+        "contenuto": "Regolamenti ministeriali o interministeriali, provvedimenti amministrativi a carattere generale adottati dalle amministrazioni dello Stato per regolare l'esercizio di poteri autorizzatori, concessori o certificatori, nonchè l'accesso ai servizi pubblici ovvero la concessione di benefici con allegato elenco di tutti gli oneri informativi gravanti sui cittadini e sulle imprese introdotti o eliminati con i medesimi atti.",
+        "frequenza_aggiornamento": "Dati non più soggetti a pubblicazione obbligatoria ai sensi del d.lgs. 97/2016.",
+        "persona_responsabile": ""
+      }
+    },
+
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9408,
+      "attributes": {
+        "denominazione": "Burocrazia zero",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "Art. 37, c. 3, d.l. n. 69/2013"},
+          {"uri": "#", "title": "D.lgs. 10/2016"}
+        ],
+        "contenuto": "Casi in cui il rilascio delle autorizzazioni di competenza è sostituito da una comunicazione dell'interessato.",
+        "frequenza_aggiornamento": "Dati non più soggetti a pubblicazione obbligatoria ai sensi del d.lgs. 10/2016",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9409,
+      "attributes": {
+        "denominazione": "Attività soggette a controllo",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "Art. 37, c. 3-bis, d.l. n. 69/2013"},
+          {"uri": "#", "title": "D.lgs. 10/2016"}
+        ],
+        "contenuto": "Elenco delle attività delle imprese soggette a controllo (ovvero per le quali le pubbliche amministrazioni competenti ritengono necessarie l'autorizzazione, la segnalazione certificata di inizio attività o la mera comunicazione).",
+        "frequenza_aggiornamento": "Dati non più soggetti a pubblicazione obbligatoria ai sensi del d.lgs. 10/2016",
+        "persona_responsabile": ""
+      }
+    },
+
+
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9410,
+      "attributes": {
+        "denominazione": "Organi di indirizzo politico e di amministrazione e gestione",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "Art. 13, c. 1, lett. a), d.lgs. n. 33/2013"}
+        ],
+        "contenuto": "Organi di indirizzo politico e di amministrazione e gestione, con l'indicazione delle rispettive competenze.",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
+        "persona_responsabile": ""
+      }
+    },
+
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9411,
+      "attributes": {
+        "denominazione": "Titolari di incarichi politici - Atto di nomina o di proclamazione",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "Art. 14, c. 1, lett. a), d.lgs. n. 33/2013"}
+        ],
+        "contenuto": "Atto di nomina o di proclamazione, con l'indicazione della durata dell'incarico o del mandato elettivo",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9412,
+      "attributes": {
+        "denominazione": "Titolari di incarichi politici - Curriculum vitae",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "Art. 14, c. 1, lett. b), d.lgs. n. 33/2013"}
+        ],
+        "contenuto": "Curriculum vitae",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9413,
+      "attributes": {
+        "denominazione": "Titolari di incarichi politici - Compensi",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "Art. 14, c. 1, lett. c), d.lgs. n. 33/2013"}
+        ],
+        "contenuto": "Compensi di qualsiasi natura connessi all'assunzione della carica",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9414,
+      "attributes": {
+        "denominazione": "Titolari di incarichi politici - Importi di viaggi e missioni",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "Art. 14, c. 1, lett. c), d.lgs. n. 33/2013"}
+        ],
+        "contenuto": "Importi di viaggi di servizio e missioni pagati con fondi pubblici",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9415,
+      "attributes": {
+        "denominazione": "Titolari di incarichi politici - Assunzione altre cariche",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "Art. 14, c. 1, lett. d), d.lgs. n. 33/2013"}
+        ],
+        "contenuto": "Dati relativi all'assunzione di altre cariche, presso enti pubblici o privati, e relativi compensi a qualsiasi titolo corrisposti.",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9416,
+      "attributes": {
+        "denominazione": "Titolari di incarichi politici - Altri eventuali incarichi",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "Art. 14, c. 1, lett. e), d.lgs. n. 33/2013"}
+        ],
+        "contenuto": "Altri eventuali incarichi con oneri a carico della finanza pubblica e indicazione dei compensi spettanti",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9417,
+      "attributes": {
+        "denominazione": "Titolari di incarichi politici - Dichiarazioni punto 1",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "Art. 14, c. 1, lett. f), d.lgs. n. 33/2013"},
+          {"uri": "#", "title": "Art. 2, c. 1, punto 1, l. n. 441/1982"}
+        ],
+        "contenuto": "Dichiarazione concernente diritti reali su beni immobili e su beni mobili iscritti in pubblici registri, titolarità di imprese, azioni di società, quote di partecipazione a società, esercizio di funzioni di amministratore o di sindaco di società, con l'apposizione della formula «sul mio onore affermo che la dichiarazione corrisponde al vero» [Per il soggetto, il coniuge non separato e i parenti entro il secondo grado, ove gli stessi vi consentano (NB: dando eventualmente evidenza del mancato consenso) e riferita al momento dell'assunzione dell'incarico].",
+        "frequenza_aggiornamento": "Nessuno (va presentata una sola volta entro 3 mesi dalla elezione, dalla nomina o dal conferimento dell'incarico e resta pubblicata fino alla cessazione dell'incarico o del mandato).",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9418,
+      "attributes": {
+        "denominazione": "Titolari di incarichi politici - Dichiarazioni punto 2",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "Art. 14, c. 1, lett. f), d.lgs. n. 33/2013"},
+          {"uri": "#", "title": "Art. 2, c. 1, punto 2, l. n. 441/1982"}
+        ],
+        "contenuto": "Copia dell'ultima dichiarazione dei redditi soggetti all'imposta sui redditi delle persone fisiche [Per il soggetto, il coniuge non separato e i parenti entro il secondo grado, ove gli stessi vi consentano (NB: dando eventualmente evidenza del mancato consenso)] (NB: è necessario limitare, con appositi accorgimenti a cura dell'interessato o della amministrazione, la pubblicazione dei dati sensibili).",
+        "frequenza_aggiornamento": "Entro 3 mesi dalla elezione, dalla nomina o dal conferimento dell'incarico.",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9419,
+      "attributes": {
+        "denominazione": "Titolari di incarichi politici - Dichiarazioni punto 3",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "Art. 14, c. 1, lett. f), d.lgs. n. 33/2013"},
+          {"uri": "#", "title": "Art. 2, c. 1, punto 3, l. n. 441/1982"}
+        ],
+        "contenuto": "Dichiarazione concernente le spese sostenute e le obbligazioni assunte per la propaganda elettorale ovvero attestazione di essersi avvalsi esclusivamente di materiali e di mezzi propagandistici predisposti e messi a disposizione dal partito o dalla formazione politica della cui lista il soggetto ha fatto parte, con l'apposizione della formula «sul mio onore affermo che la dichiarazione corrisponde al vero» (con allegate copie delle dichiarazioni relative a finanziamenti e contributi per un importo che nell'anno superi 5.000 €).",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9420,
+      "attributes": {
+        "denominazione": "Titolari di incarichi politici - Dichiarazioni art. 3",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "Art. 14, c. 1, lett. f), d.lgs. n. 33/2013"},
+          {"uri": "#", "title": "Art. 3, l. n. 441/1982"}
+        ],
+        "contenuto": "Attestazione concernente le variazioni della situazione patrimoniale intervenute nell'anno precedente e copia della dichiarazione dei redditi [Per il soggetto, il coniuge non separato e i parenti entro il secondo grado, ove gli stessi vi consentano (NB: dando eventualmente evidenza del mancato consenso)].",
+        "frequenza_aggiornamento": "Annuale",
+        "persona_responsabile": ""
+      }
+    },
+
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9421,
+      "attributes": {
+        "denominazione": "Titolari di incarichi di amministrazione, di direzione o di governo - Atto di nomina o di proclamazione",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
+          {"uri": "#", "title": "Art. 14, c. 1, lett. a), d.lgs. n. 33/2013"}
+        ],
+        "contenuto": "Atto di nomina o di proclamazione, con l'indicazione della durata dell'incarico o del mandato elettivo",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
+        "persona_responsabile": "Dirigente scolastico"
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9422,
+      "attributes": {
+        "denominazione": "Titolari di incarichi di amministrazione, di direzione o di governo - Curriculum vitae",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
+          {"uri": "#", "title": "Art. 14, c. 1, lett. b), d.lgs. n. 33/2013"}
+        ],
+        "contenuto": "Curriculum vitae",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
+        "persona_responsabile": "Dirigente scolastico"
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9423,
+      "attributes": {
+        "denominazione": "Titolari di incarichi di amministrazione, di direzione o di governo - Compensi",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
+          {"uri": "#", "title": "Art. 14, c. 1, lett. c), d.lgs. n. 33/2013"}
+        ],
+        "contenuto": "Compensi di qualsiasi natura connessi all'assunzione della carica",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
+        "persona_responsabile": "Dirigente scolastico"
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9424,
+      "attributes": {
+        "denominazione": "Titolari di incarichi di amministrazione, di direzione o di governo - Importi di viaggi e missioni",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
+          {"uri": "#", "title": "Art. 14, c. 1, lett. c), d.lgs. n. 33/2013"}
+        ],
+        "contenuto": "Importi di viaggi di servizio e missioni pagati con fondi pubblici",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
+        "persona_responsabile": "Dirigente scolastico"
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9425,
+      "attributes": {
+        "denominazione": "Titolari di incarichi di amministrazione, di direzione o di governo - Assunzione altre cariche",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
+          {"uri": "#", "title": "Art. 14, c. 1, lett. d), d.lgs. n. 33/2013"}
+        ],
+        "contenuto": "Dati relativi all'assunzione di altre cariche, presso enti pubblici o privati, e relativi compensi a qualsiasi titolo corrisposti.",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
+        "persona_responsabile": "Dirigente scolastico"
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9426,
+      "attributes": {
+        "denominazione": "Titolari di incarichi di amministrazione, di direzione o di governo - Altri eventuali incarichi",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
+          {"uri": "#", "title": "Art. 14, c. 1, lett. e), d.lgs. n. 33/2013"}
+        ],
+        "contenuto": "Altri eventuali incarichi con oneri a carico della finanza pubblica e indicazione dei compensi spettanti",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
+        "persona_responsabile": "Dirigente scolastico"
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9427,
+      "attributes": {
+        "denominazione": "Titolari di incarichi di amministrazione, di direzione o di governo - Dichiarazioni punto 1",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
+          {"uri": "#", "title": "Art. 14, c. 1, lett. f), d.lgs. n. 33/2013"},
+          {"uri": "#", "title": "Art. 2, c. 1, punto 1, l. n. 441/1982"}
+        ],
+        "contenuto": "Dichiarazione concernente diritti reali su beni immobili e su beni mobili iscritti in pubblici registri, titolarità di imprese, azioni di società, quote di partecipazione a società, esercizio di funzioni di amministratore o di sindaco di società, con l'apposizione della formula «sul mio onore affermo che la dichiarazione corrisponde al vero» [Per il soggetto, il coniuge non separato e i parenti entro il secondo grado, ove gli stessi vi consentano (NB: dando eventualmente evidenza del mancato consenso) e riferita al momento dell'assunzione dell'incarico].",
+        "frequenza_aggiornamento": "Nessuno (va presentata una sola volta entro 3 mesi dalla elezione, dalla nomina o dal conferimento dell'incarico e resta pubblicata fino alla cessazione dell'incarico o del mandato).",
+        "persona_responsabile": "Dirigente scolastico"
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9428,
+      "attributes": {
+        "denominazione": "Titolari di incarichi di amministrazione, di direzione o di governo - Dichiarazioni punto 2",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
+          {"uri": "#", "title": "Art. 14, c. 1, lett. f), d.lgs. n. 33/2013"},
+          {"uri": "#", "title": "Art. 2, c. 1, punto 2, l. n. 441/1982"}
+        ],
+        "contenuto": "Copia dell'ultima dichiarazione dei redditi soggetti all'imposta sui redditi delle persone fisiche [Per il soggetto, il coniuge non separato e i parenti entro il secondo grado, ove gli stessi vi consentano (NB: dando eventualmente evidenza del mancato consenso)] (NB: è necessario limitare, con appositi accorgimenti a cura dell'interessato o della amministrazione, la pubblicazione dei dati sensibili).",
+        "frequenza_aggiornamento": "Entro 3 mesi dalla elezione, dalla nomina o dal conferimento dell'incarico.",
+        "persona_responsabile": "Dirigente scolastico"
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9429,
+      "attributes": {
+        "denominazione": "Titolari di incarichi di amministrazione, di direzione o di governo - Dichiarazioni punto 3",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
+          {"uri": "#", "title": "Art. 14, c. 1, lett. f), d.lgs. n. 33/2013"},
+          {"uri": "#", "title": "Art. 2, c. 1, punto 3, l. n. 441/1982"}
+        ],
+        "contenuto": "Dichiarazione concernente le spese sostenute e le obbligazioni assunte per la propaganda elettorale ovvero attestazione di essersi avvalsi esclusivamente di materiali e di mezzi propagandistici predisposti e messi a disposizione dal partito o dalla formazione politica della cui lista il soggetto ha fatto parte, con l'apposizione della formula «sul mio onore affermo che la dichiarazione corrisponde al vero» (con allegate copie delle dichiarazioni relative a finanziamenti e contributi per un importo che nell'anno superi 5.000 €).",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
+        "persona_responsabile": "Dirigente scolastico"
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9430,
+      "attributes": {
+        "denominazione": "Titolari di incarichi di amministrazione, di direzione o di governo - Dichiarazioni art. 3",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
+          {"uri": "#", "title": "Art. 14, c. 1, lett. f), d.lgs. n. 33/2013"},
+          {"uri": "#", "title": "Art. 3, l. n. 441/1982"}
+        ],
+        "contenuto": "Attestazione concernente le variazioni della situazione patrimoniale intervenute nell'anno precedente e copia della dichiarazione dei redditi [Per il soggetto, il coniuge non separato e i parenti entro il secondo grado, ove gli stessi vi consentano (NB: dando eventualmente evidenza del mancato consenso)].",
+        "frequenza_aggiornamento": "Annuale",
+        "persona_responsabile": "Dirigente scolastico"
+      }
+    },
+
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9431,
+      "attributes": {
+        "denominazione": "Cessati dall'incarico - Atto di nomina o di proclamazione",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
+          {"uri": "#", "title": "Art. 14, c. 1, lett. a), d.lgs. n. 33/2013"}
+        ],
+        "contenuto": "Atto di nomina o di proclamazione, con l'indicazione della durata dell'incarico o del mandato elettivo",
+        "frequenza_aggiornamento": "Nessuno",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9432,
+      "attributes": {
+        "denominazione": "Cessati dall'incarico - Curriculum vitae",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
+          {"uri": "#", "title": "Art. 14, c. 1, lett. b), d.lgs. n. 33/2013"}
+        ],
+        "contenuto": "Curriculum vitae",
+        "frequenza_aggiornamento": "Nessuno",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9433,
+      "attributes": {
+        "denominazione": "Cessati dall'incarico - Compensi",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
+          {"uri": "#", "title": "Art. 14, c. 1, lett. c), d.lgs. n. 33/2013"}
+        ],
+        "contenuto": "Compensi di qualsiasi natura connessi all'assunzione della carica",
+        "frequenza_aggiornamento": "Nessuno",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9434,
+      "attributes": {
+        "denominazione": "Cessati dall'incarico - Importi di viaggi e missioni",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
+          {"uri": "#", "title": "Art. 14, c. 1, lett. c), d.lgs. n. 33/2013"}
+        ],
+        "contenuto": "Importi di viaggi di servizio e missioni pagati con fondi pubblici",
+        "frequenza_aggiornamento": "Nessuno",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9435,
+      "attributes": {
+        "denominazione": "Cessati dall'incarico - Assunzione altre cariche",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
+          {"uri": "#", "title": "Art. 14, c. 1, lett. d), d.lgs. n. 33/2013"}
+        ],
+        "contenuto": "Dati relativi all'assunzione di altre cariche, presso enti pubblici o privati, e relativi compensi a qualsiasi titolo corrisposti.",
+        "frequenza_aggiornamento": "Nessuno",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9436,
+      "attributes": {
+        "denominazione": "Cessati dall'incarico - Altri eventuali incarichi",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
+          {"uri": "#", "title": "Art. 14, c. 1, lett. e), d.lgs. n. 33/2013"}
+        ],
+        "contenuto": "Altri eventuali incarichi con oneri a carico della finanza pubblica e indicazione dei compensi spettanti",
+        "frequenza_aggiornamento": "Nessuno",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9437,
+      "attributes": {
+        "denominazione": "Cessati dall'incarico - Dichiarazioni punto 1",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
+          {"uri": "#", "title": "Art. 14, c. 1, lett. f), d.lgs. n. 33/2013"},
+          {"uri": "#", "title": "Art. 2, c. 1, punto 1, l. n. 441/1982"}
+        ],
+        "contenuto": "Dichiarazione concernente diritti reali su beni immobili e su beni mobili iscritti in pubblici registri, titolarità di imprese, azioni di società, quote di partecipazione a società, esercizio di funzioni di amministratore o di sindaco di società, con l'apposizione della formula «sul mio onore affermo che la dichiarazione corrisponde al vero» [Per il soggetto, il coniuge non separato e i parenti entro il secondo grado, ove gli stessi vi consentano (NB: dando eventualmente evidenza del mancato consenso) e riferita al momento dell'assunzione dell'incarico].",
+        "frequenza_aggiornamento": "Nessuno",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9438,
+      "attributes": {
+        "denominazione": "Cessati dall'incarico - Dichiarazioni punto 2",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
+          {"uri": "#", "title": "Art. 14, c. 1, lett. f), d.lgs. n. 33/2013"},
+          {"uri": "#", "title": "Art. 2, c. 1, punto 2, l. n. 441/1982"}
+        ],
+        "contenuto": "Copia dell'ultima dichiarazione dei redditi soggetti all'imposta sui redditi delle persone fisiche [Per il soggetto, il coniuge non separato e i parenti entro il secondo grado, ove gli stessi vi consentano (NB: dando eventualmente evidenza del mancato consenso)] (NB: è necessario limitare, con appositi accorgimenti a cura dell'interessato o della amministrazione, la pubblicazione dei dati sensibili).",
+        "frequenza_aggiornamento": "Nessuno",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9439,
+      "attributes": {
+        "denominazione": "Cessati dall'incarico - Dichiarazioni punto 3",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
+          {"uri": "#", "title": "Art. 14, c. 1, lett. f), d.lgs. n. 33/2013"},
+          {"uri": "#", "title": "Art. 2, c. 1, punto 3, l. n. 441/1982"}
+        ],
+        "contenuto": "Dichiarazione concernente le spese sostenute e le obbligazioni assunte per la propaganda elettorale ovvero attestazione di essersi avvalsi esclusivamente di materiali e di mezzi propagandistici predisposti e messi a disposizione dal partito o dalla formazione politica della cui lista il soggetto ha fatto parte, con l'apposizione della formula «sul mio onore affermo che la dichiarazione corrisponde al vero» (con allegate copie delle dichiarazioni relative a finanziamenti e contributi per un importo che nell'anno superi 5.000 €).",
+        "frequenza_aggiornamento": "Nessuno",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9440,
+      "attributes": {
+        "denominazione": "Cessati dall'incarico - Dichiarazioni art. 3",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
+          {"uri": "#", "title": "Art. 14, c. 1, lett. f), d.lgs. n. 33/2013"},
+          {"uri": "#", "title": "Art. 3, l. n. 441/1982"}
+        ],
+        "contenuto": "Attestazione concernente le variazioni della situazione patrimoniale intervenute nell'anno precedente e copia della dichiarazione dei redditi [Per il soggetto, il coniuge non separato e i parenti entro il secondo grado, ove gli stessi vi consentano (NB: dando eventualmente evidenza del mancato consenso)].",
+        "frequenza_aggiornamento": "Nessuno (va presentata una sola volta entro 3 mesi dalla cessazione dell' incarico).",
+        "persona_responsabile": ""
+      }
+    },
+
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9441,
+      "attributes": {
+        "denominazione": "Sanzioni per mancata o incompleta comunicazione dei dati da parte dei titolari di incarichi politici, di amministrazione, di direzione o di governo",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "Art. 47, c. 1, d.lgs. n. 33/2013"}
+        ],
+        "contenuto": "Provvedimenti sanzionatori a carico del responsabile della mancata o incompleta comunicazione dei dati di cui all'articolo 14, concernenti la situazione patrimoniale complessiva del titolare dell'incarico al momento dell'assunzione della carica, la titolarità di imprese, le partecipazioni azionarie proprie nonché tutti i compensi cui dà diritto l'assunzione della carica.",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
+        "persona_responsabile": "Dirigente scolastico"
+      }
+    },
+
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9442,
+      "attributes": {
+        "denominazione": "Rendiconti gruppi consiliari regionali/provinciali",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "Art. 28, c. 1, d.lgs. n. 33/2013"}
+        ],
+        "contenuto": "Rendiconti di esercizio annuale dei gruppi consiliari regionali e provinciali, con evidenza delle risorse trasferite o assegnate a ciascun gruppo, con indicazione del titolo di trasferimento e dell'impiego delle risorse utilizzate.",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9443,
+      "attributes": {
+        "denominazione": "Atti degli organi di controllo",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "Art. 28, c. 1, d.lgs. n. 33/2013"}
+        ],
+        "contenuto": "Atti e relazioni degli organi di controllo.",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
+        "persona_responsabile": ""
+      }
+    },
+
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9444,
+      "attributes": {
+        "denominazione": "Articolazione degli uffici",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "Art. 13, c. 1, lett. b), d.lgs. n. 33/2013"}
+        ],
+        "contenuto": "Indicazione delle competenze di ciascun ufficio, anche di livello dirigenziale non generale, i nomi dei dirigenti responsabili dei singoli uffici.",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
+        "persona_responsabile": "Dirigente scolastico"
+      }
+    },
+
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9445,
+      "attributes": {
+        "denominazione": "Organigramma - Illustrazione in forma semplificata",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "Art. 13, c. 1, lett. c), d.lgs. n. 33/2013"}
+        ],
+        "contenuto": "Illustrazione in forma semplificata, ai fini della piena accessibilità e comprensibilità dei dati, dell'organizzazione dell'amministrazione, mediante l'organigramma o analoghe rappresentazioni grafiche.",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
+        "persona_responsabile": "Dirigente scolastico"
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9446,
+      "attributes": {
+        "denominazione": "Organigramma - Nomi dei dirigenti",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "Art. 13, c. 1, lett. b), d.lgs. n. 33/2013"}
+        ],
+        "contenuto": "Nomi dei dirigenti responsabili dei singoli uffici.",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
+        "persona_responsabile": "Dirigente scolastico"
+      }
+    },
+
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9447,
+      "attributes": {
+        "denominazione": "Telefono e posta elettronica",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "Art. 13, c. 1, lett. d), d.lgs. n. 33/2013"}
+        ],
+        "contenuto": "Elenco completo dei numeri di telefono e delle caselle di posta elettronica istituzionali e delle caselle di posta elettronica certificata dedicate, cui il cittadino possa rivolgersi per qualsiasi richiesta inerente i compiti istituzionali.",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
+        "persona_responsabile": "Dirigente scolastico"
+      }
+    },
+
+
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9448,
+      "attributes": {
+        "denominazione": "Consulenti e collaboratori",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "Art. 15, c. 1, lett. b), d.lgs. n. 33/2013"},
+          {"uri": "#", "title": "Art. 15, c. 1, lett. c), d.lgs. n. 33/2013"},
+          {"uri": "#", "title": "Art. 15, c. 1, lett. d), d.lgs. n. 33/2013"},
+          {"uri": "#", "title": "Art. 15, c. 2, d.lgs. n. 33/2013"},
+          {"uri": "#", "title": "Art. 53, c. 14, d.lgs. n. 165/2001"}
+        ],
+        "contenuto": "Estremi degli atti di conferimento di incarichi di collaborazione o di consulenza a soggetti esterni a qualsiasi titolo (compresi quelli affidati con contratto di collaborazione coordinata e continuativa) con indicazione dei soggetti percettori, della ragione dell'incarico e dell'ammontare erogato. Per ciascun titolare di incarico: 1) curriculum vitae, redatto in conformità al vigente modello europeo (Art. 15, c. 1, lett. b), d.lgs. n. 33/2013); 2) dati relativi allo svolgimento di incarichi o alla titolarità di cariche in enti di diritto privato regolati o finanziati dalla pubblica amministrazione o allo svolgimento di attività professionali (Art. 15, c. 1, lett. c), d.lgs. n. 33/2013); 3) compensi comunque denominati, relativi al rapporto di lavoro, di consulenza o di collaborazione (compresi quelli affidati con contratto di collaborazione coordinata e continuativa), con specifica evidenza delle eventuali componenti variabili o legate alla valutazione del risultato (Art. 15, c. 1, lett. d), d.lgs. n. 33/2013). Tabelle relative agli elenchi dei consulenti con indicazione di oggetto, durata e compenso dell'incarico (comunicate alla Funzione pubblica, Art. 15, c. 2, d.lgs. n. 33/2013, Art. 53, c. 14, d.lgs. n. 165/2001). Attestazione dell'avvenuta verifica dell'insussistenza di situazioni, anche potenziali, di conflitto di interesse (Art. 53, c. 14, d.lgs. n. 165/2001).",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
+        "persona_responsabile": "Dirigente scolastico"
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9449,
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9450,
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9451,
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9452,
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9453,
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9454,
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9455,
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9456,
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9457,
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9458,
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9459,
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9460,
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9461,
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9462,
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9463,
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9464,
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9465,
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9466,
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9467,
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9468,
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9469,
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    }
+  ]
+}
