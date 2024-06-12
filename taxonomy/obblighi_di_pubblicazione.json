@@ -1427,173 +1427,187 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9544, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "Atti di programmazione delle opere pubbliche",
         "riferimento_legislativo": [
-          {"uri": "#", "title": ""}
+          {"uri": "#", "title": "Art. 29 d.lgs. n. 50/2016"},
+          {"uri": "#", "title": "Art. 21 co.7 d.lgs. n. 50/2016"},
+          {"uri": "#", "title": "Art. 38, c. 2 e 2 bis d.lgs. n. 33/2013"}
         ],
-        "contenuto": "",
-        "frequenza_aggiornamento": "",
+        "contenuto": "Atti di programmazione delle opere pubbliche (link alla sotto-sezione \"bandi di gara e contratti\"). A titolo esemplificativo: - Programma triennale dei lavori pubblici, nonché i relativi aggiornamenti annuali, ai sensi art. 21 d.lgs. n 50/2016. Documento pluriennale di pianificazione ai sensi dell’art. 2 del d.lgs. n. 228/2011, (per i Ministeri)",
+        "frequenza_aggiornamento": "Tempestivo (art.8, c. 1, d.lgs. n. 33/2013)",
         "persona_responsabile": ""
       }
     },
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9545, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "Tempi, costi unitari e indicatori di realizzazione delle opere pubbliche in corso o completate.",
         "riferimento_legislativo": [
-          {"uri": "#", "title": ""}
+          {"uri": "#", "title": "Art. 38, c. 2, d.lgs. n. 33/2013"}
         ],
-        "contenuto": "",
-        "frequenza_aggiornamento": "",
+        "contenuto": "Informazioni relative ai tempi e agli indicatori di realizzazione delle opere pubbliche in corso o completate. Informazioni relative ai costi unitari di realizzazione delle opere pubbliche in corso o completate.",
+        "frequenza_aggiornamento": "Tempestivo (art. 38, c. 1, d.lgs. n. 33/2013)",
         "persona_responsabile": ""
       }
     },
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9546, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "Pianificazione e governo del territorio - Atti",
         "riferimento_legislativo": [
-          {"uri": "#", "title": ""}
+          {"uri": "#", "title": "Art. 39, c. 1, lett. a), d.lgs. n. 33/2013"}
         ],
-        "contenuto": "",
-        "frequenza_aggiornamento": "",
+        "contenuto": "Atti di governo del territorio quali, tra gli altri, piani territoriali, piani di coordinamento, piani paesistici, strumenti urbanistici, generali e di attuazione, nonché le loro varianti.",
+        "frequenza_aggiornamento": "Tempestivo (art. 39, c. 1, d.lgs. n. 33/2013)",
         "persona_responsabile": ""
       }
     },
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9547, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "Pianificazione e governo del territorio - Documentazione",
         "riferimento_legislativo": [
-          {"uri": "#", "title": ""}
+          {"uri": "#", "title": "Art. 39, c. 2, d.lgs. n. 33/2013"}
         ],
-        "contenuto": "",
-        "frequenza_aggiornamento": "",
+        "contenuto": "Documentazione relativa a ciascun procedimento di presentazione e approvazione delle proposte di trasformazione urbanistica di iniziativa privata o pubblica in variante allo strumento urbanistico generale comunque denominato vigente nonché delle proposte di trasformazione urbanistica di iniziativa privata o pubblica in attuazione dello strumento urbanistico generale vigente che comportino premialità edificatorie a fronte dell'impegno dei privati alla realizzazione di opere di urbanizzazione extra oneri o della cessione di aree o volumetrie per finalità di pubblico interesse",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
         "persona_responsabile": ""
       }
     },
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9548, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "Informazioni ambientali",
         "riferimento_legislativo": [
-          {"uri": "#", "title": ""}
+          {"uri": "#", "title": "Art. 40, c. 2, d.lgs. n. 33/2013"}
         ],
-        "contenuto": "",
-        "frequenza_aggiornamento": "",
+        "contenuto": "Informazioni ambientali che le amministrazioni detengono ai fini delle proprie attività istituzionali:",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
         "persona_responsabile": ""
       }
     },
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9549, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "Stato dell'ambiente",
         "riferimento_legislativo": [
-          {"uri": "#", "title": ""}
+          {"uri": "#", "title": "Art. 40, c. 2, d.lgs. n. 33/2013"}
         ],
-        "contenuto": "",
-        "frequenza_aggiornamento": "",
+        "contenuto": "1) Stato degli elementi dell'ambiente, quali l'aria, l'atmosfera, l'acqua, il suolo, il territorio, i siti naturali, compresi gli igrotopi, le zone costiere e marine, la diversità biologica ed i suoi elementi costitutivi, compresi gli organismi geneticamente modificati, e, inoltre, le interazioni tra questi elementi",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
         "persona_responsabile": ""
       }
     },
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9550, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "Fattori inquinanti",
         "riferimento_legislativo": [
-          {"uri": "#", "title": ""}
+          {"uri": "#", "title": "Art. 40, c. 2, d.lgs. n. 33/2013"}
         ],
-        "contenuto": "",
-        "frequenza_aggiornamento": "",
+        "contenuto": "2) Fattori quali le sostanze, l'energia, il rumore, le radiazioni od i rifiuti, anche quelli radioattivi, le emissioni, gli scarichi ed altri rilasci nell'ambiente, che incidono o possono incidere sugli elementi dell'ambiente",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
         "persona_responsabile": ""
       }
     },
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9551, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "Misure incidenti sull'ambiente e relative analisi di impatto",
         "riferimento_legislativo": [
-          {"uri": "#", "title": ""}
+          {"uri": "#", "title": "Art. 40, c. 2, d.lgs. n. 33/2013"}
         ],
-        "contenuto": "",
-        "frequenza_aggiornamento": "",
+        "contenuto": "3) Misure, anche amministrative, quali le politiche, le disposizioni legislative, i piani, i programmi, gli accordi ambientali e ogni altro atto, anche di natura amministrativa, nonché le attività che incidono o possono incidere sugli elementi e sui fattori dell'ambiente ed analisi costi-benefìci ed altre analisi ed ipotesi economiche usate nell'àmbito delle stesse",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
         "persona_responsabile": ""
       }
     },
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9552, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "Misure a protezione dell'ambiente e relative analisi di impatto",
         "riferimento_legislativo": [
-          {"uri": "#", "title": ""}
+          {"uri": "#", "title": "Art. 40, c. 2, d.lgs. n. 33/2013"}
         ],
-        "contenuto": "",
-        "frequenza_aggiornamento": "",
+        "contenuto": "4) Misure o attività finalizzate a proteggere i suddetti elementi ed analisi costi-benefìci ed altre analisi ed ipotesi economiche usate nell'àmbito delle stesse",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
         "persona_responsabile": ""
       }
     },
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9553, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "Relazioni sull'attuazione della legislazione",
         "riferimento_legislativo": [
-          {"uri": "#", "title": ""}
+          {"uri": "#", "title": "Art. 40, c. 2, d.lgs. n. 33/2013"}
         ],
-        "contenuto": "",
-        "frequenza_aggiornamento": "",
+        "contenuto": "5) Relazioni sull'attuazione della legislazione ambientale",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
         "persona_responsabile": ""
       }
     },
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9554, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "Stato della salute e della sicurezza umana",
         "riferimento_legislativo": [
-          {"uri": "#", "title": ""}
+          {"uri": "#", "title": "Art. 40, c. 2, d.lgs. n. 33/2013"}
         ],
-        "contenuto": "",
-        "frequenza_aggiornamento": "",
+        "contenuto": "6) Stato della salute e della sicurezza umana, compresa la contaminazione della catena alimentare, le condizioni della vita umana, il paesaggio, i siti e gli edifici d'interesse culturale, per quanto influenzabili dallo stato degli elementi dell'ambiente, attraverso tali elementi, da qualsiasi fattore",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
         "persona_responsabile": ""
       }
     },
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9555, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "Relazione sullo stato dell'ambiente del Ministero dell'Ambiente e della tutela del territorio",
         "riferimento_legislativo": [
-          {"uri": "#", "title": ""}
+          {"uri": "#", "title": "Art. 40, c. 2, d.lgs. n. 33/2013"}
         ],
-        "contenuto": "",
-        "frequenza_aggiornamento": "",
+        "contenuto": " Relazione sullo stato dell'ambiente redatta dal Ministero dell'Ambiente e della tutela del territorio",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
         "persona_responsabile": ""
       }
     },
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9556, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "Interventi straordinari e di emergenza - Provvedimenti",
         "riferimento_legislativo": [
-          {"uri": "#", "title": ""}
+          {"uri": "#", "title": "Art. 42, c. 1, lett. a), d.lgs. n. 33/2013"}
         ],
-        "contenuto": "",
-        "frequenza_aggiornamento": "",
+        "contenuto": "Provvedimenti adottati concernenti gli interventi straordinari e di emergenza che comportano deroghe alla legislazione vigente, con l'indicazione espressa delle norme di legge eventualmente derogate e dei motivi della deroga, nonché con l'indicazione di eventuali atti amministrativi o giurisdizionali intervenuti",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
         "persona_responsabile": ""
       }
     },
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9557, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "Interventi straordinari e di emergenza - Termini",
         "riferimento_legislativo": [
-          {"uri": "#", "title": ""}
+          {"uri": "#", "title": "Art. 42, c. 1, lett. b), d.lgs. n. 33/2013"}
         ],
-        "contenuto": "",
-        "frequenza_aggiornamento": "",
+        "contenuto": "Termini temporali eventualmente fissati per l'esercizio dei poteri di adozione dei provvedimenti straordinari",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
         "persona_responsabile": ""
       }
     },
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9558, "uuid": "",
+      "attributes": {
+        "denominazione": "Interventi straordinari e di emergenza - Costo",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "Art. 42, c. 1, lett. c), d.lgs. n. 33/2013"}
+        ],
+        "contenuto": "Costo previsto degli interventi e costo effettivo sostenuto dall'amministrazione",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9559, "uuid": "",
       "attributes": {
         "denominazione": "",
         "riferimento_legislativo": [
@@ -1605,7 +1619,115 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9559, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9560, "uuid": "",
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9561, "uuid": "",
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9562, "uuid": "",
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9563, "uuid": "",
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9564, "uuid": "",
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9565, "uuid": "",
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9566, "uuid": "",
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9567, "uuid": "",
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9568, "uuid": "",
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9569, "uuid": "",
       "attributes": {
         "denominazione": "",
         "riferimento_legislativo": [
