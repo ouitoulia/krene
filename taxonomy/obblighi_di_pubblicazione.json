@@ -1127,7 +1127,157 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9488, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9520, "uuid": "",
+      "attributes": {
+        "denominazione": "Criteri e modalità",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "Art. 26, c. 1, d.lgs. n. 33/2013"}
+        ],
+        "contenuto": "Atti con i quali sono determinati i criteri e le modalità cui le amministrazioni devono attenersi per la concessione di sovvenzioni, contributi, sussidi ed ausili finanziari e l'attribuzione di vantaggi economici di qualunque genere a persone ed enti pubblici e privati",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
+        "persona_responsabile": "Dirigente scolastico"
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9521, "uuid": "",
+      "attributes": {
+        "denominazione": "Atti di concessione",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "Art. 26, c. 2, d.lgs. n. 33/2013"}
+        ],
+        "contenuto": "Atti di concessione di sovvenzioni, contributi, sussidi ed ausili finanziari alle imprese e  comunque di  vantaggi economici di qualunque genere a persone ed enti pubblici e privati di importo superiore a mille euro.",
+        "frequenza_aggiornamento": "Tempestivo (art. 26, c. 3, d.lgs. n. 33/2013)",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9522, "uuid": "",
+      "attributes": {
+        "denominazione": "Bilancio preventivo - Documenti e allegati",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "Art. 29, c. 1, d.lgs. n. 33/2013"},
+          {"uri": "#", "title": "Art. 5, c. 1, d.p.c.m. 26 aprile 2011"}
+        ],
+        "contenuto": "Documenti e allegati del bilancio preventivo, nonché dati relativi al  bilancio di previsione di ciascun anno in forma sintetica, aggregata e semplificata, anche con il ricorso a rappresentazioni grafiche.",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
+        "persona_responsabile": "Dirigente scolastico"
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9523, "uuid": "",
+      "attributes": {
+        "denominazione": "Bilancio preventivo - Dati",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "D.p.c.m. 29 aprile 2016"},
+          {"uri": "#", "title": "Art. 29, c. 1-bis, d.lgs. n. 33/2013"}
+        ],
+        "contenuto": "Dati relativi  alle  entrate  e  alla  spesa  dei bilanci preventivi in formato tabellare aperto in modo da consentire l'esportazione, il trattamento e il riutilizzo.",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
+        "persona_responsabile": "Dirigente scolastico"
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9524, "uuid": "",
+      "attributes": {
+        "denominazione": "Bilancio consuntivo - Documenti e allegati",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "Art. 29, c. 1, d.lgs. n. 33/2013"},
+          {"uri": "#", "title": "Art. 5, c. 1, d.p.c.m. 26 aprile 2011"}
+        ],
+        "contenuto": "Documenti e allegati del bilancio consuntivo, nonché dati relativi al bilancio consuntivo di ciascun anno in forma sintetica, aggregata e semplificata, anche con il ricorso a rappresentazioni grafiche.",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
+        "persona_responsabile": "Dirigente scolastico"
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9525, "uuid": "",
+      "attributes": {
+        "denominazione": "Bilancio consuntivo - Dati",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "D.p.c.m. 29 aprile 2016"},
+          {"uri": "#", "title": "Art. 29, c. 1-bis, d.lgs. n. 33/2013"}
+        ],
+        "contenuto": "Dati relativi  alle  entrate  e  alla  spesa  dei bilanci consuntivi in formato tabellare aperto in modo da consentire l'esportazione, il trattamento e il riutilizzo.",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
+        "persona_responsabile": "Dirigente scolastico"
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9526, "uuid": "",
+      "attributes": {
+        "denominazione": "Piano degli indicatori e dei risultati attesi di bilancio",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "Art. 29, c. 2, d.lgs. n. 33/2013"},
+          {"uri": "#", "title": "Art. 18-bis del d.lgs. n.118/2011 "},
+          {"uri": "#", "title": "Art. 19 e 22 del d.lgs. n. 91/2011"}
+        ],
+        "contenuto": "Piano degli indicatori e risultati attesi di bilancio, con l’integrazione delle risultanze osservate in termini di raggiungimento dei risultati attesi e le motivazioni degli eventuali scostamenti e gli aggiornamenti in corrispondenza di ogni nuovo esercizio di bilancio, sia tramite la specificazione di nuovi obiettivi e indicatori, sia attraverso l’aggiornamento dei valori obiettivo e la soppressione di obiettivi già raggiunti oppure oggetto di ripianificazione.",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
+        "persona_responsabile": "Dirigente scolastico"
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9527, "uuid": "",
+      "attributes": {
+        "denominazione": "Patrimonio immobiliare",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "Art. 30, d.lgs. n. 33/2013"}
+        ],
+        "contenuto": "Informazioni identificative degli immobili posseduti e detenuti",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
+        "persona_responsabile": "Dirigente scolastico"
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9528, "uuid": "",
+      "attributes": {
+        "denominazione": "Canoni di locazione o affitto",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "Art. 30, d.lgs. n. 33/2013"}
+        ],
+        "contenuto": "Canoni di locazione o di affitto versati o percepiti",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
+        "persona_responsabile": "Dirigente scolastico"
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9529, "uuid": "",
+      "attributes": {
+        "denominazione": "Atti degli Organismi indipendenti di valutazione, nuclei di valutazione o altri organismi con funzioni analoghe",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "Art. 31, d.lgs. n. 33/2013"}
+        ],
+        "contenuto": "Attestazione dell'OIV o di altra struttura analoga nell'assolvimento degli obblighi di pubblicazione. Documento dell'OIV di validazione della Relazione sulla Performance (art. 14, c. 4, lett. c), d.lgs. n. 150/2009). Relazione dell'OIV sul funzionamento complessivo del Sistema di valutazione, trasparenza e integrità dei controlli interni (art. 14, c. 4, lett. a), d.lgs. n. 150/2009). Altri atti degli organismi indipendenti di valutazione , nuclei di valutazione o altri organismi con funzioni analoghe, procedendo all'indicazione in forma anonima dei dati personali eventualmente presenti.",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9530, "uuid": "",
+      "attributes": {
+        "denominazione": "Relazioni degli organi di revisione amministrativa e contabile",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "Art. 31, d.lgs. n. 33/2013"}
+        ],
+        "contenuto": "Relazioni degli organi di revisione amministrativa e contabile al bilancio di previsione o budget, alle relative variazioni e al conto consuntivo o bilancio di esercizio.",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
+        "persona_responsabile": "Dirigente scolastico"
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9531, "uuid": "",
+      "attributes": {
+        "denominazione": "Rilievi Corte dei conti",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "Art. 31, d.lgs. n. 33/2013"}
+        ],
+        "contenuto": "Tutti i rilievi della Corte dei conti ancorché non recepiti riguardanti l'organizzazione e l'attività delle amministrazioni stesse e dei loro uffici",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
+        "persona_responsabile": "Dirigente scolastico"
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9532, "uuid": "",
       "attributes": {
         "denominazione": "",
         "riferimento_legislativo": [
@@ -1139,7 +1289,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9489, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9533, "uuid": "",
       "attributes": {
         "denominazione": "",
         "riferimento_legislativo": [
@@ -1151,7 +1301,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9490, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9534, "uuid": "",
       "attributes": {
         "denominazione": "",
         "riferimento_legislativo": [
@@ -1163,7 +1313,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9491, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9535, "uuid": "",
       "attributes": {
         "denominazione": "",
         "riferimento_legislativo": [
@@ -1175,7 +1325,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9492, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9536, "uuid": "",
       "attributes": {
         "denominazione": "",
         "riferimento_legislativo": [
@@ -1187,7 +1337,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9493, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9537, "uuid": "",
       "attributes": {
         "denominazione": "",
         "riferimento_legislativo": [
@@ -1199,7 +1349,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9494, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9538, "uuid": "",
       "attributes": {
         "denominazione": "",
         "riferimento_legislativo": [
@@ -1211,7 +1361,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9495, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9539, "uuid": "",
       "attributes": {
         "denominazione": "",
         "riferimento_legislativo": [
@@ -1223,7 +1373,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9496, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9540, "uuid": "",
       "attributes": {
         "denominazione": "",
         "riferimento_legislativo": [
@@ -1235,7 +1385,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9497, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9541, "uuid": "",
       "attributes": {
         "denominazione": "",
         "riferimento_legislativo": [
@@ -1247,7 +1397,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9498, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9542, "uuid": "",
       "attributes": {
         "denominazione": "",
         "riferimento_legislativo": [
@@ -1259,7 +1409,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9499, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9543, "uuid": "",
       "attributes": {
         "denominazione": "",
         "riferimento_legislativo": [
@@ -1271,7 +1421,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9500, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9544, "uuid": "",
       "attributes": {
         "denominazione": "",
         "riferimento_legislativo": [
@@ -1283,7 +1433,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9501, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9545, "uuid": "",
       "attributes": {
         "denominazione": "",
         "riferimento_legislativo": [
@@ -1295,7 +1445,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9502, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9546, "uuid": "",
       "attributes": {
         "denominazione": "",
         "riferimento_legislativo": [
@@ -1307,7 +1457,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9503, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9547, "uuid": "",
       "attributes": {
         "denominazione": "",
         "riferimento_legislativo": [
@@ -1319,7 +1469,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9504, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9548, "uuid": "",
       "attributes": {
         "denominazione": "",
         "riferimento_legislativo": [
@@ -1331,7 +1481,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9505, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9549, "uuid": "",
       "attributes": {
         "denominazione": "",
         "riferimento_legislativo": [
@@ -1343,7 +1493,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9506, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9550, "uuid": "",
       "attributes": {
         "denominazione": "",
         "riferimento_legislativo": [
@@ -1355,7 +1505,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9507, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9551, "uuid": "",
       "attributes": {
         "denominazione": "",
         "riferimento_legislativo": [
@@ -1367,7 +1517,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9508, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9552, "uuid": "",
       "attributes": {
         "denominazione": "",
         "riferimento_legislativo": [
@@ -1379,7 +1529,79 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9509, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9553, "uuid": "",
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9554, "uuid": "",
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9555, "uuid": "",
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9556, "uuid": "",
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9557, "uuid": "",
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9558, "uuid": "",
+      "attributes": {
+        "denominazione": "",
+        "riferimento_legislativo": [
+          {"uri": "", "title": ""}
+        ],
+        "contenuto": "",
+        "frequenza_aggiornamento": "",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9559, "uuid": "",
       "attributes": {
         "denominazione": "",
         "riferimento_legislativo": [

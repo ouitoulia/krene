@@ -328,30 +328,30 @@
 
     {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9110, "attributes": {"name": "Controlli sulle Imprese", "weight":  "-5"}, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}}}, "uuid": "442228f5-5fee-4b03-8342-a5e89630a34a"},
 
-    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9120, "attributes": {"name": "[DA-VERIFICARE] Bandi di gara e contratti", "weight":  "-4"}, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}}}, "uuid": "918d96ee-878b-4a48-8007-7050f3f7e1e9"},
+    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9120, "attributes": {"name": "Bandi di gara e contratti", "weight":  "-4"}, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}}}, "uuid": "918d96ee-878b-4a48-8007-7050f3f7e1e9"},
     {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9121, "uuid": "52a280ad-768c-4f22-8423-695704b8261e",
-      "attributes": {"name": "[DA-VERIFICARE] Atti e documenti di carattere generale riferiti a tutte le procedure", "weight":  0},
+      "attributes": {"name": "Atti e documenti di carattere generale riferiti a tutte le procedure", "weight":  0},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9120"}}
       }
     },
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9122, "uuid": "cc8d0c32-f158-4bdd-9bee-d7a2351f4d06",
-      "attributes": {"name": "[DA-VERIFICARE] Informazioni sulle singole procedure in formato tabellare", "weight":  1},
+      "attributes": {"name": "Informazioni sulle singole procedure in formato tabellare (fino al 31/12/2023)", "weight":  1},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9120"}}
       }
     },
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9123, "uuid": "89c6bdd4-4703-48f8-925c-ba04cb302269",
-      "attributes": {"name": "[DA-VERIFICARE] Atti delle amministrazioni aggiudicatrici e degli enti aggiudicatori distintamente per ogni procedura", "weight":  2},
+      "attributes": {"name": "Atti delle amministrazioni aggiudicatrici e degli enti aggiudicatori distintamente per ogni procedura (fino al 31/12/2023)", "weight":  2},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9120"}}
       }
     },
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9124, "uuid": "3d148ecf-4fa6-47af-a061-ff6e7f94f05d",
-      "attributes": {"name": "[DA-VERIFICARE] Albo fornitori", "weight":  3},
+      "attributes": {"name": "Albo fornitori (fino al 31/12/2023)", "weight":  3},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9120"}}
       }
