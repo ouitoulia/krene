@@ -1279,144 +1279,148 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9532, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "Carta dei servizi e standard di qualità",
         "riferimento_legislativo": [
-          {"uri": "", "title": ""}
+          {"uri": "#", "title": "Art. 32, c. 1, d.lgs. n. 33/2013"}
         ],
-        "contenuto": "",
-        "frequenza_aggiornamento": "",
-        "persona_responsabile": ""
+        "contenuto": "Carta dei servizi o documento contenente gli standard di qualità dei servizi pubblici",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
+        "persona_responsabile": "Dirigente scolastico"
       }
     },
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9533, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "Class action",
         "riferimento_legislativo": [
-          {"uri": "", "title": ""}
+          {"uri": "#", "title": "Art. 4, c. 6, d.lgs. n. 198/2009"},
+          {"uri": "#", "title": "Art. 4, c. 2, d.lgs. n. 198/2009"},
+          {"uri": "#", "title": "Art. 1, c. 2, d.lgs. n. 198/2009"}
         ],
-        "contenuto": "",
-        "frequenza_aggiornamento": "",
-        "persona_responsabile": ""
+        "contenuto": "Notizia del ricorso in giudizio proposto dai titolari di interessi giuridicamente rilevanti ed omogenei nei confronti delle amministrazioni e dei concessionari di servizio pubblico al fine di ripristinare il corretto svolgimento della funzione o la corretta erogazione di un servizio",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
+        "persona_responsabile": "Dirigente scolastico"
       }
     },
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9534, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "Costi contabilizzati",
         "riferimento_legislativo": [
-          {"uri": "", "title": ""}
+          {"uri": "#", "title": "Art. 32, c. 2, lett. a), d.lgs. n. 33/2013"},
+          {"uri": "#", "title": "Art. 10, c. 5, d.lgs. n. 33/2013"}
         ],
-        "contenuto": "",
-        "frequenza_aggiornamento": "",
-        "persona_responsabile": ""
+        "contenuto": "Costi contabilizzati dei servizi erogati agli utenti, sia finali che intermedi e il relativo andamento nel tempo.",
+        "frequenza_aggiornamento": "Annuale (art. 10, c. 5, d.lgs. n. 33/2013)",
+        "persona_responsabile": "Dirigente scolastico"
       }
     },
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9535, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "Liste di attesa",
         "riferimento_legislativo": [
-          {"uri": "", "title": ""}
+          {"uri": "#", "title": "Art. 41, c. 6, d.lgs. n. 33/2013"}
         ],
-        "contenuto": "",
-        "frequenza_aggiornamento": "",
+        "contenuto": "Criteri di formazione delle liste di attesa, tempi di attesa previsti e tempi medi effettivi di attesa per ciascuna tipologia di prestazione erogata (obbligo di pubblicazione a carico di enti, aziende e strutture pubbliche e private che erogano prestazioni per conto del servizio sanitario).",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
         "persona_responsabile": ""
       }
     },
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9536, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "Risultati delle indagini sulla soddisfazione da parte degli utenti rispetto alla qualità dei servizi in rete e statistiche di utilizzo dei servizi in rete.",
         "riferimento_legislativo": [
-          {"uri": "", "title": ""}
+          {"uri": "#", "title": "Art. 7 co. 3 d.lgs. 82/2005 modificato dall’art. 8 co. 1 del d.lgs. 179/16"}
         ],
-        "contenuto": "",
-        "frequenza_aggiornamento": "",
-        "persona_responsabile": ""
+        "contenuto": "Risultati delle rilevazioni sulla soddisfazione da parte degli utenti rispetto alla qualità dei servizi in rete resi all’utente, anche in termini di fruibilità, accessibilità e tempestività, statistiche di utilizzo dei servizi in rete.",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
+        "persona_responsabile": "Dirigente scolastico"
       }
     },
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9537, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "Dati sui pagamenti",
         "riferimento_legislativo": [
-          {"uri": "", "title": ""}
+          {"uri": "#", "title": "Art. 4-bis, c. 2, d.lgs. n. 33/2013"}
         ],
-        "contenuto": "",
-        "frequenza_aggiornamento": "",
-        "persona_responsabile": ""
+        "contenuto": "Dati sui propri pagamenti in relazione alla tipologia di spesa sostenuta, all'ambito temporale di riferimento e ai beneficiari",
+        "frequenza_aggiornamento": "Trimestrale (in fase di prima attuazione semestrale)",
+        "persona_responsabile": "Dirigente scolastico"
       }
     },
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9538, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "Dati sui pagamenti in forma sintetica e aggregata",
         "riferimento_legislativo": [
-          {"uri": "", "title": ""}
+          {"uri": "#", "title": "Art. 41, c. 1-bis, d.lgs. n. 33/2013"}
         ],
-        "contenuto": "",
-        "frequenza_aggiornamento": "",
-        "persona_responsabile": ""
+        "contenuto": "Dati relativi a tutte le spese e a tutti i pagamenti effettuati, distinti per tipologia di lavoro, bene o servizio in relazione alla tipologia di spesa sostenuta, all’ambito temporale di riferimento e ai beneficiari.",
+        "frequenza_aggiornamento": "Trimestrale (in fase di prima attuazione semestrale)",
+        "persona_responsabile": "Dirigente scolastico"
       }
     },
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9539, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "Indicatore di tempestività dei pagamenti - Annuale",
         "riferimento_legislativo": [
-          {"uri": "", "title": ""}
+          {"uri": "#", "title": "Art. 33, d.lgs. n. 33/2013"}
         ],
-        "contenuto": "",
-        "frequenza_aggiornamento": "",
-        "persona_responsabile": ""
+        "contenuto": "Indicatore dei tempi medi di pagamento relativi agli acquisti di beni, servizi, prestazioni professionali e forniture (indicatore annuale di tempestività dei pagamenti).",
+        "frequenza_aggiornamento": "Annuale (art. 33, c. 1, d.lgs. n. 33/2013)",
+        "persona_responsabile": "Dirigente scolastico"
       }
     },
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9540, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "Indicatore di tempestività dei pagamenti - Trimestrale",
         "riferimento_legislativo": [
-          {"uri": "", "title": ""}
+          {"uri": "#", "title": "Art. 33, d.lgs. n. 33/2013"}
         ],
-        "contenuto": "",
-        "frequenza_aggiornamento": "",
-        "persona_responsabile": ""
+        "contenuto": "Indicatore trimestrale di tempestività dei pagamenti",
+        "frequenza_aggiornamento": "Trimestrale (art. 33, c. 1, d.lgs. n. 33/2013)",
+        "persona_responsabile": "Dirigente scolastico"
       }
     },
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9541, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "Ammontare complessivo dei debiti",
         "riferimento_legislativo": [
-          {"uri": "", "title": ""}
+          {"uri": "#", "title": "Art. 33, d.lgs. n. 33/2013"}
         ],
-        "contenuto": "",
-        "frequenza_aggiornamento": "",
-        "persona_responsabile": ""
+        "contenuto": "Ammontare complessivo dei debiti e il numero delle imprese creditrici.",
+        "frequenza_aggiornamento": "Annuale (art. 33, c. 1, d.lgs. n. 33/2013)",
+        "persona_responsabile": "Dirigente scolastico"
       }
     },
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9542, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "IBAN e pagamenti informatici",
         "riferimento_legislativo": [
-          {"uri": "", "title": ""}
+          {"uri": "#", "title": "Art. 36, d.lgs. n. 33/2013"},
+          {"uri": "#", "title": "Art. 5, c. 1, d.lgs. n. 82/2005"}
         ],
-        "contenuto": "",
-        "frequenza_aggiornamento": "",
-        "persona_responsabile": ""
+        "contenuto": "Nelle richieste di pagamento: i codici IBAN identificativi del conto di pagamento, ovvero di imputazione del versamento in Tesoreria,  tramite i quali i soggetti versanti possono effettuare i pagamenti mediante bonifico bancario o postale, ovvero gli identificativi del conto corrente postale sul quale i soggetti versanti possono effettuare i pagamenti mediante bollettino postale, nonché i codici identificativi del pagamento da indicare obbligatoriamente per il versamento",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
+        "persona_responsabile": "Dirigente scolastico"
       }
     },
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9543, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "Informazioni relative ai nuclei di valutazione e verifica degli investimenti pubblici (art. 1, l. n. 144/1999).",
         "riferimento_legislativo": [
-          {"uri": "", "title": ""}
+          {"uri": "#", "title": "Art. 38, c. 1, d.lgs. n. 33/2013"}
         ],
-        "contenuto": "",
-        "frequenza_aggiornamento": "",
+        "contenuto": "Informazioni relative ai nuclei di valutazione e verifica degli investimenti pubblici, incluse le funzioni e i compiti specifici ad essi attribuiti, le procedure e i criteri di individuazione dei componenti e i loro nominativi (obbligo previsto per le amministrazioni centrali e regionali)",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
         "persona_responsabile": ""
       }
     },
@@ -1425,7 +1429,7 @@
       "attributes": {
         "denominazione": "",
         "riferimento_legislativo": [
-          {"uri": "", "title": ""}
+          {"uri": "#", "title": ""}
         ],
         "contenuto": "",
         "frequenza_aggiornamento": "",
@@ -1437,7 +1441,7 @@
       "attributes": {
         "denominazione": "",
         "riferimento_legislativo": [
-          {"uri": "", "title": ""}
+          {"uri": "#", "title": ""}
         ],
         "contenuto": "",
         "frequenza_aggiornamento": "",
@@ -1449,7 +1453,7 @@
       "attributes": {
         "denominazione": "",
         "riferimento_legislativo": [
-          {"uri": "", "title": ""}
+          {"uri": "#", "title": ""}
         ],
         "contenuto": "",
         "frequenza_aggiornamento": "",
@@ -1461,7 +1465,7 @@
       "attributes": {
         "denominazione": "",
         "riferimento_legislativo": [
-          {"uri": "", "title": ""}
+          {"uri": "#", "title": ""}
         ],
         "contenuto": "",
         "frequenza_aggiornamento": "",
@@ -1473,7 +1477,7 @@
       "attributes": {
         "denominazione": "",
         "riferimento_legislativo": [
-          {"uri": "", "title": ""}
+          {"uri": "#", "title": ""}
         ],
         "contenuto": "",
         "frequenza_aggiornamento": "",
@@ -1485,7 +1489,7 @@
       "attributes": {
         "denominazione": "",
         "riferimento_legislativo": [
-          {"uri": "", "title": ""}
+          {"uri": "#", "title": ""}
         ],
         "contenuto": "",
         "frequenza_aggiornamento": "",
@@ -1497,7 +1501,7 @@
       "attributes": {
         "denominazione": "",
         "riferimento_legislativo": [
-          {"uri": "", "title": ""}
+          {"uri": "#", "title": ""}
         ],
         "contenuto": "",
         "frequenza_aggiornamento": "",
@@ -1509,7 +1513,7 @@
       "attributes": {
         "denominazione": "",
         "riferimento_legislativo": [
-          {"uri": "", "title": ""}
+          {"uri": "#", "title": ""}
         ],
         "contenuto": "",
         "frequenza_aggiornamento": "",
@@ -1521,7 +1525,7 @@
       "attributes": {
         "denominazione": "",
         "riferimento_legislativo": [
-          {"uri": "", "title": ""}
+          {"uri": "#", "title": ""}
         ],
         "contenuto": "",
         "frequenza_aggiornamento": "",
@@ -1533,7 +1537,7 @@
       "attributes": {
         "denominazione": "",
         "riferimento_legislativo": [
-          {"uri": "", "title": ""}
+          {"uri": "#", "title": ""}
         ],
         "contenuto": "",
         "frequenza_aggiornamento": "",
@@ -1545,7 +1549,7 @@
       "attributes": {
         "denominazione": "",
         "riferimento_legislativo": [
-          {"uri": "", "title": ""}
+          {"uri": "#", "title": ""}
         ],
         "contenuto": "",
         "frequenza_aggiornamento": "",
@@ -1557,7 +1561,7 @@
       "attributes": {
         "denominazione": "",
         "riferimento_legislativo": [
-          {"uri": "", "title": ""}
+          {"uri": "#", "title": ""}
         ],
         "contenuto": "",
         "frequenza_aggiornamento": "",
@@ -1569,7 +1573,7 @@
       "attributes": {
         "denominazione": "",
         "riferimento_legislativo": [
-          {"uri": "", "title": ""}
+          {"uri": "#", "title": ""}
         ],
         "contenuto": "",
         "frequenza_aggiornamento": "",
@@ -1581,7 +1585,7 @@
       "attributes": {
         "denominazione": "",
         "riferimento_legislativo": [
-          {"uri": "", "title": ""}
+          {"uri": "#", "title": ""}
         ],
         "contenuto": "",
         "frequenza_aggiornamento": "",
@@ -1593,7 +1597,7 @@
       "attributes": {
         "denominazione": "",
         "riferimento_legislativo": [
-          {"uri": "", "title": ""}
+          {"uri": "#", "title": ""}
         ],
         "contenuto": "",
         "frequenza_aggiornamento": "",
@@ -1605,7 +1609,7 @@
       "attributes": {
         "denominazione": "",
         "riferimento_legislativo": [
-          {"uri": "", "title": ""}
+          {"uri": "#", "title": ""}
         ],
         "contenuto": "",
         "frequenza_aggiornamento": "",
