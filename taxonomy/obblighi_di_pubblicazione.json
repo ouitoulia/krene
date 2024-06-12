@@ -1609,133 +1609,157 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9559, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "Piano triennale per la prevenzione della corruzione e della trasparenza",
         "riferimento_legislativo": [
-          {"uri": "#", "title": ""}
+          {"uri": "#", "title": "Art. 10, c. 8, lett. a), d.lgs. n. 33/2013"}
         ],
-        "contenuto": "",
-        "frequenza_aggiornamento": "",
+        "contenuto": "Piano triennale per la prevenzione della corruzione e della trasparenza e suoi allegati, le misure integrative di prevenzione della corruzione individuate ai sensi dell’articolo 1,comma 2-bis della legge n. 190 del 2012, (MOG 231).",
+        "frequenza_aggiornamento": "Annuale",
         "persona_responsabile": ""
       }
     },
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9560, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "Responsabile della prevenzione della corruzione e della trasparenza",
         "riferimento_legislativo": [
-          {"uri": "#", "title": ""}
+          {"uri": "#", "title": "Art. 43, c. 1, d.lgs. n. 33/2013"},
+          {"uri": "#", "title": "Art. 1, c. 8, l. n. 190/2012"}
         ],
-        "contenuto": "",
-        "frequenza_aggiornamento": "",
+        "contenuto": "Responsabile della prevenzione della corruzione e della trasparenza",
+        "frequenza_aggiornamento": "Tempestivo",
         "persona_responsabile": ""
       }
     },
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9561, "uuid": "",
       "attributes": {
-        "denominazione": "",
-        "riferimento_legislativo": [
-          {"uri": "#", "title": ""}
-        ],
-        "contenuto": "",
-        "frequenza_aggiornamento": "",
-        "persona_responsabile": ""
+        "denominazione": "Regolamenti per la prevenzione e la repressione della corruzione e dell'illegalità",
+        "contenuto": "Regolamenti per la prevenzione e la repressione della corruzione e dell'illegalità (laddove adottati)",
+        "frequenza_aggiornamento": "Tempestivo",
+        "persona_responsabile": "Dirigente scolastico"
       }
     },
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9562, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "Relazione del responsabile della prevenzione della corruzione e della trasparenza",
         "riferimento_legislativo": [
-          {"uri": "#", "title": ""}
+          {"uri": "#", "title": "Art. 1, c. 14, l. n. 190/2012"}
         ],
-        "contenuto": "",
-        "frequenza_aggiornamento": "",
+        "contenuto": "Relazione del responsabile della prevenzione della corruzione recante i risultati dell’attività svolta (entro il 15 dicembre di ogni anno)",
+        "frequenza_aggiornamento": "Annuale (ex art. 1, c. 14, L. n. 190/2012)",
         "persona_responsabile": ""
       }
     },
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9563, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "Provvedimenti adottati dall'A.N.AC. ed atti di adeguamento a tali provvedimenti",
         "riferimento_legislativo": [
-          {"uri": "#", "title": ""}
+          {"uri": "#", "title": "Art. 1, c. 3, l. n. 190/2012"}
         ],
-        "contenuto": "",
-        "frequenza_aggiornamento": "",
+        "contenuto": "Provvedimenti adottati dall'A.N.AC. ed atti di adeguamento a tali provvedimenti in materia di vigilanza e controllo nell'anticorruzione",
+        "frequenza_aggiornamento": "Tempestivo",
         "persona_responsabile": ""
       }
     },
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9564, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "Atti di accertamento delle violazioni",
         "riferimento_legislativo": [
-          {"uri": "#", "title": ""}
+          {"uri": "#", "title": "Art. 18, c. 5, d.lgs. n. 39/2013"}
         ],
-        "contenuto": "",
-        "frequenza_aggiornamento": "",
+        "contenuto": "Atti di accertamento delle violazioni delle disposizioni  di cui al d.lgs. n. 39/2013",
+        "frequenza_aggiornamento": "Tempestivo",
         "persona_responsabile": ""
       }
     },
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9565, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "Accesso civico \"semplice\" concernente dati, documenti e informazioni soggetti a pubblicazione obbligatoria",
         "riferimento_legislativo": [
-          {"uri": "#", "title": ""}
+          {"uri": "#", "title": "Art. 5, c. 1, d.lgs. n. 33/2013"},
+          {"uri": "#", "title": "Art. 2, c. 9-bis, l. 241/90"}
         ],
-        "contenuto": "",
-        "frequenza_aggiornamento": "",
-        "persona_responsabile": ""
+        "contenuto": "Nome del Responsabile della prevenzione della corruzione e della trasparenza cui è presentata la richiesta di accesso civico, nonchè modalità per l'esercizio di tale diritto, con indicazione dei recapiti telefonici e delle caselle di posta elettronica istituzionale e nome del titolare del potere sostitutivo, attivabile nei casi di ritardo o mancata risposta, con indicazione dei recapiti telefonici e delle caselle di posta elettronica istituzionale",
+        "frequenza_aggiornamento": "Tempestivo",
+        "persona_responsabile": "Dirigente Scolastico"
       }
     },
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9566, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "Accesso civico \"generalizzato\" concernente dati e documenti ulteriori",
         "riferimento_legislativo": [
-          {"uri": "#", "title": ""}
+          {"uri": "#", "title": "Art. 5, c. 2, d.lgs. n. 33/2013"}
         ],
-        "contenuto": "",
-        "frequenza_aggiornamento": "",
-        "persona_responsabile": ""
+        "contenuto": "Nomi Uffici competenti cui è presentata la richiesta di accesso civico, nonché modalità per l'esercizio di tale diritto, con indicazione dei recapiti telefonici e delle caselle di posta elettronica istituzionale",
+        "frequenza_aggiornamento": "Tempestivo",
+        "persona_responsabile": "Dirigente Scolastico"
       }
     },
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9567, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "Registro degli accessi",
         "riferimento_legislativo": [
-          {"uri": "#", "title": ""}
+          {"uri": "#", "title": "Linee guida ANAC FOIA (del. 1309/2016)"}
         ],
-        "contenuto": "",
-        "frequenza_aggiornamento": "",
-        "persona_responsabile": ""
+        "contenuto": "Elenco delle richieste di accesso (atti, civico e generalizzato) con indicazione dell’oggetto e della data della richiesta nonché del relativo esito con la data della decisione",
+        "frequenza_aggiornamento": "Semestrale",
+        "persona_responsabile": "Dirigente Scolastico"
       }
     },
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9568, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "Catalogo dei dati, metadati e delle banche dati",
         "riferimento_legislativo": [
-          {"uri": "#", "title": ""}
+          {"uri": "#", "title": "Art. 53, c. 1 bis, d.lgs. 82/2005 modificato dall’art. 43 del d.lgs. 179/16"}
         ],
-        "contenuto": "",
-        "frequenza_aggiornamento": "",
-        "persona_responsabile": ""
+        "contenuto": "Catalogo dei dati, dei metadati definitivi e delle relative banche dati in possesso delle amministrazioni, da pubblicare anche tramite link al Repertorio nazionale dei dati territoriali (www.rndt.gov.it), al  catalogo dei dati della PA e delle banche dati www.dati.gov.it e https://basidati.agid.gov.it/catalogo gestiti da AGID",
+        "frequenza_aggiornamento": "Tempestivo",
+        "persona_responsabile": "Dirigente Scolastico"
       }
     },
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9569, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "Regolamenti",
         "riferimento_legislativo": [
-          {"uri": "#", "title": ""}
+          {"uri": "#", "title": "Art. 53, c. 1,  bis, d.lgs. 82/2005"}
         ],
-        "contenuto": "",
+        "contenuto": "Regolamenti che disciplinano l'esercizio della facoltà di accesso telematico e il riutilizzo dei dati, fatti salvi i dati presenti in Anagrafe tributaria",
+        "frequenza_aggiornamento": "Annuale",
+        "persona_responsabile": "Dirigente Scolastico"
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9570, "uuid": "",
+      "attributes": {
+        "denominazione": "Obiettivi di accessibilità",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "Art. 9, c. 7, d.l. n. 179/2012 convertito con modificazioni dalla L. 17 dicembre 2012, n. 221"}
+        ],
+        "contenuto": "Da pubblicare secondo le indicazioni contenute nella circolare dell'Agenzia per l'Italia digitale n. 1/2016 e s.m.i. Obiettivi di accessibilità dei soggetti disabili agli strumenti informatici per l'anno corrente (entro il 31 marzo di ogni anno) e lo stato di attuazione del \"piano per l'utilizzo del telelavoro\" nella propria organizzazione.",
+        "frequenza_aggiornamento": "Annuale (ex art. 9, c. 7, D.L. n. 179/2012)",
+        "persona_responsabile": "Dirigente Scolastico"
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9571, "uuid": "",
+      "attributes": {
+        "denominazione": "Dati ulteriori",
+        "riferimento_legislativo": [
+          {"uri": "#", "title": "Art. 7-bis, c. 3, d.lgs. n. 33/2013"},
+          {"uri": "#", "title": "Art. 1, c. 9, lett. f), l. n. 190/2012"}
+        ],
+        "contenuto": "Dati, informazioni e documenti ulteriori che le pubbliche amministrazioni non hanno l'obbligo di pubblicare ai sensi della normativa vigente e che non sono riconducibili alle sottosezioni indicate",
         "frequenza_aggiornamento": "",
-        "persona_responsabile": ""
+        "persona_responsabile": "Dirigente Scolastico"
       }
     }
   ]
