@@ -945,168 +945,184 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9474, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "Enti pubblici vigilati",
         "riferimento_legislativo": [
-          {"uri": "", "title": ""}
+          {"uri": "#", "title": "Art. 22, c. 1, lett. a), d.lgs. n. 33/2013"},
+          {"uri": "#", "title": "Art. 22, c. 2 e c. 3, d.lgs. n. 33/2013"},
+          {"uri": "#", "title": "Art. 20, c. 3, d.lgs. n. 39/2013"}
         ],
-        "contenuto": "",
-        "frequenza_aggiornamento": "",
+        "contenuto": "Elenco degli enti pubblici, comunque denominati, istituiti, vigilati e finanziati dall'amministrazione ovvero per i quali l'amministrazione abbia il potere di nomina degli amministratori dell'ente, con l'indicazione delle funzioni attribuite e delle attività svolte in favore dell'amministrazione o delle attività di servizio pubblico affidate. Per ciascuno degli enti: 1)  ragione sociale; 2) misura dell'eventuale partecipazione dell'amministrazione; 3) durata dell'impegno; 4)  onere complessivo a qualsiasi titolo gravante per l'anno sul bilancio dell'amministrazione; 5) numero dei rappresentanti dell'amministrazione negli organi di governo e trattamento economico complessivo a ciascuno di essi spettante (con l'esclusione dei rimborsi per vitto e alloggio); 6) risultati di bilancio degli ultimi tre esercizi finanziari; 7) incarichi di amministratore dell'ente e relativo trattamento economico complessivo (con l'esclusione dei rimborsi per vitto e alloggio). Dichiarazione sulla insussistenza di una delle cause di inconferibilità dell'incarico (link al sito dell'ente). Collegamento con i siti istituzionali degli enti pubblici vigilati.",
+        "frequenza_aggiornamento": "Annuale (art. 22, c. 1, d.lgs. n. 33/2013)",
         "persona_responsabile": ""
       }
     },
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9475, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "Dati società partecipate",
         "riferimento_legislativo": [
-          {"uri": "", "title": ""}
+          {"uri": "#", "title": "Art. 22, c. 1, lett. b), d.lgs. n. 33/2013"},
+          {"uri": "#", "title": "Art. 22, c. 2, c. 3 e c. 6, d.lgs. n. 33/2013"},
+          {"uri": "#", "title": "Art. 20, c. 3, d.lgs. n. 39/2013"}
         ],
-        "contenuto": "",
-        "frequenza_aggiornamento": "",
+        "contenuto": "Elenco delle società di cui l'amministrazione detiene direttamente quote di partecipazione anche minoritaria, con l'indicazione dell'entità, delle funzioni attribuite e delle attività svolte in favore dell'amministrazione o delle attività di servizio pubblico affidate, ad esclusione delle società, partecipate da amministrazioni pubbliche, con azioni quotate in mercati regolamentati italiani o di altri paesi dell'Unione europea, e loro controllate (art. 22, c. 6, d.lgs. n. 33/2013). Per ciascuna delle società: 1)  ragione sociale; 2) misura dell'eventuale partecipazione dell'amministrazione; 3) durata dell'impegno; 4) onere complessivo a qualsiasi titolo gravante per l'anno sul bilancio dell'amministrazione; 5) numero dei rappresentanti dell'amministrazione negli organi di governo e trattamento economico complessivo a ciascuno di essi spettante; 6) risultati di bilancio degli ultimi tre esercizi finanziari; 7) incarichi di amministratore della società e relativo trattamento economico complessivo; Dichiarazione sulla insussistenza di una delle cause di inconferibilità dell'incarico (link al sito dell'ente); Collegamento con i siti istituzionali delle società partecipate.",
+        "frequenza_aggiornamento": "Annuale (art. 22, c. 1, d.lgs. n. 33/2013)",
         "persona_responsabile": ""
       }
     },
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9476, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "Provvedimenti - Costituzione, acquisto e gestione",
         "riferimento_legislativo": [
-          {"uri": "", "title": ""}
+          {"uri": "#", "title": "Art. 22, c. 1. lett. d-bis, d.lgs. n. 33/2013"}
         ],
-        "contenuto": "",
-        "frequenza_aggiornamento": "",
+        "contenuto": "Provvedimenti in materia di costituzione di società a partecipazione pubblica, acquisto di partecipazioni in società già costituite, gestione delle partecipazioni pubbliche, alienazione di partecipazioni sociali, quotazione di società a controllo pubblico in mercati regolamentati e razionalizzazione periodica delle partecipazioni pubbliche, previsti dal decreto legislativo adottato ai sensi dell'articolo 18 della legge 7 agosto 2015, n. 124 (art. 20  d.lgs 175/2016)",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
         "persona_responsabile": ""
       }
     },
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9477, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "Provvedimenti - Obiettivi",
         "riferimento_legislativo": [
-          {"uri": "", "title": ""}
+          {"uri": "#", "title": "Art. 19, c. 7, d.lgs. n. 175/2016"}
         ],
-        "contenuto": "",
-        "frequenza_aggiornamento": "",
+        "contenuto": "Provvedimenti con cui le amministrazioni pubbliche socie fissano obiettivi specifici, annuali e pluriennali, sul complesso delle spese di funzionamento, ivi comprese quelle per il personale, delle società controllate. Provvedimenti con cui le società a controllo pubblico garantiscono il concreto perseguimento degli obiettivi specifici, annuali e pluriennali, sul complesso delle spese di funzionamento.",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
         "persona_responsabile": ""
       }
     },
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9478, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "Enti di diritto privato controllati",
         "riferimento_legislativo": [
-          {"uri": "", "title": ""}
+          {"uri": "#", "title": "Art. 22, c. 1, lett. c), d.lgs. n. 33/2013"},
+          {"uri": "#", "title": "Art. 22, c. 2, c. 3, d.lgs. n. 33/2013"},
+          {"uri": "#", "title": "Art. 20, c. 3, d.lgs. n. 39/2013"}
         ],
-        "contenuto": "",
-        "frequenza_aggiornamento": "",
+        "contenuto": "Elenco degli enti di diritto privato, comunque denominati, in controllo dell'amministrazione, con l'indicazione delle funzioni attribuite e delle attività svolte in favore dell'amministrazione o delle attività di servizio pubblico affidate. Per ciascuno degli enti: 1)  ragione sociale; 2) misura dell'eventuale partecipazione dell'amministrazione; 3) durata dell'impegno; 4) onere complessivo a qualsiasi titolo gravante per l'anno sul bilancio dell'amministrazione; 5) numero dei rappresentanti dell'amministrazione negli organi di governo e trattamento economico complessivo a ciascuno di essi spettante; 6) risultati di bilancio degli ultimi tre esercizi finanziari; 7) incarichi di amministratore dell'ente e relativo trattamento economico complessivo. Dichiarazione sulla insussistenza di una delle cause di inconferibilità dell'incarico (link al sito dell'ente). Collegamento con i siti istituzionali degli enti di diritto privato controllati.",
+        "frequenza_aggiornamento": "Annuale (art. 22, c. 1, d.lgs. n. 33/2013)",
         "persona_responsabile": ""
       }
     },
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9479, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "Rappresentazione grafica",
         "riferimento_legislativo": [
-          {"uri": "", "title": ""}
+          {"uri": "#", "title": "Art. 22, c. 1, lett. d), d.lgs. n. 33/2013"}
         ],
-        "contenuto": "",
-        "frequenza_aggiornamento": "",
+        "contenuto": "Una o più rappresentazioni grafiche che evidenziano i rapporti tra l'amministrazione e gli enti pubblici vigilati, le società partecipate, gli enti di diritto privato controllati.",
+        "frequenza_aggiornamento": "Annuale (art. 22, c. 1, d.lgs. n. 33/2013)",
         "persona_responsabile": ""
       }
     },
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9480, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "Dati aggregati attività amministrativa",
         "riferimento_legislativo": [
-          {"uri": "", "title": ""}
+          {"uri": "#", "title": "D.lgs. 97/2016"},
+          {"uri": "#", "title": "Art. 24, c. 1, d.lgs. n. 33/2013"}
         ],
-        "contenuto": "",
-        "frequenza_aggiornamento": "",
+        "contenuto": "Dati relativi alla attività amministrativa, in forma aggregata, per settori di attività, per competenza degli organi e degli uffici, per tipologia di procedimenti",
+        "frequenza_aggiornamento": "Dati non più soggetti a pubblicazione obbligatoria ai sensi del d.lgs. 97/2016",
         "persona_responsabile": ""
       }
     },
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9481, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "Tipologie di procedimento",
         "riferimento_legislativo": [
-          {"uri": "", "title": ""}
+          {"uri": "#", "title": "Art. 35, c. 1, lett. da a) ad m), d.lgs. n. 33/2013"},
+          {"uri": "#", "title": "Art. 1, c. 29, l. 190/2012"}
         ],
-        "contenuto": "",
-        "frequenza_aggiornamento": "",
-        "persona_responsabile": ""
+        "contenuto": "Per ciascuna tipologia di procedimento: 1) breve descrizione del procedimento con indicazione di tutti i riferimenti normativi utili; 2)  unità organizzative responsabili dell'istruttoria; 3) l'ufficio del procedimento, unitamente ai recapiti telefonici e alla casella di posta elettronica istituzionale; 4) ove diverso, l'ufficio competente all'adozione del provvedimento finale, con l'indicazione del nome del responsabile dell'ufficio unitamente ai rispettivi recapiti telefonici e alla casella di posta elettronica istituzionale; 5) modalità con le quali gli interessati possono ottenere le informazioni relative ai procedimenti in corso che li riguardino; 6) termine fissato in sede di disciplina normativa del procedimento per la conclusione con l'adozione di un provvedimento espresso e ogni altro termine procedimentale rilevante; 7) procedimenti per i quali il provvedimento dell'amministrazione può essere sostituito da una dichiarazione dell'interessato ovvero il procedimento può concludersi con il silenzio-assenso dell'amministrazione; 8) strumenti di tutela amministrativa e giurisdizionale, riconosciuti dalla legge in favore dell'interessato, nel corso del procedimento nei confronti del provvedimento finale ovvero nei casi di adozione del provvedimento oltre il termine predeterminato per la sua conclusione e i modi per attivarli; 9)  link di accesso al servizio on line, ove sia già disponibile in rete, o tempi previsti per la sua attivazione; 10) modalità per l'effettuazione dei pagamenti eventualmente necessari, con i codici IBAN identificativi del conto di pagamento, ovvero di imputazione del versamento in Tesoreria,  tramite i quali i soggetti versanti possono effettuare i pagamenti mediante bonifico bancario o postale, ovvero gli identificativi del conto corrente postale sul quale i soggetti versanti possono effettuare i pagamenti mediante bollettino postale, nonchè i codici identificativi del pagamento da indicare obbligatoriamente per il versamento; 11) nome del soggetto a cui è attribuito, in caso di inerzia, il potere sostitutivo, nonchè modalità per attivare tale potere, con indicazione dei recapiti telefonici e delle caselle di posta elettronica istituzionale. Per i procedimenti ad istanza di parte: 1) atti e documenti da allegare all'istanza e modulistica necessaria, compresi i fac-simile per le autocertificazioni; 2)  uffici ai quali rivolgersi per informazioni, orari e modalità di accesso con indicazione degli indirizzi, recapiti telefonici e caselle di posta elettronica istituzionale a cui presentare le istanze.",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
+        "persona_responsabile": "Dirigente Scolastico"
       }
     },
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9482, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "Monitoraggio tempi procedimentali",
         "riferimento_legislativo": [
-          {"uri": "", "title": ""}
+          {"uri": "#", "title": "D.lgs. 97/2016"},
+          {"uri": "#", "title": "Art. 24, c. 2, d.lgs. n. 33/2013"},
+          {"uri": "#", "title": "Art. 1, c. 28, l. n. 190/2012"}
         ],
-        "contenuto": "",
-        "frequenza_aggiornamento": "",
+        "contenuto": "Risultati del monitoraggio periodico concernente il rispetto dei tempi procedimentali",
+        "frequenza_aggiornamento": "Dati non più soggetti a pubblicazione obbligatoria ai sensi del d.lgs. 97/2016",
         "persona_responsabile": ""
       }
     },
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9483, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "Recapiti dell'ufficio responsabile",
         "riferimento_legislativo": [
-          {"uri": "", "title": ""}
+          {"uri": "#", "title": "Art. 35, c. 3, d.lgs. n. 33/2013"}
         ],
-        "contenuto": "",
-        "frequenza_aggiornamento": "",
-        "persona_responsabile": ""
+        "contenuto": "Recapiti telefonici e casella di posta elettronica istituzionale dell'ufficio responsabile per le attività volte a gestire, garantire e verificare la trasmissione dei dati o l'accesso diretto degli stessi da parte delle amministrazioni procedenti all'acquisizione d'ufficio dei dati e allo svolgimento dei controlli sulle dichiarazioni sostitutive.",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
+        "persona_responsabile": "Dirigente Scolastico"
       }
     },
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9484, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "Provvedimenti organi indirizzo politico",
         "riferimento_legislativo": [
-          {"uri": "", "title": ""}
+          {"uri": "#", "title": "D.lgs. 97/2016"},
+          {"uri": "#", "title": "Art. 23, c. 1, d.lgs. n. 33/2013"},
+          {"uri": "#", "title": "Art. 1, co. 16 della l. n. 190/2012"}
         ],
-        "contenuto": "",
-        "frequenza_aggiornamento": "",
+        "contenuto": "Elenco dei provvedimenti, con particolare riferimento ai provvedimenti finali dei procedimenti di: scelta del contraente per l'affidamento di lavori, forniture e servizi, anche con riferimento alla modalità di selezione prescelta (link alla sotto-sezione \"bandi di gara e contratti\"); accordi stipulati dall'amministrazione con soggetti privati o con altre amministrazioni pubbliche. ",
+        "frequenza_aggiornamento": "Dati non più soggetti a pubblicazione obbligatoria ai sensi del d.lgs. 97/2016",
         "persona_responsabile": ""
       }
     },
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9485, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "Provvedimenti dirigenti amministrativi",
         "riferimento_legislativo": [
-          {"uri": "", "title": ""}
+          {"uri": "#", "title": "D.lgs. 97/2016"},
+          {"uri": "#", "title": "Art. 23, c. 1, d.lgs. n. 33/2013"},
+          {"uri": "#", "title": "Art. 1, co. 16 della l. n. 190/2012 "}
         ],
-        "contenuto": "",
-        "frequenza_aggiornamento": "",
+        "contenuto": "Elenco dei provvedimenti, con particolare riferimento ai provvedimenti finali dei procedimenti di: scelta del contraente per l'affidamento di lavori, forniture e servizi, anche con riferimento alla modalità di selezione prescelta (link alla sotto-sezione \"bandi di gara e contratti\"); accordi stipulati dall'amministrazione con soggetti privati o con altre amministrazioni pubbliche. ",
+        "frequenza_aggiornamento": "Dati non più soggetti a pubblicazione obbligatoria ai sensi del d.lgs. 97/2016",
         "persona_responsabile": ""
       }
     },
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9486, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "Tipologie di controllo",
         "riferimento_legislativo": [
-          {"uri": "", "title": ""}
+          {"uri": "#", "title": "D.lgs. 97/2016"},
+          {"uri": "#", "title": "Art. 25, c. 1, lett. a), d.lgs. n. 33/2013"}
         ],
-        "contenuto": "",
-        "frequenza_aggiornamento": "",
+        "contenuto": "Elenco delle tipologie di controllo a cui sono assoggettate le imprese in ragione della dimensione e del settore di attività, con l'indicazione per ciascuna di esse dei criteri e delle relative modalità di svolgimento",
+        "frequenza_aggiornamento": "Dati non più soggetti a pubblicazione obbligatoria ai sensi del d.lgs. 97/2016",
         "persona_responsabile": ""
       }
     },
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9487, "uuid": "",
       "attributes": {
-        "denominazione": "",
+        "denominazione": "Obblighi e adempimenti",
         "riferimento_legislativo": [
-          {"uri": "", "title": ""}
+          {"uri": "#", "title": "D.lgs. 97/2016"},
+          {"uri": "#", "title": "Art. 25, c. 1, lett. b), d.lgs. n. 33/2013"}
         ],
-        "contenuto": "",
-        "frequenza_aggiornamento": "",
+        "contenuto": "Elenco degli obblighi e degli adempimenti oggetto delle attività di controllo che le imprese sono tenute a rispettare per ottemperare alle disposizioni normative ",
+        "frequenza_aggiornamento": "Dati non più soggetti a pubblicazione obbligatoria ai sensi del d.lgs. 97/2016",
         "persona_responsabile": ""
       }
     },
