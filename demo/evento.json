@@ -6,8 +6,8 @@
         "titolo": "Concerto",
         "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
         "descrizione_estesa": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.",
-        "data_ora_inizio": "2024-06-06T18:00:00",
-        "data_ora_fine": "2024-06-06T19:00:00",
+        "data_ora_inizio": "2024-12-06T18:00:00",
+        "data_ora_fine": "2024-12-06T19:00:00",
         "link": [
           {"uri": "https://example.com", "title": "Sito web evento"},
           {"uri": "https://example.com", "title": "Prenota un posto"}
@@ -58,8 +58,8 @@
         "titolo": "Manifestazione",
         "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
         "descrizione_estesa": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.",
-        "data_ora_inizio": "2024-06-07T18:00:00",
-        "data_ora_fine": "2024-06-07T19:00:00",
+        "data_ora_inizio": "2024-12-07T18:00:00",
+        "data_ora_fine": "2024-12-07T19:00:00",
         "link": [
           {"uri": "https://example.com", "title": "Sito web evento"},
           {"uri": "https://example.com", "title": "Prenota un posto"}
@@ -110,8 +110,8 @@
         "titolo": "Spettacolo teatrale",
         "abstract": "Lorem ipsum dolor sit amet, 'consetetur sadipscing elitr', sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
         "descrizione_estesa": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.",
-        "data_ora_inizio": "2024-06-08T18:00:00",
-        "data_ora_fine": "2024-06-08T19:00:00",
+        "data_ora_inizio": "2024-12-08T18:00:00",
+        "data_ora_fine": "2024-12-08T19:00:00",
         "link": [
           {"uri": "https://example.com", "title": "Sito web evento"},
           {"uri": "https://example.com", "title": "Prenota un posto"}
@@ -166,8 +166,8 @@
         "titolo": "Convegno",
         "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
         "descrizione_estesa": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.",
-        "data_ora_inizio": "2024-06-09T18:00:00",
-        "data_ora_fine": "2024-06-09T19:00:00",
+        "data_ora_inizio": "2024-12-09T18:00:00",
+        "data_ora_fine": "2024-12-09T19:00:00",
         "link": [
           {"uri": "https://example.com", "title": "Sito web evento"},
           {"uri": "https://example.com", "title": "Prenota un posto"}
@@ -220,8 +220,8 @@
         "titolo": "Giochi sportivi",
         "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
         "descrizione_estesa": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.",
-        "data_ora_inizio": "2024-06-10T18:00:00",
-        "data_ora_fine": "2024-06-20T19:00:00",
+        "data_ora_inizio": "2024-12-10T18:00:00",
+        "data_ora_fine": "2024-12-20T19:00:00",
         "link": [
           {"uri": "https://example.com", "title": "Sito web evento"},
           {"uri": "https://example.com", "title": "Prenota un posto"}
@@ -274,8 +274,8 @@
         "titolo": "Giochi matematici",
         "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
         "descrizione_estesa": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.",
-        "data_ora_inizio": "2024-06-11T18:00:00",
-        "data_ora_fine": "2024-06-13T19:00:00",
+        "data_ora_inizio": "2024-12-11T18:00:00",
+        "data_ora_fine": "2024-12-13T19:00:00",
         "link": [
           {"uri": "https://example.com", "title": "Sito web evento"},
           {"uri": "https://example.com", "title": "Prenota un posto"}
@@ -328,8 +328,8 @@
         "titolo": "Torneo di scacchi",
         "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
         "descrizione_estesa": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.",
-        "data_ora_inizio": "2024-06-12T18:00:00",
-        "data_ora_fine": "2024-06-12T19:00:00",
+        "data_ora_inizio": "2024-12-12T18:00:00",
+        "data_ora_fine": "2024-12-12T19:00:00",
         "link": [
           {"uri": "https://example.com", "title": "Sito web evento"},
           {"uri": "https://example.com", "title": "Prenota un posto"}
@@ -382,8 +382,8 @@
         "titolo": "Rappresentazione teatrale",
         "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
         "descrizione_estesa": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.",
-        "data_ora_inizio": "2024-06-13T18:00:00",
-        "data_ora_fine": "2024-06-13T19:00:00",
+        "data_ora_inizio": "2024-12-13T18:00:00",
+        "data_ora_fine": "2024-12-13T19:00:00",
         "link": [
           {"uri": "https://example.com", "title": "Sito web evento"},
           {"uri": "https://example.com", "title": "Prenota un posto"}
