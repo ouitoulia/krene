@@ -5,7 +5,7 @@
       "attributes": {
         "denominazione": "Piano triennale per la prevenzione della corruzione e della trasparenza (PTPCT)",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 10, c. 8, lett. a), d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 10, c. 8, lett. a), d.lgs. n. 33/2013"}
         ],
         "contenuto": "Piano triennale per la prevenzione della corruzione e della trasparenza e suoi allegati, le misure integrative di prevenzione della corruzione individuate ai sensi dell’articolo 1,comma 2-bis della legge n. 190 del 2012, (MOG 231) (link alla sotto-sezione Altri contenuti/Anticorruzione)",
         "frequenza_aggiornamento": "Annuale",
@@ -18,7 +18,7 @@
       "attributes": {
         "denominazione": "Riferimenti normativi su organizzazione e attività",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 12, c. 1, d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 12, c. 1, d.lgs. n. 33/2013"}
         ],
         "contenuto": "Riferimenti normativi con i relativi link alle norme di legge statale pubblicate nella banca dati \"Normattiva\" che regolano l'istituzione, l'organizzazione e l'attività delle pubbliche amministrazioni.",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -30,7 +30,7 @@
       "attributes": {
         "denominazione": "Atti amministrativi generali",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 12, c. 1, d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 12, c. 1, d.lgs. n. 33/2013"}
         ],
         "contenuto": "Direttive, circolari, programmi, istruzioni e ogni atto che dispone in generale sulla organizzazione, sulle funzioni, sugli obiettivi, sui procedimenti, ovvero nei quali si determina l'interpretazione di norme giuridiche che riguardano o dettano disposizioni per l'applicazione di esse.",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -42,7 +42,7 @@
       "attributes": {
         "denominazione": "Documenti di programmazione strategico-gestionale",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 12, c. 1, d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 12, c. 1, d.lgs. n. 33/2013"}
         ],
         "contenuto": "Direttive ministri, documento di programmazione, obiettivi strategici in materia di prevenzione della corruzione e trasparenza.",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -54,8 +54,8 @@
       "attributes": {
         "denominazione": "Codice disciplinare e codice di condotta",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 55, c. 2, d.lgs. n. 165/2001"},
-          {"uri": "#", "title": "Art. 12, c. 1, d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2001/03/30/165/CONSOLIDATED/20240619", "title": "Art. 55, c. 2, d.lgs. n. 165/2001"},
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 12, c. 1, d.lgs. n. 33/2013"}
         ],
         "contenuto": "Codice disciplinare, recante l'indicazione delle  infrazioni del codice disciplinare e relative sanzioni (pubblicazione on line in alternativa all'affissione in luogo accessibile a tutti - art. 7, l. n. 300/1970). Codice di condotta inteso quale codice di comportamento.",
         "frequenza_aggiornamento": "Tempestivo",
@@ -68,7 +68,7 @@
       "attributes": {
         "denominazione": "Scadenzario obblighi amministrativi",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 12, c. 1-bis, d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 12, c. 1-bis, d.lgs. n. 33/2013"}
         ],
         "contenuto": "Scadenzario con l'indicazione delle date di efficacia dei nuovi obblighi amministrativi a carico di cittadini e imprese introdotti dalle amministrazioni secondo le modalità definite con DPCM 8 novembre 2013.",
         "frequenza_aggiornamento": "Tempestivo",
@@ -80,8 +80,8 @@
       "attributes": {
         "denominazione": "Oneri informativi per cittadini e imprese",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "D.lgs. 97/2016"},
-          {"uri": "#", "title": "Art. 34, d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/05/25/97/ORIGINAL", "title": "D.lgs. 97/2016"},
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 34, d.lgs. n. 33/2013"}
         ],
         "contenuto": "Regolamenti ministeriali o interministeriali, provvedimenti amministrativi a carattere generale adottati dalle amministrazioni dello Stato per regolare l'esercizio di poteri autorizzatori, concessori o certificatori, nonchè l'accesso ai servizi pubblici ovvero la concessione di benefici con allegato elenco di tutti gli oneri informativi gravanti sui cittadini e sulle imprese introdotti o eliminati con i medesimi atti.",
         "frequenza_aggiornamento": "Dati non più soggetti a pubblicazione obbligatoria ai sensi del d.lgs. 97/2016.",
@@ -94,8 +94,8 @@
       "attributes": {
         "denominazione": "Burocrazia zero",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "D.lgs. 10/2016"},
-          {"uri": "#", "title": "Art. 37, c. 3, d.l. n. 69/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/01/22/10/ORIGINAL", "title": "D.lgs. 10/2016"},
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO-LEGGE/2013/06/21/69/CONSOLIDATED", "title": "Art. 37, c. 3, d.l. n. 69/2013"}
         ],
         "contenuto": "Casi in cui il rilascio delle autorizzazioni di competenza è sostituito da una comunicazione dell'interessato.",
         "frequenza_aggiornamento": "Dati non più soggetti a pubblicazione obbligatoria ai sensi del d.lgs. 10/2016",
@@ -107,8 +107,8 @@
       "attributes": {
         "denominazione": "Attività soggette a controllo",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "D.lgs. 10/2016"},
-          {"uri": "#", "title": "Art. 37, c. 3-bis, d.l. n. 69/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/01/22/10/ORIGINAL", "title": "D.lgs. 10/2016"},
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO-LEGGE/2013/06/21/69/CONSOLIDATED", "title": "Art. 37, c. 3-bis, d.l. n. 69/2013"}
         ],
         "contenuto": "Elenco delle attività delle imprese soggette a controllo (ovvero per le quali le pubbliche amministrazioni competenti ritengono necessarie l'autorizzazione, la segnalazione certificata di inizio attività o la mera comunicazione).",
         "frequenza_aggiornamento": "Dati non più soggetti a pubblicazione obbligatoria ai sensi del d.lgs. 10/2016",
@@ -122,7 +122,7 @@
       "attributes": {
         "denominazione": "Organi di indirizzo politico e di amministrazione e gestione",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 13, c. 1, lett. a), d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 13, c. 1, lett. a), d.lgs. n. 33/2013"}
         ],
         "contenuto": "Organi di indirizzo politico e di amministrazione e gestione, con l'indicazione delle rispettive competenze.",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -135,7 +135,7 @@
       "attributes": {
         "denominazione": "Titolari di incarichi politici - Atto di nomina o di proclamazione",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 14, c. 1, lett. a), d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, c. 1, lett. a), d.lgs. n. 33/2013"}
         ],
         "contenuto": "Atto di nomina o di proclamazione, con l'indicazione della durata dell'incarico o del mandato elettivo",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -147,7 +147,7 @@
       "attributes": {
         "denominazione": "Titolari di incarichi politici - Curriculum vitae",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 14, c. 1, lett. b), d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, c. 1, lett. b), d.lgs. n. 33/2013"}
         ],
         "contenuto": "Curriculum vitae",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -159,7 +159,7 @@
       "attributes": {
         "denominazione": "Titolari di incarichi politici - Compensi",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 14, c. 1, lett. c), d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, c. 1, lett. c), d.lgs. n. 33/2013"}
         ],
         "contenuto": "Compensi di qualsiasi natura connessi all'assunzione della carica",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -171,7 +171,7 @@
       "attributes": {
         "denominazione": "Titolari di incarichi politici - Importi di viaggi e missioni",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 14, c. 1, lett. c), d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, c. 1, lett. c), d.lgs. n. 33/2013"}
         ],
         "contenuto": "Importi di viaggi di servizio e missioni pagati con fondi pubblici",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -183,7 +183,7 @@
       "attributes": {
         "denominazione": "Titolari di incarichi politici - Assunzione altre cariche",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 14, c. 1, lett. d), d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, c. 1, lett. d), d.lgs. n. 33/2013"}
         ],
         "contenuto": "Dati relativi all'assunzione di altre cariche, presso enti pubblici o privati, e relativi compensi a qualsiasi titolo corrisposti.",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -195,7 +195,7 @@
       "attributes": {
         "denominazione": "Titolari di incarichi politici - Altri eventuali incarichi",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 14, c. 1, lett. e), d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, c. 1, lett. e), d.lgs. n. 33/2013"}
         ],
         "contenuto": "Altri eventuali incarichi con oneri a carico della finanza pubblica e indicazione dei compensi spettanti",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -207,8 +207,8 @@
       "attributes": {
         "denominazione": "Titolari di incarichi politici - Dichiarazioni punto 1",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 14, c. 1, lett. f), d.lgs. n. 33/2013"},
-          {"uri": "#", "title": "Art. 2, c. 1, punto 1, l. n. 441/1982"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, c. 1, lett. f), d.lgs. n. 33/2013"},
+          {"uri": "https://www.normattiva.it/eli/stato/LEGGE/1982/07/05/441/CONSOLIDATED", "title": "Art. 2, c. 1, punto 1, l. n. 441/1982"}
         ],
         "contenuto": "Dichiarazione concernente diritti reali su beni immobili e su beni mobili iscritti in pubblici registri, titolarità di imprese, azioni di società, quote di partecipazione a società, esercizio di funzioni di amministratore o di sindaco di società, con l'apposizione della formula «sul mio onore affermo che la dichiarazione corrisponde al vero» [Per il soggetto, il coniuge non separato e i parenti entro il secondo grado, ove gli stessi vi consentano (NB: dando eventualmente evidenza del mancato consenso) e riferita al momento dell'assunzione dell'incarico].",
         "frequenza_aggiornamento": "Nessuno (va presentata una sola volta entro 3 mesi dalla elezione, dalla nomina o dal conferimento dell'incarico e resta pubblicata fino alla cessazione dell'incarico o del mandato).",
@@ -220,8 +220,8 @@
       "attributes": {
         "denominazione": "Titolari di incarichi politici - Dichiarazioni punto 2",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 14, c. 1, lett. f), d.lgs. n. 33/2013"},
-          {"uri": "#", "title": "Art. 2, c. 1, punto 2, l. n. 441/1982"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, c. 1, lett. f), d.lgs. n. 33/2013"},
+          {"uri": "https://www.normattiva.it/eli/stato/LEGGE/1982/07/05/441/CONSOLIDATED", "title": "Art. 2, c. 1, punto 2, l. n. 441/1982"}
         ],
         "contenuto": "Copia dell'ultima dichiarazione dei redditi soggetti all'imposta sui redditi delle persone fisiche [Per il soggetto, il coniuge non separato e i parenti entro il secondo grado, ove gli stessi vi consentano (NB: dando eventualmente evidenza del mancato consenso)] (NB: è necessario limitare, con appositi accorgimenti a cura dell'interessato o della amministrazione, la pubblicazione dei dati sensibili).",
         "frequenza_aggiornamento": "Entro 3 mesi dalla elezione, dalla nomina o dal conferimento dell'incarico.",
@@ -233,8 +233,8 @@
       "attributes": {
         "denominazione": "Titolari di incarichi politici - Dichiarazioni punto 3",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 14, c. 1, lett. f), d.lgs. n. 33/2013"},
-          {"uri": "#", "title": "Art. 2, c. 1, punto 3, l. n. 441/1982"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, c. 1, lett. f), d.lgs. n. 33/2013"},
+          {"uri": "https://www.normattiva.it/eli/stato/LEGGE/1982/07/05/441/CONSOLIDATED", "title": "Art. 2, c. 1, punto 3, l. n. 441/1982"}
         ],
         "contenuto": "Dichiarazione concernente le spese sostenute e le obbligazioni assunte per la propaganda elettorale ovvero attestazione di essersi avvalsi esclusivamente di materiali e di mezzi propagandistici predisposti e messi a disposizione dal partito o dalla formazione politica della cui lista il soggetto ha fatto parte, con l'apposizione della formula «sul mio onore affermo che la dichiarazione corrisponde al vero» (con allegate copie delle dichiarazioni relative a finanziamenti e contributi per un importo che nell'anno superi 5.000 €).",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -246,8 +246,8 @@
       "attributes": {
         "denominazione": "Titolari di incarichi politici - Dichiarazioni art. 3",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 14, c. 1, lett. f), d.lgs. n. 33/2013"},
-          {"uri": "#", "title": "Art. 3, l. n. 441/1982"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, c. 1, lett. f), d.lgs. n. 33/2013"},
+          {"uri": "https://www.normattiva.it/eli/stato/LEGGE/1982/07/05/441/CONSOLIDATED", "title": "Art. 3, l. n. 441/1982"}
         ],
         "contenuto": "Attestazione concernente le variazioni della situazione patrimoniale intervenute nell'anno precedente e copia della dichiarazione dei redditi [Per il soggetto, il coniuge non separato e i parenti entro il secondo grado, ove gli stessi vi consentano (NB: dando eventualmente evidenza del mancato consenso)].",
         "frequenza_aggiornamento": "Annuale",
@@ -260,8 +260,8 @@
       "attributes": {
         "denominazione": "Titolari di incarichi di amministrazione, di direzione o di governo - Atto di nomina o di proclamazione",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
-          {"uri": "#", "title": "Art. 14, c. 1, lett. a), d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, c. 1, lett. a), d.lgs. n. 33/2013"}
         ],
         "contenuto": "Atto di nomina o di proclamazione, con l'indicazione della durata dell'incarico o del mandato elettivo",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -273,8 +273,8 @@
       "attributes": {
         "denominazione": "Titolari di incarichi di amministrazione, di direzione o di governo - Curriculum vitae",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
-          {"uri": "#", "title": "Art. 14, c. 1, lett. b), d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, c. 1, lett. b), d.lgs. n. 33/2013"}
         ],
         "contenuto": "Curriculum vitae",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -286,8 +286,8 @@
       "attributes": {
         "denominazione": "Titolari di incarichi di amministrazione, di direzione o di governo - Compensi",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
-          {"uri": "#", "title": "Art. 14, c. 1, lett. c), d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, c. 1, lett. c), d.lgs. n. 33/2013"}
         ],
         "contenuto": "Compensi di qualsiasi natura connessi all'assunzione della carica",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -299,8 +299,8 @@
       "attributes": {
         "denominazione": "Titolari di incarichi di amministrazione, di direzione o di governo - Importi di viaggi e missioni",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
-          {"uri": "#", "title": "Art. 14, c. 1, lett. c), d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, c. 1, lett. c), d.lgs. n. 33/2013"}
         ],
         "contenuto": "Importi di viaggi di servizio e missioni pagati con fondi pubblici",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -312,8 +312,8 @@
       "attributes": {
         "denominazione": "Titolari di incarichi di amministrazione, di direzione o di governo - Assunzione altre cariche",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
-          {"uri": "#", "title": "Art. 14, c. 1, lett. d), d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, c. 1, lett. d), d.lgs. n. 33/2013"}
         ],
         "contenuto": "Dati relativi all'assunzione di altre cariche, presso enti pubblici o privati, e relativi compensi a qualsiasi titolo corrisposti.",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -325,8 +325,8 @@
       "attributes": {
         "denominazione": "Titolari di incarichi di amministrazione, di direzione o di governo - Altri eventuali incarichi",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
-          {"uri": "#", "title": "Art. 14, c. 1, lett. e), d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, c. 1, lett. e), d.lgs. n. 33/2013"}
         ],
         "contenuto": "Altri eventuali incarichi con oneri a carico della finanza pubblica e indicazione dei compensi spettanti",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -338,9 +338,9 @@
       "attributes": {
         "denominazione": "Titolari di incarichi di amministrazione, di direzione o di governo - Dichiarazioni punto 1",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
-          {"uri": "#", "title": "Art. 14, c. 1, lett. f), d.lgs. n. 33/2013"},
-          {"uri": "#", "title": "Art. 2, c. 1, punto 1, l. n. 441/1982"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, c. 1, lett. f), d.lgs. n. 33/2013"},
+          {"uri": "https://www.normattiva.it/eli/stato/LEGGE/1982/07/05/441/CONSOLIDATED", "title": "Art. 2, c. 1, punto 1, l. n. 441/1982"}
         ],
         "contenuto": "Dichiarazione concernente diritti reali su beni immobili e su beni mobili iscritti in pubblici registri, titolarità di imprese, azioni di società, quote di partecipazione a società, esercizio di funzioni di amministratore o di sindaco di società, con l'apposizione della formula «sul mio onore affermo che la dichiarazione corrisponde al vero» [Per il soggetto, il coniuge non separato e i parenti entro il secondo grado, ove gli stessi vi consentano (NB: dando eventualmente evidenza del mancato consenso) e riferita al momento dell'assunzione dell'incarico].",
         "frequenza_aggiornamento": "Nessuno (va presentata una sola volta entro 3 mesi dalla elezione, dalla nomina o dal conferimento dell'incarico e resta pubblicata fino alla cessazione dell'incarico o del mandato).",
@@ -352,9 +352,9 @@
       "attributes": {
         "denominazione": "Titolari di incarichi di amministrazione, di direzione o di governo - Dichiarazioni punto 2",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
-          {"uri": "#", "title": "Art. 14, c. 1, lett. f), d.lgs. n. 33/2013"},
-          {"uri": "#", "title": "Art. 2, c. 1, punto 2, l. n. 441/1982"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, c. 1, lett. f), d.lgs. n. 33/2013"},
+          {"uri": "https://www.normattiva.it/eli/stato/LEGGE/1982/07/05/441/CONSOLIDATED", "title": "Art. 2, c. 1, punto 2, l. n. 441/1982"}
         ],
         "contenuto": "Copia dell'ultima dichiarazione dei redditi soggetti all'imposta sui redditi delle persone fisiche [Per il soggetto, il coniuge non separato e i parenti entro il secondo grado, ove gli stessi vi consentano (NB: dando eventualmente evidenza del mancato consenso)] (NB: è necessario limitare, con appositi accorgimenti a cura dell'interessato o della amministrazione, la pubblicazione dei dati sensibili).",
         "frequenza_aggiornamento": "Entro 3 mesi dalla elezione, dalla nomina o dal conferimento dell'incarico.",
@@ -366,9 +366,9 @@
       "attributes": {
         "denominazione": "Titolari di incarichi di amministrazione, di direzione o di governo - Dichiarazioni punto 3",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
-          {"uri": "#", "title": "Art. 14, c. 1, lett. f), d.lgs. n. 33/2013"},
-          {"uri": "#", "title": "Art. 2, c. 1, punto 3, l. n. 441/1982"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, c. 1, lett. f), d.lgs. n. 33/2013"},
+          {"uri": "https://www.normattiva.it/eli/stato/LEGGE/1982/07/05/441/CONSOLIDATED", "title": "Art. 2, c. 1, punto 3, l. n. 441/1982"}
         ],
         "contenuto": "Dichiarazione concernente le spese sostenute e le obbligazioni assunte per la propaganda elettorale ovvero attestazione di essersi avvalsi esclusivamente di materiali e di mezzi propagandistici predisposti e messi a disposizione dal partito o dalla formazione politica della cui lista il soggetto ha fatto parte, con l'apposizione della formula «sul mio onore affermo che la dichiarazione corrisponde al vero» (con allegate copie delle dichiarazioni relative a finanziamenti e contributi per un importo che nell'anno superi 5.000 €).",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -380,9 +380,9 @@
       "attributes": {
         "denominazione": "Titolari di incarichi di amministrazione, di direzione o di governo - Dichiarazioni art. 3",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
-          {"uri": "#", "title": "Art. 14, c. 1, lett. f), d.lgs. n. 33/2013"},
-          {"uri": "#", "title": "Art. 3, l. n. 441/1982"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, c. 1, lett. f), d.lgs. n. 33/2013"},
+          {"uri": "https://www.normattiva.it/eli/stato/LEGGE/1982/07/05/441/CONSOLIDATED", "title": "Art. 3, l. n. 441/1982"}
         ],
         "contenuto": "Attestazione concernente le variazioni della situazione patrimoniale intervenute nell'anno precedente e copia della dichiarazione dei redditi [Per il soggetto, il coniuge non separato e i parenti entro il secondo grado, ove gli stessi vi consentano (NB: dando eventualmente evidenza del mancato consenso)].",
         "frequenza_aggiornamento": "Annuale",
@@ -395,8 +395,8 @@
       "attributes": {
         "denominazione": "Cessati dall'incarico - Atto di nomina o di proclamazione",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
-          {"uri": "#", "title": "Art. 14, c. 1, lett. a), d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, c. 1, lett. a), d.lgs. n. 33/2013"}
         ],
         "contenuto": "Atto di nomina o di proclamazione, con l'indicazione della durata dell'incarico o del mandato elettivo",
         "frequenza_aggiornamento": "Nessuno",
@@ -408,8 +408,8 @@
       "attributes": {
         "denominazione": "Cessati dall'incarico - Curriculum vitae",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
-          {"uri": "#", "title": "Art. 14, c. 1, lett. b), d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, c. 1, lett. b), d.lgs. n. 33/2013"}
         ],
         "contenuto": "Curriculum vitae",
         "frequenza_aggiornamento": "Nessuno",
@@ -421,8 +421,8 @@
       "attributes": {
         "denominazione": "Cessati dall'incarico - Compensi",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
-          {"uri": "#", "title": "Art. 14, c. 1, lett. c), d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, c. 1, lett. c), d.lgs. n. 33/2013"}
         ],
         "contenuto": "Compensi di qualsiasi natura connessi all'assunzione della carica",
         "frequenza_aggiornamento": "Nessuno",
@@ -434,8 +434,8 @@
       "attributes": {
         "denominazione": "Cessati dall'incarico - Importi di viaggi e missioni",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
-          {"uri": "#", "title": "Art. 14, c. 1, lett. c), d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, c. 1, lett. c), d.lgs. n. 33/2013"}
         ],
         "contenuto": "Importi di viaggi di servizio e missioni pagati con fondi pubblici",
         "frequenza_aggiornamento": "Nessuno",
@@ -447,8 +447,8 @@
       "attributes": {
         "denominazione": "Cessati dall'incarico - Assunzione altre cariche",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
-          {"uri": "#", "title": "Art. 14, c. 1, lett. d), d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, c. 1, lett. d), d.lgs. n. 33/2013"}
         ],
         "contenuto": "Dati relativi all'assunzione di altre cariche, presso enti pubblici o privati, e relativi compensi a qualsiasi titolo corrisposti.",
         "frequenza_aggiornamento": "Nessuno",
@@ -460,8 +460,8 @@
       "attributes": {
         "denominazione": "Cessati dall'incarico - Altri eventuali incarichi",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
-          {"uri": "#", "title": "Art. 14, c. 1, lett. e), d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, c. 1, lett. e), d.lgs. n. 33/2013"}
         ],
         "contenuto": "Altri eventuali incarichi con oneri a carico della finanza pubblica e indicazione dei compensi spettanti",
         "frequenza_aggiornamento": "Nessuno",
@@ -473,9 +473,9 @@
       "attributes": {
         "denominazione": "Cessati dall'incarico - Dichiarazioni punto 1",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
-          {"uri": "#", "title": "Art. 14, c. 1, lett. f), d.lgs. n. 33/2013"},
-          {"uri": "#", "title": "Art. 2, c. 1, punto 1, l. n. 441/1982"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, c. 1, lett. f), d.lgs. n. 33/2013"},
+          {"uri": "https://www.normattiva.it/eli/stato/LEGGE/1982/07/05/441/CONSOLIDATED", "title": "Art. 2, c. 1, punto 1, l. n. 441/1982"}
         ],
         "contenuto": "Dichiarazione concernente diritti reali su beni immobili e su beni mobili iscritti in pubblici registri, titolarità di imprese, azioni di società, quote di partecipazione a società, esercizio di funzioni di amministratore o di sindaco di società, con l'apposizione della formula «sul mio onore affermo che la dichiarazione corrisponde al vero» [Per il soggetto, il coniuge non separato e i parenti entro il secondo grado, ove gli stessi vi consentano (NB: dando eventualmente evidenza del mancato consenso) e riferita al momento dell'assunzione dell'incarico].",
         "frequenza_aggiornamento": "Nessuno",
@@ -487,9 +487,9 @@
       "attributes": {
         "denominazione": "Cessati dall'incarico - Dichiarazioni punto 2",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
-          {"uri": "#", "title": "Art. 14, c. 1, lett. f), d.lgs. n. 33/2013"},
-          {"uri": "#", "title": "Art. 2, c. 1, punto 2, l. n. 441/1982"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, c. 1, lett. f), d.lgs. n. 33/2013"},
+          {"uri": "https://www.normattiva.it/eli/stato/LEGGE/1982/07/05/441/CONSOLIDATED", "title": "Art. 2, c. 1, punto 2, l. n. 441/1982"}
         ],
         "contenuto": "Copia dell'ultima dichiarazione dei redditi soggetti all'imposta sui redditi delle persone fisiche [Per il soggetto, il coniuge non separato e i parenti entro il secondo grado, ove gli stessi vi consentano (NB: dando eventualmente evidenza del mancato consenso)] (NB: è necessario limitare, con appositi accorgimenti a cura dell'interessato o della amministrazione, la pubblicazione dei dati sensibili).",
         "frequenza_aggiornamento": "Nessuno",
@@ -501,9 +501,9 @@
       "attributes": {
         "denominazione": "Cessati dall'incarico - Dichiarazioni punto 3",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
-          {"uri": "#", "title": "Art. 14, c. 1, lett. f), d.lgs. n. 33/2013"},
-          {"uri": "#", "title": "Art. 2, c. 1, punto 3, l. n. 441/1982"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, c. 1, lett. f), d.lgs. n. 33/2013"},
+          {"uri": "https://www.normattiva.it/eli/stato/LEGGE/1982/07/05/441/CONSOLIDATED", "title": "Art. 2, c. 1, punto 3, l. n. 441/1982"}
         ],
         "contenuto": "Dichiarazione concernente le spese sostenute e le obbligazioni assunte per la propaganda elettorale ovvero attestazione di essersi avvalsi esclusivamente di materiali e di mezzi propagandistici predisposti e messi a disposizione dal partito o dalla formazione politica della cui lista il soggetto ha fatto parte, con l'apposizione della formula «sul mio onore affermo che la dichiarazione corrisponde al vero» (con allegate copie delle dichiarazioni relative a finanziamenti e contributi per un importo che nell'anno superi 5.000 €).",
         "frequenza_aggiornamento": "Nessuno",
@@ -515,9 +515,9 @@
       "attributes": {
         "denominazione": "Cessati dall'incarico - Dichiarazioni art. 3",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
-          {"uri": "#", "title": "Art. 14, c. 1, lett. f), d.lgs. n. 33/2013"},
-          {"uri": "#", "title": "Art. 3, l. n. 441/1982"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, c. 1, lett. f), d.lgs. n. 33/2013"},
+          {"uri": "https://www.normattiva.it/eli/stato/LEGGE/1982/07/05/441/CONSOLIDATED", "title": "Art. 3, l. n. 441/1982"}
         ],
         "contenuto": "Attestazione concernente le variazioni della situazione patrimoniale intervenute nell'anno precedente e copia della dichiarazione dei redditi [Per il soggetto, il coniuge non separato e i parenti entro il secondo grado, ove gli stessi vi consentano (NB: dando eventualmente evidenza del mancato consenso)].",
         "frequenza_aggiornamento": "Nessuno (va presentata una sola volta entro 3 mesi dalla cessazione dell' incarico).",
@@ -530,7 +530,7 @@
       "attributes": {
         "denominazione": "Sanzioni per mancata o incompleta comunicazione dei dati da parte dei titolari di incarichi politici, di amministrazione, di direzione o di governo",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 47, c. 1, d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 47, c. 1, d.lgs. n. 33/2013"}
         ],
         "contenuto": "Provvedimenti sanzionatori a carico del responsabile della mancata o incompleta comunicazione dei dati di cui all'articolo 14, concernenti la situazione patrimoniale complessiva del titolare dell'incarico al momento dell'assunzione della carica, la titolarità di imprese, le partecipazioni azionarie proprie nonché tutti i compensi cui dà diritto l'assunzione della carica.",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -543,7 +543,7 @@
       "attributes": {
         "denominazione": "Rendiconti gruppi consiliari regionali/provinciali",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 28, c. 1, d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 28, c. 1, d.lgs. n. 33/2013"}
         ],
         "contenuto": "Rendiconti di esercizio annuale dei gruppi consiliari regionali e provinciali, con evidenza delle risorse trasferite o assegnate a ciascun gruppo, con indicazione del titolo di trasferimento e dell'impiego delle risorse utilizzate.",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -555,7 +555,7 @@
       "attributes": {
         "denominazione": "Atti degli organi di controllo",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 28, c. 1, d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 28, c. 1, d.lgs. n. 33/2013"}
         ],
         "contenuto": "Atti e relazioni degli organi di controllo.",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -568,7 +568,7 @@
       "attributes": {
         "denominazione": "Articolazione degli uffici",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 13, c. 1, lett. b), d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 13, c. 1, lett. b), d.lgs. n. 33/2013"}
         ],
         "contenuto": "Indicazione delle competenze di ciascun ufficio, anche di livello dirigenziale non generale, i nomi dei dirigenti responsabili dei singoli uffici.",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -581,7 +581,7 @@
       "attributes": {
         "denominazione": "Organigramma - Illustrazione in forma semplificata",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 13, c. 1, lett. c), d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 13, c. 1, lett. c), d.lgs. n. 33/2013"}
         ],
         "contenuto": "Illustrazione in forma semplificata, ai fini della piena accessibilità e comprensibilità dei dati, dell'organizzazione dell'amministrazione, mediante l'organigramma o analoghe rappresentazioni grafiche.",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -593,7 +593,7 @@
       "attributes": {
         "denominazione": "Organigramma - Nomi dei dirigenti",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 13, c. 1, lett. b), d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 13, c. 1, lett. b), d.lgs. n. 33/2013"}
         ],
         "contenuto": "Nomi dei dirigenti responsabili dei singoli uffici.",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -606,7 +606,7 @@
       "attributes": {
         "denominazione": "Telefono e posta elettronica",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 13, c. 1, lett. d), d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 13, c. 1, lett. d), d.lgs. n. 33/2013"}
         ],
         "contenuto": "Elenco completo dei numeri di telefono e delle caselle di posta elettronica istituzionali e delle caselle di posta elettronica certificata dedicate, cui il cittadino possa rivolgersi per qualsiasi richiesta inerente i compiti istituzionali.",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -620,9 +620,9 @@
       "attributes": {
         "denominazione": "Consulenti e collaboratori",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 53, c. 14, d.lgs. n. 165/2001"},
-          {"uri": "#", "title": "Art. 15, c. 1, lett. b), c) e d) d.lgs. n. 33/2013"},
-          {"uri": "#", "title": "Art. 15, c. 2, d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2001/03/30/165/CONSOLIDATED/20240619", "title": "Art. 53, c. 14, d.lgs. n. 165/2001"},
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 15, c. 1, lett. b), c) e d) d.lgs. n. 33/2013"},
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 15, c. 2, d.lgs. n. 33/2013"}
         ],
         "contenuto": "Estremi degli atti di conferimento di incarichi di collaborazione o di consulenza a soggetti esterni a qualsiasi titolo (compresi quelli affidati con contratto di collaborazione coordinata e continuativa) con indicazione dei soggetti percettori, della ragione dell'incarico e dell'ammontare erogato. Per ciascun titolare di incarico: 1) curriculum vitae, redatto in conformità al vigente modello europeo [Art. 15, c. 1, lett. b), d.lgs. n. 33/2013]; 2) dati relativi allo svolgimento di incarichi o alla titolarità di cariche in enti di diritto privato regolati o finanziati dalla pubblica amministrazione o allo svolgimento di attività professionali [Art. 15, c. 1, lett. c), d.lgs. n. 33/2013]; 3) compensi comunque denominati, relativi al rapporto di lavoro, di consulenza o di collaborazione (compresi quelli affidati con contratto di collaborazione coordinata e continuativa), con specifica evidenza delle eventuali componenti variabili o legate alla valutazione del risultato [Art. 15, c. 1, lett. d), d.lgs. n. 33/2013]. Tabelle relative agli elenchi dei consulenti con indicazione di oggetto, durata e compenso dell'incarico (comunicate alla Funzione pubblica) [Art. 15, c. 2, d.lgs. n. 33/2013, Art. 53, c. 14, d.lgs. n. 165/2001]. Attestazione dell'avvenuta verifica dell'insussistenza di situazioni, anche potenziali, di conflitto di interesse [Art. 53, c. 14, d.lgs. n. 165/2001].",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -634,10 +634,10 @@
       "attributes": {
         "denominazione": "Incarichi amministrativi di vertice",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 20, c. 3, d.lgs. n. 39/2013"},
-          {"uri": "#", "title": "Art. 14, c. 1, lett. da a) ad f) e c. 1-bis, d.lgs. n. 33/2013"},
-          {"uri": "#", "title": "Art. 14, c. 1-ter, secondo periodo, d.lgs. n. 33/2013"},
-          {"uri": "#", "title": "Art. 2, c. 1, punto 1 e 2, l. n. 441/1982"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/04/08/39/CONSOLIDATED/20240619", "title": "Art. 20, c. 3, d.lgs. n. 39/2013"},
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, c. 1, lett. da a) ad f) e c. 1-bis, d.lgs. n. 33/2013"},
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, c. 1-ter, secondo periodo, d.lgs. n. 33/2013"},
+          {"uri": "https://www.normattiva.it/eli/stato/LEGGE/1982/07/05/441/CONSOLIDATED", "title": "Art. 2, c. 1, punto 1 e 2, l. n. 441/1982"}
         ],
         "contenuto": "",
         "frequenza_aggiornamento": "",
@@ -649,10 +649,10 @@
       "attributes": {
         "denominazione": "Incarichi dirigenziali, a qualsiasi titolo conferiti, ivi inclusi quelli conferiti discrezionalmente dall'organo di indirizzo politico senza procedure pubbliche di selezione e titolari di posizione organizzativa con funzioni dirigenziali",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 20, c. 3, d.lgs. n. 39/2013"},
-          {"uri": "#", "title": "Art. 14, c. 1, lett. da a) ad f) e c. 1-bis, d.lgs. n. 33/2013"},
-          {"uri": "#", "title": "Art. 14, c. 1-ter, secondo periodo, d.lgs. n. 33/2013"},
-          {"uri": "#", "title": "Art. 2, c. 1, punto 1 e 2, l. n. 441/1982"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/04/08/39/CONSOLIDATED/20240619", "title": "Art. 20, c. 3, d.lgs. n. 39/2013"},
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, c. 1, lett. da a) ad f) e c. 1-bis, d.lgs. n. 33/2013"},
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, c. 1-ter, secondo periodo, d.lgs. n. 33/2013"},
+          {"uri": "https://www.normattiva.it/eli/stato/LEGGE/1982/07/05/441/CONSOLIDATED", "title": "Art. 2, c. 1, punto 1 e 2, l. n. 441/1982"}
         ],
         "contenuto": "",
         "frequenza_aggiornamento": "",
@@ -664,8 +664,8 @@
       "attributes": {
         "denominazione": "Elenco posizioni dirigenziali discrezionali",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "D.lgs. 97/2016"},
-          {"uri": "#", "title": "Art. 15, c. 5, d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/05/25/97/ORIGINAL", "title": "D.lgs. 97/2016"},
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 15, c. 5, d.lgs. n. 33/2013"}
         ],
         "contenuto": "Elenco delle posizioni dirigenziali, integrato dai relativi titoli e curricula, attribuite a persone, anche esterne alle pubbliche amministrazioni, individuate discrezionalmente dall'organo di indirizzo politico senza procedure pubbliche di selezione",
         "frequenza_aggiornamento": "Dati non più soggetti a pubblicazione obbligatoria ai sensi del d.lgs. 97/2016",
@@ -677,7 +677,7 @@
       "attributes": {
         "denominazione": "Posti di funzione disponibili",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 19, c. 1-bis, d.lgs. n. 165/2001"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2001/03/30/165/CONSOLIDATED/20240619", "title": "Art. 19, c. 1-bis, d.lgs. n. 165/2001"}
         ],
         "contenuto": "Numero e tipologia dei posti di funzione che si rendono disponibili nella dotazione organica e relativi criteri di scelta",
         "frequenza_aggiornamento": "Tempestivo",
@@ -689,7 +689,7 @@
       "attributes": {
         "denominazione": "Ruolo dirigenti",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 1, c. 7, d.p.r. n. 108/2004"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_DEL_PRESIDENTE_DELLA_REPUBBLICA/2004/04/23/108/ORIGINAL", "title": "Art. 1, c. 7, d.p.r. n. 108/2004"}
         ],
         "contenuto": "Ruolo dei dirigenti",
         "frequenza_aggiornamento": "Annuale",
@@ -701,8 +701,8 @@
       "attributes": {
         "denominazione": "Dirigenti cessati dal rapporto di lavoro",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 14, c. 1, lett. da a) ad f), d.lgs. n. 33/2013"},
-          {"uri": "#", "title": "Art. 2, c. 1, punto 2, l. n. 441/1982"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, c. 1, lett. da a) ad f), d.lgs. n. 33/2013"},
+          {"uri": "https://www.normattiva.it/eli/stato/LEGGE/1982/07/05/441/CONSOLIDATED", "title": "Art. 2, c. 1, punto 2, l. n. 441/1982"}
         ],
         "contenuto": "",
         "frequenza_aggiornamento": "",
@@ -714,7 +714,7 @@
       "attributes": {
         "denominazione": "Sanzioni per mancata o incompleta comunicazione dei dati da parte dei titolari di incarichi dirigenziali",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 47, c. 1, d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 47, c. 1, d.lgs. n. 33/2013"}
         ],
         "contenuto": "Provvedimenti sanzionatori a carico del responsabile della mancata o incompleta comunicazione dei dati di cui all'articolo 14, concernenti la situazione patrimoniale complessiva del titolare dell'incarico al momento dell'assunzione della carica, la titolarità di imprese, le partecipazioni azionarie proprie nonché tutti i compensi cui dà diritto l'assunzione della carica",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -726,7 +726,7 @@
       "attributes": {
         "denominazione": "Posizioni organizzative",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 14, c. 1-quinquies., d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, c. 1-quinquies., d.lgs. n. 33/2013"}
         ],
         "contenuto": "Curricula dei titolari di posizioni organizzative redatti in conformità al vigente modello europeo",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -738,7 +738,7 @@
       "attributes": {
         "denominazione": "Conto annuale del personale",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 16, c. 1, d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 16, c. 1, d.lgs. n. 33/2013"}
         ],
         "contenuto": "Conto annuale del personale e relative spese sostenute, nell'ambito del quale sono rappresentati i dati relativi alla dotazione organica e al personale effettivamente in servizio e al relativo costo, con l'indicazione della distribuzione tra le diverse qualifiche e aree professionali, con particolare riguardo al personale assegnato agli uffici di diretta collaborazione con gli organi di indirizzo politico.",
         "frequenza_aggiornamento": "Annuale (art. 16, c. 1, d.lgs. n. 33/2013)",
@@ -750,7 +750,7 @@
       "attributes": {
         "denominazione": "Costo personale tempo indeterminato",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 16, c. 2, d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 16, c. 2, d.lgs. n. 33/2013"}
         ],
         "contenuto": "Costo complessivo del personale a tempo indeterminato in servizio, articolato per aree professionali, con particolare riguardo al personale assegnato agli uffici di diretta collaborazione con gli organi di indirizzo politico.",
         "frequenza_aggiornamento": "Annuale (art. 16, c. 2, d.lgs. n. 33/2013)",
@@ -762,7 +762,7 @@
       "attributes": {
         "denominazione": "Personale non a tempo indeterminato",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 17, c. 1, d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 17, c. 1, d.lgs. n. 33/2013"}
         ],
         "contenuto": "Personale con rapporto di lavoro non a tempo indeterminato, ivi compreso il personale assegnato agli uffici di diretta collaborazione con gli organi di indirizzo politico.",
         "frequenza_aggiornamento": "Annuale (art. 17, c. 1, d.lgs. n. 33/2013)",
@@ -774,7 +774,7 @@
       "attributes": {
         "denominazione": "Costo del personale non a tempo indeterminato",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 17, c. 2, d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 17, c. 2, d.lgs. n. 33/2013"}
         ],
         "contenuto": "Costo complessivo del personale con rapporto di lavoro non a tempo indeterminato, con particolare riguardo al personale assegnato agli uffici di diretta collaborazione con gli organi di indirizzo politico.",
         "frequenza_aggiornamento": "Trimestrale (art. 17, c. 2, d.lgs. n. 33/2013)",
@@ -786,7 +786,7 @@
       "attributes": {
         "denominazione": "Tassi di assenza trimestrali",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 16, c. 3, d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 16, c. 3, d.lgs. n. 33/2013"}
         ],
         "contenuto": "Tassi di assenza del personale distinti per uffici di livello dirigenziale",
         "frequenza_aggiornamento": "Trimestrale (art. 16, c. 3, d.lgs. n. 33/2013)",
@@ -798,8 +798,8 @@
       "attributes": {
         "denominazione": "Incarichi conferiti e autorizzati ai dipendenti (dirigenti e non dirigenti)",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 53, c. 14, d.lgs. n. 165/2001"},
-          {"uri": "#", "title": "Art. 18, d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2001/03/30/165/CONSOLIDATED/20240619", "title": "Art. 53, c. 14, d.lgs. n. 165/2001"},
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 18, d.lgs. n. 33/2013"}
         ],
         "contenuto": "Elenco degli incarichi conferiti o autorizzati a ciascun dipendente (dirigente e non dirigente), con l'indicazione dell'oggetto, della durata e del compenso spettante per ogni incarico.",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -811,8 +811,8 @@
       "attributes": {
         "denominazione": "Contrattazione collettiva",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 47, c. 8, d.lgs. n. 165/2001"},
-          {"uri": "#", "title": "Art. 21, c. 1, d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2001/03/30/165/CONSOLIDATED/20240619", "title": "Art. 47, c. 8, d.lgs. n. 165/2001"},
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 21, c. 1, d.lgs. n. 33/2013"}
         ],
         "contenuto": "Riferimenti necessari per la consultazione dei contratti e accordi collettivi nazionali ed eventuali interpretazioni autentiche.",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -824,7 +824,7 @@
       "attributes": {
         "denominazione": "Contratti integrativi",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 21, c. 2, d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 21, c. 2, d.lgs. n. 33/2013"}
         ],
         "contenuto": "Contratti integrativi stipulati, con la relazione tecnico-finanziaria e quella illustrativa, certificate dagli organi di controllo (collegio dei revisori dei conti, collegio sindacale, uffici centrali di bilancio o analoghi organi previsti dai rispettivi ordinamenti).",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -836,8 +836,8 @@
       "attributes": {
         "denominazione": "Costi contratti integrativi",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 21, c. 2, d.lgs. n. 33/2013"},
-          {"uri": "#", "title": "Art. 55, c. 4,d.lgs. n. 150/2009"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 21, c. 2, d.lgs. n. 33/2013"},
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2009/10/27/150/CONSOLIDATED/20240619", "title": "Art. 55, c. 4, d.lgs. n. 150/2009"}
         ],
         "contenuto": "Specifiche informazioni sui costi  della contrattazione integrativa, certificate dagli organi di controllo  interno, trasmesse al  Ministero dell'Economia e delle finanze, che predispone, allo scopo, uno specifico modello di rilevazione, d'intesa con la Corte dei conti e con la Presidenza del Consiglio dei Ministri - Dipartimento della funzione pubblica.",
         "frequenza_aggiornamento": "Annuale (art. 55, c. 4, d.lgs. n. 150/2009)",
@@ -849,8 +849,8 @@
       "attributes": {
         "denominazione": "OIV",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 10, c. 8, lett. c), d.lgs. n. 33/2013"},
-          {"uri": "#", "title": "Par. 14.2, delib. CiVIT n. 12/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 10, c. 8, lett. c), d.lgs. n. 33/2013"},
+          {"uri": "https://www.anticorruzione.it/-/delibera-c2-a0numero-12-del-27/02/2013-1", "title": "Par. 14.2, delib. CiVIT n. 12/2013"}
         ],
         "contenuto": "OIV: nominativi, Curricula, Compensi.",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -862,7 +862,7 @@
       "attributes": {
         "denominazione": "Bandi di concorso",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 19, d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 19, d.lgs. n. 33/2013"}
         ],
         "contenuto": "Bandi di concorso per il reclutamento, a qualsiasi titolo, di personale presso l'amministrazione nonché i criteri di valutazione della Commissione e le tracce delle prove scritte.",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -874,7 +874,7 @@
       "attributes": {
         "denominazione": "Sistema di misurazione e valutazione della Performance",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Par. 1, delib. CiVIT n. 104/2010"}
+          {"uri": "https://www.anticorruzione.it/-/delibera-c2-a0numero-104-del-02/09/2010-1", "title": "Par. 1, delib. CiVIT n. 104/2010"}
         ],
         "contenuto": "Sistema di misurazione e valutazione della Performance (art. 7, d.lgs. n. 150/2009)",
         "frequenza_aggiornamento": "Tempestivo",
@@ -886,7 +886,7 @@
       "attributes": {
         "denominazione": "Piano della Performance/Piano esecutivo di gestione",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 10, c. 8, lett. b), d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 10, c. 8, lett. b), d.lgs. n. 33/2013"}
         ],
         "contenuto": "Piano della Performance (art. 10, d.lgs. 150/2009). Piano esecutivo di gestione (per gli enti locali) (art. 169, c. 3-bis, d.lgs. n. 267/2000)",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -898,7 +898,7 @@
       "attributes": {
         "denominazione": "Relazione sulla Performance",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 10, c. 8, lett. b), d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 10, c. 8, lett. b), d.lgs. n. 33/2013"}
         ],
         "contenuto": "Relazione sulla Performance (art. 10, d.lgs. 150/2009)",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -910,7 +910,7 @@
       "attributes": {
         "denominazione": "Ammontare complessivo dei premi",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 20, c. 1, d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 20, c. 1, d.lgs. n. 33/2013"}
         ],
         "contenuto": "Ammontare complessivo dei premi collegati alla performance stanziati. Ammontare dei premi effettivamente distribuiti.",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -922,7 +922,7 @@
       "attributes": {
         "denominazione": "Dati relativi ai premi",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 20, c. 2, d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 20, c. 2, d.lgs. n. 33/2013"}
         ],
         "contenuto": "Criteri definiti nei sistemi di misurazione e valutazione della performance per l’assegnazione del trattamento accessorio. Distribuzione del trattamento accessorio, in forma aggregata, al fine di dare conto del livello di selettività utilizzato nella distribuzione dei premi e degli incentivi. Grado di differenziazione dell'utilizzo della premialità sia per i dirigenti sia per i dipendenti.",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -934,8 +934,8 @@
       "attributes": {
         "denominazione": "Benessere organizzativo",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Dlg.s 97/2016"},
-          {"uri": "#", "title": "Art. 20, c. 3, d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/05/25/97/ORIGINAL", "title": "D.lgs. 97/2016"},
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 20, c. 3, d.lgs. n. 33/2013"}
         ],
         "contenuto": "Livelli di benessere organizzativo",
         "frequenza_aggiornamento": "Dati non più soggetti a pubblicazione obbligatoria ai sensi del d.lg.s 97/2016",
@@ -947,9 +947,9 @@
       "attributes": {
         "denominazione": "Enti pubblici vigilati",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 22, c. 1, lett. a), d.lgs. n. 33/2013"},
-          {"uri": "#", "title": "Art. 22, c. 2 e c. 3, d.lgs. n. 33/2013"},
-          {"uri": "#", "title": "Art. 20, c. 3, d.lgs. n. 39/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/04/08/39/CONSOLIDATED/20240619", "title": "Art. 20, c. 3, d.lgs. n. 39/2013"},
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 22, c. 1, lett. a), d.lgs. n. 33/2013"},
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 22, c. 2 e c. 3, d.lgs. n. 33/2013"}
         ],
         "contenuto": "Elenco degli enti pubblici, comunque denominati, istituiti, vigilati e finanziati dall'amministrazione ovvero per i quali l'amministrazione abbia il potere di nomina degli amministratori dell'ente, con l'indicazione delle funzioni attribuite e delle attività svolte in favore dell'amministrazione o delle attività di servizio pubblico affidate. Per ciascuno degli enti: 1)  ragione sociale; 2) misura dell'eventuale partecipazione dell'amministrazione; 3) durata dell'impegno; 4)  onere complessivo a qualsiasi titolo gravante per l'anno sul bilancio dell'amministrazione; 5) numero dei rappresentanti dell'amministrazione negli organi di governo e trattamento economico complessivo a ciascuno di essi spettante (con l'esclusione dei rimborsi per vitto e alloggio); 6) risultati di bilancio degli ultimi tre esercizi finanziari; 7) incarichi di amministratore dell'ente e relativo trattamento economico complessivo (con l'esclusione dei rimborsi per vitto e alloggio). Dichiarazione sulla insussistenza di una delle cause di inconferibilità dell'incarico (link al sito dell'ente). Collegamento con i siti istituzionali degli enti pubblici vigilati.",
         "frequenza_aggiornamento": "Annuale (art. 22, c. 1, d.lgs. n. 33/2013)",
@@ -961,9 +961,9 @@
       "attributes": {
         "denominazione": "Dati società partecipate",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 22, c. 1, lett. b), d.lgs. n. 33/2013"},
-          {"uri": "#", "title": "Art. 22, c. 2, c. 3 e c. 6, d.lgs. n. 33/2013"},
-          {"uri": "#", "title": "Art. 20, c. 3, d.lgs. n. 39/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/04/08/39/CONSOLIDATED/20240619", "title": "Art. 20, c. 3, d.lgs. n. 39/2013"},
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 22, c. 1, lett. b), d.lgs. n. 33/2013"},
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 22, c. 2, c. 3 e c. 6, d.lgs. n. 33/2013"}
         ],
         "contenuto": "Elenco delle società di cui l'amministrazione detiene direttamente quote di partecipazione anche minoritaria, con l'indicazione dell'entità, delle funzioni attribuite e delle attività svolte in favore dell'amministrazione o delle attività di servizio pubblico affidate, ad esclusione delle società, partecipate da amministrazioni pubbliche, con azioni quotate in mercati regolamentati italiani o di altri paesi dell'Unione europea, e loro controllate (art. 22, c. 6, d.lgs. n. 33/2013). Per ciascuna delle società: 1)  ragione sociale; 2) misura dell'eventuale partecipazione dell'amministrazione; 3) durata dell'impegno; 4) onere complessivo a qualsiasi titolo gravante per l'anno sul bilancio dell'amministrazione; 5) numero dei rappresentanti dell'amministrazione negli organi di governo e trattamento economico complessivo a ciascuno di essi spettante; 6) risultati di bilancio degli ultimi tre esercizi finanziari; 7) incarichi di amministratore della società e relativo trattamento economico complessivo; Dichiarazione sulla insussistenza di una delle cause di inconferibilità dell'incarico (link al sito dell'ente); Collegamento con i siti istituzionali delle società partecipate.",
         "frequenza_aggiornamento": "Annuale (art. 22, c. 1, d.lgs. n. 33/2013)",
@@ -975,7 +975,7 @@
       "attributes": {
         "denominazione": "Provvedimenti - Costituzione, acquisto e gestione",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 22, c. 1. lett. d-bis, d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 22, c. 1. lett. d-bis, d.lgs. n. 33/2013"}
         ],
         "contenuto": "Provvedimenti in materia di costituzione di società a partecipazione pubblica, acquisto di partecipazioni in società già costituite, gestione delle partecipazioni pubbliche, alienazione di partecipazioni sociali, quotazione di società a controllo pubblico in mercati regolamentati e razionalizzazione periodica delle partecipazioni pubbliche, previsti dal decreto legislativo adottato ai sensi dell'articolo 18 della legge 7 agosto 2015, n. 124 (art. 20  d.lgs 175/2016)",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -987,7 +987,7 @@
       "attributes": {
         "denominazione": "Provvedimenti - Obiettivi",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 19, c. 7, d.lgs. n. 175/2016"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/08/19/175/CONSOLIDATED/20240619", "title": "Art. 19, c. 7, d.lgs. n. 175/2016"}
         ],
         "contenuto": "Provvedimenti con cui le amministrazioni pubbliche socie fissano obiettivi specifici, annuali e pluriennali, sul complesso delle spese di funzionamento, ivi comprese quelle per il personale, delle società controllate. Provvedimenti con cui le società a controllo pubblico garantiscono il concreto perseguimento degli obiettivi specifici, annuali e pluriennali, sul complesso delle spese di funzionamento.",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -999,9 +999,9 @@
       "attributes": {
         "denominazione": "Enti di diritto privato controllati",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 22, c. 1, lett. c), d.lgs. n. 33/2013"},
-          {"uri": "#", "title": "Art. 22, c. 2, c. 3, d.lgs. n. 33/2013"},
-          {"uri": "#", "title": "Art. 20, c. 3, d.lgs. n. 39/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/04/08/39/CONSOLIDATED/20240619", "title": "Art. 20, c. 3, d.lgs. n. 39/2013"},
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 22, c. 1, lett. c), d.lgs. n. 33/2013"},
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 22, c. 2, c. 3, d.lgs. n. 33/2013"}
         ],
         "contenuto": "Elenco degli enti di diritto privato, comunque denominati, in controllo dell'amministrazione, con l'indicazione delle funzioni attribuite e delle attività svolte in favore dell'amministrazione o delle attività di servizio pubblico affidate. Per ciascuno degli enti: 1)  ragione sociale; 2) misura dell'eventuale partecipazione dell'amministrazione; 3) durata dell'impegno; 4) onere complessivo a qualsiasi titolo gravante per l'anno sul bilancio dell'amministrazione; 5) numero dei rappresentanti dell'amministrazione negli organi di governo e trattamento economico complessivo a ciascuno di essi spettante; 6) risultati di bilancio degli ultimi tre esercizi finanziari; 7) incarichi di amministratore dell'ente e relativo trattamento economico complessivo. Dichiarazione sulla insussistenza di una delle cause di inconferibilità dell'incarico (link al sito dell'ente). Collegamento con i siti istituzionali degli enti di diritto privato controllati.",
         "frequenza_aggiornamento": "Annuale (art. 22, c. 1, d.lgs. n. 33/2013)",
@@ -1013,7 +1013,7 @@
       "attributes": {
         "denominazione": "Rappresentazione grafica",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 22, c. 1, lett. d), d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 22, c. 1, lett. d), d.lgs. n. 33/2013"}
         ],
         "contenuto": "Una o più rappresentazioni grafiche che evidenziano i rapporti tra l'amministrazione e gli enti pubblici vigilati, le società partecipate, gli enti di diritto privato controllati.",
         "frequenza_aggiornamento": "Annuale (art. 22, c. 1, d.lgs. n. 33/2013)",
@@ -1025,8 +1025,8 @@
       "attributes": {
         "denominazione": "Dati aggregati attività amministrativa",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "D.lgs. 97/2016"},
-          {"uri": "#", "title": "Art. 24, c. 1, d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/05/25/97/ORIGINAL", "title": "D.lgs. 97/2016"},
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 24, c. 1, d.lgs. n. 33/2013"}
         ],
         "contenuto": "Dati relativi alla attività amministrativa, in forma aggregata, per settori di attività, per competenza degli organi e degli uffici, per tipologia di procedimenti",
         "frequenza_aggiornamento": "Dati non più soggetti a pubblicazione obbligatoria ai sensi del d.lgs. 97/2016",
@@ -1038,8 +1038,8 @@
       "attributes": {
         "denominazione": "Tipologie di procedimento",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 35, c. 1, lett. da a) ad m), d.lgs. n. 33/2013"},
-          {"uri": "#", "title": "Art. 1, c. 29, l. 190/2012"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 35, c. 1, lett. da a) ad m), d.lgs. n. 33/2013"},
+          {"uri": "https://www.normattiva.it/eli/stato/LEGGE/2012/11/06/190/ORIGINAL", "title": "Art. 1, c. 29, l. 190/2012"}
         ],
         "contenuto": "Per ciascuna tipologia di procedimento: 1) breve descrizione del procedimento con indicazione di tutti i riferimenti normativi utili; 2)  unità organizzative responsabili dell'istruttoria; 3) l'ufficio del procedimento, unitamente ai recapiti telefonici e alla casella di posta elettronica istituzionale; 4) ove diverso, l'ufficio competente all'adozione del provvedimento finale, con l'indicazione del nome del responsabile dell'ufficio unitamente ai rispettivi recapiti telefonici e alla casella di posta elettronica istituzionale; 5) modalità con le quali gli interessati possono ottenere le informazioni relative ai procedimenti in corso che li riguardino; 6) termine fissato in sede di disciplina normativa del procedimento per la conclusione con l'adozione di un provvedimento espresso e ogni altro termine procedimentale rilevante; 7) procedimenti per i quali il provvedimento dell'amministrazione può essere sostituito da una dichiarazione dell'interessato ovvero il procedimento può concludersi con il silenzio-assenso dell'amministrazione; 8) strumenti di tutela amministrativa e giurisdizionale, riconosciuti dalla legge in favore dell'interessato, nel corso del procedimento nei confronti del provvedimento finale ovvero nei casi di adozione del provvedimento oltre il termine predeterminato per la sua conclusione e i modi per attivarli; 9)  link di accesso al servizio on line, ove sia già disponibile in rete, o tempi previsti per la sua attivazione; 10) modalità per l'effettuazione dei pagamenti eventualmente necessari, con i codici IBAN identificativi del conto di pagamento, ovvero di imputazione del versamento in Tesoreria,  tramite i quali i soggetti versanti possono effettuare i pagamenti mediante bonifico bancario o postale, ovvero gli identificativi del conto corrente postale sul quale i soggetti versanti possono effettuare i pagamenti mediante bollettino postale, nonchè i codici identificativi del pagamento da indicare obbligatoriamente per il versamento; 11) nome del soggetto a cui è attribuito, in caso di inerzia, il potere sostitutivo, nonchè modalità per attivare tale potere, con indicazione dei recapiti telefonici e delle caselle di posta elettronica istituzionale. Per i procedimenti ad istanza di parte: 1) atti e documenti da allegare all'istanza e modulistica necessaria, compresi i fac-simile per le autocertificazioni; 2)  uffici ai quali rivolgersi per informazioni, orari e modalità di accesso con indicazione degli indirizzi, recapiti telefonici e caselle di posta elettronica istituzionale a cui presentare le istanze.",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -1051,9 +1051,9 @@
       "attributes": {
         "denominazione": "Monitoraggio tempi procedimentali",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "D.lgs. 97/2016"},
-          {"uri": "#", "title": "Art. 24, c. 2, d.lgs. n. 33/2013"},
-          {"uri": "#", "title": "Art. 1, c. 28, l. n. 190/2012"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/05/25/97/ORIGINAL", "title": "D.lgs. 97/2016"},
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 24, c. 2, d.lgs. n. 33/2013"},
+          {"uri": "https://www.normattiva.it/eli/stato/LEGGE/2012/11/06/190/ORIGINAL", "title": "Art. 1, c. 28, l. n. 190/2012"}
         ],
         "contenuto": "Risultati del monitoraggio periodico concernente il rispetto dei tempi procedimentali",
         "frequenza_aggiornamento": "Dati non più soggetti a pubblicazione obbligatoria ai sensi del d.lgs. 97/2016",
@@ -1065,7 +1065,7 @@
       "attributes": {
         "denominazione": "Recapiti dell'ufficio responsabile",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 35, c. 3, d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 35, c. 3, d.lgs. n. 33/2013"}
         ],
         "contenuto": "Recapiti telefonici e casella di posta elettronica istituzionale dell'ufficio responsabile per le attività volte a gestire, garantire e verificare la trasmissione dei dati o l'accesso diretto degli stessi da parte delle amministrazioni procedenti all'acquisizione d'ufficio dei dati e allo svolgimento dei controlli sulle dichiarazioni sostitutive.",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -1077,9 +1077,9 @@
       "attributes": {
         "denominazione": "Provvedimenti organi indirizzo politico",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "D.lgs. 97/2016"},
-          {"uri": "#", "title": "Art. 23, c. 1, d.lgs. n. 33/2013"},
-          {"uri": "#", "title": "Art. 1, co. 16 della l. n. 190/2012"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/05/25/97/ORIGINAL", "title": "D.lgs. 97/2016"},
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 23, c. 1, d.lgs. n. 33/2013"},
+          {"uri": "https://www.normattiva.it/eli/stato/LEGGE/2012/11/06/190/ORIGINAL", "title": "Art. 1, co. 16 della l. n. 190/2012"}
         ],
         "contenuto": "Elenco dei provvedimenti, con particolare riferimento ai provvedimenti finali dei procedimenti di: scelta del contraente per l'affidamento di lavori, forniture e servizi, anche con riferimento alla modalità di selezione prescelta (link alla sotto-sezione \"bandi di gara e contratti\"); accordi stipulati dall'amministrazione con soggetti privati o con altre amministrazioni pubbliche. ",
         "frequenza_aggiornamento": "Dati non più soggetti a pubblicazione obbligatoria ai sensi del d.lgs. 97/2016",
@@ -1091,9 +1091,9 @@
       "attributes": {
         "denominazione": "Provvedimenti dirigenti amministrativi",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "D.lgs. 97/2016"},
-          {"uri": "#", "title": "Art. 23, c. 1, d.lgs. n. 33/2013"},
-          {"uri": "#", "title": "Art. 1, co. 16 della l. n. 190/2012 "}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/05/25/97/ORIGINAL", "title": "D.lgs. 97/2016"},
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 23, c. 1, d.lgs. n. 33/2013"},
+          {"uri": "https://www.normattiva.it/eli/stato/LEGGE/2012/11/06/190/ORIGINAL", "title": "Art. 1, co. 16 della l. n. 190/2012 "}
         ],
         "contenuto": "Elenco dei provvedimenti, con particolare riferimento ai provvedimenti finali dei procedimenti di: scelta del contraente per l'affidamento di lavori, forniture e servizi, anche con riferimento alla modalità di selezione prescelta (link alla sotto-sezione \"bandi di gara e contratti\"); accordi stipulati dall'amministrazione con soggetti privati o con altre amministrazioni pubbliche. ",
         "frequenza_aggiornamento": "Dati non più soggetti a pubblicazione obbligatoria ai sensi del d.lgs. 97/2016",
@@ -1105,8 +1105,8 @@
       "attributes": {
         "denominazione": "Tipologie di controllo",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "D.lgs. 97/2016"},
-          {"uri": "#", "title": "Art. 25, c. 1, lett. a), d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/05/25/97/ORIGINAL", "title": "D.lgs. 97/2016"},
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 25, c. 1, lett. a), d.lgs. n. 33/2013"}
         ],
         "contenuto": "Elenco delle tipologie di controllo a cui sono assoggettate le imprese in ragione della dimensione e del settore di attività, con l'indicazione per ciascuna di esse dei criteri e delle relative modalità di svolgimento",
         "frequenza_aggiornamento": "Dati non più soggetti a pubblicazione obbligatoria ai sensi del d.lgs. 97/2016",
@@ -1118,8 +1118,8 @@
       "attributes": {
         "denominazione": "Obblighi e adempimenti",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "D.lgs. 97/2016"},
-          {"uri": "#", "title": "Art. 25, c. 1, lett. b), d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/05/25/97/ORIGINAL", "title": "D.lgs. 97/2016"},
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 25, c. 1, lett. b), d.lgs. n. 33/2013"}
         ],
         "contenuto": "Elenco degli obblighi e degli adempimenti oggetto delle attività di controllo che le imprese sono tenute a rispettare per ottemperare alle disposizioni normative ",
         "frequenza_aggiornamento": "Dati non più soggetti a pubblicazione obbligatoria ai sensi del d.lgs. 97/2016",
@@ -1131,7 +1131,7 @@
       "attributes": {
         "denominazione": "Criteri e modalità",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 26, c. 1, d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 26, c. 1, d.lgs. n. 33/2013"}
         ],
         "contenuto": "Atti con i quali sono determinati i criteri e le modalità cui le amministrazioni devono attenersi per la concessione di sovvenzioni, contributi, sussidi ed ausili finanziari e l'attribuzione di vantaggi economici di qualunque genere a persone ed enti pubblici e privati",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -1143,8 +1143,8 @@
       "attributes": {
         "denominazione": "Atti di concessione",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 27, c. 1, da lett. a) ad f), d.lgs. n. 33/2013"},
-          {"uri": "#", "title": "Art. 26, c. 2, d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 27, c. 1, da lett. a) ad f), d.lgs. n. 33/2013"},
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 26, c. 2, d.lgs. n. 33/2013"}
         ],
         "contenuto": "Atti di concessione di sovvenzioni, contributi, sussidi ed ausili finanziari alle imprese e  comunque di  vantaggi economici di qualunque genere a persone ed enti pubblici e privati di importo superiore a mille euro.",
         "frequenza_aggiornamento": "Tempestivo (art. 26, c. 3, d.lgs. n. 33/2013)",
@@ -1156,8 +1156,8 @@
       "attributes": {
         "denominazione": "Bilancio preventivo - Documenti e allegati",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 29, c. 1, d.lgs. n. 33/2013"},
-          {"uri": "#", "title": "Art. 5, c. 1, d.p.c.m. 26 aprile 2011"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 29, c. 1, d.lgs. n. 33/2013"},
+          {"uri": "https://www.gazzettaufficiale.it/eli/id/2011/08/01/11A10306/sg", "title": "Art. 5, c. 1, d.p.c.m. 26 aprile 2011"}
         ],
         "contenuto": "Documenti e allegati del bilancio preventivo, nonché dati relativi al  bilancio di previsione di ciascun anno in forma sintetica, aggregata e semplificata, anche con il ricorso a rappresentazioni grafiche.",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -1169,8 +1169,8 @@
       "attributes": {
         "denominazione": "Bilancio preventivo - Dati",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "D.p.c.m. 29 aprile 2016"},
-          {"uri": "#", "title": "Art. 29, c. 1-bis, d.lgs. n. 33/2013"}
+          {"uri": "https://www.gazzettaufficiale.it/eli/id/2016/06/16/16A04448/sg", "title": "D.p.c.m. 29 aprile 2016"},
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 29, c. 1-bis, d.lgs. n. 33/2013"}
         ],
         "contenuto": "Dati relativi  alle  entrate  e  alla  spesa  dei bilanci preventivi in formato tabellare aperto in modo da consentire l'esportazione, il trattamento e il riutilizzo.",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -1182,8 +1182,8 @@
       "attributes": {
         "denominazione": "Bilancio consuntivo - Documenti e allegati",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 29, c. 1, d.lgs. n. 33/2013"},
-          {"uri": "#", "title": "Art. 5, c. 1, d.p.c.m. 26 aprile 2011"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 29, c. 1, d.lgs. n. 33/2013"},
+          {"uri": "https://www.gazzettaufficiale.it/eli/id/2011/08/01/11A10306/sg", "title": "Art. 5, c. 1, d.p.c.m. 26 aprile 2011"}
         ],
         "contenuto": "Documenti e allegati del bilancio consuntivo, nonché dati relativi al bilancio consuntivo di ciascun anno in forma sintetica, aggregata e semplificata, anche con il ricorso a rappresentazioni grafiche.",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -1195,8 +1195,8 @@
       "attributes": {
         "denominazione": "Bilancio consuntivo - Dati",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "D.p.c.m. 29 aprile 2016"},
-          {"uri": "#", "title": "Art. 29, c. 1-bis, d.lgs. n. 33/2013"}
+          {"uri": "https://www.gazzettaufficiale.it/eli/id/2016/06/16/16A04448/sg", "title": "D.p.c.m. 29 aprile 2016"},
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 29, c. 1-bis, d.lgs. n. 33/2013"}
         ],
         "contenuto": "Dati relativi  alle  entrate  e  alla  spesa  dei bilanci consuntivi in formato tabellare aperto in modo da consentire l'esportazione, il trattamento e il riutilizzo.",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -1208,9 +1208,9 @@
       "attributes": {
         "denominazione": "Piano degli indicatori e dei risultati attesi di bilancio",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 29, c. 2, d.lgs. n. 33/2013"},
-          {"uri": "#", "title": "Art. 18-bis del d.lgs. n.118/2011 "},
-          {"uri": "#", "title": "Art. 19 e 22 del d.lgs. n. 91/2011"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 29, c. 2, d.lgs. n. 33/2013"},
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2011/06/23/118/CONSOLIDATED", "title": "Art. 18-bis del d.lgs. n.118/2011"},
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2011/05/31/91/CONSOLIDATED/20240619", "title": "Art. 19 e 22 del d.lgs. n. 91/2011"}
         ],
         "contenuto": "Piano degli indicatori e risultati attesi di bilancio, con l’integrazione delle risultanze osservate in termini di raggiungimento dei risultati attesi e le motivazioni degli eventuali scostamenti e gli aggiornamenti in corrispondenza di ogni nuovo esercizio di bilancio, sia tramite la specificazione di nuovi obiettivi e indicatori, sia attraverso l’aggiornamento dei valori obiettivo e la soppressione di obiettivi già raggiunti oppure oggetto di ripianificazione.",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -1222,7 +1222,7 @@
       "attributes": {
         "denominazione": "Patrimonio immobiliare",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 30, d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 30, d.lgs. n. 33/2013"}
         ],
         "contenuto": "Informazioni identificative degli immobili posseduti e detenuti",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -1234,7 +1234,7 @@
       "attributes": {
         "denominazione": "Canoni di locazione o affitto",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 30, d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 30, d.lgs. n. 33/2013"}
         ],
         "contenuto": "Canoni di locazione o di affitto versati o percepiti",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -1246,7 +1246,7 @@
       "attributes": {
         "denominazione": "Atti degli Organismi indipendenti di valutazione, nuclei di valutazione o altri organismi con funzioni analoghe",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 31, d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 31, d.lgs. n. 33/2013"}
         ],
         "contenuto": "Attestazione dell'OIV o di altra struttura analoga nell'assolvimento degli obblighi di pubblicazione. Documento dell'OIV di validazione della Relazione sulla Performance (art. 14, c. 4, lett. c), d.lgs. n. 150/2009). Relazione dell'OIV sul funzionamento complessivo del Sistema di valutazione, trasparenza e integrità dei controlli interni (art. 14, c. 4, lett. a), d.lgs. n. 150/2009). Altri atti degli organismi indipendenti di valutazione , nuclei di valutazione o altri organismi con funzioni analoghe, procedendo all'indicazione in forma anonima dei dati personali eventualmente presenti.",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -1258,7 +1258,7 @@
       "attributes": {
         "denominazione": "Relazioni degli organi di revisione amministrativa e contabile",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 31, d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 31, d.lgs. n. 33/2013"}
         ],
         "contenuto": "Relazioni degli organi di revisione amministrativa e contabile al bilancio di previsione o budget, alle relative variazioni e al conto consuntivo o bilancio di esercizio.",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -1270,7 +1270,7 @@
       "attributes": {
         "denominazione": "Rilievi Corte dei conti",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 31, d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 31, d.lgs. n. 33/2013"}
         ],
         "contenuto": "Tutti i rilievi della Corte dei conti ancorché non recepiti riguardanti l'organizzazione e l'attività delle amministrazioni stesse e dei loro uffici",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -1282,7 +1282,7 @@
       "attributes": {
         "denominazione": "Carta dei servizi e standard di qualità",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 32, c. 1, d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 32, c. 1, d.lgs. n. 33/2013"}
         ],
         "contenuto": "Carta dei servizi o documento contenente gli standard di qualità dei servizi pubblici",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -1294,9 +1294,8 @@
       "attributes": {
         "denominazione": "Class action",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 4, c. 6, d.lgs. n. 198/2009"},
-          {"uri": "#", "title": "Art. 4, c. 2, d.lgs. n. 198/2009"},
-          {"uri": "#", "title": "Art. 1, c. 2, d.lgs. n. 198/2009"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2009/12/20/198/CONSOLIDATED", "title": "Art. 1, c. 2, d.lgs. n. 198/2009"},
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2009/12/20/198/CONSOLIDATED", "title": "Art. 4, c. 2 e c. 6, d.lgs. n. 198/2009"}
         ],
         "contenuto": "Notizia del ricorso in giudizio proposto dai titolari di interessi giuridicamente rilevanti ed omogenei nei confronti delle amministrazioni e dei concessionari di servizio pubblico al fine di ripristinare il corretto svolgimento della funzione o la corretta erogazione di un servizio",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -1308,8 +1307,8 @@
       "attributes": {
         "denominazione": "Costi contabilizzati",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 32, c. 2, lett. a), d.lgs. n. 33/2013"},
-          {"uri": "#", "title": "Art. 10, c. 5, d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 32, c. 2, lett. a), d.lgs. n. 33/2013"},
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 10, c. 5, d.lgs. n. 33/2013"}
         ],
         "contenuto": "Costi contabilizzati dei servizi erogati agli utenti, sia finali che intermedi e il relativo andamento nel tempo.",
         "frequenza_aggiornamento": "Annuale (art. 10, c. 5, d.lgs. n. 33/2013)",
@@ -1321,7 +1320,7 @@
       "attributes": {
         "denominazione": "Liste di attesa",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 41, c. 6, d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 41, c. 6, d.lgs. n. 33/2013"}
         ],
         "contenuto": "Criteri di formazione delle liste di attesa, tempi di attesa previsti e tempi medi effettivi di attesa per ciascuna tipologia di prestazione erogata (obbligo di pubblicazione a carico di enti, aziende e strutture pubbliche e private che erogano prestazioni per conto del servizio sanitario).",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -1333,7 +1332,7 @@
       "attributes": {
         "denominazione": "Risultati delle indagini sulla soddisfazione da parte degli utenti rispetto alla qualità dei servizi in rete e statistiche di utilizzo dei servizi in rete.",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 7 co. 3 d.lgs. 82/2005 modificato dall’art. 8 co. 1 del d.lgs. 179/16"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/08/26/179/CONSOLIDATED/20240619", "title": "Art. 7 co. 3 d.lgs. 82/2005 modificato dall’art. 8 co. 1 del d.lgs. 179/2016"}
         ],
         "contenuto": "Risultati delle rilevazioni sulla soddisfazione da parte degli utenti rispetto alla qualità dei servizi in rete resi all’utente, anche in termini di fruibilità, accessibilità e tempestività, statistiche di utilizzo dei servizi in rete.",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -1345,7 +1344,7 @@
       "attributes": {
         "denominazione": "Dati sui pagamenti",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 4-bis, c. 2, d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 4-bis, c. 2, d.lgs. n. 33/2013"}
         ],
         "contenuto": "Dati sui propri pagamenti in relazione alla tipologia di spesa sostenuta, all'ambito temporale di riferimento e ai beneficiari",
         "frequenza_aggiornamento": "Trimestrale (in fase di prima attuazione semestrale)",
@@ -1357,7 +1356,7 @@
       "attributes": {
         "denominazione": "Dati sui pagamenti in forma sintetica e aggregata",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 41, c. 1-bis, d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 41, c. 1-bis, d.lgs. n. 33/2013"}
         ],
         "contenuto": "Dati relativi a tutte le spese e a tutti i pagamenti effettuati, distinti per tipologia di lavoro, bene o servizio in relazione alla tipologia di spesa sostenuta, all’ambito temporale di riferimento e ai beneficiari.",
         "frequenza_aggiornamento": "Trimestrale (in fase di prima attuazione semestrale)",
@@ -1369,7 +1368,7 @@
       "attributes": {
         "denominazione": "Indicatore di tempestività dei pagamenti - Annuale",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 33, d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 33, d.lgs. n. 33/2013"}
         ],
         "contenuto": "Indicatore dei tempi medi di pagamento relativi agli acquisti di beni, servizi, prestazioni professionali e forniture (indicatore annuale di tempestività dei pagamenti).",
         "frequenza_aggiornamento": "Annuale (art. 33, c. 1, d.lgs. n. 33/2013)",
@@ -1381,7 +1380,7 @@
       "attributes": {
         "denominazione": "Indicatore di tempestività dei pagamenti - Trimestrale",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 33, d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 33, d.lgs. n. 33/2013"}
         ],
         "contenuto": "Indicatore trimestrale di tempestività dei pagamenti",
         "frequenza_aggiornamento": "Trimestrale (art. 33, c. 1, d.lgs. n. 33/2013)",
@@ -1393,7 +1392,7 @@
       "attributes": {
         "denominazione": "Ammontare complessivo dei debiti",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 33, d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 33, d.lgs. n. 33/2013"}
         ],
         "contenuto": "Ammontare complessivo dei debiti e il numero delle imprese creditrici.",
         "frequenza_aggiornamento": "Annuale (art. 33, c. 1, d.lgs. n. 33/2013)",
@@ -1405,8 +1404,8 @@
       "attributes": {
         "denominazione": "IBAN e pagamenti informatici",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 36, d.lgs. n. 33/2013"},
-          {"uri": "#", "title": "Art. 5, c. 1, d.lgs. n. 82/2005"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 36, d.lgs. n. 33/2013"},
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2005/03/07/82/CONSOLIDATED", "title": "Art. 5, c. 1, d.lgs. n. 82/2005"}
         ],
         "contenuto": "Nelle richieste di pagamento: i codici IBAN identificativi del conto di pagamento, ovvero di imputazione del versamento in Tesoreria,  tramite i quali i soggetti versanti possono effettuare i pagamenti mediante bonifico bancario o postale, ovvero gli identificativi del conto corrente postale sul quale i soggetti versanti possono effettuare i pagamenti mediante bollettino postale, nonché i codici identificativi del pagamento da indicare obbligatoriamente per il versamento",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -1418,7 +1417,7 @@
       "attributes": {
         "denominazione": "Informazioni relative ai nuclei di valutazione e verifica degli investimenti pubblici (art. 1, l. n. 144/1999).",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 38, c. 1, d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 38, c. 1, d.lgs. n. 33/2013"}
         ],
         "contenuto": "Informazioni relative ai nuclei di valutazione e verifica degli investimenti pubblici, incluse le funzioni e i compiti specifici ad essi attribuiti, le procedure e i criteri di individuazione dei componenti e i loro nominativi (obbligo previsto per le amministrazioni centrali e regionali)",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -1430,9 +1429,8 @@
       "attributes": {
         "denominazione": "Atti di programmazione delle opere pubbliche",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 29 d.lgs. n. 50/2016"},
-          {"uri": "#", "title": "Art. 21 co.7 d.lgs. n. 50/2016"},
-          {"uri": "#", "title": "Art. 38, c. 2 e 2 bis d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/04/18/50/CONSOLIDATED", "title": "Art. 21 co.7 e art. 29 d.lgs. n. 50/2016"},
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 38, c. 2 e 2 bis d.lgs. n. 33/2013"}
         ],
         "contenuto": "Atti di programmazione delle opere pubbliche (link alla sotto-sezione \"bandi di gara e contratti\"). A titolo esemplificativo: - Programma triennale dei lavori pubblici, nonché i relativi aggiornamenti annuali, ai sensi art. 21 d.lgs. n 50/2016. Documento pluriennale di pianificazione ai sensi dell’art. 2 del d.lgs. n. 228/2011, (per i Ministeri)",
         "frequenza_aggiornamento": "Tempestivo (art.8, c. 1, d.lgs. n. 33/2013)",
@@ -1444,7 +1442,7 @@
       "attributes": {
         "denominazione": "Tempi, costi unitari e indicatori di realizzazione delle opere pubbliche in corso o completate.",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 38, c. 2, d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 38, c. 2, d.lgs. n. 33/2013"}
         ],
         "contenuto": "Informazioni relative ai tempi e agli indicatori di realizzazione delle opere pubbliche in corso o completate. Informazioni relative ai costi unitari di realizzazione delle opere pubbliche in corso o completate.",
         "frequenza_aggiornamento": "Tempestivo (art. 38, c. 1, d.lgs. n. 33/2013)",
@@ -1456,7 +1454,7 @@
       "attributes": {
         "denominazione": "Pianificazione e governo del territorio - Atti",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 39, c. 1, lett. a), d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 39, c. 1, lett. a), d.lgs. n. 33/2013"}
         ],
         "contenuto": "Atti di governo del territorio quali, tra gli altri, piani territoriali, piani di coordinamento, piani paesistici, strumenti urbanistici, generali e di attuazione, nonché le loro varianti.",
         "frequenza_aggiornamento": "Tempestivo (art. 39, c. 1, d.lgs. n. 33/2013)",
@@ -1468,7 +1466,7 @@
       "attributes": {
         "denominazione": "Pianificazione e governo del territorio - Documentazione",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 39, c. 2, d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 39, c. 2, d.lgs. n. 33/2013"}
         ],
         "contenuto": "Documentazione relativa a ciascun procedimento di presentazione e approvazione delle proposte di trasformazione urbanistica di iniziativa privata o pubblica in variante allo strumento urbanistico generale comunque denominato vigente nonché delle proposte di trasformazione urbanistica di iniziativa privata o pubblica in attuazione dello strumento urbanistico generale vigente che comportino premialità edificatorie a fronte dell'impegno dei privati alla realizzazione di opere di urbanizzazione extra oneri o della cessione di aree o volumetrie per finalità di pubblico interesse",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -1480,7 +1478,7 @@
       "attributes": {
         "denominazione": "Informazioni ambientali",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 40, c. 2, d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 40, c. 2, d.lgs. n. 33/2013"}
         ],
         "contenuto": "Informazioni ambientali che le amministrazioni detengono ai fini delle proprie attività istituzionali:",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -1492,7 +1490,7 @@
       "attributes": {
         "denominazione": "Stato dell'ambiente",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 40, c. 2, d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 40, c. 2, d.lgs. n. 33/2013"}
         ],
         "contenuto": "1) Stato degli elementi dell'ambiente, quali l'aria, l'atmosfera, l'acqua, il suolo, il territorio, i siti naturali, compresi gli igrotopi, le zone costiere e marine, la diversità biologica ed i suoi elementi costitutivi, compresi gli organismi geneticamente modificati, e, inoltre, le interazioni tra questi elementi",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -1504,7 +1502,7 @@
       "attributes": {
         "denominazione": "Fattori inquinanti",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 40, c. 2, d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 40, c. 2, d.lgs. n. 33/2013"}
         ],
         "contenuto": "2) Fattori quali le sostanze, l'energia, il rumore, le radiazioni od i rifiuti, anche quelli radioattivi, le emissioni, gli scarichi ed altri rilasci nell'ambiente, che incidono o possono incidere sugli elementi dell'ambiente",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -1516,7 +1514,7 @@
       "attributes": {
         "denominazione": "Misure incidenti sull'ambiente e relative analisi di impatto",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 40, c. 2, d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 40, c. 2, d.lgs. n. 33/2013"}
         ],
         "contenuto": "3) Misure, anche amministrative, quali le politiche, le disposizioni legislative, i piani, i programmi, gli accordi ambientali e ogni altro atto, anche di natura amministrativa, nonché le attività che incidono o possono incidere sugli elementi e sui fattori dell'ambiente ed analisi costi-benefìci ed altre analisi ed ipotesi economiche usate nell'àmbito delle stesse",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -1528,7 +1526,7 @@
       "attributes": {
         "denominazione": "Misure a protezione dell'ambiente e relative analisi di impatto",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 40, c. 2, d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 40, c. 2, d.lgs. n. 33/2013"}
         ],
         "contenuto": "4) Misure o attività finalizzate a proteggere i suddetti elementi ed analisi costi-benefìci ed altre analisi ed ipotesi economiche usate nell'àmbito delle stesse",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -1540,7 +1538,7 @@
       "attributes": {
         "denominazione": "Relazioni sull'attuazione della legislazione",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 40, c. 2, d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 40, c. 2, d.lgs. n. 33/2013"}
         ],
         "contenuto": "5) Relazioni sull'attuazione della legislazione ambientale",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -1552,7 +1550,7 @@
       "attributes": {
         "denominazione": "Stato della salute e della sicurezza umana",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 40, c. 2, d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 40, c. 2, d.lgs. n. 33/2013"}
         ],
         "contenuto": "6) Stato della salute e della sicurezza umana, compresa la contaminazione della catena alimentare, le condizioni della vita umana, il paesaggio, i siti e gli edifici d'interesse culturale, per quanto influenzabili dallo stato degli elementi dell'ambiente, attraverso tali elementi, da qualsiasi fattore",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -1564,7 +1562,7 @@
       "attributes": {
         "denominazione": "Relazione sullo stato dell'ambiente del Ministero dell'Ambiente e della tutela del territorio",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 40, c. 2, d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 40, c. 2, d.lgs. n. 33/2013"}
         ],
         "contenuto": " Relazione sullo stato dell'ambiente redatta dal Ministero dell'Ambiente e della tutela del territorio",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -1576,7 +1574,7 @@
       "attributes": {
         "denominazione": "Interventi straordinari e di emergenza - Provvedimenti",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 42, c. 1, lett. a), d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 42, c. 1, lett. a), d.lgs. n. 33/2013"}
         ],
         "contenuto": "Provvedimenti adottati concernenti gli interventi straordinari e di emergenza che comportano deroghe alla legislazione vigente, con l'indicazione espressa delle norme di legge eventualmente derogate e dei motivi della deroga, nonché con l'indicazione di eventuali atti amministrativi o giurisdizionali intervenuti",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -1588,7 +1586,7 @@
       "attributes": {
         "denominazione": "Interventi straordinari e di emergenza - Termini",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 42, c. 1, lett. b), d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 42, c. 1, lett. b), d.lgs. n. 33/2013"}
         ],
         "contenuto": "Termini temporali eventualmente fissati per l'esercizio dei poteri di adozione dei provvedimenti straordinari",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -1600,7 +1598,7 @@
       "attributes": {
         "denominazione": "Interventi straordinari e di emergenza - Costo",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 42, c. 1, lett. c), d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 42, c. 1, lett. c), d.lgs. n. 33/2013"}
         ],
         "contenuto": "Costo previsto degli interventi e costo effettivo sostenuto dall'amministrazione",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
@@ -1612,7 +1610,7 @@
       "attributes": {
         "denominazione": "Piano triennale per la prevenzione della corruzione e della trasparenza",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 10, c. 8, lett. a), d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 10, c. 8, lett. a), d.lgs. n. 33/2013"}
         ],
         "contenuto": "Piano triennale per la prevenzione della corruzione e della trasparenza e suoi allegati, le misure integrative di prevenzione della corruzione individuate ai sensi dell’articolo 1,comma 2-bis della legge n. 190 del 2012, (MOG 231).",
         "frequenza_aggiornamento": "Annuale",
@@ -1624,8 +1622,8 @@
       "attributes": {
         "denominazione": "Responsabile della prevenzione della corruzione e della trasparenza",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 43, c. 1, d.lgs. n. 33/2013"},
-          {"uri": "#", "title": "Art. 1, c. 8, l. n. 190/2012"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 43, c. 1, d.lgs. n. 33/2013"},
+          {"uri": "https://www.normattiva.it/eli/stato/LEGGE/2012/11/06/190/ORIGINAL", "title": "Art. 1, c. 8, l. n. 190/2012"}
         ],
         "contenuto": "Responsabile della prevenzione della corruzione e della trasparenza",
         "frequenza_aggiornamento": "Tempestivo",
@@ -1646,7 +1644,7 @@
       "attributes": {
         "denominazione": "Relazione del responsabile della prevenzione della corruzione e della trasparenza",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 1, c. 14, l. n. 190/2012"}
+          {"uri": "https://www.normattiva.it/eli/stato/LEGGE/2012/11/06/190/ORIGINAL", "title": "Art. 1, c. 14, l. n. 190/2012"}
         ],
         "contenuto": "Relazione del responsabile della prevenzione della corruzione recante i risultati dell’attività svolta (entro il 15 dicembre di ogni anno)",
         "frequenza_aggiornamento": "Annuale (ex art. 1, c. 14, L. n. 190/2012)",
@@ -1658,7 +1656,7 @@
       "attributes": {
         "denominazione": "Provvedimenti adottati dall'A.N.AC. ed atti di adeguamento a tali provvedimenti",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 1, c. 3, l. n. 190/2012"}
+          {"uri": "https://www.normattiva.it/eli/stato/LEGGE/2012/11/06/190/ORIGINAL", "title": "Art. 1, c. 3, l. n. 190/2012"}
         ],
         "contenuto": "Provvedimenti adottati dall'A.N.AC. ed atti di adeguamento a tali provvedimenti in materia di vigilanza e controllo nell'anticorruzione",
         "frequenza_aggiornamento": "Tempestivo",
@@ -1670,7 +1668,7 @@
       "attributes": {
         "denominazione": "Atti di accertamento delle violazioni",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 18, c. 5, d.lgs. n. 39/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/04/08/39/CONSOLIDATED/20240619", "title": "Art. 18, c. 5, d.lgs. n. 39/2013"}
         ],
         "contenuto": "Atti di accertamento delle violazioni delle disposizioni  di cui al d.lgs. n. 39/2013",
         "frequenza_aggiornamento": "Tempestivo",
@@ -1682,8 +1680,8 @@
       "attributes": {
         "denominazione": "Accesso civico \"semplice\" concernente dati, documenti e informazioni soggetti a pubblicazione obbligatoria",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 5, c. 1, d.lgs. n. 33/2013"},
-          {"uri": "#", "title": "Art. 2, c. 9-bis, l. 241/90"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 5, c. 1, d.lgs. n. 33/2013"},
+          {"uri": "https://www.normattiva.it/eli/stato/LEGGE/1990/08/07/241/CONSOLIDATED/20240619", "title": "Art. 2, c. 9-bis, l. 241/90"}
         ],
         "contenuto": "Nome del Responsabile della prevenzione della corruzione e della trasparenza cui è presentata la richiesta di accesso civico, nonchè modalità per l'esercizio di tale diritto, con indicazione dei recapiti telefonici e delle caselle di posta elettronica istituzionale e nome del titolare del potere sostitutivo, attivabile nei casi di ritardo o mancata risposta, con indicazione dei recapiti telefonici e delle caselle di posta elettronica istituzionale",
         "frequenza_aggiornamento": "Tempestivo",
@@ -1695,7 +1693,7 @@
       "attributes": {
         "denominazione": "Accesso civico \"generalizzato\" concernente dati e documenti ulteriori",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 5, c. 2, d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 5, c. 2, d.lgs. n. 33/2013"}
         ],
         "contenuto": "Nomi Uffici competenti cui è presentata la richiesta di accesso civico, nonché modalità per l'esercizio di tale diritto, con indicazione dei recapiti telefonici e delle caselle di posta elettronica istituzionale",
         "frequenza_aggiornamento": "Tempestivo",
@@ -1707,7 +1705,7 @@
       "attributes": {
         "denominazione": "Registro degli accessi",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Linee guida ANAC FOIA (del. 1309/2016)"}
+          {"uri": "https://www.anticorruzione.it/-/determinazione-n.-1309-del-28/12/2016-rif.-1", "title": "Linee guida ANAC FOIA (del. 1309/2016)"}
         ],
         "contenuto": "Elenco delle richieste di accesso (atti, civico e generalizzato) con indicazione dell’oggetto e della data della richiesta nonché del relativo esito con la data della decisione",
         "frequenza_aggiornamento": "Semestrale",
@@ -1719,7 +1717,7 @@
       "attributes": {
         "denominazione": "Catalogo dei dati, metadati e delle banche dati",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 53, c. 1 bis, d.lgs. 82/2005 modificato dall’art. 43 del d.lgs. 179/16"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/08/26/179/CONSOLIDATED/20240619", "title": "Art. 53, c. 1 bis, d.lgs. 82/2005 modificato dall’art. 43 del d.lgs. 179/2016"}
         ],
         "contenuto": "Catalogo dei dati, dei metadati definitivi e delle relative banche dati in possesso delle amministrazioni, da pubblicare anche tramite link al Repertorio nazionale dei dati territoriali (www.rndt.gov.it), al  catalogo dei dati della PA e delle banche dati www.dati.gov.it e https://basidati.agid.gov.it/catalogo gestiti da AGID",
         "frequenza_aggiornamento": "Tempestivo",
@@ -1731,7 +1729,7 @@
       "attributes": {
         "denominazione": "Regolamenti",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 53, c. 1,  bis, d.lgs. 82/2005"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2005/03/07/82/CONSOLIDATED", "title": "Art. 53, c. 1,  bis, d.lgs. 82/2005"}
         ],
         "contenuto": "Regolamenti che disciplinano l'esercizio della facoltà di accesso telematico e il riutilizzo dei dati, fatti salvi i dati presenti in Anagrafe tributaria",
         "frequenza_aggiornamento": "Annuale",
@@ -1743,7 +1741,7 @@
       "attributes": {
         "denominazione": "Obiettivi di accessibilità",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 9, c. 7, d.l. n. 179/2012 convertito con modificazioni dalla L. 17 dicembre 2012, n. 221"}
+          {"uri": "https://www.normattiva.it/eli/stato/LEGGE/2012/12/17/221/ORIGINAL", "title": "Art. 9, c. 7, d.l. n. 179/2012 convertito con modificazioni dalla L. 17 dicembre 2012, n. 221"}
         ],
         "contenuto": "Da pubblicare secondo le indicazioni contenute nella circolare dell'Agenzia per l'Italia digitale n. 1/2016 e s.m.i. Obiettivi di accessibilità dei soggetti disabili agli strumenti informatici per l'anno corrente (entro il 31 marzo di ogni anno) e lo stato di attuazione del \"piano per l'utilizzo del telelavoro\" nella propria organizzazione.",
         "frequenza_aggiornamento": "Annuale (ex art. 9, c. 7, D.L. n. 179/2012)",
@@ -1755,8 +1753,8 @@
       "attributes": {
         "denominazione": "Dati ulteriori",
         "riferimento_legislativo": [
-          {"uri": "#", "title": "Art. 7-bis, c. 3, d.lgs. n. 33/2013"},
-          {"uri": "#", "title": "Art. 1, c. 9, lett. f), l. n. 190/2012"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 7-bis, c. 3, d.lgs. n. 33/2013"},
+          {"uri": "https://www.normattiva.it/eli/stato/LEGGE/2012/11/06/190/ORIGINAL", "title": "Art. 1, c. 9, lett. f), l. n. 190/2012"}
         ],
         "contenuto": "Dati, informazioni e documenti ulteriori che le pubbliche amministrazioni non hanno l'obbligo di pubblicare ai sensi della normativa vigente e che non sono riconducibili alle sottosezioni indicate",
         "frequenza_aggiornamento": "",
