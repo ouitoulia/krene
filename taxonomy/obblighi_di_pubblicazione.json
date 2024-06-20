@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9401, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9401, "uuid": "7faa195b-2455-45dd-ac26-c0242c2aa392",
       "attributes": {
         "denominazione": "Piano triennale per la prevenzione della corruzione e della trasparenza (PTPCT)",
         "riferimento_legislativo": [
@@ -14,7 +14,7 @@
     },
 
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9402, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9402, "uuid": "242b73e5-ee9b-46d5-b090-4d2a7f2dd948",
       "attributes": {
         "denominazione": "Riferimenti normativi su organizzazione e attività",
         "riferimento_legislativo": [
@@ -26,7 +26,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9403, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9403, "uuid": "c79a6f8c-88f5-4b91-b5ed-686c3ec8391e",
       "attributes": {
         "denominazione": "Atti amministrativi generali",
         "riferimento_legislativo": [
@@ -38,7 +38,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9404, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9404, "uuid": "d283b5a5-e6c9-463c-9ddc-f5300483d855",
       "attributes": {
         "denominazione": "Documenti di programmazione strategico-gestionale",
         "riferimento_legislativo": [
@@ -50,7 +50,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9405, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9405, "uuid": "7d0563c0-dd73-4ce7-b4f1-0c068644245f",
       "attributes": {
         "denominazione": "Codice disciplinare e codice di condotta",
         "riferimento_legislativo": [
@@ -64,7 +64,7 @@
     },
 
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9406, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9406, "uuid": "367c45e9-418f-474e-ad6a-0404ee00626a",
       "attributes": {
         "denominazione": "Scadenzario obblighi amministrativi",
         "riferimento_legislativo": [
@@ -76,7 +76,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9407, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9407, "uuid": "0718ce0d-52f5-4a86-ade6-e22bf078d9b5",
       "attributes": {
         "denominazione": "Oneri informativi per cittadini e imprese",
         "riferimento_legislativo": [
@@ -90,7 +90,7 @@
     },
 
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9408, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9408, "uuid": "6df64e0f-6892-4a4b-8671-25f24a6cc604",
       "attributes": {
         "denominazione": "Burocrazia zero",
         "riferimento_legislativo": [
@@ -103,7 +103,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9409, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9409, "uuid": "f9d95d45-b2f7-493b-a839-a11aa056ebda",
       "attributes": {
         "denominazione": "Attività soggette a controllo",
         "riferimento_legislativo": [
@@ -118,7 +118,7 @@
 
 
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9410, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9410, "uuid": "64fac31e-9ffb-47e2-a67c-01a9f46c2a44",
       "attributes": {
         "denominazione": "Organi di indirizzo politico e di amministrazione e gestione",
         "riferimento_legislativo": [
@@ -131,7 +131,7 @@
     },
 
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9411, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9411, "uuid": "5ccbcee2-3bd3-4543-9307-db09db38e253",
       "attributes": {
         "denominazione": "Titolari di incarichi politici - Atto di nomina o di proclamazione",
         "riferimento_legislativo": [
@@ -143,7 +143,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9412, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9412, "uuid": "cc405c61-4d99-4b70-ae04-430ee4d04cb4",
       "attributes": {
         "denominazione": "Titolari di incarichi politici - Curriculum vitae",
         "riferimento_legislativo": [
@@ -155,7 +155,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9413, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9413, "uuid": "0da8c90b-c872-4a12-af5e-0587c75212ea",
       "attributes": {
         "denominazione": "Titolari di incarichi politici - Compensi",
         "riferimento_legislativo": [
@@ -167,7 +167,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9414, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9414, "uuid": "1de6f9d9-4929-4e91-9862-5ecb5afc9d36",
       "attributes": {
         "denominazione": "Titolari di incarichi politici - Importi di viaggi e missioni",
         "riferimento_legislativo": [
@@ -179,7 +179,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9415, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9415, "uuid": "b90e30ff-a6f6-4dcc-923c-f5ef581d2110",
       "attributes": {
         "denominazione": "Titolari di incarichi politici - Assunzione altre cariche",
         "riferimento_legislativo": [
@@ -191,7 +191,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9416, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9416, "uuid": "8699ef31-d6aa-458c-8368-f971e7bd74bc",
       "attributes": {
         "denominazione": "Titolari di incarichi politici - Altri eventuali incarichi",
         "riferimento_legislativo": [
@@ -203,7 +203,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9417, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9417, "uuid": "012c5db4-7b01-47b1-a3e0-dd753a3c2cb5",
       "attributes": {
         "denominazione": "Titolari di incarichi politici - Dichiarazioni punto 1",
         "riferimento_legislativo": [
@@ -216,7 +216,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9418, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9418, "uuid": "dd98d942-6b58-4a82-a81f-50129525cac3",
       "attributes": {
         "denominazione": "Titolari di incarichi politici - Dichiarazioni punto 2",
         "riferimento_legislativo": [
@@ -229,7 +229,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9419, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9419, "uuid": "90886d2e-61b4-444b-9d02-79905f1801dd",
       "attributes": {
         "denominazione": "Titolari di incarichi politici - Dichiarazioni punto 3",
         "riferimento_legislativo": [
@@ -242,7 +242,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9420, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9420, "uuid": "bfdba26f-d123-4075-accd-cb1edd5ff896",
       "attributes": {
         "denominazione": "Titolari di incarichi politici - Dichiarazioni art. 3",
         "riferimento_legislativo": [
@@ -256,7 +256,7 @@
     },
 
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9421, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9421, "uuid": "9923c743-9fdc-4337-8c04-cf7fc0c4146c",
       "attributes": {
         "denominazione": "Titolari di incarichi di amministrazione, di direzione o di governo - Atto di nomina o di proclamazione",
         "riferimento_legislativo": [
@@ -269,7 +269,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9422, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9422, "uuid": "41f24532-529f-467b-a16a-79a8c9aab89a",
       "attributes": {
         "denominazione": "Titolari di incarichi di amministrazione, di direzione o di governo - Curriculum vitae",
         "riferimento_legislativo": [
@@ -282,7 +282,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9423, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9423, "uuid": "c90fedd7-b56e-427d-9739-fdecb476ac62",
       "attributes": {
         "denominazione": "Titolari di incarichi di amministrazione, di direzione o di governo - Compensi",
         "riferimento_legislativo": [
@@ -295,7 +295,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9424, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9424, "uuid": "704479ba-276f-46a0-bc81-cf428d2f8d58",
       "attributes": {
         "denominazione": "Titolari di incarichi di amministrazione, di direzione o di governo - Importi di viaggi e missioni",
         "riferimento_legislativo": [
@@ -308,7 +308,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9425, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9425, "uuid": "42543a89-de9c-492d-99b9-7748c62ca14a",
       "attributes": {
         "denominazione": "Titolari di incarichi di amministrazione, di direzione o di governo - Assunzione altre cariche",
         "riferimento_legislativo": [
@@ -321,7 +321,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9426, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9426, "uuid": "2ddeb6a8-bdd5-4765-af06-18bac62e5750",
       "attributes": {
         "denominazione": "Titolari di incarichi di amministrazione, di direzione o di governo - Altri eventuali incarichi",
         "riferimento_legislativo": [
@@ -334,7 +334,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9427, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9427, "uuid": "5477fb56-146c-42ec-a98b-f96227d4b0be",
       "attributes": {
         "denominazione": "Titolari di incarichi di amministrazione, di direzione o di governo - Dichiarazioni punto 1",
         "riferimento_legislativo": [
@@ -348,7 +348,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9428, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9428, "uuid": "9064945d-4382-4ac1-b537-80ddd115aca2",
       "attributes": {
         "denominazione": "Titolari di incarichi di amministrazione, di direzione o di governo - Dichiarazioni punto 2",
         "riferimento_legislativo": [
@@ -362,7 +362,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9429, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9429, "uuid": "e2f501f2-cf48-464a-a83c-adeb46ce550b",
       "attributes": {
         "denominazione": "Titolari di incarichi di amministrazione, di direzione o di governo - Dichiarazioni punto 3",
         "riferimento_legislativo": [
@@ -376,7 +376,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9430, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9430, "uuid": "a5482e05-6462-4d73-bc0f-f9aca3145d88",
       "attributes": {
         "denominazione": "Titolari di incarichi di amministrazione, di direzione o di governo - Dichiarazioni art. 3",
         "riferimento_legislativo": [
@@ -391,7 +391,7 @@
     },
 
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9431, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9431, "uuid": "4eed1245-f283-479a-9744-aefa9258ccd5",
       "attributes": {
         "denominazione": "Cessati dall'incarico - Atto di nomina o di proclamazione",
         "riferimento_legislativo": [
@@ -404,7 +404,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9432, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9432, "uuid": "98943bd2-f820-4a2b-b2a2-15a6cbcd77bd",
       "attributes": {
         "denominazione": "Cessati dall'incarico - Curriculum vitae",
         "riferimento_legislativo": [
@@ -417,7 +417,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9433, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9433, "uuid": "c66f824d-04b8-4c68-83b2-c37071b95d8e",
       "attributes": {
         "denominazione": "Cessati dall'incarico - Compensi",
         "riferimento_legislativo": [
@@ -430,7 +430,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9434, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9434, "uuid": "40cb3a65-13a6-486d-a263-1cf682d40638",
       "attributes": {
         "denominazione": "Cessati dall'incarico - Importi di viaggi e missioni",
         "riferimento_legislativo": [
@@ -443,7 +443,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9435, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9435, "uuid": "88a87f7f-648f-48c0-99c6-ea72fc573a8a",
       "attributes": {
         "denominazione": "Cessati dall'incarico - Assunzione altre cariche",
         "riferimento_legislativo": [
@@ -456,7 +456,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9436, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9436, "uuid": "279ae46f-5cb0-4393-aee8-ff76764ecdb3",
       "attributes": {
         "denominazione": "Cessati dall'incarico - Altri eventuali incarichi",
         "riferimento_legislativo": [
@@ -469,7 +469,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9437, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9437, "uuid": "b07c46e9-899d-415f-958b-a8e221977d3e",
       "attributes": {
         "denominazione": "Cessati dall'incarico - Dichiarazioni punto 1",
         "riferimento_legislativo": [
@@ -483,7 +483,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9438, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9438, "uuid": "66af4429-5a82-4d63-88c7-539871cdb23b",
       "attributes": {
         "denominazione": "Cessati dall'incarico - Dichiarazioni punto 2",
         "riferimento_legislativo": [
@@ -497,7 +497,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9439, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9439, "uuid": "decc2769-0a20-48d8-8cd3-3c26aa8e82b9",
       "attributes": {
         "denominazione": "Cessati dall'incarico - Dichiarazioni punto 3",
         "riferimento_legislativo": [
@@ -511,7 +511,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9440, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9440, "uuid": "d930ebb8-f46b-4ba7-a03a-4e1590cd3e5c",
       "attributes": {
         "denominazione": "Cessati dall'incarico - Dichiarazioni art. 3",
         "riferimento_legislativo": [
@@ -526,7 +526,7 @@
     },
 
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9441, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9441, "uuid": "ca20e8be-ffdf-4b14-a3e3-fc4202c51d2e",
       "attributes": {
         "denominazione": "Sanzioni per mancata o incompleta comunicazione dei dati da parte dei titolari di incarichi politici, di amministrazione, di direzione o di governo",
         "riferimento_legislativo": [
@@ -539,7 +539,7 @@
     },
 
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9442, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9442, "uuid": "790b2cc0-a2a0-40dc-8b09-214c5e3ac2bb",
       "attributes": {
         "denominazione": "Rendiconti gruppi consiliari regionali/provinciali",
         "riferimento_legislativo": [
@@ -551,7 +551,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9443, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9443, "uuid": "fb838ee8-e677-441f-9feb-4dd5df6cba1e",
       "attributes": {
         "denominazione": "Atti degli organi di controllo",
         "riferimento_legislativo": [
@@ -564,7 +564,7 @@
     },
 
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9444, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9444, "uuid": "7586c1e3-8777-4014-8855-a7058130b495",
       "attributes": {
         "denominazione": "Articolazione degli uffici",
         "riferimento_legislativo": [
@@ -577,7 +577,7 @@
     },
 
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9445, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9445, "uuid": "098ea7d3-5c7d-4185-b4bf-555cbecbc4f6",
       "attributes": {
         "denominazione": "Organigramma - Illustrazione in forma semplificata",
         "riferimento_legislativo": [
@@ -589,7 +589,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9446, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9446, "uuid": "df2afbe4-de5a-4441-9792-f27be0234f1f",
       "attributes": {
         "denominazione": "Organigramma - Nomi dei dirigenti",
         "riferimento_legislativo": [
@@ -602,7 +602,7 @@
     },
 
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9447, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9447, "uuid": "96245445-3a3c-4272-8472-a5f6913b623f",
       "attributes": {
         "denominazione": "Telefono e posta elettronica",
         "riferimento_legislativo": [
@@ -616,7 +616,7 @@
 
 
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9448, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9448, "uuid": "e2f96cdd-79d4-4e68-aa18-2429517eb66e",
       "attributes": {
         "denominazione": "Consulenti e collaboratori",
         "riferimento_legislativo": [
@@ -630,7 +630,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9449, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9449, "uuid": "c72eff45-5dd6-4233-8ad2-467c051768ce",
       "attributes": {
         "denominazione": "Incarichi amministrativi di vertice",
         "riferimento_legislativo": [
@@ -645,7 +645,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9450, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9450, "uuid": "3ac81d6e-26c8-4824-a6e7-1832ef92f061",
       "attributes": {
         "denominazione": "Incarichi dirigenziali, a qualsiasi titolo conferiti, ivi inclusi quelli conferiti discrezionalmente dall'organo di indirizzo politico senza procedure pubbliche di selezione e titolari di posizione organizzativa con funzioni dirigenziali",
         "riferimento_legislativo": [
@@ -660,7 +660,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9451, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9451, "uuid": "0a155149-9e6a-465b-9fed-123de2c213cc",
       "attributes": {
         "denominazione": "Elenco posizioni dirigenziali discrezionali",
         "riferimento_legislativo": [
@@ -673,7 +673,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9452, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9452, "uuid": "707e595e-d077-47bb-a058-e38c5d1cdb86",
       "attributes": {
         "denominazione": "Posti di funzione disponibili",
         "riferimento_legislativo": [
@@ -685,7 +685,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9453, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9453, "uuid": "3d14e910-4cb3-4255-b6cb-46b4cc5bf96d",
       "attributes": {
         "denominazione": "Ruolo dirigenti",
         "riferimento_legislativo": [
@@ -697,7 +697,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9454, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9454, "uuid": "cf0a4b7c-9039-47f1-81a6-c98a41c47b19",
       "attributes": {
         "denominazione": "Dirigenti cessati dal rapporto di lavoro",
         "riferimento_legislativo": [
@@ -710,7 +710,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9455, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9455, "uuid": "2b4ef6de-4d6f-46da-b959-bfe3cfe5445b",
       "attributes": {
         "denominazione": "Sanzioni per mancata o incompleta comunicazione dei dati da parte dei titolari di incarichi dirigenziali",
         "riferimento_legislativo": [
@@ -722,7 +722,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9456, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9456, "uuid": "8e52bec7-f1ae-454a-b256-99c96dd441e1",
       "attributes": {
         "denominazione": "Posizioni organizzative",
         "riferimento_legislativo": [
@@ -734,7 +734,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9457, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9457, "uuid": "16c217cc-cb09-4600-b52a-d001c43a17fe",
       "attributes": {
         "denominazione": "Conto annuale del personale",
         "riferimento_legislativo": [
@@ -746,7 +746,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9458, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9458, "uuid": "44603e2b-7206-4533-ad68-4c61eeb97265",
       "attributes": {
         "denominazione": "Costo personale tempo indeterminato",
         "riferimento_legislativo": [
@@ -758,7 +758,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9459, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9459, "uuid": "9c9f08c4-520a-4db4-a058-b307b11bde9f",
       "attributes": {
         "denominazione": "Personale non a tempo indeterminato",
         "riferimento_legislativo": [
@@ -770,7 +770,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9460, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9460, "uuid": "99265de0-88fe-4c5a-9bab-903596aadc7c",
       "attributes": {
         "denominazione": "Costo del personale non a tempo indeterminato",
         "riferimento_legislativo": [
@@ -782,7 +782,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9461, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9461, "uuid": "493b0bdd-a666-47a1-9023-293d4aaa8307",
       "attributes": {
         "denominazione": "Tassi di assenza trimestrali",
         "riferimento_legislativo": [
@@ -794,7 +794,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9462, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9462, "uuid": "5be9e240-3dfa-441c-b014-6f18635156e0",
       "attributes": {
         "denominazione": "Incarichi conferiti e autorizzati ai dipendenti (dirigenti e non dirigenti)",
         "riferimento_legislativo": [
@@ -807,7 +807,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9463, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9463, "uuid": "906b32f7-1c70-4ea7-9ce8-7c49b56d7d51",
       "attributes": {
         "denominazione": "Contrattazione collettiva",
         "riferimento_legislativo": [
@@ -820,7 +820,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9464, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9464, "uuid": "4b985b5a-ac7c-4fc3-ba84-91adf6d6f11f",
       "attributes": {
         "denominazione": "Contratti integrativi",
         "riferimento_legislativo": [
@@ -832,7 +832,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9465, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9465, "uuid": "de3c50b5-bb22-42c3-81dc-78e0852b8aef",
       "attributes": {
         "denominazione": "Costi contratti integrativi",
         "riferimento_legislativo": [
@@ -845,7 +845,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9466, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9466, "uuid": "3af8d4de-91cb-4e86-b43a-0cc81283d6e1",
       "attributes": {
         "denominazione": "OIV",
         "riferimento_legislativo": [
@@ -858,7 +858,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9467, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9467, "uuid": "4cb7843e-35f1-47ee-8a9f-6b485ffc8463",
       "attributes": {
         "denominazione": "Bandi di concorso",
         "riferimento_legislativo": [
@@ -870,7 +870,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9468, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9468, "uuid": "112cc2ee-1923-4fb2-81a9-aeb851544877",
       "attributes": {
         "denominazione": "Sistema di misurazione e valutazione della Performance",
         "riferimento_legislativo": [
@@ -882,7 +882,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9469, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9469, "uuid": "6575db7e-27ea-47f8-a21a-01747b54fab9",
       "attributes": {
         "denominazione": "Piano della Performance/Piano esecutivo di gestione",
         "riferimento_legislativo": [
@@ -894,7 +894,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9470, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9470, "uuid": "94228081-d609-42a5-b6a1-ccf26785be79",
       "attributes": {
         "denominazione": "Relazione sulla Performance",
         "riferimento_legislativo": [
@@ -906,7 +906,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9471, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9471, "uuid": "f578f146-d787-489e-ace4-c1aadcccda63",
       "attributes": {
         "denominazione": "Ammontare complessivo dei premi",
         "riferimento_legislativo": [
@@ -918,7 +918,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9472, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9472, "uuid": "4fb38dc6-a51c-4076-9ddc-f4a0dea255c4",
       "attributes": {
         "denominazione": "Dati relativi ai premi",
         "riferimento_legislativo": [
@@ -930,7 +930,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9473, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9473, "uuid": "baebaf54-1ff2-472a-a978-b861202e98c6",
       "attributes": {
         "denominazione": "Benessere organizzativo",
         "riferimento_legislativo": [
@@ -943,7 +943,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9474, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9474, "uuid": "f98badbf-fe29-46d4-b3fd-4c7f0152a106",
       "attributes": {
         "denominazione": "Enti pubblici vigilati",
         "riferimento_legislativo": [
@@ -957,7 +957,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9475, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9475, "uuid": "814cab16-42ca-495d-a99a-2b149bde338e",
       "attributes": {
         "denominazione": "Dati società partecipate",
         "riferimento_legislativo": [
@@ -971,7 +971,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9476, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9476, "uuid": "c2ac46b4-b325-4630-a269-06cd4c82b900",
       "attributes": {
         "denominazione": "Provvedimenti - Costituzione, acquisto e gestione",
         "riferimento_legislativo": [
@@ -983,7 +983,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9477, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9477, "uuid": "316019c6-5835-48a4-8915-e2ba9bf6af60",
       "attributes": {
         "denominazione": "Provvedimenti - Obiettivi",
         "riferimento_legislativo": [
@@ -995,7 +995,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9478, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9478, "uuid": "a6da5c1e-e37c-4a71-9501-b3fb3d9bccc2",
       "attributes": {
         "denominazione": "Enti di diritto privato controllati",
         "riferimento_legislativo": [
@@ -1009,7 +1009,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9479, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9479, "uuid": "c1d34775-d595-4c7a-8025-e54117fd33a5",
       "attributes": {
         "denominazione": "Rappresentazione grafica",
         "riferimento_legislativo": [
@@ -1021,7 +1021,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9480, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9480, "uuid": "931be8a4-6a19-4188-a2d0-8adb69120f96",
       "attributes": {
         "denominazione": "Dati aggregati attività amministrativa",
         "riferimento_legislativo": [
@@ -1034,7 +1034,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9481, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9481, "uuid": "9b7d7fd9-7962-485c-ac56-0c3f9766e370",
       "attributes": {
         "denominazione": "Tipologie di procedimento",
         "riferimento_legislativo": [
@@ -1047,7 +1047,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9482, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9482, "uuid": "230cc760-4b9d-4626-be67-043c05d630a2",
       "attributes": {
         "denominazione": "Monitoraggio tempi procedimentali",
         "riferimento_legislativo": [
@@ -1061,7 +1061,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9483, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9483, "uuid": "dc0342d6-440e-4a3e-80aa-8f9970d3e62c",
       "attributes": {
         "denominazione": "Recapiti dell'ufficio responsabile",
         "riferimento_legislativo": [
@@ -1073,7 +1073,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9484, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9484, "uuid": "7d433859-d9d0-4915-a52e-58cdd3af38cb",
       "attributes": {
         "denominazione": "Provvedimenti organi indirizzo politico",
         "riferimento_legislativo": [
@@ -1087,7 +1087,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9485, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9485, "uuid": "600bc5de-066f-48c5-a286-9708910cef23",
       "attributes": {
         "denominazione": "Provvedimenti dirigenti amministrativi",
         "riferimento_legislativo": [
@@ -1101,7 +1101,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9486, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9486, "uuid": "c053ef23-e317-4105-9b82-0b5b62ed2923",
       "attributes": {
         "denominazione": "Tipologie di controllo",
         "riferimento_legislativo": [
@@ -1114,7 +1114,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9487, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9487, "uuid": "2ec603b2-eac3-4545-ac26-06bf538c1dfb",
       "attributes": {
         "denominazione": "Obblighi e adempimenti",
         "riferimento_legislativo": [
@@ -1127,7 +1127,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9520, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9520, "uuid": "e623a27e-0e9a-4c3f-abd0-947a90d14165",
       "attributes": {
         "denominazione": "Criteri e modalità",
         "riferimento_legislativo": [
@@ -1139,7 +1139,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9521, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9521, "uuid": "69caf74c-3489-427a-8220-d4cf3e17d115",
       "attributes": {
         "denominazione": "Atti di concessione",
         "riferimento_legislativo": [
@@ -1152,7 +1152,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9522, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9522, "uuid": "88f28b23-03f1-405c-b6a9-8e26bf78ad08",
       "attributes": {
         "denominazione": "Bilancio preventivo - Documenti e allegati",
         "riferimento_legislativo": [
@@ -1165,7 +1165,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9523, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9523, "uuid": "d4d3f3f5-3a53-4f66-9cee-64d7ea3880b8",
       "attributes": {
         "denominazione": "Bilancio preventivo - Dati",
         "riferimento_legislativo": [
@@ -1178,7 +1178,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9524, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9524, "uuid": "78805012-ef75-49fd-888b-1c86e8aa9d67",
       "attributes": {
         "denominazione": "Bilancio consuntivo - Documenti e allegati",
         "riferimento_legislativo": [
@@ -1191,7 +1191,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9525, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9525, "uuid": "08f52bd9-73c0-4486-9243-f9c7e13ea65d",
       "attributes": {
         "denominazione": "Bilancio consuntivo - Dati",
         "riferimento_legislativo": [
@@ -1204,7 +1204,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9526, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9526, "uuid": "8c622178-5996-4190-80e9-9c288c9f02cd",
       "attributes": {
         "denominazione": "Piano degli indicatori e dei risultati attesi di bilancio",
         "riferimento_legislativo": [
@@ -1218,7 +1218,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9527, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9527, "uuid": "8d71ba7a-f6a9-4ba6-a29b-7393c86244d4",
       "attributes": {
         "denominazione": "Patrimonio immobiliare",
         "riferimento_legislativo": [
@@ -1230,7 +1230,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9528, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9528, "uuid": "7d452c1c-6469-4048-b17d-f2cdb7e4aaca",
       "attributes": {
         "denominazione": "Canoni di locazione o affitto",
         "riferimento_legislativo": [
@@ -1242,7 +1242,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9529, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9529, "uuid": "2ccbd5bc-639d-4509-b435-5d6ee94c3964",
       "attributes": {
         "denominazione": "Atti degli Organismi indipendenti di valutazione, nuclei di valutazione o altri organismi con funzioni analoghe",
         "riferimento_legislativo": [
@@ -1254,7 +1254,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9530, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9530, "uuid": "d6921fd4-d683-46b6-bb5c-58bd0774b4eb",
       "attributes": {
         "denominazione": "Relazioni degli organi di revisione amministrativa e contabile",
         "riferimento_legislativo": [
@@ -1266,7 +1266,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9531, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9531, "uuid": "42bb854c-4691-492e-b61f-dc17f74dac45",
       "attributes": {
         "denominazione": "Rilievi Corte dei conti",
         "riferimento_legislativo": [
@@ -1278,7 +1278,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9532, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9532, "uuid": "51f4b9e3-04cf-45c0-93cc-8572040fa768",
       "attributes": {
         "denominazione": "Carta dei servizi e standard di qualità",
         "riferimento_legislativo": [
@@ -1290,7 +1290,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9533, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9533, "uuid": "e6744667-4af5-47ee-85eb-b2805f39c991",
       "attributes": {
         "denominazione": "Class action",
         "riferimento_legislativo": [
@@ -1303,7 +1303,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9534, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9534, "uuid": "ece5ce84-f58a-4e50-86fc-f0bb8edc6a5b",
       "attributes": {
         "denominazione": "Costi contabilizzati",
         "riferimento_legislativo": [
@@ -1316,7 +1316,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9535, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9535, "uuid": "d22692f9-6f49-4b83-88f4-1c99b5a8a300",
       "attributes": {
         "denominazione": "Liste di attesa",
         "riferimento_legislativo": [
@@ -1328,7 +1328,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9536, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9536, "uuid": "63b91cbf-f05c-4aa6-be44-81900ee5e5b5",
       "attributes": {
         "denominazione": "Risultati delle indagini sulla soddisfazione da parte degli utenti rispetto alla qualità dei servizi in rete e statistiche di utilizzo dei servizi in rete.",
         "riferimento_legislativo": [
@@ -1340,7 +1340,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9537, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9537, "uuid": "2e1e8ea3-c36d-47b8-bf65-bd8f4a4da63b",
       "attributes": {
         "denominazione": "Dati sui pagamenti",
         "riferimento_legislativo": [
@@ -1352,7 +1352,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9538, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9538, "uuid": "9891261e-83ee-40f1-8160-8cf36104064e",
       "attributes": {
         "denominazione": "Dati sui pagamenti in forma sintetica e aggregata",
         "riferimento_legislativo": [
@@ -1364,7 +1364,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9539, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9539, "uuid": "e23a6a91-f166-4cfd-b91d-ba03547d35e5",
       "attributes": {
         "denominazione": "Indicatore di tempestività dei pagamenti - Annuale",
         "riferimento_legislativo": [
@@ -1376,7 +1376,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9540, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9540, "uuid": "7ab7cb97-2fc4-445a-9706-b0f033767f0a",
       "attributes": {
         "denominazione": "Indicatore di tempestività dei pagamenti - Trimestrale",
         "riferimento_legislativo": [
@@ -1388,7 +1388,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9541, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9541, "uuid": "1fd3ca5b-39da-44e3-b7ce-3c6df940f334",
       "attributes": {
         "denominazione": "Ammontare complessivo dei debiti",
         "riferimento_legislativo": [
@@ -1400,7 +1400,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9542, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9542, "uuid": "cf36a2bd-a525-4d43-8a15-9186f42b5823",
       "attributes": {
         "denominazione": "IBAN e pagamenti informatici",
         "riferimento_legislativo": [
@@ -1413,7 +1413,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9543, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9543, "uuid": "67891127-582e-4862-b4d0-76517a3553a7",
       "attributes": {
         "denominazione": "Informazioni relative ai nuclei di valutazione e verifica degli investimenti pubblici (art. 1, l. n. 144/1999).",
         "riferimento_legislativo": [
@@ -1425,7 +1425,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9544, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9544, "uuid": "267f0df0-9f78-4dbc-8c74-933dde89e694",
       "attributes": {
         "denominazione": "Atti di programmazione delle opere pubbliche",
         "riferimento_legislativo": [
@@ -1438,7 +1438,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9545, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9545, "uuid": "e3594b88-957e-4fbd-b54e-43d34c8fe1cd",
       "attributes": {
         "denominazione": "Tempi, costi unitari e indicatori di realizzazione delle opere pubbliche in corso o completate.",
         "riferimento_legislativo": [
@@ -1450,7 +1450,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9546, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9546, "uuid": "dbb971f1-2b71-497a-8673-b11b48153bde",
       "attributes": {
         "denominazione": "Pianificazione e governo del territorio - Atti",
         "riferimento_legislativo": [
@@ -1462,7 +1462,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9547, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9547, "uuid": "693f4c7a-1d11-4de8-945e-0c767a0c27c6",
       "attributes": {
         "denominazione": "Pianificazione e governo del territorio - Documentazione",
         "riferimento_legislativo": [
@@ -1474,7 +1474,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9548, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9548, "uuid": "a574da98-646e-4eed-98a2-92eac5683193",
       "attributes": {
         "denominazione": "Informazioni ambientali",
         "riferimento_legislativo": [
@@ -1486,7 +1486,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9549, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9549, "uuid": "6e8006dd-28ab-427b-bffa-8925b465bcf8",
       "attributes": {
         "denominazione": "Stato dell'ambiente",
         "riferimento_legislativo": [
@@ -1498,7 +1498,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9550, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9550, "uuid": "61b1e90f-1f12-484a-a727-e584ef1ddbf3",
       "attributes": {
         "denominazione": "Fattori inquinanti",
         "riferimento_legislativo": [
@@ -1510,7 +1510,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9551, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9551, "uuid": "be530f1c-173c-4ba1-8f6c-7555954e5ec1",
       "attributes": {
         "denominazione": "Misure incidenti sull'ambiente e relative analisi di impatto",
         "riferimento_legislativo": [
@@ -1522,7 +1522,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9552, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9552, "uuid": "84edf25a-e964-45d3-a229-7e2485123826",
       "attributes": {
         "denominazione": "Misure a protezione dell'ambiente e relative analisi di impatto",
         "riferimento_legislativo": [
@@ -1534,7 +1534,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9553, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9553, "uuid": "fd622515-9ab6-423b-98ae-588e3eed8eba",
       "attributes": {
         "denominazione": "Relazioni sull'attuazione della legislazione",
         "riferimento_legislativo": [
@@ -1546,7 +1546,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9554, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9554, "uuid": "007ae85b-3bcd-4d35-8ee4-316d6fd785e0",
       "attributes": {
         "denominazione": "Stato della salute e della sicurezza umana",
         "riferimento_legislativo": [
@@ -1558,7 +1558,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9555, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9555, "uuid": "3b599052-5ea9-4e6b-8375-c3987bc60465",
       "attributes": {
         "denominazione": "Relazione sullo stato dell'ambiente del Ministero dell'Ambiente e della tutela del territorio",
         "riferimento_legislativo": [
@@ -1570,7 +1570,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9556, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9556, "uuid": "572075ea-30a0-4fa0-bf98-299dd8825d4d",
       "attributes": {
         "denominazione": "Interventi straordinari e di emergenza - Provvedimenti",
         "riferimento_legislativo": [
@@ -1582,7 +1582,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9557, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9557, "uuid": "a0a7d61a-b284-4059-b916-312ae390af30",
       "attributes": {
         "denominazione": "Interventi straordinari e di emergenza - Termini",
         "riferimento_legislativo": [
@@ -1594,7 +1594,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9558, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9558, "uuid": "2f51b34a-f4fe-4a04-831c-8df269dfe852",
       "attributes": {
         "denominazione": "Interventi straordinari e di emergenza - Costo",
         "riferimento_legislativo": [
@@ -1606,7 +1606,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9559, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9559, "uuid": "08ebdf2c-bb66-4d46-b8d7-d2a5c7fb1f92",
       "attributes": {
         "denominazione": "Piano triennale per la prevenzione della corruzione e della trasparenza",
         "riferimento_legislativo": [
@@ -1618,7 +1618,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9560, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9560, "uuid": "c27cec0c-a4cd-4bae-b6d3-72f19716975c",
       "attributes": {
         "denominazione": "Responsabile della prevenzione della corruzione e della trasparenza",
         "riferimento_legislativo": [
@@ -1631,7 +1631,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9561, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9561, "uuid": "2cea3540-860a-4413-9ada-d19827675bbc",
       "attributes": {
         "denominazione": "Regolamenti per la prevenzione e la repressione della corruzione e dell'illegalità",
         "contenuto": "Regolamenti per la prevenzione e la repressione della corruzione e dell'illegalità (laddove adottati)",
@@ -1640,7 +1640,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9562, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9562, "uuid": "3a5b147b-a3a8-439b-9bd8-aa857d821820",
       "attributes": {
         "denominazione": "Relazione del responsabile della prevenzione della corruzione e della trasparenza",
         "riferimento_legislativo": [
@@ -1652,7 +1652,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9563, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9563, "uuid": "a1aa4442-b0a0-4ad0-aa42-992299d66ff7",
       "attributes": {
         "denominazione": "Provvedimenti adottati dall'A.N.AC. ed atti di adeguamento a tali provvedimenti",
         "riferimento_legislativo": [
@@ -1664,7 +1664,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9564, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9564, "uuid": "fe6dcd9e-96db-4613-a2a2-a6e27415d53f",
       "attributes": {
         "denominazione": "Atti di accertamento delle violazioni",
         "riferimento_legislativo": [
@@ -1676,7 +1676,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9565, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9565, "uuid": "1b3565fa-a450-4658-a970-57be33ab7401",
       "attributes": {
         "denominazione": "Accesso civico \"semplice\" concernente dati, documenti e informazioni soggetti a pubblicazione obbligatoria",
         "riferimento_legislativo": [
@@ -1689,7 +1689,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9566, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9566, "uuid": "5ab80008-a296-4c27-a759-236b4be5a284",
       "attributes": {
         "denominazione": "Accesso civico \"generalizzato\" concernente dati e documenti ulteriori",
         "riferimento_legislativo": [
@@ -1701,7 +1701,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9567, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9567, "uuid": "d37c5b38-8f5c-40cd-a027-a05c45b94768",
       "attributes": {
         "denominazione": "Registro degli accessi",
         "riferimento_legislativo": [
@@ -1713,7 +1713,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9568, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9568, "uuid": "3e0152ec-38dd-4fca-911b-16633ef124f9",
       "attributes": {
         "denominazione": "Catalogo dei dati, metadati e delle banche dati",
         "riferimento_legislativo": [
@@ -1725,7 +1725,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9569, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9569, "uuid": "94d4fe97-1082-4f72-b92f-ca98be6f9e0c",
       "attributes": {
         "denominazione": "Regolamenti",
         "riferimento_legislativo": [
@@ -1737,7 +1737,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9570, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9570, "uuid": "bd585edf-a322-40bd-8d55-f2abfc0d224d",
       "attributes": {
         "denominazione": "Obiettivi di accessibilità",
         "riferimento_legislativo": [
@@ -1749,7 +1749,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9571, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9571, "uuid": "520ff178-39f0-4a08-997f-6c1d2d9326d8",
       "attributes": {
         "denominazione": "Dati ulteriori",
         "riferimento_legislativo": [
