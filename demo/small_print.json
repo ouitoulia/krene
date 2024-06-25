@@ -12,7 +12,7 @@
       "id": 71, "uuid": "2d2fc467-0120-47fc-ba9a-5ceb630cf1bc", "langcode": "it",
       "attributes": { "label": "Amministrazione Trasparente", "description": "", "type": "small-prints", "weight": 1, "expanded": 1},
       "link": {
-        "uri": "internal:#", "title": "",
+        "uri": "internal:/amministrazione-trasparente", "title": "",
         "options": {}
       }
     },
