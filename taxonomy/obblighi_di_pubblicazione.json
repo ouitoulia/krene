@@ -1250,7 +1250,7 @@
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 31, d.lgs. n. 33/2013"}
         ],
-        "contenuto": "Attestazione dell'OIV o di altra struttura analoga nell'assolvimento degli obblighi di pubblicazione. Documento dell'OIV di validazione della Relazione sulla Performance (art. 14, c. 4, lett. c), d.lgs. n. 150/2009). Relazione dell'OIV sul funzionamento complessivo del Sistema di valutazione, trasparenza e integrità dei controlli interni (art. 14, c. 4, lett. a), d.lgs. n. 150/2009). Altri atti degli organismi indipendenti di valutazione , nuclei di valutazione o altri organismi con funzioni analoghe, procedendo all'indicazione in forma anonima dei dati personali eventualmente presenti.",
+        "contenuto": "Attestazione dell'OIV o di altra struttura analoga nell'assolvimento degli obblighi di pubblicazione. Documento dell'OIV di validazione della Relazione sulla Performance (art. 14, c. 4, lett. c), d.lgs. n. 150/2009). Relazione dell'OIV sul funzionamento complessivo del Sistema di valutazione, trasparenza e integrità dei controlli interni (art. 14, c. 4, lett. a), d.lgs. n. 150/2009). Altri atti degli organismi indipendenti di valutazione, nuclei di valutazione o altri organismi con funzioni analoghe, procedendo all'indicazione in forma anonima dei dati personali eventualmente presenti.",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
         "persona_responsabile": ""
       }
@@ -1761,6 +1761,22 @@
         "contenuto": "Dati, informazioni e documenti ulteriori che le pubbliche amministrazioni non hanno l'obbligo di pubblicare ai sensi della normativa vigente e che non sono riconducibili alle sottosezioni indicate",
         "frequenza_aggiornamento": "",
         "persona_responsabile": "Dirigente Scolastico"
+      }
+    },
+
+
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9572, "uuid": "",
+      "attributes": {
+        "denominazione": "Attestazioni OIV o struttura analoga",
+        "riferimento_legislativo": [
+          {"uri": "https://www.anticorruzione.it/-/delibera-n.-213-del-23-aprile-2024", "title": "Delibera ANAC n. 213 del 23 aprile 2024"},
+          {"uri": "https://www.anticorruzione.it/-/delibera-n.-203-del-17-maggio-2023", "title": "Delibera ANAC n. 203 del 17 maggio 2023"},
+          {"uri": "https://www.anticorruzione.it/-/delibera-numero-201-del-13-aprile-2022", "title": "Delibera ANAC numero 201 del 13 aprile 2022"}
+        ],
+        "contenuto": "Link alla sotto-sezione <a class=\"btn btn-primary btn-xs\" href=\"/taxonomy/term/9241\">Controlli e rilievi sull'amministrazione/Organi di revisione amministrativa e contabile</a>",
+        "frequenza_aggiornamento": "Annuale e in relazione a delibere ANAC.",
+        "persona_responsabile": ""
       }
     }
   ]

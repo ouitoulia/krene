@@ -37,9 +37,12 @@
     },
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9005, "uuid": "57487079-dd65-48e9-88fb-1800f2eba99f",
-      "attributes": {"name": "[DA-VERIFICARE] Attestazioni OIV o struttura analoga", "weight":  3},
+      "attributes": {"name": "Attestazioni OIV o struttura analoga", "weight":  3},
       "relationships": {
-        "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9001"}}
+        "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9001"}},
+        "obblighi_di_pubblicazione": {"data": [
+          {"entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9572}
+        ]}
       }
     },
     {
