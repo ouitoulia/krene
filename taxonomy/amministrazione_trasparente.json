@@ -1,9 +1,9 @@
 {
   "data": [
-    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9001, "attributes": {"name": "Disposizioni generali", "weight":  "-15"}, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}}}, "uuid": "eb39e475-7a23-4370-a435-a31c240f8331"},
+    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9001, "attributes": {"name": "Disposizioni generali", "weight": "-15"}, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}}}, "uuid": "eb39e475-7a23-4370-a435-a31c240f8331"},
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9002, "uuid": "8c6b4168-0edc-4087-8261-45417781a845",
-      "attributes": {"name": "Piano triennale per la prevenzione della corruzione e della trasparenza", "weight":  0},
+      "attributes": {"name": "Piano triennale per la prevenzione della corruzione e della trasparenza", "weight": 0},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9001"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -13,7 +13,7 @@
     },
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9003, "uuid": "b23494a2-0865-4309-8fd1-0a8cd2ccd83d",
-      "attributes": {"name": "Atti generali", "weight":  1},
+      "attributes": {"name": "Atti generali", "weight": 1},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9001"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -26,7 +26,7 @@
     },
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9004, "uuid": "32a12d59-580d-4465-8b7a-3d6a16b0c50b",
-      "attributes": {"name": "Oneri informativi per cittadini e imprese", "weight":  2},
+      "attributes": {"name": "Oneri informativi per cittadini e imprese", "weight": 2},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9001"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -37,7 +37,7 @@
     },
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9005, "uuid": "57487079-dd65-48e9-88fb-1800f2eba99f",
-      "attributes": {"name": "Attestazioni OIV o struttura analoga", "weight":  3},
+      "attributes": {"name": "Attestazioni OIV o struttura analoga", "weight": 3},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9001"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -47,7 +47,7 @@
     },
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9006, "uuid": "ebd5635a-043d-4df1-911d-8d3fd3a3b004",
-      "attributes": {"name": "Burocrazia zero", "weight":  4},
+      "attributes": {"name": "Burocrazia zero", "weight": 4},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9001"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -57,10 +57,10 @@
       }
     },
 
-    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9010, "attributes": {"name": "Organizzazione", "weight":  "-14"}, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}}}, "uuid": "bbcb5b4f-6dcb-44d9-b673-ea5d326aef75"},
+    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9010, "attributes": {"name": "Organizzazione", "weight": "-14"}, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}}}, "uuid": "bbcb5b4f-6dcb-44d9-b673-ea5d326aef75"},
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9011, "uuid": "f7210c7e-a73e-45fa-be4c-0f4a18b9f19c",
-      "attributes": {"name": "Titolari di incarichi politici, di amministrazione, di direzione o di governo", "weight":  0},
+      "attributes": {"name": "Titolari di incarichi politici, di amministrazione, di direzione o di governo", "weight": 0},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9010"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -100,7 +100,7 @@
     },
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9012, "uuid": "56d41b51-8cc2-42fb-90ca-301127d14a8f",
-      "attributes": {"name": "Sanzioni per mancata comunicazione dei dati", "weight":  1},
+      "attributes": {"name": "Sanzioni per mancata comunicazione dei dati", "weight": 1},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9010"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -110,7 +110,7 @@
     },
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9013, "uuid": "e7ea759b-9082-4606-b6df-f13b532c5ae5",
-      "attributes": {"name": "Rendiconti gruppi consiliari regionali/provinciali", "weight":  2},
+      "attributes": {"name": "Rendiconti gruppi consiliari regionali/provinciali", "weight": 2},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9010"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -121,7 +121,7 @@
     },
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9014, "uuid": "0a7b262b-c8a2-4f66-96f4-b5eca3f3fde3",
-      "attributes": {"name": "Articolazione degli uffici", "weight":  3},
+      "attributes": {"name": "Articolazione degli uffici", "weight": 3},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9010"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -133,7 +133,7 @@
     },
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9015, "uuid": "fd7dc3d2-3d18-413e-9fb7-b134ca9be137",
-      "attributes": {"name": "Telefono e posta elettronica", "weight":  4},
+      "attributes": {"name": "Telefono e posta elettronica", "weight": 4},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9010"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -142,17 +142,17 @@
       }
     },
 
-    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9020, "attributes": {"name": "Consulenti e collaboratori", "weight":  "-13"}, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}}}, "uuid": "ab1d5efb-b96b-4456-8dd5-f576dbf85e08"},
+    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9020, "attributes": {"name": "Consulenti e collaboratori", "weight": "-13"}, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}}}, "uuid": "ab1d5efb-b96b-4456-8dd5-f576dbf85e08"},
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9021, "uuid": "d8af216a-352b-4f9d-9002-98ba5329146d",
-      "attributes": {"name": "[DA-VERIFICARE] Incarichi conferiti da una amministrazione ai dipendenti di altra amministrazione", "weight":  1},
+      "attributes": {"name": "Incarichi conferiti da una amministrazione ai dipendenti di altra amministrazione", "description": "Tipologia di dati abrogata", "weight": 3},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9020"}}
       }
     },
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9022, "uuid": "34431d2b-de20-4e0a-9e27-3079d036aa2a",
-      "attributes": {"name": "Titolari di incarichi di collaborazione o consulenza", "weight":  2},
+      "attributes": {"name": "Titolari di incarichi di collaborazione o consulenza", "weight": 2},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9020"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -162,25 +162,25 @@
     },
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9023, "uuid": "4c6fcd05-40ff-4638-a599-19b73958847a",
-      "attributes": {"name": "[DA-VERIFICARE] Incarichi affidati, a qualsiasi titolo, da una amministrazione a soggetti esterni", "weight":  3},
+      "attributes": {"name": "Incarichi affidati, a qualsiasi titolo, da una amministrazione a soggetti esterni", "description": "Tipologia di dati abrogata", "weight": 4},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9020"}}
       }
     },
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9024, "uuid": "e0bd2a71-769c-4352-bb90-f2e2da3c884b",
-      "attributes": {"name": "[DA-VERIFICARE] Amministratori ed esperti ex art. 32 d.l. 90/2014", "weight":  4},
+      "attributes": {"name": "Amministratori ed esperti ex art. 32 d.l. 90/2014", "description": "Tipologia di dati abrogata", "weight": 5},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9020"}}
       }
     },
 
-    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9030, "attributes": {"name": "[DA-VERIFICARE] Contratti e convenzioni", "weight":  "-12"}, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}}}, "uuid": "92494a2e-3f9d-45da-bdc0-b5f4b5d4ef0b"},
+    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9030, "attributes": {"name": "[DA-VERIFICARE] Contratti e convenzioni", "weight": "-12"}, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}}}, "uuid": "92494a2e-3f9d-45da-bdc0-b5f4b5d4ef0b"},
 
-    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9040, "attributes": {"name": "Personale", "weight":  "-11"}, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}}}, "uuid": "afae4cf7-05fb-4165-a95f-a86c847fa95b"},
+    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9040, "attributes": {"name": "Personale", "weight": "-11"}, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}}}, "uuid": "afae4cf7-05fb-4165-a95f-a86c847fa95b"},
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9041, "uuid": "7fbde1a9-fe67-4e08-92b7-1de7f8a4103b",
-      "attributes": {"name": "Titolari di incarichi dirigenziali amministrativi di vertice", "weight":  0},
+      "attributes": {"name": "Titolari di incarichi dirigenziali amministrativi di vertice", "weight": 0},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9040"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -190,7 +190,7 @@
     },
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9042, "uuid": "952d4d51-8f88-4ee5-b9ba-c38feb742e99",
-      "attributes": {"name": "Titolari di incarichi dirigenziali (dirigenti non generali) ", "weight":  1},
+      "attributes": {"name": "Titolari di incarichi dirigenziali (dirigenti non generali) ", "weight": 1},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9040"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -203,7 +203,7 @@
     },
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9043, "uuid": "9f12e266-a06a-4f3c-9091-f7883986ccdd",
-      "attributes": {"name": "Dirigenti cessati", "weight":  2},
+      "attributes": {"name": "Dirigenti cessati", "weight": 2},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9040"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -213,7 +213,7 @@
     },
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9044, "uuid": "061b8487-611d-4351-a597-9380e9175485",
-      "attributes": {"name": "Sanzioni per mancata comunicazione dei dati", "weight":  3},
+      "attributes": {"name": "Sanzioni per mancata comunicazione dei dati", "weight": 3},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9040"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -223,7 +223,7 @@
     },
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9045, "uuid": "c76bca02-ab4e-4698-be06-f7a47556f9fd",
-      "attributes": {"name": "Posizioni organizzative", "weight":  4},
+      "attributes": {"name": "Posizioni organizzative", "weight": 4},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9040"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -233,7 +233,7 @@
     },
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9046, "uuid": "381a0130-3a18-4dbe-bf54-f87f25e1e462",
-      "attributes": {"name": "Dotazione organica", "weight":  5},
+      "attributes": {"name": "Dotazione organica", "weight": 5},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9040"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -244,7 +244,7 @@
     },
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9047, "uuid": "b863f749-94bf-466b-a8dc-48b4997fc248",
-      "attributes": {"name": "Personale non a tempo indeterminato", "weight":  6},
+      "attributes": {"name": "Personale non a tempo indeterminato", "weight": 6},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9040"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -255,7 +255,7 @@
     },
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9048, "uuid": "4de37877-d61f-4078-a82c-22a37801f8d5",
-      "attributes": {"name": "Tassi di assenza", "weight":  7},
+      "attributes": {"name": "Tassi di assenza", "weight": 7},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9040"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -265,7 +265,7 @@
     },
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9049, "uuid": "b123789e-afd8-43a6-bc33-7551aa3a94c2",
-      "attributes": {"name": "Incarichi conferiti e autorizzati ai dipendenti (dirigenti e non dirigenti)", "weight":  8},
+      "attributes": {"name": "Incarichi conferiti e autorizzati ai dipendenti (dirigenti e non dirigenti)", "weight": 8},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9040"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -275,7 +275,7 @@
     },
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9051, "uuid": "9e399eae-7842-49fc-8053-d7166add4776",
-      "attributes": {"name": "Contrattazione collettiva", "weight":  9},
+      "attributes": {"name": "Contrattazione collettiva", "weight": 9},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9040"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -285,7 +285,7 @@
     },
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9052, "uuid": "f96a7423-2c26-4a32-b044-ee60b44c49d0",
-      "attributes": {"name": "Contrattazione integrativa", "weight":  10},
+      "attributes": {"name": "Contrattazione integrativa", "weight": 10},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9040"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -296,7 +296,7 @@
     },
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9053, "uuid": "bf0adfc1-e4f8-4dab-81ef-5d55eb0153b6",
-      "attributes": {"name": "OIV", "weight":  11},
+      "attributes": {"name": "OIV", "weight": 11},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9040"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -306,7 +306,7 @@
     },
 
     {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9060, "uuid": "70d3be0f-49c2-4e91-b0c0-ed5c44983076",
-      "attributes": {"name": "Bandi di concorso", "weight":  "-10"},
+      "attributes": {"name": "Bandi di concorso", "weight": "-10"},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -315,10 +315,10 @@
       }
     },
 
-    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9070, "attributes": {"name": "Performance", "weight":  "-9"}, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}}}, "uuid": "e8fb8c6e-9c2c-43e7-b374-7d8f8fa2e46e"},
+    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9070, "attributes": {"name": "Performance", "weight": "-9"}, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}}}, "uuid": "e8fb8c6e-9c2c-43e7-b374-7d8f8fa2e46e"},
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9071, "uuid": "8451e47f-467d-493e-aa97-a7a6ff387ffb",
-      "attributes": {"name": "Sistema di misurazione della performance", "weight":  0},
+      "attributes": {"name": "Sistema di misurazione della performance", "weight": 0},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9070"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -328,7 +328,7 @@
     },
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9072, "uuid": "08c3878a-286e-4144-a77d-1bea5f79b584",
-      "attributes": {"name": "Piano della performance", "weight":  1},
+      "attributes": {"name": "Piano della performance", "weight": 1},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9070"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -338,7 +338,7 @@
     },
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9073, "uuid": "b26965b4-41e3-4711-805e-fc4d8690909c",
-      "attributes": {"name": "Relazione sulla Performance", "weight":  2},
+      "attributes": {"name": "Relazione sulla Performance", "weight": 2},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9070"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -348,7 +348,7 @@
     },
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9074, "uuid": "46725a3c-c950-4317-b679-6cc2f65053a4",
-      "attributes": {"name": "Ammontare complessivo dei premi", "weight":  3},
+      "attributes": {"name": "Ammontare complessivo dei premi", "weight": 3},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9070"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -358,7 +358,7 @@
     },
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9075, "uuid": "fa1d4470-81a4-42e5-b317-b172bd051d7c",
-      "attributes": {"name": "Dati relativi ai premi", "weight":  4},
+      "attributes": {"name": "Dati relativi ai premi", "weight": 4},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9070"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -368,7 +368,7 @@
     },
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9076, "uuid": "3519b397-68a7-49c2-b055-c6485df6565d",
-      "attributes": {"name": "Benessere organizzativo", "weight":  5},
+      "attributes": {"name": "Benessere organizzativo", "weight": 5},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9070"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -377,10 +377,10 @@
       }
     },
 
-    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9080, "attributes": {"name": "Enti controllati", "weight":  "-8"}, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}}}, "uuid": "aa606bf9-a1c6-4af3-9262-f85d1e2bf59d"},
+    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9080, "attributes": {"name": "Enti controllati", "weight": "-8"}, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}}}, "uuid": "aa606bf9-a1c6-4af3-9262-f85d1e2bf59d"},
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9081, "uuid": "d404a5f2-576e-4a14-838a-a25285437a36",
-      "attributes": {"name": "Enti pubblici vigilati", "weight":  0},
+      "attributes": {"name": "Enti pubblici vigilati", "weight": 0},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9080"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -390,7 +390,7 @@
     },
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9082, "uuid": "7681d4eb-5eb3-4285-8806-4d844bd16348",
-      "attributes": {"name": "Società partecipate", "weight":  1},
+      "attributes": {"name": "Società partecipate", "weight": 1},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9080"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -402,7 +402,7 @@
     },
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9083, "uuid": "f121d623-e3af-44a1-8c85-7a28747ba118",
-      "attributes": {"name": "Enti di diritto privato controllati", "weight":  2},
+      "attributes": {"name": "Enti di diritto privato controllati", "weight": 2},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9080"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -412,7 +412,7 @@
     },
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9084, "uuid": "f0b6eddc-3a5a-4507-8995-e775e04d0206",
-      "attributes": {"name": "Rappresentazione Grafica", "weight":  3},
+      "attributes": {"name": "Rappresentazione Grafica", "weight": 3},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9080"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -421,10 +421,10 @@
       }
     },
 
-    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9090, "attributes": {"name": "Attività e procedimenti", "weight":  "-7"},  "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}}},"uuid": "238f0c1e-585f-4892-ab8c-0c45310be0fe"},
+    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9090, "attributes": {"name": "Attività e procedimenti", "weight": "-7"},  "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}}},"uuid": "238f0c1e-585f-4892-ab8c-0c45310be0fe"},
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9091, "uuid": "9eaa0a57-081a-4c1b-956f-4829927e724e",
-      "attributes": {"name": "Dati aggregati attività amministrativa", "weight":  0},
+      "attributes": {"name": "Dati aggregati attività amministrativa", "weight": 0},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9090"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -434,7 +434,7 @@
     },
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9092, "uuid": "602250f3-2ece-4277-aa49-90e1d500dd6c",
-      "attributes": {"name": "Tipologie di procedimento", "weight":  1},
+      "attributes": {"name": "Tipologie di procedimento", "weight": 1},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9090"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -444,7 +444,7 @@
     },
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9093, "uuid": "230d732c-2a7c-4d8c-83ad-20a64e8f06e6",
-      "attributes": {"name": "Monitoraggio tempi procedimentali", "weight":  2},
+      "attributes": {"name": "Monitoraggio tempi procedimentali", "weight": 2},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9090"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -454,7 +454,7 @@
     },
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9094, "uuid": "0a14587e-2583-4bec-a56a-b0032b6e9e4d",
-      "attributes": {"name": "Dichiarazioni sostitutive e acquisizione d'ufficio dei dati", "weight":  3},
+      "attributes": {"name": "Dichiarazioni sostitutive e acquisizione d'ufficio dei dati", "weight": 3},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9090"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -463,10 +463,10 @@
       }
     },
 
-    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9100, "attributes": {"name": "Provvedimenti", "weight":  "-6"}, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}}}, "uuid": "3e705897-4d10-4a75-9e7e-088216d7ee88"},
+    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9100, "attributes": {"name": "Provvedimenti", "weight": "-6"}, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}}}, "uuid": "3e705897-4d10-4a75-9e7e-088216d7ee88"},
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9101, "uuid": "fb003a0b-5b25-4b54-b874-dafff960ae1d",
-      "attributes": {"name": "Provvedimento organi indirizzo-politico", "weight":  0},
+      "attributes": {"name": "Provvedimento organi indirizzo-politico", "weight": 0},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9100"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -476,7 +476,7 @@
     },
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9102, "uuid": "694168a9-3604-4ebd-bc67-57955fc862e2",
-      "attributes": {"name": "Provvedimenti dirigenti amministrativi", "weight":  1},
+      "attributes": {"name": "Provvedimenti dirigenti amministrativi", "weight": 1},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9100"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -487,7 +487,7 @@
 
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9110, "uuid": "442228f5-5fee-4b03-8342-a5e89630a34a",
-      "attributes": {"name": "Controlli sulle Imprese", "weight":  "-5"},
+      "attributes": {"name": "Controlli sulle Imprese", "weight": "-5"},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -497,39 +497,39 @@
       }
     },
 
-    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9120, "attributes": {"name": "Bandi di gara e contratti", "weight":  "-4"}, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}}}, "uuid": "918d96ee-878b-4a48-8007-7050f3f7e1e9"},
+    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9120, "attributes": {"name": "Bandi di gara e contratti", "weight": "-4"}, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}}}, "uuid": "918d96ee-878b-4a48-8007-7050f3f7e1e9"},
     {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9121, "uuid": "52a280ad-768c-4f22-8423-695704b8261e",
-      "attributes": {"name": "Atti e documenti di carattere generale riferiti a tutte le procedure", "weight":  0},
+      "attributes": {"name": "Atti e documenti di carattere generale riferiti a tutte le procedure", "weight": 0},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9120"}}
       }
     },
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9122, "uuid": "cc8d0c32-f158-4bdd-9bee-d7a2351f4d06",
-      "attributes": {"name": "Informazioni sulle singole procedure in formato tabellare (fino al 31/12/2023)", "weight":  1},
+      "attributes": {"name": "Informazioni sulle singole procedure in formato tabellare (fino al 31/12/2023)", "weight": 1},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9120"}}
       }
     },
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9123, "uuid": "89c6bdd4-4703-48f8-925c-ba04cb302269",
-      "attributes": {"name": "Atti delle amministrazioni aggiudicatrici e degli enti aggiudicatori distintamente per ogni procedura (fino al 31/12/2023)", "weight":  2},
+      "attributes": {"name": "Atti delle amministrazioni aggiudicatrici e degli enti aggiudicatori distintamente per ogni procedura (fino al 31/12/2023)", "weight": 2},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9120"}}
       }
     },
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9124, "uuid": "3d148ecf-4fa6-47af-a061-ff6e7f94f05d",
-      "attributes": {"name": "Albo fornitori (fino al 31/12/2023)", "weight":  3},
+      "attributes": {"name": "Albo fornitori (fino al 31/12/2023)", "weight": 3},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9120"}}
       }
     },
 
-    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9130, "attributes": {"name": "Sovvenzioni, contributi, sussidi, vantaggi economici", "weight":  "-3"}, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}}}, "uuid": "32060979-af9d-4f42-98e3-2de6df6100ac"},
+    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9130, "attributes": {"name": "Sovvenzioni, contributi, sussidi, vantaggi economici", "weight": "-3"}, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}}}, "uuid": "32060979-af9d-4f42-98e3-2de6df6100ac"},
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9131, "uuid": "892e164f-d042-4fbe-bdb0-04d1d89929d9",
-      "attributes": {"name": "Criteri e modalità ", "weight":  0},
+      "attributes": {"name": "Criteri e modalità ", "weight": 0},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9130"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -539,7 +539,7 @@
     },
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9132, "uuid": "93f243f9-ff84-47e0-9554-4cc021d05416",
-      "attributes": {"name": "Atti di concessione", "weight":  1},
+      "attributes": {"name": "Atti di concessione", "weight": 1},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9130"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -548,10 +548,10 @@
       }
     },
 
-    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9140, "attributes": {"name": "Bilanci", "weight":  "-2"}, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}}}, "uuid": "c1d00eae-347f-4e62-9a78-7f11390c0b6d"},
+    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9140, "attributes": {"name": "Bilanci", "weight": "-2"}, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}}}, "uuid": "c1d00eae-347f-4e62-9a78-7f11390c0b6d"},
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9141, "uuid": "96bc6e87-4c50-4aa5-97fd-fbad1548859e",
-      "attributes": {"name": "Bilancio preventivo e consuntivo", "weight":  0},
+      "attributes": {"name": "Bilancio preventivo e consuntivo", "weight": 0},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9140"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -564,7 +564,7 @@
     },
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9142, "uuid": "5eb7a37d-4d2f-44bc-82f3-f87d8972b3bf",
-      "attributes": {"name": "Piano degli indicatori e risultati attesi di bilancio", "weight":  1},
+      "attributes": {"name": "Piano degli indicatori e risultati attesi di bilancio", "weight": 1},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9140"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -573,10 +573,10 @@
       }
     },
 
-    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9150, "attributes": {"name": "Beni immobili e gestione patrimonio", "weight":  "-1"}, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}}}, "uuid": "6c458691-160c-4ccd-bbcc-ade3484a3a34"},
+    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9150, "attributes": {"name": "Beni immobili e gestione patrimonio", "weight": "-1"}, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}}}, "uuid": "6c458691-160c-4ccd-bbcc-ade3484a3a34"},
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9151, "uuid": "a6ac90db-8f53-4359-be17-683f4b1f5df4",
-      "attributes": {"name": "Patrimonio immobiliare", "weight":  0},
+      "attributes": {"name": "Patrimonio immobiliare", "weight": 0},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9150"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -586,7 +586,7 @@
     },
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9152, "uuid": "451a0c78-4434-4ff4-9169-a8bd93b40bca",
-      "attributes": {"name": "Canoni di locazione o affitto", "weight":  1},
+      "attributes": {"name": "Canoni di locazione o affitto", "weight": 1},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9150"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -595,10 +595,10 @@
       }
     },
 
-    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9160, "attributes": {"name": "Controlli e rilievi sull'amministrazione", "weight":  0}, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}}}, "uuid": "0d4d94be-721a-487e-9e93-fb292a311cf8"},
+    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9160, "attributes": {"name": "Controlli e rilievi sull'amministrazione", "weight": 0}, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}}}, "uuid": "0d4d94be-721a-487e-9e93-fb292a311cf8"},
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9161, "uuid": "f2630e4e-7429-48d7-9c9e-e0820ebdb4f5",
-      "attributes": {"name": "Organismi indipendenti di valutazione, nuclei di valutazione o altri organismi con funzioni analoghe", "weight":  0},
+      "attributes": {"name": "Organismi indipendenti di valutazione, nuclei di valutazione o altri organismi con funzioni analoghe", "weight": 0},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9160"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -608,7 +608,7 @@
     },
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9162, "uuid": "bf94977b-521a-4138-87f6-80595bc873f5",
-      "attributes": {"name": "Organi di revisione amministrativa e contabile", "weight":  1},
+      "attributes": {"name": "Organi di revisione amministrativa e contabile", "weight": 1},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9160"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -618,7 +618,7 @@
     },
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9163, "uuid": "8e5d1cc1-e8cf-436f-ac1e-855195bab346",
-      "attributes": {"name": "Corte dei conti", "weight":  2},
+      "attributes": {"name": "Corte dei conti", "weight": 2},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9160"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -627,10 +627,10 @@
       }
     },
 
-    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9170, "attributes": {"name": "Servizi erogati", "weight":  1}, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}}}, "uuid": "0b587fb6-4025-412b-8eed-aebdbeebbe6d"},
+    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9170, "attributes": {"name": "Servizi erogati", "weight": 1}, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}}}, "uuid": "0b587fb6-4025-412b-8eed-aebdbeebbe6d"},
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9171, "uuid": "908a287d-6cdc-4f76-b89d-5f18a93b2f1f",
-      "attributes": {"name": "Carta dei servizi e standard di qualità", "weight":  0},
+      "attributes": {"name": "Carta dei servizi e standard di qualità", "weight": 0},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9170"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -640,7 +640,7 @@
     },
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9172, "uuid": "32d9a28b-d7b6-4119-acbf-5ec8ea8745a5",
-      "attributes": {"name": "Class action", "weight":  1},
+      "attributes": {"name": "Class action", "weight": 1},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9170"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -650,7 +650,7 @@
     },
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9173, "uuid": "1fbde600-e631-4fc2-97a3-d15a147d35fc",
-      "attributes": {"name": "Costi contabilizzati", "weight":  2},
+      "attributes": {"name": "Costi contabilizzati", "weight": 2},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9170"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -660,7 +660,7 @@
     },
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9174, "uuid": "2b952457-1a32-4f52-b0e2-ca7e0eda259b",
-      "attributes": {"name": "Liste di attesa", "weight":  3},
+      "attributes": {"name": "Liste di attesa", "weight": 3},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9170"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -670,7 +670,7 @@
     },
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9175, "uuid": "905d539a-90a0-448a-8cbc-5a0d4370902f",
-      "attributes": {"name": "Servizi in rete", "weight":  4},
+      "attributes": {"name": "Servizi in rete", "weight": 4},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9170"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -679,10 +679,10 @@
       }
     },
 
-    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9180, "attributes": {"name": "Pagamenti dell'amministrazione", "weight":  2}, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}}}, "uuid": "6209566e-fac0-4a66-8ded-7145696c7128"},
+    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9180, "attributes": {"name": "Pagamenti dell'amministrazione", "weight": 2}, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}}}, "uuid": "6209566e-fac0-4a66-8ded-7145696c7128"},
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9181, "uuid": "c4763686-2dd7-4111-9bae-a7def663cddf",
-      "attributes": {"name": "Dati sui pagamenti", "weight":  0},
+      "attributes": {"name": "Dati sui pagamenti", "weight": 0},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9180"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -692,7 +692,7 @@
     },
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9182, "uuid": "08b458cd-8785-401b-857b-17d2ac79d3f5",
-      "attributes": {"name": "Dati sui pagamenti del servizio sanitario nazionale", "weight":  1},
+      "attributes": {"name": "Dati sui pagamenti del servizio sanitario nazionale", "weight": 1},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9180"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -702,7 +702,7 @@
     },
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9183, "uuid": "a7e2bfcd-602a-4383-b60f-1eae58c55906",
-      "attributes": {"name": "Indicatore di tempestività dei pagamenti", "weight":  2},
+      "attributes": {"name": "Indicatore di tempestività dei pagamenti", "weight": 2},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9180"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -714,7 +714,7 @@
     },
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9184, "uuid": "0e2ace30-55a3-4c8c-b302-4a37e5f3a150",
-      "attributes": {"name": "IBAN e pagamenti informatici", "weight":  3},
+      "attributes": {"name": "IBAN e pagamenti informatici", "weight": 3},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9180"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -723,10 +723,10 @@
       }
     },
 
-    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9190, "attributes": {"name": "Opere pubbliche", "weight":  3}, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}}}, "uuid": "37a317e2-fc95-4432-b127-aaa6bb90830f"},
+    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9190, "attributes": {"name": "Opere pubbliche", "weight": 3}, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}}}, "uuid": "37a317e2-fc95-4432-b127-aaa6bb90830f"},
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9191, "uuid": "7d06fc5f-8995-473d-898a-70480f863cec",
-      "attributes": {"name": "Nuclei di valutazione e verifica degli investimenti pubblici", "weight":  0},
+      "attributes": {"name": "Nuclei di valutazione e verifica degli investimenti pubblici", "weight": 0},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9190"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -736,7 +736,7 @@
     },
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9192, "uuid": "a813f529-4902-4333-9622-f8fe2de52f88",
-      "attributes": {"name": "Atti di programmazione delle opere pubbliche", "weight":  1},
+      "attributes": {"name": "Atti di programmazione delle opere pubbliche", "weight": 1},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9190"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -746,7 +746,7 @@
     },
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9193, "uuid": "a387394d-ac4f-4a59-ae75-897f2b48259e",
-      "attributes": {"name": "Tempi costi e indicatori di realizzazione delle opere pubbliche", "weight":  2},
+      "attributes": {"name": "Tempi costi e indicatori di realizzazione delle opere pubbliche", "weight": 2},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9190"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -757,7 +757,7 @@
 
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9200, "uuid": "3993564b-bc74-44e0-87f2-ac7a01e7dcc7",
-      "attributes": {"name": "Pianificazione e governo del territorio", "weight":  4},
+      "attributes": {"name": "Pianificazione e governo del territorio", "weight": 4},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -769,7 +769,7 @@
 
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9210, "uuid": "6703a2d8-8b9b-4c40-91ff-b9e7cc451e18",
-      "attributes": {"name": "Informazioni ambientali", "weight":  5},
+      "attributes": {"name": "Informazioni ambientali", "weight": 5},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -787,7 +787,7 @@
 
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9220, "uuid": "17e999c6-14fb-4863-af35-8908a362c155",
-      "attributes": {"name": "Interventi straordinari e di emergenza", "weight":  6},
+      "attributes": {"name": "Interventi straordinari e di emergenza", "weight": 6},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -798,12 +798,12 @@
       }
     },
 
-    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9230, "attributes": {"name": "[DA-VERIFICARE] Strutture sanitarie private accreditate", "weight":  7}, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}}}, "uuid": "ff3e60a8-aa8e-4936-8d1d-1ca7411f52ef"},
+    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9230, "attributes": {"name": "[DA-VERIFICARE] Strutture sanitarie private accreditate", "weight": 7}, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}}}, "uuid": "ff3e60a8-aa8e-4936-8d1d-1ca7411f52ef"},
 
-    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9240, "attributes": {"name": "Altri contenuti", "weight":  8}, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}}}, "uuid": "bda61317-8f56-4ebf-af01-0a5655834a2e"},
+    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9240, "attributes": {"name": "Altri contenuti", "weight": 8}, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}}}, "uuid": "bda61317-8f56-4ebf-af01-0a5655834a2e"},
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9241, "uuid": "42ca37ab-a14b-41bc-913f-28fac39538e4",
-      "attributes": {"name": "Prevenzione della Corruzione", "weight":  0},
+      "attributes": {"name": "Prevenzione della Corruzione", "weight": 0},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9240"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -818,7 +818,7 @@
     },
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9242, "uuid": "18a80aa1-c3ff-4767-8668-1e03d17b1d3f",
-      "attributes": {"name": "Accesso Civico", "weight":  1},
+      "attributes": {"name": "Accesso Civico", "weight": 1},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9240"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -830,7 +830,7 @@
     },
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9243, "uuid": "198e93a5-4981-4fb4-bfeb-c1aab95d0d6a",
-      "attributes": {"name": "Accessibilità e catalogo di dati, metadati e banche dati", "weight":  2},
+      "attributes": {"name": "Accessibilità e catalogo di dati, metadati e banche dati", "weight": 2},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9240"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -842,7 +842,7 @@
     },
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9244, "uuid": "63eb3c16-e7f0-46fb-96db-da0461abee8b",
-      "attributes": {"name": "Dati ulteriori", "weight":  3},
+      "attributes": {"name": "Dati ulteriori", "weight": 3},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9240"}},
         "obblighi_di_pubblicazione": {"data": [
