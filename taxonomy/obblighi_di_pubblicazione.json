@@ -876,11 +876,12 @@
       "attributes": {
         "denominazione": "Sistema di misurazione e valutazione della Performance",
         "riferimento_legislativo": [
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2009/10/27/150/CONSOLIDATED", "title": "Art. 7, d.lgs. n. 150/2009"},
           {"uri": "https://www.anticorruzione.it/-/delibera-c2-a0numero-104-del-02/09/2010-1", "title": "Par. 1, delib. CiVIT n. 104/2010"}
         ],
         "contenuto": "Sistema di misurazione e valutazione della Performance (art. 7, d.lgs. n. 150/2009)",
         "frequenza_aggiornamento": "Tempestivo",
-        "persona_responsabile": "Dirigente scolastico"
+        "persona_responsabile": ""
       }
     },
     {
@@ -888,11 +889,12 @@
       "attributes": {
         "denominazione": "Piano della Performance/Piano esecutivo di gestione",
         "riferimento_legislativo": [
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2009/10/27/150/CONSOLIDATED", "title": "Art. 10, d.lgs. n. 150/2009"},
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 10, c. 8, lett. b), d.lgs. n. 33/2013"}
         ],
         "contenuto": "Piano della Performance (art. 10, d.lgs. 150/2009). Piano esecutivo di gestione (per gli enti locali) (art. 169, c. 3-bis, d.lgs. n. 267/2000)",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
-        "persona_responsabile": "Dirigente scolastico"
+        "persona_responsabile": ""
       }
     },
     {
@@ -900,11 +902,12 @@
       "attributes": {
         "denominazione": "Relazione sulla Performance",
         "riferimento_legislativo": [
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2009/10/27/150/CONSOLIDATED", "title": "Art. 10, d.lgs. n. 150/2009"},
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 10, c. 8, lett. b), d.lgs. n. 33/2013"}
         ],
         "contenuto": "Relazione sulla Performance (art. 10, d.lgs. 150/2009)",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
-        "persona_responsabile": "Dirigente scolastico"
+        "persona_responsabile": ""
       }
     },
     {
@@ -1772,7 +1775,7 @@
         "riferimento_legislativo": [
           {"uri": "https://www.anticorruzione.it/-/delibera-n.-213-del-23-aprile-2024", "title": "Delibera ANAC n. 213 del 23 aprile 2024"},
           {"uri": "https://www.anticorruzione.it/-/delibera-n.-203-del-17-maggio-2023", "title": "Delibera ANAC n. 203 del 17 maggio 2023"},
-          {"uri": "https://www.anticorruzione.it/-/delibera-numero-201-del-13-aprile-2022", "title": "Delibera ANAC numero 201 del 13 aprile 2022"}
+          {"uri": "https://www.anticorruzione.it/-/delibera-numero-201-del-13-aprile-2022", "title": "Delibera ANAC n. 201 del 13 aprile 2022"}
         ],
         "contenuto": "Link alla sotto-sezione <a class=\"btn btn-primary btn-xs\" href=\"/taxonomy/term/9162\">Controlli e rilievi sull'amministrazione/Organi di revisione amministrativa e contabile</a>",
         "frequenza_aggiornamento": "Annuale e in relazione a delibere ANAC.",
