@@ -1869,7 +1869,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9580, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9580, "uuid": "5926f4bb-00c2-461c-abf5-80c3476d04b7",
       "attributes": {
         "denominazione": "Documenti di gara",
         "riferimento_legislativo": [
@@ -1882,7 +1882,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9581, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9581, "uuid": "c4955311-2686-4a79-addd-319001c41dc7",
       "attributes": {
         "denominazione": "Composizione delle commissioni giudicatrici e CV dei componenti",
         "riferimento_legislativo": [
@@ -1894,7 +1894,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9582, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9582, "uuid": "af639638-787f-4a0d-8a79-de7ca44d71a5",
       "attributes": {
         "denominazione": "Rapporto sulle pari opportunità e inclusione lavorativa nei contratti pubblici PNRR e PNC e nei contratti riservati",
         "riferimento_legislativo": [
@@ -1907,7 +1907,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9583, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9583, "uuid": "e3f31ac0-28b6-4b24-abe2-4ab243e08d38",
       "attributes": {
         "denominazione": "Procedure di affidamento dei servizi pubblici locali",
         "riferimento_legislativo": [
@@ -1919,7 +1919,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9584, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9584, "uuid": "e2636baf-5c4d-4509-824e-f7ed5b2faa5a",
       "attributes": {
         "denominazione": "Composizione del Collegio consultivo tecnici (nominativi) e CV dei componenti",
         "riferimento_legislativo": [
@@ -1931,7 +1931,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9585, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9585, "uuid": "dbf300bd-de86-4d00-8e75-d9b63c17918d",
       "attributes": {
         "denominazione": "Pari opportunità e inclusione lavorativa nei contratti pubblici PNRR e PNC e nei contratti riservati:",
         "riferimento_legislativo": [
@@ -1946,7 +1946,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9586, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9586, "uuid": "b435cd5d-da0f-4764-a11f-79ff6aed0c03",
       "attributes": {
         "denominazione": "Affidamento di contratti di sponsorizzazione di lavori, servizi o forniture per importi superiori a quarantamila 40.000 euro",
         "riferimento_legislativo": [
@@ -1958,7 +1958,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9587, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9587, "uuid": "7438dd5e-f878-493b-a0ef-639e33622ac4",
       "attributes": {
         "denominazione": "Atti e documenti relativi agli affidamenti di somma urgenza a prescindere dall’importo di affidamento",
         "riferimento_legislativo": [
@@ -1970,7 +1970,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9588, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9588, "uuid": "b7ee6023-d9dc-43d0-a99a-bf77f2f2fe6b",
       "attributes": {
         "denominazione": "Provvedimento conclusivo della procedura di valutazione della proposta del promotore relativa alla realizzazione in concessione di lavori o servizi",
         "riferimento_legislativo": [
