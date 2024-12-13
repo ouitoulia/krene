@@ -1780,10 +1780,8 @@
         "persona_responsabile": ""
       }
     },
-
-
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9573, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9573, "uuid": "fb31f0c9-16a9-4812-a9ab-2351582fb0d0",
       "attributes": {
         "denominazione": "Elenco delle soluzioni tecnologiche adottate dalle SA e enti concedenti per l’automatizzazione delle proprie attività",
         "riferimento_legislativo": [
@@ -1795,7 +1793,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9574, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9574, "uuid": "3362ecaf-de33-498b-87ea-76efe4a3d95a",
       "attributes": {
         "denominazione": "Avviso finalizzato ad acquisire le manifestazioni di interesse degli operatori economici in ordine ai lavori di possibile completamento di opere incompiute nonché alla gestione delle stesse",
         "riferimento_legislativo": [
@@ -1807,7 +1805,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9575, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9575, "uuid": "6d5ea58b-bea2-4c0b-bcfc-dbe80f1f6791",
       "attributes": {
         "denominazione": "Avviso finalizzato ad acquisire le manifestazioni di interesse degli operatori economici in ordine ai lavori di possibile completamento di opere incompiute nonché alla gestione delle stesse",
         "riferimento_legislativo": [
@@ -1819,7 +1817,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9576, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9576, "uuid": "09b78fa7-b29a-416c-a2e7-0ef0063af5fd",
       "attributes": {
         "denominazione": "Comunicazione circa la mancata redazione del programma triennale",
         "riferimento_legislativo": [
@@ -1831,7 +1829,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9577, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9577, "uuid": "2c57cb2d-f396-4def-a300-2917f0328898",
       "attributes": {
         "denominazione": "Atti recanti norme, criteri oggettivi per il funzionamento del sistema di qualificazione, l’eventuale aggiornamento periodico dello stesso e durata, criteri soggettivi per l’iscrizione al sistema",
         "riferimento_legislativo": [
@@ -1843,7 +1841,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9578, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9578, "uuid": "7c401f4e-3575-4929-b0fc-9589a20d2acd",
       "attributes": {
         "denominazione": "Atti eventualmente adottati recanti l’elencazione delle condotte che costituiscono gravi illeciti professionali agli effetti degli artt. 95, co. 1, lettera e) e 98.",
         "riferimento_legislativo": [
@@ -1855,7 +1853,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9579, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9579, "uuid": "bacf971e-9fed-4a39-afc7-1a4968dc3bb4",
       "attributes": {
         "denominazione": "Elenco annuale dei progetti finanziati, con indicazione del CUP, importo totale del finanziamento, le fonti finanziarie, la data di avvio del progetto e lo stato di attuazione finanziario e procedurale",
         "riferimento_legislativo": [
