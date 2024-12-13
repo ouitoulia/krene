@@ -1807,18 +1807,6 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9575, "uuid": "6d5ea58b-bea2-4c0b-bcfc-dbe80f1f6791",
       "attributes": {
-        "denominazione": "Avviso finalizzato ad acquisire le manifestazioni di interesse degli operatori economici in ordine ai lavori di possibile completamento di opere incompiute nonché alla gestione delle stesse",
-        "riferimento_legislativo": [
-          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2023/03/31/36/CONSOLIDATED", "title": "ALLEGATO I.5 al d.lgs. 36/2023 - Elementi per la programmazione dei lavori e dei servizi. Schemi tipo (art. 4, co. 3)"}
-        ],
-        "contenuto": "Avviso finalizzato ad acquisire le manifestazioni di interesse degli operatori economici in ordine ai lavori di possibile completamento di opere incompiute nonché alla gestione delle stesse<br><br>NB: Ove l'avviso è pubblicato nella apposita sezione del portale web del Ministero delle infrastrutture e dei trasporti, la pubblicazione in AT è assicurata mediante link al portale MIT",
-        "frequenza_aggiornamento": "Tempestivo",
-        "persona_responsabile": "Dirigente Scolastico"
-      }
-    },
-    {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9576, "uuid": "09b78fa7-b29a-416c-a2e7-0ef0063af5fd",
-      "attributes": {
         "denominazione": "Comunicazione circa la mancata redazione del programma triennale",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2023/03/31/36/CONSOLIDATED", "title": "ALLEGATO I.5 al d.lgs. 36/2023 - Elementi per la programmazione dei lavori e dei servizi. Schemi tipo (art. 5, co. 8; art. 7, co. 4)"}
@@ -1829,7 +1817,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9577, "uuid": "2c57cb2d-f396-4def-a300-2917f0328898",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9576, "uuid": "09b78fa7-b29a-416c-a2e7-0ef0063af5fd",
       "attributes": {
         "denominazione": "Atti recanti norme, criteri oggettivi per il funzionamento del sistema di qualificazione, l’eventuale aggiornamento periodico dello stesso e durata, criteri soggettivi per l’iscrizione al sistema",
         "riferimento_legislativo": [
@@ -1841,7 +1829,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9578, "uuid": "7c401f4e-3575-4929-b0fc-9589a20d2acd",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9577, "uuid": "2c57cb2d-f396-4def-a300-2917f0328898",
       "attributes": {
         "denominazione": "Atti eventualmente adottati recanti l’elencazione delle condotte che costituiscono gravi illeciti professionali agli effetti degli artt. 95, co. 1, lettera e) e 98.",
         "riferimento_legislativo": [
@@ -1853,7 +1841,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9579, "uuid": "bacf971e-9fed-4a39-afc7-1a4968dc3bb4",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9578, "uuid": "7c401f4e-3575-4929-b0fc-9589a20d2acd",
       "attributes": {
         "denominazione": "Elenco annuale dei progetti finanziati, con indicazione del CUP, importo totale del finanziamento, le fonti finanziarie, la data di avvio del progetto e lo stato di attuazione finanziario e procedurale",
         "riferimento_legislativo": [
@@ -1862,6 +1850,134 @@
         ],
         "contenuto": "Elenco annuale dei progetti finanziati, con indicazione del CUP, importo totale del finanziamento, le fonti finanziarie, la data di avvio del progetto e lo stato di attuazione finanziario e procedurale",
         "frequenza_aggiornamento": "Annuale",
+        "persona_responsabile": "Dirigente Scolastico"
+      }
+    },
+
+
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9579, "uuid": "bacf971e-9fed-4a39-afc7-1a4968dc3bb4",
+      "attributes": {
+        "denominazione": "Relazioni, documento conclusivo redatto dalla SA",
+        "riferimento_legislativo": [
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2023/03/31/36/CONSOLIDATED", "title": "Art. 40, co. 3 e co. 5, d.lgs. 36/2023 - Dibattito pubblico (da intendersi riferito a quello facoltativo)"},
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2023/03/31/36/CONSOLIDATED", "title": "Allegato I.6 al d.lgs. 36/2023 - Dibattito pubblico obbligatorio"}
+        ],
+        "contenuto": "1) Relazione sul progetto dell'opera (art. 40, co. 3 codice e art. 5, co. 1, lett. a) e b) allegato)<br><br>2) Relazione conclusiva redatta dal responsabile del dibattito (con i contenuti specificati dall’art. 40, co. 5 codice e art. 7, co. 1 dell’allegato)<br><br>3) Documento conclusivo redatto dalla SA  sulla base della relazione conclusiva del responsabile (solo per il dibattito pubblico obbligatorio) ai sensi dell'art. 7, co. 2 dell'allegato<br><br>Per il dibattito pubblico obbligatorio, la pubblicazione dei documenti di cui ai nn. 2 e 3, è prevista  sia per le SA sia per le amministrazioni locali interessate dall’intervento",
+        "frequenza_aggiornamento": "Tempestivo",
+        "persona_responsabile": "Dirigente Scolastico"
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9580, "uuid": "",
+      "attributes": {
+        "denominazione": "Documenti di gara",
+        "riferimento_legislativo": [
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2023/03/31/36/CONSOLIDATED", "title": "Art. 82, d.lgs. 36/2023 - Documenti di gara"},
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2023/03/31/36/CONSOLIDATED", "title": "Art. 85,  co. 4, d.lgs. 36/2023 - Pubblicazione a livello nazionale (cfr. anche l’Allegato II.7)"}
+        ],
+        "contenuto": "Documenti di gara. Che comprendono, almeno: Delibera a contrarre; Bando/avviso di gara/lettera di invito; Disciplinare di gara; Capitolato speciale; Condizioni contrattuali proposte.",
+        "frequenza_aggiornamento": "Tempestivo",
+        "persona_responsabile": "Dirigente Scolastico"
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9581, "uuid": "",
+      "attributes": {
+        "denominazione": "Composizione delle commissioni giudicatrici e CV dei componenti",
+        "riferimento_legislativo": [
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2023/03/31/36/CONSOLIDATED", "title": "Art. 28, d.lgs. 36/2023 - Trasparenza dei contratti pubblici"}
+        ],
+        "contenuto": "Composizione delle commissioni giudicatrici e CV dei componenti",
+        "frequenza_aggiornamento": "Tempestivo",
+        "persona_responsabile": "Dirigente Scolastico"
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9582, "uuid": "",
+      "attributes": {
+        "denominazione": "Rapporto sulle pari opportunità e inclusione lavorativa nei contratti pubblici PNRR e PNC e nei contratti riservati",
+        "riferimento_legislativo": [
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO-LEGGE/2021/05/31/77/CONSOLIDATED", "title": "Art. 47, co. 2, e 9 d.l. 77/2021, convertito con modificazioni dalla l. 108/2021"},
+          {"uri": "https://www.normattiva.it/eli/stato/LEGGE/2021/07/29/108/ORIGINAL", "title": "Legge 108/2021"}
+        ],
+        "contenuto": "Copia dell’ultimo rapporto sulla situazione del personale maschile e femminile redatto dall’operatore economico, tenuto alla sua redazione ai sensi dell’art. 46, decreto legislativo 11 aprile 2006, n. 198 (operatori economici che occupano oltre 50 dipendenti). Il documento è prodotto, a pena di esclusione, al momento della presentazione della domanda di partecipazione o dell’offerta",
+        "frequenza_aggiornamento": "Da pubblicare successivamente alla pubblicazione degli avvisi relativi agli esiti delle procedure",
+        "persona_responsabile": "Dirigente Scolastico"
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9583, "uuid": "",
+      "attributes": {
+        "denominazione": "Procedure di affidamento dei servizi pubblici locali",
+        "riferimento_legislativo": [
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2022/12/23/201/CONSOLIDATED", "title": "Art. 10, co. 5; art. 14, co. 3; art. 17, co. 2; art. 24; art. 30, co. 2; art. 31, co. 1 e 2; D.lgs. 201/2022 - Riordino della disciplina dei servizi pubblici locali di rilevanza economica"}
+        ],
+        "contenuto": "Procedure di affidamento dei servizi pubblici locali: 1) deliberazione di istituzione del servizio pubblico locale (art. 10, co. 5); 2) relazione contenente la valutazione finalizzata alla scelta della modalità di gestione (art. 14, co. 3); 3) Deliberazione di affidamento del servizio a società in house (art. 17, co. 2) per affidamenti sopra soglia del servizio pubblico locale, compresi quelli nei settori del trasporto pubblico locale e dei servizi di distribuzione di energia elettrica e gas naturale; 4) contratto di servizio sottoscritto dalle parti che definisce gli obblighi di servizio pubblico e le condizioni economiche del rapporto  (artt. 24 e 31 co. 2); 5) relazione periodica contenente le verifiche periodiche sulla situazione gestionale (art. 30, co. 2).",
+        "frequenza_aggiornamento": "Tempestivo",
+        "persona_responsabile": "Dirigente Scolastico"
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9584, "uuid": "",
+      "attributes": {
+        "denominazione": "Composizione del Collegio consultivo tecnici (nominativi) e CV dei componenti",
+        "riferimento_legislativo": [
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2023/03/31/36/CONSOLIDATED", "title": "Art. 215 e ss. e All. V.2, d.lgs 36/2023 - Collegio consultivo tecnico"}
+        ],
+        "contenuto": "Composizione del Collegio consultivo tecnici (nominativi) e CV dei componenti",
+        "frequenza_aggiornamento": "Tempestivo",
+        "persona_responsabile": "Dirigente Scolastico"
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9585, "uuid": "",
+      "attributes": {
+        "denominazione": "Pari opportunità e inclusione lavorativa nei contratti pubblici PNRR e PNC e nei contratti riservati:",
+        "riferimento_legislativo": [
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO-LEGGE/2021/05/31/77/CONSOLIDATED", "title": "Art. 47, co. 3, co. 3-bis,  co. 9, l. 77/2021 convertito con modificazioni dalla l. 108/2021"},
+          {"uri": "https://www.normattiva.it/eli/stato/LEGGE/2021/07/29/108/ORIGINAL", "title": "Legge 108/2021"},
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2023/03/31/36/CONSOLIDATED", "title": "Art. 1, co. 8, allegato II.3, d.lgs. 36/2023"},
+          {"uri": "https://www.gazzettaufficiale.it/eli/id/2023/07/26/23A04253/sg", "title": "D.P.C.M  20 giugno 2023 recante Linee guida volte a favorire le pari opportunità generazionali e di genere, nonché l’inclusione lavorativa delle persone con disabilità nei contratti riservati"}
+        ],
+        "contenuto": "1) Relazione di genere sulla situazione del personale maschile e femminile consegnata, entro sei mesi dalla conclusione del contratto, alla stazione appaltante/ente concedente dagli operatori economici che occupano un numero pari o superiore a quindici dipendenti.<br><br><br>2) Certificazione di cui all’art. 17 della legge 12 marzo 1999, n. 68 e della relazione relativa all’assolvimento degli obblighi di cui alla medesima legge e alle eventuali sanzioni e provvedimenti disposti a carico dell’operatore economico nel triennio antecedente la data di scadenza della presentazione delle offerte e consegnate alla stazione appaltante/ente concedente entro sei mesi dalla conclusione del contratto (per gli operatori economici che occupano un numero pari o superiore a quindici dipendenti).",
+        "frequenza_aggiornamento": "Tempestivo",
+        "persona_responsabile": "Dirigente Scolastico"
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9586, "uuid": "",
+      "attributes": {
+        "denominazione": "Affidamento di contratti di sponsorizzazione di lavori, servizi o forniture per importi superiori a quarantamila 40.000 euro",
+        "riferimento_legislativo": [
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2023/03/31/36/CONSOLIDATED", "title": "Art. 134, co. 4, d.lgs. 36/2023 - Contratti gratuiti e forme speciali di partenariato"}
+        ],
+        "contenuto": "Affidamento di contratti di sponsorizzazione di lavori, servizi o forniture per importi superiori a quarantamila 40.000 euro: 1) avviso con il quale si rende nota la ricerca di sponsor per specifici interventi, ovvero si comunica l'avvenuto ricevimento di una proposta di sponsorizzazione, con sintetica indicazione del contenuto del contratto proposto.",
+        "frequenza_aggiornamento": "Tempestivo",
+        "persona_responsabile": "Dirigente Scolastico"
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9587, "uuid": "",
+      "attributes": {
+        "denominazione": "Atti e documenti relativi agli affidamenti di somma urgenza a prescindere dall’importo di affidamento",
+        "riferimento_legislativo": [
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2023/03/31/36/CONSOLIDATED", "title": "Art. 140, d.lgs. 36/2023 - Comunicato del Presidente ANAC del 19 settembre 2023"}
+        ],
+        "contenuto": "Atti e documenti relativi agli affidamenti di somma urgenza a prescindere dall’importo di affidamento. In particolare: 1) verbale di somma urgenza e provvedimento di affidamento; con specifica indicazione delle modalità della scelta e delle motivazioni che non hanno consentito il ricorso alle procedure ordinarie; 2) perizia giustificativa; 3) elenco prezzi unitari, con indicazione di quelli concordati tra le parti e di quelli dedotti da prezzari ufficiali; 4) verbale di consegna dei lavori o verbale di avvio dell’esecuzione del servizio/fornitura; 5) contratto, ove stipulato.",
+        "frequenza_aggiornamento": "Tempestivo",
+        "persona_responsabile": "Dirigente Scolastico"
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9588, "uuid": "",
+      "attributes": {
+        "denominazione": "Provvedimento conclusivo della procedura di valutazione della proposta del promotore relativa alla realizzazione in concessione di lavori o servizi",
+        "riferimento_legislativo": [
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2023/03/31/36/CONSOLIDATED", "title": "Art. 193, d.lgs. 36/2023 - Procedura di affidamento"}
+        ],
+        "contenuto": "Provvedimento conclusivo della procedura di valutazione della proposta del promotore relativa alla realizzazione in concessione di lavori o servizi",
+        "frequenza_aggiornamento": "Tempestivo",
         "persona_responsabile": "Dirigente Scolastico"
       }
     }
