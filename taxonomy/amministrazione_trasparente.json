@@ -485,7 +485,7 @@
 
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9110, "uuid": "442228f5-5fee-4b03-8342-a5e89630a34a",
-      "attributes": {"name": "Controlli sulle Imprese ", "weight": "-5"},
+      "attributes": {"name": "Controlli sulle Imprese", "weight": "-5"},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}},
         "obblighi_di_pubblicazione": {"data": [
