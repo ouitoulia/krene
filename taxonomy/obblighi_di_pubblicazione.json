@@ -1983,7 +1983,7 @@
 
 
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9589, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9589, "uuid": "b24dcc82-039f-4399-9f74-d2a7f89e5167",
       "attributes": {
         "denominazione": "Dati previsti dall'articolo 1, comma 32, della legge 6 novembre 2012, n. 190. Informazioni sulle singole procedure",
         "riferimento_legislativo": [
@@ -1995,7 +1995,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9590, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9590, "uuid": "f4dc951f-6fd7-474a-a371-50590990e1df",
       "attributes": {
         "denominazione": "Tabelle riassuntive ai sensi dell'Art. 1 comma 32 della legge n. 190/2012",
         "riferimento_legislativo": [
@@ -2007,7 +2007,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9591, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9591, "uuid": "860a8f59-ea54-4324-b973-7545f5a147b2",
       "attributes": {
         "denominazione": "Atti relativi alle procedure per l’affidamento di appalti pubblici di servizi di cui all'art. 5 del d.lgs n. 50/2016",
         "riferimento_legislativo": [
@@ -2019,7 +2019,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9592, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9592, "uuid": "c817f990-5d6e-4480-b7bf-f8edea982978",
       "attributes": {
         "denominazione": "Trasparenza nella partecipazione di portatori di interessi e dibattito pubblico",
         "riferimento_legislativo": [
@@ -2031,7 +2031,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9593, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9593, "uuid": "38abbccb-ffdd-4047-af7a-2ff22abfe6f2",
       "attributes": {
         "denominazione": "Avvisi di pre-informazione",
         "riferimento_legislativo": [
@@ -2043,7 +2043,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9594, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9594, "uuid": "b38aaf7f-b914-4821-9cfc-9e99150bd9e8",
       "attributes": {
         "denominazione": "Delibera a contrarre",
         "riferimento_legislativo": [
@@ -2055,7 +2055,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9595, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9595, "uuid": "bf890599-8860-43bb-b9aa-ce41af1f11d2",
       "attributes": {
         "denominazione": "Avvisi e Bandi",
         "riferimento_legislativo": [
@@ -2067,7 +2067,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9596, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9596, "uuid": "1769ebb9-187d-41d2-9baf-f404c34ea509",
       "attributes": {
         "denominazione": "Procedure negoziate afferenti agli investimenti pubblici finanziati, in tutto o in parte, con le risorse previste dal PNRR e dal PNC e dai programmi cofinanziati dai fondi strutturali dell'Unione europea",
         "riferimento_legislativo": [
@@ -2079,7 +2079,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9597, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9597, "uuid": "fe0319d6-3f86-4f8e-852c-f56861154c47",
       "attributes": {
         "denominazione": "Commissione giudicatrice",
         "riferimento_legislativo": [
@@ -2091,7 +2091,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9598, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9598, "uuid": "abcf6aa0-11db-43ca-b0b9-312a333f93f3",
       "attributes": {
         "denominazione": "Contratti",
         "riferimento_legislativo": [
@@ -2103,7 +2103,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9599, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9599, "uuid": "b55db70f-108e-4114-9d7d-8677d0e6c88b",
       "attributes": {
         "denominazione": "Collegi consultivi tecnici",
         "riferimento_legislativo": [
@@ -2115,7 +2115,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9600, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9600, "uuid": "54785f53-c3ec-43bd-8a88-f73ab660bafb",
       "attributes": {
         "denominazione": "Fase esecutiva",
         "riferimento_legislativo": [
@@ -2127,7 +2127,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9601, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9601, "uuid": "11e247ab-aeef-470b-b1db-d6aaa90b635d",
       "attributes": {
         "denominazione": "Resoconti della gestione finanziaria dei contratti al termine della loro esecuzione",
         "riferimento_legislativo": [
@@ -2139,7 +2139,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9602, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9602, "uuid": "871e7128-44c9-4af8-be20-95d6f7b5ba1e",
       "attributes": {
         "denominazione": "Concessioni e partenariato pubblico privato",
         "riferimento_legislativo": [
@@ -2151,7 +2151,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9603, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9603, "uuid": "4a1709cd-4412-4adb-9e18-d9b37808b232",
       "attributes": {
         "denominazione": "Affidamenti diretti di lavori, servizi e forniture di somma urgenza e di protezione civile",
         "riferimento_legislativo": [
@@ -2163,7 +2163,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9604, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9604, "uuid": "e262fa0b-1d55-4057-a275-c06d3378259f",
       "attributes": {
         "denominazione": "Affidamenti in house",
         "riferimento_legislativo": [
@@ -2175,7 +2175,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9605, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9605, "uuid": "5a94eab0-ed97-450b-8a6f-88fbdea67ac6",
       "attributes": {
         "denominazione": "Elenchi ufficiali di operatori economici riconosciuti e certificazioni",
         "riferimento_legislativo": [
@@ -2187,7 +2187,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9606, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9606, "uuid": "bbc79fbd-c82e-45e8-851a-1fd8662c0ee7",
       "attributes": {
         "denominazione": "Progetti di investimento pubblico",
         "riferimento_legislativo": [
