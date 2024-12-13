@@ -1979,9 +1979,6 @@
         "persona_responsabile": "Dirigente Scolastico"
       }
     },
-
-
-
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9589, "uuid": "b24dcc82-039f-4399-9f74-d2a7f89e5167",
       "attributes": {
@@ -2198,6 +2195,5 @@
         "persona_responsabile": "Dirigente Scolastico"
       }
     }
-
   ]
 }

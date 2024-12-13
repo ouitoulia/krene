@@ -818,7 +818,7 @@
 
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9220, "uuid": "17e999c6-14fb-4863-af35-8908a362c155",
-      "attributes": {"name": "Interventi straordinari e di emergenza", "weight": 6},
+      "attributes": {"name": "Interventi straordinari e di emergenza", "weight": 7},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -829,7 +829,7 @@
       }
     },
 
-    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9230, "attributes": {"name": "[DA-VERIFICARE] Strutture sanitarie private accreditate", "weight": 7}, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}}}, "uuid": "ff3e60a8-aa8e-4936-8d1d-1ca7411f52ef"},
+    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9230, "attributes": {"name": "Strutture sanitarie private accreditate", "weight": 6}, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}}}, "uuid": "ff3e60a8-aa8e-4936-8d1d-1ca7411f52ef"},
 
     {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9240, "attributes": {"name": "Altri contenuti", "weight": 8}, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}}}, "uuid": "bda61317-8f56-4ebf-af01-0a5655834a2e"},
     {
