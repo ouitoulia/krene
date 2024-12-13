@@ -499,7 +499,16 @@
     {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9121, "uuid": "52a280ad-768c-4f22-8423-695704b8261e",
       "attributes": {"name": "Atti e documenti di carattere generale riferiti a tutte le procedure", "weight": 0},
       "relationships": {
-        "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9120"}}
+        "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9120"}},
+        "obblighi_di_pubblicazione": {"data": [
+          {"entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9573},
+          {"entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9574},
+          {"entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9575},
+          {"entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9576},
+          {"entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9577},
+          {"entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9578},
+          {"entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9579}
+        ]}
       }
     },
     {

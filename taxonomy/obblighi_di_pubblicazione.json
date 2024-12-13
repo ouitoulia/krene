@@ -1779,6 +1779,94 @@
         "frequenza_aggiornamento": "Annuale e in relazione a delibere ANAC.",
         "persona_responsabile": ""
       }
+    },
+
+
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9573, "uuid": "",
+      "attributes": {
+        "denominazione": "Elenco delle soluzioni tecnologiche adottate dalle SA e enti concedenti per l’automatizzazione delle proprie attività",
+        "riferimento_legislativo": [
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2023/03/31/36/CONSOLIDATED", "title": "Art. 30, d.lgs. 36/2023 - Uso di procedure automatizzate nel ciclo di vita dei contratti pubblici"}
+        ],
+        "contenuto": "Elenco delle soluzioni tecnologiche adottate dalle SA e enti concedenti per l’automatizzazione delle proprie attività.",
+        "frequenza_aggiornamento": "Una tantum con aggiornamento tempestivo in caso di modifiche",
+        "persona_responsabile": "Dirigente Scolastico"
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9574, "uuid": "",
+      "attributes": {
+        "denominazione": "Avviso finalizzato ad acquisire le manifestazioni di interesse degli operatori economici in ordine ai lavori di possibile completamento di opere incompiute nonché alla gestione delle stesse",
+        "riferimento_legislativo": [
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2023/03/31/36/CONSOLIDATED", "title": "ALLEGATO I.5 al d.lgs. 36/2023 - Elementi per la programmazione dei lavori e dei servizi. Schemi tipo (art. 4, co. 3)"}
+        ],
+        "contenuto": "Avviso finalizzato ad acquisire le manifestazioni di interesse degli operatori economici in ordine ai lavori di possibile completamento di opere incompiute nonché alla gestione delle stesse<br><br>NB: Ove l'avviso è pubblicato nella apposita sezione del portale web del Ministero delle infrastrutture e dei trasporti, la pubblicazione in AT è assicurata mediante link al portale MIT",
+        "frequenza_aggiornamento": "Tempestivo",
+        "persona_responsabile": "Dirigente Scolastico"
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9575, "uuid": "",
+      "attributes": {
+        "denominazione": "Avviso finalizzato ad acquisire le manifestazioni di interesse degli operatori economici in ordine ai lavori di possibile completamento di opere incompiute nonché alla gestione delle stesse",
+        "riferimento_legislativo": [
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2023/03/31/36/CONSOLIDATED", "title": "ALLEGATO I.5 al d.lgs. 36/2023 - Elementi per la programmazione dei lavori e dei servizi. Schemi tipo (art. 4, co. 3)"}
+        ],
+        "contenuto": "Avviso finalizzato ad acquisire le manifestazioni di interesse degli operatori economici in ordine ai lavori di possibile completamento di opere incompiute nonché alla gestione delle stesse<br><br>NB: Ove l'avviso è pubblicato nella apposita sezione del portale web del Ministero delle infrastrutture e dei trasporti, la pubblicazione in AT è assicurata mediante link al portale MIT",
+        "frequenza_aggiornamento": "Tempestivo",
+        "persona_responsabile": "Dirigente Scolastico"
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9576, "uuid": "",
+      "attributes": {
+        "denominazione": "Comunicazione circa la mancata redazione del programma triennale",
+        "riferimento_legislativo": [
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2023/03/31/36/CONSOLIDATED", "title": "ALLEGATO I.5 al d.lgs. 36/2023 - Elementi per la programmazione dei lavori e dei servizi. Schemi tipo (art. 5, co. 8; art. 7, co. 4)"}
+        ],
+        "contenuto": "Comunicazione circa la mancata redazione del programma triennale dei lavori pubblici, per assenza di lavori.<br>Comunicazione circa la mancata redazione del programma triennale degli acquisti di forniture e servizi, per assenza di acquisti di forniture e servizi.",
+        "frequenza_aggiornamento": "Tempestivo",
+        "persona_responsabile": "Dirigente Scolastico"
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9577, "uuid": "",
+      "attributes": {
+        "denominazione": "Atti recanti norme, criteri oggettivi per il funzionamento del sistema di qualificazione, l’eventuale aggiornamento periodico dello stesso e durata, criteri soggettivi (requisiti relativi alle capacità economiche, finanziarie, tecniche e professionali) per l’iscrizione al sistema",
+        "riferimento_legislativo": [
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2023/03/31/36/CONSOLIDATED", "title": "Art. 168, d.lgs. 36/2023 - Procedure di gara con sistemi di qualificazione"}
+        ],
+        "contenuto": "Atti recanti norme, criteri oggettivi per il funzionamento del sistema di qualificazione, l’eventuale aggiornamento periodico dello stesso e durata, criteri soggettivi (requisiti relativi alle capacità economiche, finanziarie, tecniche e professionali) per l’iscrizione al sistema.",
+        "frequenza_aggiornamento": "Tempestivo",
+        "persona_responsabile": "Dirigente Scolastico"
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9578, "uuid": "",
+      "attributes": {
+        "denominazione": "Atti eventualmente adottati recanti l’elencazione delle condotte che costituiscono gravi illeciti professionali agli effetti degli artt. 95, co. 1, lettera e) e 98 (cause di esclusione dalla gara per gravi illeciti professionali).",
+        "riferimento_legislativo": [
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2023/03/31/36/CONSOLIDATED", "title": "Art. 169, d.lgs. 36/2023 <br>Procedure di gara regolamentate Settori speciali"}
+        ],
+        "contenuto": "Atti eventualmente adottati recanti l’elencazione delle condotte che costituiscono gravi illeciti professionali agli effetti degli artt. 95, co. 1, lettera e) e 98 (cause di esclusione dalla gara per gravi illeciti professionali).<br><br>Obbligo applicabile alle imprese pubbliche e ai soggetti titolari di diritti speciali esclusivi.",
+        "frequenza_aggiornamento": "Tempestivo",
+        "persona_responsabile": ""
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9579, "uuid": "",
+      "attributes": {
+        "denominazione": "Elenco annuale dei progetti finanziati, con indicazione del CUP, importo totale del finanziamento, le fonti finanziarie, la data di avvio del progetto e lo stato di attuazione finanziario e procedurale",
+        "riferimento_legislativo": [
+          {"uri": "https://www.normattiva.it/eli/stato/LEGGE/2003/01/16/3/CONSOLIDATED", "title": "Art. 11, co. 2-quater, l. n. 3/2003"},
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO-LEGGE/2020/07/16/76/CONSOLIDATED/20240111", "title": "Art. 41, co. 1, d.l. n. 76/2020 - Dati e informazioni sui progetti di investimento pubblico"}
+        ],
+        "contenuto": "Elenco annuale dei progetti finanziati, con indicazione del CUP, importo totale del finanziamento, le fonti finanziarie, la data di avvio del progetto e lo stato di attuazione finanziario e procedurale",
+        "frequenza_aggiornamento": "Annuale",
+        "persona_responsabile": "Dirigente Scolastico"
+      }
     }
+
   ]
 }
