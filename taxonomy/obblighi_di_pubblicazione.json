@@ -1766,10 +1766,8 @@
         "persona_responsabile": "Dirigente Scolastico"
       }
     },
-
-
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9572, "uuid": "",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9572, "uuid": "43b8f7da-a89a-44b0-bc8f-eada4b5188f2",
       "attributes": {
         "denominazione": "Attestazioni OIV o struttura analoga",
         "riferimento_legislativo": [

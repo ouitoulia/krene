@@ -504,21 +504,14 @@
     },
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9122, "uuid": "cc8d0c32-f158-4bdd-9bee-d7a2351f4d06",
-      "attributes": {"name": "Informazioni sulle singole procedure in formato tabellare (fino al 31/12/2023)", "weight": 1},
+      "attributes": {"name": "Atti e documenti e link alla BDNCP", "weight": 1},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9120"}}
       }
     },
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9123, "uuid": "89c6bdd4-4703-48f8-925c-ba04cb302269",
-      "attributes": {"name": "Atti delle amministrazioni aggiudicatrici e degli enti aggiudicatori distintamente per ogni procedura (fino al 31/12/2023)", "weight": 2},
-      "relationships": {
-        "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9120"}}
-      }
-    },
-    {
-      "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9124, "uuid": "3d148ecf-4fa6-47af-a061-ff6e7f94f05d",
-      "attributes": {"name": "Albo fornitori (fino al 31/12/2023)", "weight": 3},
+      "attributes": {"name": "Obblighi precedenti il 31/12/2023", "weight": 2},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9120"}}
       }
