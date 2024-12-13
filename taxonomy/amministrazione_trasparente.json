@@ -175,8 +175,6 @@
       }
     },
 
-    {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9030, "attributes": {"name": "[DA-VERIFICARE] Contratti e convenzioni", "weight": "-12"}, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}}}, "uuid": "92494a2e-3f9d-45da-bdc0-b5f4b5d4ef0b"},
-
     {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9040, "attributes": {"name": "Personale", "weight": "-11"}, "relationships": {"parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "0"}}}, "uuid": "afae4cf7-05fb-4165-a95f-a86c847fa95b"},
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9041, "uuid": "7fbde1a9-fe67-4e08-92b7-1de7f8a4103b",
