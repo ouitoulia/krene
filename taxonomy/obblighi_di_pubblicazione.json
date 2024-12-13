@@ -1833,7 +1833,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9577, "uuid": "",
       "attributes": {
-        "denominazione": "Atti recanti norme, criteri oggettivi per il funzionamento del sistema di qualificazione, l’eventuale aggiornamento periodico dello stesso e durata, criteri soggettivi (requisiti relativi alle capacità economiche, finanziarie, tecniche e professionali) per l’iscrizione al sistema",
+        "denominazione": "Atti recanti norme, criteri oggettivi per il funzionamento del sistema di qualificazione, l’eventuale aggiornamento periodico dello stesso e durata, criteri soggettivi per l’iscrizione al sistema",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2023/03/31/36/CONSOLIDATED", "title": "Art. 168, d.lgs. 36/2023 - Procedure di gara con sistemi di qualificazione"}
         ],
@@ -1845,7 +1845,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9578, "uuid": "",
       "attributes": {
-        "denominazione": "Atti eventualmente adottati recanti l’elencazione delle condotte che costituiscono gravi illeciti professionali agli effetti degli artt. 95, co. 1, lettera e) e 98 (cause di esclusione dalla gara per gravi illeciti professionali).",
+        "denominazione": "Atti eventualmente adottati recanti l’elencazione delle condotte che costituiscono gravi illeciti professionali agli effetti degli artt. 95, co. 1, lettera e) e 98.",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2023/03/31/36/CONSOLIDATED", "title": "Art. 169, d.lgs. 36/2023 <br>Procedure di gara regolamentate Settori speciali"}
         ],
