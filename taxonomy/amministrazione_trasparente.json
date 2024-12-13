@@ -533,7 +533,27 @@
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9123, "uuid": "89c6bdd4-4703-48f8-925c-ba04cb302269",
       "attributes": {"name": "Obblighi precedenti il 31/12/2023", "weight": 2},
       "relationships": {
-        "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9120"}}
+        "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9120"}},
+        "obblighi_di_pubblicazione": {"data": [
+          {"entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9589},
+          {"entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9590},
+          {"entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9591},
+          {"entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9592},
+          {"entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9593},
+          {"entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9594},
+          {"entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9595},
+          {"entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9596},
+          {"entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9597},
+          {"entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9598},
+          {"entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9599},
+          {"entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9600},
+          {"entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9601},
+          {"entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9602},
+          {"entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9603},
+          {"entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9604},
+          {"entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9605},
+          {"entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9606}
+        ]}
       }
     },
 

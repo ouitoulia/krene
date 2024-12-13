@@ -1853,8 +1853,6 @@
         "persona_responsabile": "Dirigente Scolastico"
       }
     },
-
-
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9579, "uuid": "bacf971e-9fed-4a39-afc7-1a4968dc3bb4",
       "attributes": {
@@ -1978,6 +1976,225 @@
         ],
         "contenuto": "Provvedimento conclusivo della procedura di valutazione della proposta del promotore relativa alla realizzazione in concessione di lavori o servizi",
         "frequenza_aggiornamento": "Tempestivo",
+        "persona_responsabile": "Dirigente Scolastico"
+      }
+    },
+
+
+
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9589, "uuid": "",
+      "attributes": {
+        "denominazione": "Dati previsti dall'articolo 1, comma 32, della legge 6 novembre 2012, n. 190. Informazioni sulle singole procedure",
+        "riferimento_legislativo": [
+          {"uri": "https://www.normattiva.it/eli/stato/LEGGE/2012/11/06/190/CONSOLIDATED", "title": "Art. 1, co. 32, l. 190 del 6 novembre 2012"}
+        ],
+        "contenuto": "Nota riguardo i CIG: si evidenzia che, come richiesto da ANAC, i CIG a 10 zeri debbano intendersi come affidamenti per spese economali.",
+        "frequenza_aggiornamento": "Archivio",
+        "persona_responsabile": "Dirigente Scolastico"
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9590, "uuid": "",
+      "attributes": {
+        "denominazione": "Tabelle riassuntive ai sensi dell'Art. 1 comma 32 della legge n. 190/2012",
+        "riferimento_legislativo": [
+          {"uri": "https://www.normattiva.it/eli/stato/LEGGE/2012/11/06/190/CONSOLIDATED", "title": "Art. 1, co. 32, l. 190 del 6 novembre 2012"}
+        ],
+        "contenuto": "Per l'assolvimento di quanto previsto dall'art. 1, comma 32, della legge n. 190 del novembre 2012, le stazioni appaltanti sono tenute alla pubblicazione sui propri siti istituzionali delle tabelle riassuntive trasmesse digitalmente all'A.N.A.C.<br><br>L'Autorità ha fornito, con Deliberazione n.26 del 22 maggio 2013 e successivo Comunicato del Presidente del 13 giugno 2013, le specifiche del \"set\" di dati richiesto e del relativo formato, chiarendo che il formato richiesto è quello xml.",
+        "frequenza_aggiornamento": "Archivio",
+        "persona_responsabile": "Dirigente Scolastico"
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9591, "uuid": "",
+      "attributes": {
+        "denominazione": "Atti relativi alle procedure per l’affidamento di appalti pubblici di servizi di cui all'art. 5 del d.lgs n. 50/2016",
+        "riferimento_legislativo": [
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/04/18/50/CONSOLIDATED", "title": "Art. 5 del d.lgs n. 50/2016"}
+        ],
+        "contenuto": "Atti relativi alle procedure per l’affidamento di appalti pubblici di servizi, forniture, lavori e opere, di concorsi pubblici di progettazione, di concorsi di idee e di concessioni, compresi quelli tra enti nell'ambito del settore pubblico di cui all'art. 5 del d.lgs n. 50/2016",
+        "frequenza_aggiornamento": "Archivio",
+        "persona_responsabile": "Dirigente Scolastico"
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9592, "uuid": "",
+      "attributes": {
+        "denominazione": "Trasparenza nella partecipazione di portatori di interessi e dibattito pubblico",
+        "riferimento_legislativo": [
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/04/18/50/CONSOLIDATED", "title": "Art. 5 del d.lgs n. 50/2016"}
+        ],
+        "contenuto": "Trasparenza nella partecipazione di portatori di interessi e dibattito pubblico.",
+        "frequenza_aggiornamento": "Archivio",
+        "persona_responsabile": "Dirigente Scolastico"
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9593, "uuid": "",
+      "attributes": {
+        "denominazione": "Avvisi di pre-informazione",
+        "riferimento_legislativo": [
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/04/18/50/CONSOLIDATED", "title": "Art. 5 del d.lgs n. 50/2016"}
+        ],
+        "contenuto": "Avvisi di pre-informazione",
+        "frequenza_aggiornamento": "Archivio",
+        "persona_responsabile": "Dirigente Scolastico"
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9594, "uuid": "",
+      "attributes": {
+        "denominazione": "Delibera a contrarre",
+        "riferimento_legislativo": [
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/04/18/50/CONSOLIDATED", "title": "Art. 5 del d.lgs n. 50/2016"}
+        ],
+        "contenuto": "Delibera a contrarre",
+        "frequenza_aggiornamento": "Archivio",
+        "persona_responsabile": "Dirigente Scolastico"
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9595, "uuid": "",
+      "attributes": {
+        "denominazione": "Avvisi e Bandi",
+        "riferimento_legislativo": [
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/04/18/50/CONSOLIDATED", "title": "Art. 5 del d.lgs n. 50/2016"}
+        ],
+        "contenuto": "Avvisi e Bandi",
+        "frequenza_aggiornamento": "Archivio",
+        "persona_responsabile": "Dirigente Scolastico"
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9596, "uuid": "",
+      "attributes": {
+        "denominazione": "Procedure negoziate afferenti agli investimenti pubblici finanziati, in tutto o in parte, con le risorse previste dal PNRR e dal PNC e dai programmi cofinanziati dai fondi strutturali dell'Unione europea",
+        "riferimento_legislativo": [
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/04/18/50/CONSOLIDATED", "title": "Art. 5 del d.lgs n. 50/2016"}
+        ],
+        "contenuto": "Procedure negoziate afferenti agli investimenti pubblici finanziati, in tutto o in parte, con le risorse previste dal PNRR e dal PNC e dai programmi cofinanziati dai fondi strutturali dell'Unione europea",
+        "frequenza_aggiornamento": "Archivio",
+        "persona_responsabile": "Dirigente Scolastico"
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9597, "uuid": "",
+      "attributes": {
+        "denominazione": "Commissione giudicatrice",
+        "riferimento_legislativo": [
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/04/18/50/CONSOLIDATED", "title": "Art. 5 del d.lgs n. 50/2016"}
+        ],
+        "contenuto": "Commissione giudicatrice",
+        "frequenza_aggiornamento": "Archivio",
+        "persona_responsabile": "Dirigente Scolastico"
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9598, "uuid": "",
+      "attributes": {
+        "denominazione": "Contratti",
+        "riferimento_legislativo": [
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/04/18/50/CONSOLIDATED", "title": "Art. 5 del d.lgs n. 50/2016"}
+        ],
+        "contenuto": "Contratti",
+        "frequenza_aggiornamento": "Archivio",
+        "persona_responsabile": "Dirigente Scolastico"
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9599, "uuid": "",
+      "attributes": {
+        "denominazione": "Collegi consultivi tecnici",
+        "riferimento_legislativo": [
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/04/18/50/CONSOLIDATED", "title": "Art. 5 del d.lgs n. 50/2016"}
+        ],
+        "contenuto": "Collegi consultivi tecnici",
+        "frequenza_aggiornamento": "Archivio",
+        "persona_responsabile": "Dirigente Scolastico"
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9600, "uuid": "",
+      "attributes": {
+        "denominazione": "Fase esecutiva",
+        "riferimento_legislativo": [
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/04/18/50/CONSOLIDATED", "title": "Art. 5 del d.lgs n. 50/2016"}
+        ],
+        "contenuto": "Fase esecutiva",
+        "frequenza_aggiornamento": "Archivio",
+        "persona_responsabile": "Dirigente Scolastico"
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9601, "uuid": "",
+      "attributes": {
+        "denominazione": "Resoconti della gestione finanziaria dei contratti al termine della loro esecuzione",
+        "riferimento_legislativo": [
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/04/18/50/CONSOLIDATED", "title": "Art. 5 del d.lgs n. 50/2016"}
+        ],
+        "contenuto": "Resoconti della gestione finanziaria dei contratti al termine della loro esecuzione",
+        "frequenza_aggiornamento": "Archivio",
+        "persona_responsabile": "Dirigente Scolastico"
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9602, "uuid": "",
+      "attributes": {
+        "denominazione": "Concessioni e partenariato pubblico privato",
+        "riferimento_legislativo": [
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/04/18/50/CONSOLIDATED", "title": "Art. 5 del d.lgs n. 50/2016"}
+        ],
+        "contenuto": "Concessioni e partenariato pubblico privato",
+        "frequenza_aggiornamento": "Archivio",
+        "persona_responsabile": "Dirigente Scolastico"
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9603, "uuid": "",
+      "attributes": {
+        "denominazione": "Affidamenti diretti di lavori, servizi e forniture di somma urgenza e di protezione civile",
+        "riferimento_legislativo": [
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/04/18/50/CONSOLIDATED", "title": "Art. 5 del d.lgs n. 50/2016"}
+        ],
+        "contenuto": "Affidamenti diretti di lavori, servizi e forniture di somma urgenza e di protezione civile",
+        "frequenza_aggiornamento": "Archivio",
+        "persona_responsabile": "Dirigente Scolastico"
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9604, "uuid": "",
+      "attributes": {
+        "denominazione": "Affidamenti in house",
+        "riferimento_legislativo": [
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/04/18/50/CONSOLIDATED", "title": "Art. 5 del d.lgs n. 50/2016"}
+        ],
+        "contenuto": "Affidamenti in house",
+        "frequenza_aggiornamento": "Archivio",
+        "persona_responsabile": "Dirigente Scolastico"
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9605, "uuid": "",
+      "attributes": {
+        "denominazione": "Elenchi ufficiali di operatori economici riconosciuti e certificazioni",
+        "riferimento_legislativo": [
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/04/18/50/CONSOLIDATED", "title": "Art. 5 del d.lgs n. 50/2016"}
+        ],
+        "contenuto": "Elenchi ufficiali di operatori economici riconosciuti e certificazioni",
+        "frequenza_aggiornamento": "Archivio",
+        "persona_responsabile": "Dirigente Scolastico"
+      }
+    },
+    {
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9606, "uuid": "",
+      "attributes": {
+        "denominazione": "Progetti di investimento pubblico",
+        "riferimento_legislativo": [
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/04/18/50/CONSOLIDATED", "title": "Art. 5 del d.lgs n. 50/2016"}
+        ],
+        "contenuto": "Progetti di investimento pubblico",
+        "frequenza_aggiornamento": "Archivio",
         "persona_responsabile": "Dirigente Scolastico"
       }
     }
