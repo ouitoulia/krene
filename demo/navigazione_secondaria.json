@@ -1,0 +1,12 @@
+{
+  "data": [
+    {
+      "id": 41, "uuid": "40340643-3d9e-4b03-8513-8136b2c44152", "langcode": "it",
+      "attributes": { "label": "Finanziamenti", "description": "", "type": "navigazione-secondaria", "weight": 1, "expanded": 1},
+      "link": {
+        "uri": "internal:/finanziamenti", "title": "",
+        "options": {}
+      }
+    }
+  ]
+}
