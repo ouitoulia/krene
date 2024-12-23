@@ -9,6 +9,7 @@
     {"entity": "taxonomy_term", "type": "materie", "id": 2157, "attributes": {"miur_class_id": "EEEE", "name": "Musica", "description": "Musica nella scuola primaria."}, "uuid": "b525c12d-da2d-459d-911c-8b14c851cec7"},
     {"entity": "taxonomy_term", "type": "materie", "id": 2158, "attributes": {"miur_class_id": "EEEE", "name": "Arte e immagine", "description": "Arte e immagine nella scuola primaria."}, "uuid": "479af561-cb65-449f-8804-027334c34460"},
     {"entity": "taxonomy_term", "type": "materie", "id": 2159, "attributes": {"miur_class_id": "EEEE", "name": "Educazione fisica", "description": "Educazione fisica nella scuola primaria."}, "uuid": "29d10877-4712-4549-9c47-2a3e18b61fa5"},
-    {"entity": "taxonomy_term", "type": "materie", "id": 2160, "attributes": {"miur_class_id": "EEEE", "name": "Tecnologia", "description": "Tecnologia nella scuola primaria."}, "uuid": "fa168ba6-214d-414d-9cce-64fd1698f6b4"}
+    {"entity": "taxonomy_term", "type": "materie", "id": 2160, "attributes": {"miur_class_id": "EEEE", "name": "Tecnologia", "description": "Tecnologia nella scuola primaria."}, "uuid": "fa168ba6-214d-414d-9cce-64fd1698f6b4"},
+    {"entity": "taxonomy_term", "type": "materie", "id": 2161, "attributes": {"miur_class_id": "RLEE", "name": "Religione", "description": "Religione nella scuola primaria."}, "uuid": "40d738df-461f-4d0d-a22e-992ef5fa13e8"}
   ]
 }
