@@ -1,13 +1,15 @@
 {
   "data": [
-    {"entity": "taxonomy_term", "type": "tipologia_finanziamenti", "id": 1151, "attributes": {"name": "Altro"}, "uuid": "2f70451a-4ea9-4fb2-ab5d-e44d4633b6b0"},
-    {"entity": "taxonomy_term", "type": "tipologia_finanziamenti", "id": 1152, "attributes": {"name": "FIS"}, "uuid": "4ffaf1c7-32fe-46cc-a2f3-ceb8e9a83d74"},
-    {"entity": "taxonomy_term", "type": "tipologia_finanziamenti", "id": 1153, "attributes": {"name": "Monitor 440"}, "uuid": "b1d08e21-830c-4c78-bc89-88c16491aca7"},
-    {"entity": "taxonomy_term", "type": "tipologia_finanziamenti", "id": 1154, "attributes": {"name": "PNRR"}, "uuid": "f96c2389-4f08-49f9-ba17-c42e845c4a48"},
-    {"entity": "taxonomy_term", "type": "tipologia_finanziamenti", "id": 1155, "attributes": {"name": "PON 1994/1999"}, "uuid": "52a1a8c8-b01e-4198-a8b0-c1d27d3fc499"},
-    {"entity": "taxonomy_term", "type": "tipologia_finanziamenti", "id": 1156, "attributes": {"name": "PON 2007/2013"}, "uuid": "9970f309-caec-413c-9fd0-eee986e8bfbb"},
-    {"entity": "taxonomy_term", "type": "tipologia_finanziamenti", "id": 1157, "attributes": {"name": "PON 2014/2020"}, "uuid": "b179f8ff-70b3-4d35-a0c0-69f9325b38f5"},
+    {"entity": "taxonomy_term", "type": "tipologia_finanziamenti", "id": 1151, "attributes": {"name": "Altro", "weight": "-15"}, "uuid": "2f70451a-4ea9-4fb2-ab5d-e44d4633b6b0"},
+    {"entity": "taxonomy_term", "type": "tipologia_finanziamenti", "id": 1152, "attributes": {"name": "FIS", "weight": "-10"}, "uuid": "4ffaf1c7-32fe-46cc-a2f3-ceb8e9a83d74"},
+    {"entity": "taxonomy_term", "type": "tipologia_finanziamenti", "id": 1153, "attributes": {"name": "Monitor 440", "weight": "-9"}, "uuid": "b1d08e21-830c-4c78-bc89-88c16491aca7"},
+    {"entity": "taxonomy_term", "type": "tipologia_finanziamenti", "id": 1154, "attributes": {"name": "PNRR", "weight": "-5"}, "uuid": "f96c2389-4f08-49f9-ba17-c42e845c4a48"},
+    {"entity": "taxonomy_term", "type": "tipologia_finanziamenti", "id": 1155, "attributes": {"name": "PON 1994/1999", "weight": 10}, "uuid": "52a1a8c8-b01e-4198-a8b0-c1d27d3fc499"},
+    {"entity": "taxonomy_term", "type": "tipologia_finanziamenti", "id": 1156, "attributes": {"name": "PON 2007/2013", "weight": 9}, "uuid": "9970f309-caec-413c-9fd0-eee986e8bfbb"},
+    {"entity": "taxonomy_term", "type": "tipologia_finanziamenti", "id": 1157, "attributes": {"name": "PON 2014/2020", "weight": 8}, "uuid": "b179f8ff-70b3-4d35-a0c0-69f9325b38f5"},
     {"entity": "taxonomy_term", "type": "tipologia_finanziamenti", "id": 1158, "attributes": {"name": "POR"}, "uuid": "39b74d5b-5784-410d-bbd9-e583d5248684"},
-    {"entity": "taxonomy_term", "type": "tipologia_finanziamenti", "id": 1159, "attributes": {"name": "PNRR Futura"}, "uuid": "7aa290e5-31bc-42aa-8675-e6d3a897057f"}
+    {"entity": "taxonomy_term", "type": "tipologia_finanziamenti", "id": 1159, "attributes": {"name": "PNRR Futura", "weight": "-4"}, "uuid": "7aa290e5-31bc-42aa-8675-e6d3a897057f"},
+    {"entity": "taxonomy_term", "type": "tipologia_finanziamenti", "id": 1160, "attributes": {"name": "FAMI", "weight": "-14"}, "uuid": "8665fa27-3f64-4650-b460-d0f0a09f8d17"},
+    {"entity": "taxonomy_term", "type": "tipologia_finanziamenti", "id": 1161, "attributes": {"name": "PN 2021-2027", "weight": "7"}, "uuid": "6ca371b5-503d-4c0f-92e4-fe0d369f493e"}
   ]
 }
