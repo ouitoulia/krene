@@ -10,6 +10,7 @@
     {"entity": "taxonomy_term", "type": "tipologia_finanziamenti", "id": 1158, "attributes": {"name": "POR"}, "uuid": "39b74d5b-5784-410d-bbd9-e583d5248684"},
     {"entity": "taxonomy_term", "type": "tipologia_finanziamenti", "id": 1159, "attributes": {"name": "PNRR Futura", "weight": "-4"}, "uuid": "7aa290e5-31bc-42aa-8675-e6d3a897057f"},
     {"entity": "taxonomy_term", "type": "tipologia_finanziamenti", "id": 1160, "attributes": {"name": "FAMI", "weight": "-14"}, "uuid": "8665fa27-3f64-4650-b460-d0f0a09f8d17"},
-    {"entity": "taxonomy_term", "type": "tipologia_finanziamenti", "id": 1161, "attributes": {"name": "PN 2021-2027", "weight": "7"}, "uuid": "6ca371b5-503d-4c0f-92e4-fe0d369f493e"}
+    {"entity": "taxonomy_term", "type": "tipologia_finanziamenti", "id": 1161, "attributes": {"name": "PN 2021-2027", "weight": "7"}, "uuid": "6ca371b5-503d-4c0f-92e4-fe0d369f493e"},
+    {"entity": "taxonomy_term", "type": "tipologia_finanziamenti", "id": 1162, "attributes": {"name": "Erasmus+", "weight": "-12"}, "uuid": "5099c578-59c7-43e5-adab-0d5708255550"}
   ]
 }
