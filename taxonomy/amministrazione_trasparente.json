@@ -512,7 +512,7 @@
     },
     {
       "entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": 9122, "uuid": "cc8d0c32-f158-4bdd-9bee-d7a2351f4d06",
-      "attributes": {"name": "Atti e documenti e link alla BDNCP", "weight": 1, "description": "Per ogni singola procedura di affidamento inserire il link alla BDNCP contenente i dati e e le informazioni comunicati dalla S.A. e pubblicati da ANAC ai sensi della delibera N. 261/2023\nper ciascuna procedura sono pubblicati inoltre i seguenti atti e documenti."},
+      "attributes": {"name": "Atti e documenti e link alla BDNCP", "weight": 1, "description": "Per ogni singola procedura di affidamento inserire il link alla BDNCP contenente i dati e e le informazioni comunicati dalla S.A. e pubblicati da ANAC ai sensi della delibera N. 261/2023 per ciascuna procedura sono pubblicati inoltre i seguenti atti e documenti."},
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9120"}},
         "obblighi_di_pubblicazione": {"data": [
@@ -867,6 +867,7 @@
         "obblighi_di_pubblicazione": {"data": [
           {"entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9568},
           {"entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9568},
+          {"entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9569},
           {"entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9570}
         ]}
       }
