@@ -890,9 +890,10 @@
         "denominazione": "Piano della Performance/Piano esecutivo di gestione",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2009/10/27/150/CONSOLIDATED", "title": "Art. 10, d.lgs. n. 150/2009"},
-          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 10, c. 8, lett. b), d.lgs. n. 33/2013"}
+          {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 10, c. 8, lett. b), d.lgs. n. 33/2013"},
+          {"uri": "https://www.mim.gov.it/web/guest/performance-ministero-dell-istruzione-e-del-merito", "title": "Piano della performance MIM"}
         ],
-        "contenuto": "Piano della Performance (art. 10, d.lgs. 150/2009). Piano esecutivo di gestione (per gli enti locali) (art. 169, c. 3-bis, d.lgs. n. 267/2000)",
+        "contenuto": "Piano della Performance (art. 10, d.lgs. 150/2009). Piano esecutivo di gestione (per gli enti locali) (art. 169, c. 3-bis, d.lgs. n. 267/2000). Non previsto per gli istituti scolastici come da Delibera ANAC n. 430 del 13 aprile 2016.",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
         "persona_responsabile": ""
       }
