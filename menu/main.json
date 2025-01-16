@@ -171,14 +171,6 @@
       },
       "parent": {"uuid": "dd7d6ff9-825c-4447-9496-94379ed7d868"}
     },
-    {
-      "id": 21, "uuid": "6ae38c27-3375-419d-8dd3-92f265792603", "langcode": "it",
-      "attributes": {"label": "Albo online", "description": "", "type": "main", "weight": 3},
-      "link": {
-        "uri": "internal:#", "title": ""
-      },
-      "parent": {"uuid": "dd7d6ff9-825c-4447-9496-94379ed7d868"}
-    },
 
 
     {
