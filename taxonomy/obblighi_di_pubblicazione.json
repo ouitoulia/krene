@@ -60,7 +60,7 @@
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2001/03/30/165/CONSOLIDATED/20240619", "title": "Art. 55, c. 2, d.lgs. n. 165/2001"},
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 12, c. 1, d.lgs. n. 33/2013"}
         ],
-        "contenuto": "<p>Codice disciplinare, recante l'indicazione delle  infrazioni del codice disciplinare e relative sanzioni (pubblicazione on line in alternativa all'affissione in luogo accessibile a tutti - art. 7, l. n. 300/1970). Codice di condotta inteso quale codice di comportamento.</p><p><a href=\"https://www.mim.gov.it/web/guest/codice-disciplinare-e-di-condotta\" target=\"_blank\" title=\"Collegamento al codice disciplinare e codice di condotta pubblicato dal Ministero in una nuova finestra\">Codice disciplinare e codice di condotta - Ministero del Merito</a></p>",
+        "contenuto": "<p>Codice disciplinare, recante l'indicazione delle  infrazioni del codice disciplinare e relative sanzioni (pubblicazione on line in alternativa all'affissione in luogo accessibile a tutti - art. 7, l. n. 300/1970). Codice di condotta inteso quale codice di comportamento.</p><p><a class=\"btn btn-primary btn-xs\" href=\"https://www.mim.gov.it/web/guest/codice-disciplinare-e-di-condotta\" target=\"_blank\" title=\"Collegamento al codice disciplinare e codice di condotta pubblicato dal Ministero in una nuova finestra\">Codice disciplinare e codice di condotta - Ministero del Merito</a></p>",
         "frequenza_aggiornamento": "Tempestivo",
         "persona_responsabile": "Dirigente scolastico"
       }
