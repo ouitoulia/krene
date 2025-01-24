@@ -1630,10 +1630,11 @@
       "attributes": {
         "denominazione": "Responsabile della prevenzione della corruzione e della trasparenza",
         "riferimento_legislativo": [
+          {"uri": "https://www.mim.gov.it/documents/20182/0/D.M.+325++del+26+maggio+2017/7760f8f3-c8c4-4abe-a0fb-b9e8122108cd", "title": "D.M. 325 del 26 maggio 2017"},
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 43, c. 1, d.lgs. n. 33/2013"},
           {"uri": "https://www.normattiva.it/eli/stato/LEGGE/2012/11/06/190/ORIGINAL", "title": "Art. 1, c. 8, l. n. 190/2012"}
         ],
-        "contenuto": "Responsabile della prevenzione della corruzione e della trasparenza",
+        "contenuto": "Responsabile della prevenzione della corruzione e della trasparenza. “Il Responsabile della Prevenzione della Corruzione e della Trasparenza di questa amministrazione scolastica è il Direttore Generale dell’USR (rif. Decreto del Ministero dell'Istruzione, dell'Università e della Ricerca prot. n. 325 del 26 maggio 2017)”",
         "frequenza_aggiornamento": "Tempestivo",
         "persona_responsabile": ""
       }
