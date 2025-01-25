@@ -1622,7 +1622,7 @@
         ],
         "contenuto": "Piano triennale per la prevenzione della corruzione e della trasparenza e suoi allegati, le misure integrative di prevenzione della corruzione individuate ai sensi dell’articolo 1,comma 2-bis della legge n. 190 del 2012, (MOG 231). Il Piano triennale per la prevenzione della corruzione e della trasparenza è di competenza dell'Ufficio Scolastico Regionale.",
         "frequenza_aggiornamento": "Annuale",
-        "persona_responsabile": ""
+        "persona_responsabile": "Dirigente scolastico - Portale USR"
       }
     },
     {
@@ -1636,7 +1636,7 @@
         ],
         "contenuto": "<p>Responsabile della prevenzione della corruzione e della trasparenza.</p><p>Il Responsabile della Prevenzione della Corruzione e della Trasparenza di questa amministrazione scolastica è il Direttore Generale dell’USR (rif. Decreto del Ministero dell'Istruzione, dell'Università e della Ricerca prot. n. 325 del 26 maggio 2017).</p>",
         "frequenza_aggiornamento": "Tempestivo",
-        "persona_responsabile": ""
+        "persona_responsabile": "Dirigente scolastico - Portale USR"
       }
     },
     {
@@ -1649,7 +1649,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9562, "uuid": "3a5b147b-a3a8-439b-9bd8-aa857d821820",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9561, "uuid": "3a5b147b-a3a8-439b-9bd8-aa857d821820",
       "attributes": {
         "denominazione": "Relazione del responsabile della prevenzione della corruzione e della trasparenza",
         "riferimento_legislativo": [
@@ -1657,7 +1657,7 @@
         ],
         "contenuto": "Relazione del responsabile della prevenzione della corruzione recante i risultati dell’attività svolta (entro il 15 dicembre di ogni anno)",
         "frequenza_aggiornamento": "Annuale (ex art. 1, c. 14, L. n. 190/2012)",
-        "persona_responsabile": ""
+        "persona_responsabile": "Dirigente scolastico - Portale USR"
       }
     },
     {
