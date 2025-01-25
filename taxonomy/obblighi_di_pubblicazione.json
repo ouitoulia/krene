@@ -1649,7 +1649,7 @@
       }
     },
     {
-      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9561, "uuid": "3a5b147b-a3a8-439b-9bd8-aa857d821820",
+      "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9562, "uuid": "3a5b147b-a3a8-439b-9bd8-aa857d821820",
       "attributes": {
         "denominazione": "Relazione del responsabile della prevenzione della corruzione e della trasparenza",
         "riferimento_legislativo": [
