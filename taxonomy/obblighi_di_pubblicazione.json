@@ -651,16 +651,16 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9450, "uuid": "3ac81d6e-26c8-4824-a6e7-1832ef92f061",
       "attributes": {
-        "denominazione": "Incarichi dirigenziali, a qualsiasi titolo conferiti, ivi inclusi quelli conferiti discrezionalmente dall'organo di indirizzo politico senza procedure pubbliche di selezione e titolari di posizione organizzativa con funzioni dirigenziali",
+        "denominazione": "Incarichi dirigenziali a qualsiasi titolo conferiti",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/04/08/39/CONSOLIDATED/20240619", "title": "Art. 20, c. 3, d.lgs. n. 39/2013"},
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, c. 1, lett. da a) ad f) e c. 1-bis, d.lgs. n. 33/2013"},
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, c. 1-ter, secondo periodo, d.lgs. n. 33/2013"},
           {"uri": "https://www.normattiva.it/eli/stato/LEGGE/1982/07/05/441/CONSOLIDATED", "title": "Art. 2, c. 1, punto 1 e 2, l. n. 441/1982"}
         ],
-        "contenuto": "",
-        "frequenza_aggiornamento": "",
-        "persona_responsabile": ""
+        "contenuto": "Incarichi dirigenziali, a qualsiasi titolo conferiti, ivi inclusi quelli conferiti discrezionalmente dall'organo di indirizzo politico senza procedure pubbliche di selezione e titolari di posizione organizzativa con funzioni dirigenziali (da pubblicare in tabelle che distinguano le seguenti situazioni: dirigenti, dirigenti individuati discrezionalmente, titolari di posizione organizzativa con funzioni dirigenziali).  Per ciascun titolare di incarico: atto di conferimento, con l'indicazione della durata dell'incarico; curriculum vitae, redatto in conformità al vigente modello europeo; compensi di qualsiasi natura connessi all'assunzione dell'incarico (con specifica evidenza delle eventuali componenti variabili o legate alla valutazione del risultato); importi di viaggi di servizio e missioni pagati con fondi pubblici; dati relativi all'assunzione di altre cariche, presso enti pubblici o privati, e relativi compensi a qualsiasi titolo corrisposti; altri eventuali incarichi con  oneri a carico della finanza pubblica e indicazione dei compensi spettanti; dichiarazione sulla insussistenza di una delle cause di inconferibilità dell'incarico; Dichiarazione sulla insussistenza di una delle cause di incompatibilità al conferimento dell'incarico. Entro 3 mesi dal conferimento dell'incarico: 1) dichiarazione concernente diritti reali su beni immobili e su beni mobili iscritti in pubblici registri, titolarità di imprese, azioni di società, quote di partecipazione a società, esercizio di funzioni di amministratore o di sindaco di società, con l'apposizione della formula «sul mio onore affermo che la dichiarazione corrisponde al vero» [Per il soggetto, il coniuge non separato e i parenti entro il secondo grado, ove gli stessi vi consentano (NB: dando eventualmente evidenza del mancato consenso) e riferita al momento dell'assunzione dell'incarico]; 2) copia dell'ultima dichiarazione dei redditi soggetti all'imposta sui redditi delle persone fisiche [Per il soggetto, il coniuge non separato e i parenti entro il secondo grado, ove gli stessi vi consentano (NB: dando eventualmente evidenza del mancato consenso)] (NB: è necessario limitare, con appositi accorgimenti a cura dell'interessato o della amministrazione, la pubblicazione dei dati sensibili). Annualmente: attestazione concernente le variazioni della situazione patrimoniale intervenute nell'anno precedente e copia della dichiarazione dei redditi [Per il soggetto, il coniuge non separato e i parenti entro il secondo grado, ove gli stessi vi consentano (NB: dando eventualmente evidenza del mancato consenso)]; Ammontare complessivo degli emolumenti percepiti a carico della finanza pubblica.",
+        "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
+        "persona_responsabile": "Dirigente scolastico"
       }
     },
     {
@@ -671,7 +671,7 @@
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/05/25/97/ORIGINAL", "title": "D.lgs. 97/2016"},
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 15, c. 5, d.lgs. n. 33/2013"}
         ],
-        "contenuto": "Elenco delle posizioni dirigenziali, integrato dai relativi titoli e curricula, attribuite a persone, anche esterne alle pubbliche amministrazioni, individuate discrezionalmente dall'organo di indirizzo politico senza procedure pubbliche di selezione",
+        "contenuto": "Elenco delle posizioni dirigenziali, integrato dai relativi titoli e curricula, attribuite a persone, anche esterne alle pubbliche amministrazioni, individuate discrezionalmente dall'organo di indirizzo politico senza procedure pubbliche di selezione.",
         "frequenza_aggiornamento": "Dati non più soggetti a pubblicazione obbligatoria ai sensi del d.lgs. 97/2016",
         "persona_responsabile": ""
       }
