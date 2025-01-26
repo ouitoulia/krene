@@ -1103,9 +1103,9 @@
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 23, c. 1, d.lgs. n. 33/2013"},
           {"uri": "https://www.normattiva.it/eli/stato/LEGGE/2012/11/06/190/ORIGINAL", "title": "Art. 1, co. 16 della l. n. 190/2012 "}
         ],
-        "contenuto": "<p>Elenco dei provvedimenti, con particolare riferimento ai provvedimenti finali dei procedimenti di: scelta del contraente per l'affidamento di lavori, forniture e servizi, anche con riferimento alla modalità di selezione prescelta (link alla sotto-sezione \"bandi di gara e contratti\"); accordi stipulati dall'amministrazione con soggetti privati o con altre amministrazioni pubbliche.</p>\n<p>Link alla sotto-sezione <a class=\"btn btn-primary btn-xs\" href=\"/taxonomy/term/9120\">Bandi di gara e contratti</a></p>",
+        "contenuto": "<p>Elenco dei provvedimenti, con particolare riferimento ai provvedimenti finali dei procedimenti di: scelta del contraente per l'affidamento di lavori, forniture e servizi, anche con riferimento alla modalità di selezione prescelta (link alla sotto-sezione \"bandi di gara e contratti\"); accordi stipulati dall'amministrazione con soggetti privati o con altre amministrazioni pubbliche.</p><p><a class=\"btn btn-primary btn-xs\" href=\"/taxonomy/term/9120\">Link alla sotto-sezione: Bandi di gara e contratti</a></p>",
         "frequenza_aggiornamento": "Dati non più soggetti a pubblicazione obbligatoria ai sensi del d.lgs. 97/2016",
-        "persona_responsabile": ""
+        "persona_responsabile": "Dirigente scolastico - Collegamento ad altra sezione"
       }
     },
     {
