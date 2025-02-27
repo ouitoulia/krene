@@ -20,7 +20,7 @@
       "id": 54, "uuid": "45749811-2ad4-411b-9b9f-b42243b9cb24", "langcode": "it",
       "attributes": { "label": "Scuola in chiaro", "description": "", "type": "link-esterni", "weight": 2, "expanded": 1},
       "link": {
-        "uri": "https://cercalatuascuola.istruzione.it/cercalatuascuola/istituti/RCIC825005/marvasi-vizzone/", "title": "",
+        "uri": "https://unica.istruzione.gov.it/cercalatuascuola/istituti/RCIC825005/marvasi-vizzone/", "title": "",
         "options": {"attributes": {"target": "_blank"}}
       }
     },
