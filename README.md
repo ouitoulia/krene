@@ -2,6 +2,8 @@
 [Kréne](https://www.grecoantico.com/dizionario-greco-antico.php?parola=%CE%BA%CF%81%CE%B7%CE%BD%CE%B7) - La fonte dei dati in formato JSON:API
 
 ## Tassonomie
+- [Materie - Infanzia](taxonomy/materie/infanzia.json)
+- [Materie - Scuola primaria](taxonomy/materie/primaria.json)
 - [Materie - Scuola secondaria di primo grado](taxonomy/materie/secondaria_primo_grado.json)
 - [Materie - Scuola secondaria di secondo grado](taxonomy/materie/secondaria_secondo_grado.json)
 - [Materie - Laboratori](taxonomy/materie/laboratori.json)
