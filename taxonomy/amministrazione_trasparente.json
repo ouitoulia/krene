@@ -65,6 +65,9 @@
       "relationships": {
         "parent": {"data": {"entity": "taxonomy_term", "type": "amministrazione_trasparente", "id": "9010"}},
         "obblighi_di_pubblicazione": {"data": [
+          {"entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9489},
+          {"entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9490},
+          {"entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9491},
           {"entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9410},
           {"entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9411},
           {"entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9412},
