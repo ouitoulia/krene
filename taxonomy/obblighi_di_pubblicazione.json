@@ -3,6 +3,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9401, "uuid": "7faa195b-2455-45dd-ac26-c0242c2aa392",
       "attributes": {
+        "published": 1,
         "denominazione": "Piano triennale per la prevenzione della corruzione e della trasparenza (PTPCT)",
         "riferimento_legislativo": [
           {"uri": "https://www.anticorruzione.it/-/delibera-n.-213-del-23-aprile-2024", "title": "Delibera ANAC n. 213 del 23 Aprile 2024"},
@@ -19,6 +20,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9402, "uuid": "242b73e5-ee9b-46d5-b090-4d2a7f2dd948",
       "attributes": {
+        "published": 1,
         "denominazione": "Riferimenti normativi su organizzazione e attività",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 12, c. 1, d.lgs. n. 33/2013"}
@@ -31,6 +33,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9403, "uuid": "c79a6f8c-88f5-4b91-b5ed-686c3ec8391e",
       "attributes": {
+        "published": 1,
         "denominazione": "Atti amministrativi generali",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 12, c. 1, d.lgs. n. 33/2013"}
@@ -43,6 +46,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9404, "uuid": "d283b5a5-e6c9-463c-9ddc-f5300483d855",
       "attributes": {
+        "published": 1,
         "denominazione": "Documenti di programmazione strategico-gestionale",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 12, c. 1, d.lgs. n. 33/2013"}
@@ -55,6 +59,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9488, "uuid": "d5bac032-fd83-4b10-a168-a4090d33214b",
       "attributes": {
+        "published": 1,
         "denominazione": "Statuti e leggi regionali",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 12, c. 2, d.lgs. n. 33/2013"}
@@ -67,6 +72,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9405, "uuid": "7d0563c0-dd73-4ce7-b4f1-0c068644245f",
       "attributes": {
+        "published": 1,
         "denominazione": "Codice disciplinare e codice di condotta",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2001/03/30/165/CONSOLIDATED/20240619", "title": "Art. 55, c. 2, d.lgs. n. 165/2001"},
@@ -82,6 +88,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9406, "uuid": "367c45e9-418f-474e-ad6a-0404ee00626a",
       "attributes": {
+        "published": 1,
         "denominazione": "Scadenzario obblighi amministrativi",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 12, c. 1-bis, d.lgs. n. 33/2013"}
@@ -94,6 +101,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9407, "uuid": "0718ce0d-52f5-4a86-ade6-e22bf078d9b5",
       "attributes": {
+        "published": 1,
         "denominazione": "Oneri informativi per cittadini e imprese",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/05/25/97/ORIGINAL", "title": "D.lgs. 97/2016"},
@@ -108,6 +116,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9408, "uuid": "6df64e0f-6892-4a4b-8671-25f24a6cc604",
       "attributes": {
+        "published": 1,
         "denominazione": "Burocrazia zero",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/01/22/10/ORIGINAL", "title": "D.lgs. 10/2016"},
@@ -121,6 +130,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9409, "uuid": "f9d95d45-b2f7-493b-a839-a11aa056ebda",
       "attributes": {
+        "published": 1,
         "denominazione": "Attività soggette a controllo",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/01/22/10/ORIGINAL", "title": "D.lgs. 10/2016"},
@@ -136,20 +146,21 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9410, "uuid": "64fac31e-9ffb-47e2-a67c-01a9f46c2a44",
       "attributes": {
+        "published": 0,
         "denominazione": "Organi di indirizzo politico e di amministrazione e gestione",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 13, c. 1, lett. a), d.lgs. n. 33/2013"}
         ],
         "contenuto": "<p>Organi di indirizzo politico e di amministrazione e gestione, con l'indicazione delle rispettive competenze.</p><p>Nelle Istituzioni scolastiche non esistono incarichi/organi di indirizzo politico. L'organo con funzioni di indirizzo e gestione generale della scuola è il Consiglio di Istituto e le figure di direzione e amministrazione sono il Dirigente Scolastico e il DSGA, indicati nell'Organigramma e nell’Articolazione degli Uffici. Il Consiglio d'Istituto adotta gli indirizzi generali, adotta il Regolamento di Istituto, approva il PTOF, il Bilancio preventivo e il Conto consuntivo, definisce la gestione finanziaria e l’attività negoziale, stabilisce gli adattamenti al calendario scolastico e i criteri generali, svolge altre funzioni di indirizzo generale”.</p>",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
-        "persona_responsabile": "",
-        "published": 0
+        "persona_responsabile": ""
       }
     },
 
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9411, "uuid": "5ccbcee2-3bd3-4543-9307-db09db38e253",
       "attributes": {
+        "published": 0,
         "denominazione": "Titolari di incarichi politici - Atto di nomina o di proclamazione",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, c. 1, lett. a), d.lgs. n. 33/2013"}
@@ -162,6 +173,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9412, "uuid": "cc405c61-4d99-4b70-ae04-430ee4d04cb4",
       "attributes": {
+        "published": 0,
         "denominazione": "Titolari di incarichi politici - Curriculum vitae",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, c. 1, lett. b), d.lgs. n. 33/2013"}
@@ -174,6 +186,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9413, "uuid": "0da8c90b-c872-4a12-af5e-0587c75212ea",
       "attributes": {
+        "published": 0,
         "denominazione": "Titolari di incarichi politici - Compensi",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, c. 1, lett. c), d.lgs. n. 33/2013"}
@@ -186,6 +199,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9414, "uuid": "1de6f9d9-4929-4e91-9862-5ecb5afc9d36",
       "attributes": {
+        "published": 0,
         "denominazione": "Titolari di incarichi politici - Importi di viaggi e missioni",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, c. 1, lett. c), d.lgs. n. 33/2013"}
@@ -198,6 +212,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9415, "uuid": "b90e30ff-a6f6-4dcc-923c-f5ef581d2110",
       "attributes": {
+        "published": 0,
         "denominazione": "Titolari di incarichi politici - Assunzione altre cariche",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, c. 1, lett. d), d.lgs. n. 33/2013"}
@@ -210,6 +225,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9416, "uuid": "8699ef31-d6aa-458c-8368-f971e7bd74bc",
       "attributes": {
+        "published": 0,
         "denominazione": "Titolari di incarichi politici - Altri eventuali incarichi",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, c. 1, lett. e), d.lgs. n. 33/2013"}
@@ -222,6 +238,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9417, "uuid": "012c5db4-7b01-47b1-a3e0-dd753a3c2cb5",
       "attributes": {
+        "published": 0,
         "denominazione": "Titolari di incarichi politici - Dichiarazioni punto 1",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, c. 1, lett. f), d.lgs. n. 33/2013"},
@@ -235,6 +252,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9418, "uuid": "dd98d942-6b58-4a82-a81f-50129525cac3",
       "attributes": {
+        "published": 0,
         "denominazione": "Titolari di incarichi politici - Dichiarazioni punto 2",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, c. 1, lett. f), d.lgs. n. 33/2013"},
@@ -248,6 +266,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9419, "uuid": "90886d2e-61b4-444b-9d02-79905f1801dd",
       "attributes": {
+        "published": 0,
         "denominazione": "Titolari di incarichi politici - Dichiarazioni punto 3",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, c. 1, lett. f), d.lgs. n. 33/2013"},
@@ -261,6 +280,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9420, "uuid": "bfdba26f-d123-4075-accd-cb1edd5ff896",
       "attributes": {
+        "published": 0,
         "denominazione": "Titolari di incarichi politici - Dichiarazioni art. 3",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, c. 1, lett. f), d.lgs. n. 33/2013"},
@@ -275,6 +295,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9421, "uuid": "9923c743-9fdc-4337-8c04-cf7fc0c4146c",
       "attributes": {
+        "published": 0,
         "denominazione": "Titolari di incarichi di amministrazione, di direzione o di governo - Atto di nomina o di proclamazione",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
@@ -288,6 +309,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9422, "uuid": "41f24532-529f-467b-a16a-79a8c9aab89a",
       "attributes": {
+        "published": 0,
         "denominazione": "Titolari di incarichi di amministrazione, di direzione o di governo - Curriculum vitae",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
@@ -301,6 +323,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9423, "uuid": "c90fedd7-b56e-427d-9739-fdecb476ac62",
       "attributes": {
+        "published": 0,
         "denominazione": "Titolari di incarichi di amministrazione, di direzione o di governo - Compensi",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
@@ -314,6 +337,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9424, "uuid": "704479ba-276f-46a0-bc81-cf428d2f8d58",
       "attributes": {
+        "published": 0,
         "denominazione": "Titolari di incarichi di amministrazione, di direzione o di governo - Importi di viaggi e missioni",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
@@ -327,6 +351,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9425, "uuid": "42543a89-de9c-492d-99b9-7748c62ca14a",
       "attributes": {
+        "published": 0,
         "denominazione": "Titolari di incarichi di amministrazione, di direzione o di governo - Assunzione altre cariche",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
@@ -340,6 +365,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9426, "uuid": "2ddeb6a8-bdd5-4765-af06-18bac62e5750",
       "attributes": {
+        "published": 0,
         "denominazione": "Titolari di incarichi di amministrazione, di direzione o di governo - Altri eventuali incarichi",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
@@ -353,6 +379,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9427, "uuid": "5477fb56-146c-42ec-a98b-f96227d4b0be",
       "attributes": {
+        "published": 0,
         "denominazione": "Titolari di incarichi di amministrazione, di direzione o di governo - Dichiarazioni punto 1",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
@@ -367,6 +394,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9428, "uuid": "9064945d-4382-4ac1-b537-80ddd115aca2",
       "attributes": {
+        "published": 0,
         "denominazione": "Titolari di incarichi di amministrazione, di direzione o di governo - Dichiarazioni punto 2",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
@@ -381,6 +409,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9429, "uuid": "e2f501f2-cf48-464a-a83c-adeb46ce550b",
       "attributes": {
+        "published": 0,
         "denominazione": "Titolari di incarichi di amministrazione, di direzione o di governo - Dichiarazioni punto 3",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
@@ -395,6 +424,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9430, "uuid": "a5482e05-6462-4d73-bc0f-f9aca3145d88",
       "attributes": {
+        "published": 0,
         "denominazione": "Titolari di incarichi di amministrazione, di direzione o di governo - Dichiarazioni art. 3",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
@@ -410,6 +440,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9431, "uuid": "4eed1245-f283-479a-9744-aefa9258ccd5",
       "attributes": {
+        "published": 0,
         "denominazione": "Cessati dall'incarico - Atto di nomina o di proclamazione",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
@@ -423,6 +454,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9432, "uuid": "98943bd2-f820-4a2b-b2a2-15a6cbcd77bd",
       "attributes": {
+        "published": 0,
         "denominazione": "Cessati dall'incarico - Curriculum vitae",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
@@ -436,6 +468,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9433, "uuid": "c66f824d-04b8-4c68-83b2-c37071b95d8e",
       "attributes": {
+        "published": 0,
         "denominazione": "Cessati dall'incarico - Compensi",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
@@ -449,6 +482,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9434, "uuid": "40cb3a65-13a6-486d-a263-1cf682d40638",
       "attributes": {
+        "published": 0,
         "denominazione": "Cessati dall'incarico - Importi di viaggi e missioni",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
@@ -462,6 +496,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9435, "uuid": "88a87f7f-648f-48c0-99c6-ea72fc573a8a",
       "attributes": {
+        "published": 0,
         "denominazione": "Cessati dall'incarico - Assunzione altre cariche",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
@@ -475,6 +510,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9436, "uuid": "279ae46f-5cb0-4393-aee8-ff76764ecdb3",
       "attributes": {
+        "published": 0,
         "denominazione": "Cessati dall'incarico - Altri eventuali incarichi",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
@@ -488,6 +524,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9437, "uuid": "b07c46e9-899d-415f-958b-a8e221977d3e",
       "attributes": {
+        "published": 0,
         "denominazione": "Cessati dall'incarico - Dichiarazioni punto 1",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
@@ -502,6 +539,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9438, "uuid": "66af4429-5a82-4d63-88c7-539871cdb23b",
       "attributes": {
+        "published": 0,
         "denominazione": "Cessati dall'incarico - Dichiarazioni punto 2",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
@@ -516,6 +554,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9439, "uuid": "decc2769-0a20-48d8-8cd3-3c26aa8e82b9",
       "attributes": {
+        "published": 0,
         "denominazione": "Cessati dall'incarico - Dichiarazioni punto 3",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
@@ -530,6 +569,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9440, "uuid": "d930ebb8-f46b-4ba7-a03a-4e1590cd3e5c",
       "attributes": {
+        "published": 0,
         "denominazione": "Cessati dall'incarico - Dichiarazioni art. 3",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, co. 1-bis, del d.lgs. n. 33/2013"},
@@ -545,6 +585,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9441, "uuid": "ca20e8be-ffdf-4b14-a3e3-fc4202c51d2e",
       "attributes": {
+        "published": 1,
         "denominazione": "Sanzioni per mancata o incompleta comunicazione dei dati da parte dei titolari di incarichi politici, di amministrazione, di direzione o di governo",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 47, c. 1, d.lgs. n. 33/2013"}
@@ -558,6 +599,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9442, "uuid": "790b2cc0-a2a0-40dc-8b09-214c5e3ac2bb",
       "attributes": {
+        "published": 1,
         "denominazione": "Rendiconti gruppi consiliari regionali/provinciali",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 28, c. 1, d.lgs. n. 33/2013"}
@@ -570,6 +612,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9443, "uuid": "fb838ee8-e677-441f-9feb-4dd5df6cba1e",
       "attributes": {
+        "published": 1,
         "denominazione": "Atti degli organi di controllo",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 28, c. 1, d.lgs. n. 33/2013"}
@@ -583,6 +626,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9444, "uuid": "7586c1e3-8777-4014-8855-a7058130b495",
       "attributes": {
+        "published": 1,
         "denominazione": "Articolazione degli uffici",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 13, c. 1, lett. b), d.lgs. n. 33/2013"}
@@ -596,6 +640,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9445, "uuid": "098ea7d3-5c7d-4185-b4bf-555cbecbc4f6",
       "attributes": {
+        "published": 1,
         "denominazione": "Organigramma - Illustrazione in forma semplificata",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 13, c. 1, lett. c), d.lgs. n. 33/2013"}
@@ -608,6 +653,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9446, "uuid": "df2afbe4-de5a-4441-9792-f27be0234f1f",
       "attributes": {
+        "published": 1,
         "denominazione": "Organigramma - Nomi dei dirigenti",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 13, c. 1, lett. b), d.lgs. n. 33/2013"}
@@ -621,6 +667,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9447, "uuid": "96245445-3a3c-4272-8472-a5f6913b623f",
       "attributes": {
+        "published": 1,
         "denominazione": "Telefono e posta elettronica",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 13, c. 1, lett. d), d.lgs. n. 33/2013"}
@@ -635,6 +682,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9448, "uuid": "e2f96cdd-79d4-4e68-aa18-2429517eb66e",
       "attributes": {
+        "published": 1,
         "denominazione": "Consulenti e collaboratori",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2001/03/30/165/CONSOLIDATED/20240619", "title": "Art. 53, c. 14, d.lgs. n. 165/2001"},
@@ -649,6 +697,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9449, "uuid": "c72eff45-5dd6-4233-8ad2-467c051768ce",
       "attributes": {
+        "published": 1,
         "denominazione": "Incarichi amministrativi di vertice",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/04/08/39/CONSOLIDATED/20240619", "title": "Art. 20, c. 3, d.lgs. n. 39/2013"},
@@ -664,6 +713,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9450, "uuid": "3ac81d6e-26c8-4824-a6e7-1832ef92f061",
       "attributes": {
+        "published": 1,
         "denominazione": "Incarichi dirigenziali a qualsiasi titolo conferiti",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/04/08/39/CONSOLIDATED/20240619", "title": "Art. 20, c. 3, d.lgs. n. 39/2013"},
@@ -679,6 +729,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9451, "uuid": "0a155149-9e6a-465b-9fed-123de2c213cc",
       "attributes": {
+        "published": 1,
         "denominazione": "Elenco posizioni dirigenziali discrezionali",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/05/25/97/ORIGINAL", "title": "D.lgs. 97/2016"},
@@ -692,6 +743,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9452, "uuid": "707e595e-d077-47bb-a058-e38c5d1cdb86",
       "attributes": {
+        "published": 1,
         "denominazione": "Posti di funzione disponibili",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2001/03/30/165/CONSOLIDATED/20240619", "title": "Art. 19, c. 1-bis, d.lgs. n. 165/2001"}
@@ -704,6 +756,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9453, "uuid": "3d14e910-4cb3-4255-b6cb-46b4cc5bf96d",
       "attributes": {
+        "published": 1,
         "denominazione": "Ruolo dirigenti",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_DEL_PRESIDENTE_DELLA_REPUBBLICA/2004/04/23/108/ORIGINAL", "title": "Art. 1, c. 7, d.p.r. n. 108/2004"}
@@ -716,6 +769,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9454, "uuid": "cf0a4b7c-9039-47f1-81a6-c98a41c47b19",
       "attributes": {
+        "published": 1,
         "denominazione": "Dirigenti cessati dal rapporto di lavoro",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, c. 1, lett. da a) ad f), d.lgs. n. 33/2013"},
@@ -729,6 +783,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9455, "uuid": "2b4ef6de-4d6f-46da-b959-bfe3cfe5445b",
       "attributes": {
+        "published": 1,
         "denominazione": "Sanzioni per mancata o incompleta comunicazione dei dati da parte dei titolari di incarichi dirigenziali",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 47, c. 1, d.lgs. n. 33/2013"}
@@ -741,6 +796,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9456, "uuid": "8e52bec7-f1ae-454a-b256-99c96dd441e1",
       "attributes": {
+        "published": 1,
         "denominazione": "Posizioni organizzative",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 14, c. 1-quinquies., d.lgs. n. 33/2013"}
@@ -753,6 +809,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9457, "uuid": "16c217cc-cb09-4600-b52a-d001c43a17fe",
       "attributes": {
+        "published": 1,
         "denominazione": "Conto annuale del personale",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 16, c. 1, d.lgs. n. 33/2013"}
@@ -765,6 +822,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9458, "uuid": "44603e2b-7206-4533-ad68-4c61eeb97265",
       "attributes": {
+        "published": 1,
         "denominazione": "Costo personale tempo indeterminato",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 16, c. 2, d.lgs. n. 33/2013"}
@@ -777,6 +835,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9459, "uuid": "9c9f08c4-520a-4db4-a058-b307b11bde9f",
       "attributes": {
+        "published": 1,
         "denominazione": "Personale non a tempo indeterminato",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 17, c. 1, d.lgs. n. 33/2013"}
@@ -789,6 +848,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9460, "uuid": "99265de0-88fe-4c5a-9bab-903596aadc7c",
       "attributes": {
+        "published": 1,
         "denominazione": "Costo del personale non a tempo indeterminato",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 17, c. 2, d.lgs. n. 33/2013"}
@@ -801,6 +861,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9461, "uuid": "493b0bdd-a666-47a1-9023-293d4aaa8307",
       "attributes": {
+        "published": 1,
         "denominazione": "Tassi di assenza trimestrali",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 16, c. 3, d.lgs. n. 33/2013"}
@@ -813,6 +874,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9462, "uuid": "5be9e240-3dfa-441c-b014-6f18635156e0",
       "attributes": {
+        "published": 1,
         "denominazione": "Incarichi conferiti e autorizzati ai dipendenti (dirigenti e non dirigenti)",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2001/03/30/165/CONSOLIDATED/20240619", "title": "Art. 53, c. 14, d.lgs. n. 165/2001"},
@@ -826,6 +888,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9463, "uuid": "906b32f7-1c70-4ea7-9ce8-7c49b56d7d51",
       "attributes": {
+        "published": 1,
         "denominazione": "Contrattazione collettiva",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2001/03/30/165/CONSOLIDATED/20240619", "title": "Art. 47, c. 8, d.lgs. n. 165/2001"},
@@ -839,6 +902,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9464, "uuid": "4b985b5a-ac7c-4fc3-ba84-91adf6d6f11f",
       "attributes": {
+        "published": 1,
         "denominazione": "Contratti integrativi",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 21, c. 2, d.lgs. n. 33/2013"}
@@ -851,6 +915,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9465, "uuid": "de3c50b5-bb22-42c3-81dc-78e0852b8aef",
       "attributes": {
+        "published": 1,
         "denominazione": "Costi contratti integrativi",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 21, c. 2, d.lgs. n. 33/2013"},
@@ -864,6 +929,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9466, "uuid": "3af8d4de-91cb-4e86-b43a-0cc81283d6e1",
       "attributes": {
+        "published": 1,
         "denominazione": "OIV",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 10, c. 8, lett. c), d.lgs. n. 33/2013"},
@@ -877,6 +943,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9467, "uuid": "4cb7843e-35f1-47ee-8a9f-6b485ffc8463",
       "attributes": {
+        "published": 1,
         "denominazione": "Bandi di concorso",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 19, d.lgs. n. 33/2013"}
@@ -889,6 +956,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9468, "uuid": "112cc2ee-1923-4fb2-81a9-aeb851544877",
       "attributes": {
+        "published": 1,
         "denominazione": "Sistema di misurazione e valutazione della Performance",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2009/10/27/150/CONSOLIDATED", "title": "Art. 7, d.lgs. n. 150/2009"},
@@ -902,6 +970,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9469, "uuid": "6575db7e-27ea-47f8-a21a-01747b54fab9",
       "attributes": {
+        "published": 1,
         "denominazione": "Piano della Performance/Piano esecutivo di gestione",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2009/10/27/150/CONSOLIDATED", "title": "Art. 10, d.lgs. n. 150/2009"},
@@ -916,6 +985,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9470, "uuid": "94228081-d609-42a5-b6a1-ccf26785be79",
       "attributes": {
+        "published": 1,
         "denominazione": "Relazione sulla Performance",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2009/10/27/150/CONSOLIDATED", "title": "Art. 10, d.lgs. n. 150/2009"},
@@ -929,6 +999,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9471, "uuid": "f578f146-d787-489e-ace4-c1aadcccda63",
       "attributes": {
+        "published": 1,
         "denominazione": "Ammontare complessivo dei premi",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 20, c. 1, d.lgs. n. 33/2013"}
@@ -941,6 +1012,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9472, "uuid": "4fb38dc6-a51c-4076-9ddc-f4a0dea255c4",
       "attributes": {
+        "published": 1,
         "denominazione": "Dati relativi ai premi",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 20, c. 2, d.lgs. n. 33/2013"}
@@ -953,6 +1025,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9473, "uuid": "baebaf54-1ff2-472a-a978-b861202e98c6",
       "attributes": {
+        "published": 1,
         "denominazione": "Benessere organizzativo",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/05/25/97/ORIGINAL", "title": "D.lgs. 97/2016"},
@@ -966,6 +1039,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9474, "uuid": "f98badbf-fe29-46d4-b3fd-4c7f0152a106",
       "attributes": {
+        "published": 1,
         "denominazione": "Enti pubblici vigilati",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/04/08/39/CONSOLIDATED/20240619", "title": "Art. 20, c. 3, d.lgs. n. 39/2013"},
@@ -980,6 +1054,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9475, "uuid": "814cab16-42ca-495d-a99a-2b149bde338e",
       "attributes": {
+        "published": 1,
         "denominazione": "Dati società partecipate",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/04/08/39/CONSOLIDATED/20240619", "title": "Art. 20, c. 3, d.lgs. n. 39/2013"},
@@ -994,6 +1069,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9476, "uuid": "c2ac46b4-b325-4630-a269-06cd4c82b900",
       "attributes": {
+        "published": 1,
         "denominazione": "Provvedimenti - Costituzione, acquisto e gestione",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 22, c. 1. lett. d-bis, d.lgs. n. 33/2013"}
@@ -1006,6 +1082,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9477, "uuid": "316019c6-5835-48a4-8915-e2ba9bf6af60",
       "attributes": {
+        "published": 1,
         "denominazione": "Provvedimenti - Obiettivi",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/08/19/175/CONSOLIDATED/20240619", "title": "Art. 19, c. 7, d.lgs. n. 175/2016"}
@@ -1018,6 +1095,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9478, "uuid": "a6da5c1e-e37c-4a71-9501-b3fb3d9bccc2",
       "attributes": {
+        "published": 1,
         "denominazione": "Enti di diritto privato controllati",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/04/08/39/CONSOLIDATED/20240619", "title": "Art. 20, c. 3, d.lgs. n. 39/2013"},
@@ -1032,6 +1110,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9479, "uuid": "c1d34775-d595-4c7a-8025-e54117fd33a5",
       "attributes": {
+        "published": 1,
         "denominazione": "Rappresentazione grafica",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 22, c. 1, lett. d), d.lgs. n. 33/2013"}
@@ -1044,6 +1123,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9480, "uuid": "931be8a4-6a19-4188-a2d0-8adb69120f96",
       "attributes": {
+        "published": 1,
         "denominazione": "Dati aggregati attività amministrativa",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/05/25/97/ORIGINAL", "title": "D.lgs. 97/2016"},
@@ -1057,6 +1137,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9481, "uuid": "9b7d7fd9-7962-485c-ac56-0c3f9766e370",
       "attributes": {
+        "published": 1,
         "denominazione": "Tipologie di procedimento",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 35, c. 1, lett. da a) ad m), d.lgs. n. 33/2013"},
@@ -1070,6 +1151,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9482, "uuid": "230cc760-4b9d-4626-be67-043c05d630a2",
       "attributes": {
+        "published": 1,
         "denominazione": "Monitoraggio tempi procedimentali",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/05/25/97/ORIGINAL", "title": "D.lgs. 97/2016"},
@@ -1084,6 +1166,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9483, "uuid": "dc0342d6-440e-4a3e-80aa-8f9970d3e62c",
       "attributes": {
+        "published": 1,
         "denominazione": "Recapiti dell'ufficio responsabile",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 35, c. 3, d.lgs. n. 33/2013"}
@@ -1096,6 +1179,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9484, "uuid": "7d433859-d9d0-4915-a52e-58cdd3af38cb",
       "attributes": {
+        "published": 1,
         "denominazione": "Provvedimenti organi indirizzo politico",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/05/25/97/ORIGINAL", "title": "D.lgs. 97/2016"},
@@ -1110,6 +1194,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9485, "uuid": "600bc5de-066f-48c5-a286-9708910cef23",
       "attributes": {
+        "published": 1,
         "denominazione": "Provvedimenti dirigenti amministrativi",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/05/25/97/ORIGINAL", "title": "D.lgs. 97/2016"},
@@ -1124,6 +1209,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9486, "uuid": "c053ef23-e317-4105-9b82-0b5b62ed2923",
       "attributes": {
+        "published": 1,
         "denominazione": "Tipologie di controllo",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/05/25/97/ORIGINAL", "title": "D.lgs. 97/2016"},
@@ -1137,6 +1223,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9487, "uuid": "2ec603b2-eac3-4545-ac26-06bf538c1dfb",
       "attributes": {
+        "published": 1,
         "denominazione": "Obblighi e adempimenti",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/05/25/97/ORIGINAL", "title": "D.lgs. 97/2016"},
@@ -1150,6 +1237,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9520, "uuid": "e623a27e-0e9a-4c3f-abd0-947a90d14165",
       "attributes": {
+        "published": 1,
         "denominazione": "Criteri e modalità",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 26, c. 1, d.lgs. n. 33/2013"}
@@ -1162,6 +1250,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9521, "uuid": "69caf74c-3489-427a-8220-d4cf3e17d115",
       "attributes": {
+        "published": 1,
         "denominazione": "Atti di concessione",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 27, c. 1, da lett. a) ad f), d.lgs. n. 33/2013"},
@@ -1175,6 +1264,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9522, "uuid": "88f28b23-03f1-405c-b6a9-8e26bf78ad08",
       "attributes": {
+        "published": 1,
         "denominazione": "Bilancio preventivo - Documenti e allegati",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 29, c. 1, d.lgs. n. 33/2013"},
@@ -1188,6 +1278,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9523, "uuid": "d4d3f3f5-3a53-4f66-9cee-64d7ea3880b8",
       "attributes": {
+        "published": 1,
         "denominazione": "Bilancio preventivo - Dati",
         "riferimento_legislativo": [
           {"uri": "https://www.gazzettaufficiale.it/eli/id/2016/06/16/16A04448/sg", "title": "D.p.c.m. 29 aprile 2016"},
@@ -1201,6 +1292,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9524, "uuid": "78805012-ef75-49fd-888b-1c86e8aa9d67",
       "attributes": {
+        "published": 1,
         "denominazione": "Bilancio consuntivo - Documenti e allegati",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 29, c. 1, d.lgs. n. 33/2013"},
@@ -1214,6 +1306,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9525, "uuid": "08f52bd9-73c0-4486-9243-f9c7e13ea65d",
       "attributes": {
+        "published": 1,
         "denominazione": "Bilancio consuntivo - Dati",
         "riferimento_legislativo": [
           {"uri": "https://www.gazzettaufficiale.it/eli/id/2016/06/16/16A04448/sg", "title": "D.p.c.m. 29 aprile 2016"},
@@ -1227,6 +1320,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9526, "uuid": "8c622178-5996-4190-80e9-9c288c9f02cd",
       "attributes": {
+        "published": 1,
         "denominazione": "Piano degli indicatori e dei risultati attesi di bilancio",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 29, c. 2, d.lgs. n. 33/2013"},
@@ -1241,6 +1335,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9527, "uuid": "8d71ba7a-f6a9-4ba6-a29b-7393c86244d4",
       "attributes": {
+        "published": 1,
         "denominazione": "Patrimonio immobiliare",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 30, d.lgs. n. 33/2013"}
@@ -1253,6 +1348,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9528, "uuid": "7d452c1c-6469-4048-b17d-f2cdb7e4aaca",
       "attributes": {
+        "published": 1,
         "denominazione": "Canoni di locazione o affitto",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 30, d.lgs. n. 33/2013"}
@@ -1265,6 +1361,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9529, "uuid": "2ccbd5bc-639d-4509-b435-5d6ee94c3964",
       "attributes": {
+        "published": 1,
         "denominazione": "Atti degli Organismi indipendenti di valutazione, nuclei di valutazione o altri organismi con funzioni analoghe",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 31, d.lgs. n. 33/2013"}
@@ -1277,6 +1374,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9530, "uuid": "d6921fd4-d683-46b6-bb5c-58bd0774b4eb",
       "attributes": {
+        "published": 1,
         "denominazione": "Relazioni degli organi di revisione amministrativa e contabile",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 31, d.lgs. n. 33/2013"}
@@ -1289,6 +1387,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9531, "uuid": "42bb854c-4691-492e-b61f-dc17f74dac45",
       "attributes": {
+        "published": 1,
         "denominazione": "Rilievi Corte dei conti",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 31, d.lgs. n. 33/2013"}
@@ -1301,6 +1400,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9532, "uuid": "51f4b9e3-04cf-45c0-93cc-8572040fa768",
       "attributes": {
+        "published": 1,
         "denominazione": "Carta dei servizi e standard di qualità",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 32, c. 1, d.lgs. n. 33/2013"}
@@ -1313,6 +1413,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9533, "uuid": "e6744667-4af5-47ee-85eb-b2805f39c991",
       "attributes": {
+        "published": 1,
         "denominazione": "Class action",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2009/12/20/198/CONSOLIDATED", "title": "Art. 1, c. 2, d.lgs. n. 198/2009"},
@@ -1326,6 +1427,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9534, "uuid": "ece5ce84-f58a-4e50-86fc-f0bb8edc6a5b",
       "attributes": {
+        "published": 1,
         "denominazione": "Costi contabilizzati",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 32, c. 2, lett. a), d.lgs. n. 33/2013"},
@@ -1339,6 +1441,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9535, "uuid": "d22692f9-6f49-4b83-88f4-1c99b5a8a300",
       "attributes": {
+        "published": 1,
         "denominazione": "Liste di attesa",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 41, c. 6, d.lgs. n. 33/2013"}
@@ -1351,6 +1454,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9536, "uuid": "63b91cbf-f05c-4aa6-be44-81900ee5e5b5",
       "attributes": {
+        "published": 1,
         "denominazione": "Risultati delle indagini sulla soddisfazione da parte degli utenti rispetto alla qualità dei servizi in rete e statistiche di utilizzo dei servizi in rete.",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/08/26/179/CONSOLIDATED/20240619", "title": "Art. 7 co. 3 d.lgs. 82/2005 modificato dall’art. 8 co. 1 del d.lgs. 179/2016"}
@@ -1363,6 +1467,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9537, "uuid": "2e1e8ea3-c36d-47b8-bf65-bd8f4a4da63b",
       "attributes": {
+        "published": 1,
         "denominazione": "Dati sui pagamenti",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 4-bis, c. 2, d.lgs. n. 33/2013"}
@@ -1375,6 +1480,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9538, "uuid": "9891261e-83ee-40f1-8160-8cf36104064e",
       "attributes": {
+        "published": 1,
         "denominazione": "Dati sui pagamenti in forma sintetica e aggregata",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 41, c. 1-bis, d.lgs. n. 33/2013"}
@@ -1387,6 +1493,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9539, "uuid": "e23a6a91-f166-4cfd-b91d-ba03547d35e5",
       "attributes": {
+        "published": 1,
         "denominazione": "Indicatore di tempestività dei pagamenti - Annuale",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 33, d.lgs. n. 33/2013"}
@@ -1399,6 +1506,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9540, "uuid": "7ab7cb97-2fc4-445a-9706-b0f033767f0a",
       "attributes": {
+        "published": 1,
         "denominazione": "Indicatore di tempestività dei pagamenti - Trimestrale",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 33, d.lgs. n. 33/2013"}
@@ -1411,6 +1519,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9541, "uuid": "1fd3ca5b-39da-44e3-b7ce-3c6df940f334",
       "attributes": {
+        "published": 1,
         "denominazione": "Ammontare complessivo dei debiti",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 33, d.lgs. n. 33/2013"}
@@ -1423,6 +1532,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9542, "uuid": "cf36a2bd-a525-4d43-8a15-9186f42b5823",
       "attributes": {
+        "published": 1,
         "denominazione": "IBAN e pagamenti informatici",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 36, d.lgs. n. 33/2013"},
@@ -1436,6 +1546,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9543, "uuid": "67891127-582e-4862-b4d0-76517a3553a7",
       "attributes": {
+        "published": 1,
         "denominazione": "Informazioni relative ai nuclei di valutazione e verifica degli investimenti pubblici (art. 1, l. n. 144/1999).",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 38, c. 1, d.lgs. n. 33/2013"}
@@ -1448,6 +1559,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9544, "uuid": "267f0df0-9f78-4dbc-8c74-933dde89e694",
       "attributes": {
+        "published": 1,
         "denominazione": "Atti di programmazione delle opere pubbliche",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/04/18/50/CONSOLIDATED", "title": "Art. 21 co.7 e art. 29 d.lgs. n. 50/2016"},
@@ -1461,6 +1573,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9545, "uuid": "e3594b88-957e-4fbd-b54e-43d34c8fe1cd",
       "attributes": {
+        "published": 1,
         "denominazione": "Tempi, costi unitari e indicatori di realizzazione delle opere pubbliche in corso o completate.",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 38, c. 2, d.lgs. n. 33/2013"}
@@ -1473,6 +1586,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9546, "uuid": "dbb971f1-2b71-497a-8673-b11b48153bde",
       "attributes": {
+        "published": 1,
         "denominazione": "Pianificazione e governo del territorio - Atti",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 39, c. 1, lett. a), d.lgs. n. 33/2013"}
@@ -1485,6 +1599,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9547, "uuid": "693f4c7a-1d11-4de8-945e-0c767a0c27c6",
       "attributes": {
+        "published": 1,
         "denominazione": "Pianificazione e governo del territorio - Documentazione",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 39, c. 2, d.lgs. n. 33/2013"}
@@ -1497,6 +1612,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9548, "uuid": "a574da98-646e-4eed-98a2-92eac5683193",
       "attributes": {
+        "published": 1,
         "denominazione": "Informazioni ambientali",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 40, c. 2, d.lgs. n. 33/2013"}
@@ -1509,6 +1625,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9549, "uuid": "6e8006dd-28ab-427b-bffa-8925b465bcf8",
       "attributes": {
+        "published": 1,
         "denominazione": "Stato dell'ambiente",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 40, c. 2, d.lgs. n. 33/2013"}
@@ -1521,6 +1638,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9550, "uuid": "61b1e90f-1f12-484a-a727-e584ef1ddbf3",
       "attributes": {
+        "published": 1,
         "denominazione": "Fattori inquinanti",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 40, c. 2, d.lgs. n. 33/2013"}
@@ -1533,6 +1651,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9551, "uuid": "be530f1c-173c-4ba1-8f6c-7555954e5ec1",
       "attributes": {
+        "published": 1,
         "denominazione": "Misure incidenti sull'ambiente e relative analisi di impatto",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 40, c. 2, d.lgs. n. 33/2013"}
@@ -1545,6 +1664,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9552, "uuid": "84edf25a-e964-45d3-a229-7e2485123826",
       "attributes": {
+        "published": 1,
         "denominazione": "Misure a protezione dell'ambiente e relative analisi di impatto",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 40, c. 2, d.lgs. n. 33/2013"}
@@ -1557,6 +1677,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9553, "uuid": "fd622515-9ab6-423b-98ae-588e3eed8eba",
       "attributes": {
+        "published": 1,
         "denominazione": "Relazioni sull'attuazione della legislazione",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 40, c. 2, d.lgs. n. 33/2013"}
@@ -1569,6 +1690,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9554, "uuid": "007ae85b-3bcd-4d35-8ee4-316d6fd785e0",
       "attributes": {
+        "published": 1,
         "denominazione": "Stato della salute e della sicurezza umana",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 40, c. 2, d.lgs. n. 33/2013"}
@@ -1581,6 +1703,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9555, "uuid": "3b599052-5ea9-4e6b-8375-c3987bc60465",
       "attributes": {
+        "published": 1,
         "denominazione": "Relazione sullo stato dell'ambiente del Ministero dell'Ambiente e della tutela del territorio",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 40, c. 2, d.lgs. n. 33/2013"}
@@ -1593,6 +1716,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9556, "uuid": "572075ea-30a0-4fa0-bf98-299dd8825d4d",
       "attributes": {
+        "published": 1,
         "denominazione": "Interventi straordinari e di emergenza - Provvedimenti",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 42, c. 1, lett. a), d.lgs. n. 33/2013"}
@@ -1605,6 +1729,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9557, "uuid": "a0a7d61a-b284-4059-b916-312ae390af30",
       "attributes": {
+        "published": 1,
         "denominazione": "Interventi straordinari e di emergenza - Termini",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 42, c. 1, lett. b), d.lgs. n. 33/2013"}
@@ -1617,6 +1742,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9558, "uuid": "2f51b34a-f4fe-4a04-831c-8df269dfe852",
       "attributes": {
+        "published": 1,
         "denominazione": "Interventi straordinari e di emergenza - Costo",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 42, c. 1, lett. c), d.lgs. n. 33/2013"}
@@ -1629,6 +1755,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9559, "uuid": "08ebdf2c-bb66-4d46-b8d7-d2a5c7fb1f92",
       "attributes": {
+        "published": 1,
         "denominazione": "Piano triennale per la prevenzione della corruzione e della trasparenza",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 10, c. 8, lett. a), d.lgs. n. 33/2013"}
@@ -1641,6 +1768,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9560, "uuid": "c27cec0c-a4cd-4bae-b6d3-72f19716975c",
       "attributes": {
+        "published": 1,
         "denominazione": "Responsabile della prevenzione della corruzione e della trasparenza",
         "riferimento_legislativo": [
           {"uri": "https://www.mim.gov.it/documents/20182/0/D.M.+325++del+26+maggio+2017/7760f8f3-c8c4-4abe-a0fb-b9e8122108cd", "title": "D.M. 325 del 26 maggio 2017"},
@@ -1655,6 +1783,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9561, "uuid": "2cea3540-860a-4413-9ada-d19827675bbc",
       "attributes": {
+        "published": 1,
         "denominazione": "Regolamenti per la prevenzione e la repressione della corruzione e dell'illegalità",
         "contenuto": "Regolamenti per la prevenzione e la repressione della corruzione e dell'illegalità (laddove adottati)",
         "frequenza_aggiornamento": "Tempestivo",
@@ -1664,6 +1793,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9562, "uuid": "3a5b147b-a3a8-439b-9bd8-aa857d821820",
       "attributes": {
+        "published": 1,
         "denominazione": "Relazione del responsabile della prevenzione della corruzione e della trasparenza",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/LEGGE/2012/11/06/190/ORIGINAL", "title": "Art. 1, c. 14, l. n. 190/2012"}
@@ -1676,6 +1806,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9563, "uuid": "a1aa4442-b0a0-4ad0-aa42-992299d66ff7",
       "attributes": {
+        "published": 1,
         "denominazione": "Provvedimenti adottati dall'A.N.AC. ed atti di adeguamento a tali provvedimenti",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/LEGGE/2012/11/06/190/ORIGINAL", "title": "Art. 1, c. 3, l. n. 190/2012"}
@@ -1688,6 +1819,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9564, "uuid": "fe6dcd9e-96db-4613-a2a2-a6e27415d53f",
       "attributes": {
+        "published": 1,
         "denominazione": "Atti di accertamento delle violazioni",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/04/08/39/CONSOLIDATED/20240619", "title": "Art. 18, c. 5, d.lgs. n. 39/2013"}
@@ -1700,6 +1832,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9565, "uuid": "1b3565fa-a450-4658-a970-57be33ab7401",
       "attributes": {
+        "published": 1,
         "denominazione": "Accesso civico \"semplice\" concernente dati, documenti e informazioni soggetti a pubblicazione obbligatoria",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 5, c. 1, d.lgs. n. 33/2013"},
@@ -1713,6 +1846,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9566, "uuid": "5ab80008-a296-4c27-a759-236b4be5a284",
       "attributes": {
+        "published": 1,
         "denominazione": "Accesso civico \"generalizzato\" concernente dati e documenti ulteriori",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 5, c. 2, d.lgs. n. 33/2013"}
@@ -1725,6 +1859,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9567, "uuid": "d37c5b38-8f5c-40cd-a027-a05c45b94768",
       "attributes": {
+        "published": 1,
         "denominazione": "Registro degli accessi",
         "riferimento_legislativo": [
           {"uri": "https://www.anticorruzione.it/-/determinazione-n.-1309-del-28/12/2016-rif.-1", "title": "Linee guida ANAC FOIA (del. 1309/2016)"}
@@ -1737,6 +1872,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9568, "uuid": "3e0152ec-38dd-4fca-911b-16633ef124f9",
       "attributes": {
+        "published": 1,
         "denominazione": "Catalogo dei dati, metadati e delle banche dati",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/08/26/179/CONSOLIDATED/20240619", "title": "Art. 53, c. 1 bis, d.lgs. 82/2005 modificato dall’art. 43 del d.lgs. 179/2016"}
@@ -1749,6 +1885,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9569, "uuid": "94d4fe97-1082-4f72-b92f-ca98be6f9e0c",
       "attributes": {
+        "published": 1,
         "denominazione": "Regolamenti",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2005/03/07/82/CONSOLIDATED", "title": "Art. 53, c. 1,  bis, d.lgs. 82/2005"}
@@ -1761,6 +1898,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9570, "uuid": "bd585edf-a322-40bd-8d55-f2abfc0d224d",
       "attributes": {
+        "published": 1,
         "denominazione": "Obiettivi di accessibilità",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/LEGGE/2012/12/17/221/ORIGINAL", "title": "Art. 9, c. 7, d.l. n. 179/2012 convertito con modificazioni dalla L. 17 dicembre 2012, n. 221"}
@@ -1773,6 +1911,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9571, "uuid": "520ff178-39f0-4a08-997f-6c1d2d9326d8",
       "attributes": {
+        "published": 1,
         "denominazione": "Dati ulteriori",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 7-bis, c. 3, d.lgs. n. 33/2013"},
@@ -1786,6 +1925,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9572, "uuid": "43b8f7da-a89a-44b0-bc8f-eada4b5188f2",
       "attributes": {
+        "published": 1,
         "denominazione": "Attestazioni OIV o struttura analoga",
         "riferimento_legislativo": [
           {"uri": "https://www.anticorruzione.it/-/delibera-n.-213-del-23-aprile-2024", "title": "Delibera ANAC n. 213 del 23 aprile 2024"},
@@ -1800,6 +1940,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9573, "uuid": "fb31f0c9-16a9-4812-a9ab-2351582fb0d0",
       "attributes": {
+        "published": 1,
         "denominazione": "Automatizzazione delle procedure",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2023/03/31/36/CONSOLIDATED", "title": "Art. 30, d.lgs. 36/2023 - Uso di procedure automatizzate nel ciclo di vita dei contratti pubblici"}
@@ -1812,6 +1953,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9574, "uuid": "3362ecaf-de33-498b-87ea-76efe4a3d95a",
       "attributes": {
+        "published": 1,
         "denominazione": "Acquisizione interesse realizzazione opere incompiute",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2023/03/31/36/CONSOLIDATED", "title": "ALLEGATO I.5 al d.lgs. 36/2023 - Elementi per la programmazione dei lavori e dei servizi. Schemi tipo (art. 4, co. 3)"}
@@ -1824,6 +1966,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9575, "uuid": "6d5ea58b-bea2-4c0b-bcfc-dbe80f1f6791",
       "attributes": {
+        "published": 1,
         "denominazione": "Mancata redazione  programmazione",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2023/03/31/36/CONSOLIDATED", "title": "ALLEGATO I.5 al d.lgs. 36/2023 - Elementi per la programmazione dei lavori e dei servizi. Schemi tipo (art. 5, co. 8; art. 7, co. 4)"}
@@ -1836,6 +1979,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9576, "uuid": "09b78fa7-b29a-416c-a2e7-0ef0063af5fd",
       "attributes": {
+        "published": 1,
         "denominazione": "Documenti sul  sistema di qualificazione",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2023/03/31/36/CONSOLIDATED", "title": "Art. 168, d.lgs. 36/2023 - Procedure di gara con sistemi di qualificazione"}
@@ -1848,6 +1992,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9577, "uuid": "2c57cb2d-f396-4def-a300-2917f0328898",
       "attributes": {
+        "published": 1,
         "denominazione": "Gravi illeciti professionali",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2023/03/31/36/CONSOLIDATED", "title": "Art. 169, d.lgs. 36/2023 <br>Procedure di gara regolamentate Settori speciali"}
@@ -1860,6 +2005,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9578, "uuid": "7c401f4e-3575-4929-b0fc-9589a20d2acd",
       "attributes": {
+        "published": 1,
         "denominazione": "Progetti di investimento pubblico",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/LEGGE/2003/01/16/3/CONSOLIDATED", "title": "Art. 11, co. 2-quater, l. n. 3/2003"},
@@ -1873,6 +2019,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9579, "uuid": "bacf971e-9fed-4a39-afc7-1a4968dc3bb4",
       "attributes": {
+        "published": 1,
         "denominazione": "Dibattito pubblico",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2023/03/31/36/CONSOLIDATED", "title": "Art. 40, co. 3 e co. 5, d.lgs. 36/2023 - Dibattito pubblico (da intendersi riferito a quello facoltativo)"},
@@ -1886,6 +2033,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9580, "uuid": "5926f4bb-00c2-461c-abf5-80c3476d04b7",
       "attributes": {
+        "published": 1,
         "denominazione": "Documenti di gara",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2023/03/31/36/CONSOLIDATED", "title": "Art. 82, d.lgs. 36/2023 - Documenti di gara"},
@@ -1899,6 +2047,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9581, "uuid": "c4955311-2686-4a79-addd-319001c41dc7",
       "attributes": {
+        "published": 1,
         "denominazione": "Commissioni giudicatrici",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2023/03/31/36/CONSOLIDATED", "title": "Art. 28, d.lgs. 36/2023 - Trasparenza dei contratti pubblici"}
@@ -1911,6 +2060,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9582, "uuid": "af639638-787f-4a0d-8a79-de7ca44d71a5",
       "attributes": {
+        "published": 1,
         "denominazione": "Pari opportunità e inclusione lavorativa",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO-LEGGE/2021/05/31/77/CONSOLIDATED", "title": "Art. 47, co. 2, e 9 d.l. 77/2021, convertito con modificazioni dalla l. 108/2021"},
@@ -1924,6 +2074,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9583, "uuid": "e3f31ac0-28b6-4b24-abe2-4ab243e08d38",
       "attributes": {
+        "published": 1,
         "denominazione": "Affidamenti Servizi pubblici locali (SPL)",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2022/12/23/201/CONSOLIDATED", "title": "Art. 10, co. 5; art. 14, co. 3; art. 17, co. 2; art. 24; art. 30, co. 2; art. 31, co. 1 e 2; D.lgs. 201/2022 - Riordino della disciplina dei servizi pubblici locali di rilevanza economica"}
@@ -1936,6 +2087,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9584, "uuid": "e2636baf-5c4d-4509-824e-f7ed5b2faa5a",
       "attributes": {
+        "published": 1,
         "denominazione": "Collegio Consultivo Tecnico (CCT)",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2023/03/31/36/CONSOLIDATED", "title": "Art. 215 e ss. e All. V.2, d.lgs 36/2023 - Collegio consultivo tecnico"}
@@ -1948,6 +2100,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9585, "uuid": "dbf300bd-de86-4d00-8e75-d9b63c17918d",
       "attributes": {
+        "published": 1,
         "denominazione": "Pari opportunità e inclusione lavorativa",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO-LEGGE/2021/05/31/77/CONSOLIDATED", "title": "Art. 47, co. 3, co. 3-bis,  co. 9, l. 77/2021 convertito con modificazioni dalla l. 108/2021"},
@@ -1963,6 +2116,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9586, "uuid": "b435cd5d-da0f-4764-a11f-79ff6aed0c03",
       "attributes": {
+        "published": 1,
         "denominazione": "Contratti di sponsorizzazione",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2023/03/31/36/CONSOLIDATED", "title": "Art. 134, co. 4, d.lgs. 36/2023 - Contratti gratuiti e forme speciali di partenariato"}
@@ -1975,6 +2129,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9587, "uuid": "7438dd5e-f878-493b-a0ef-639e33622ac4",
       "attributes": {
+        "published": 1,
         "denominazione": "Procedure di somma urgenza",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2023/03/31/36/CONSOLIDATED", "title": "Art. 140, d.lgs. 36/2023 - Comunicato del Presidente ANAC del 19 settembre 2023"}
@@ -1987,6 +2142,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9588, "uuid": "b7ee6023-d9dc-43d0-a99a-bf77f2f2fe6b",
       "attributes": {
+        "published": 1,
         "denominazione": "Finanza di progetto",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2023/03/31/36/CONSOLIDATED", "title": "Art. 193, d.lgs. 36/2023 - Procedura di affidamento"}
@@ -1999,6 +2155,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9589, "uuid": "b24dcc82-039f-4399-9f74-d2a7f89e5167",
       "attributes": {
+        "published": 1,
         "denominazione": "Dati previsti dall'articolo 1, comma 32, della legge 6 novembre 2012, n. 190. Informazioni sulle singole procedure",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/LEGGE/2012/11/06/190/CONSOLIDATED", "title": "Art. 1, co. 32, l. 190 del 6 novembre 2012"}
@@ -2011,6 +2168,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9590, "uuid": "f4dc951f-6fd7-474a-a371-50590990e1df",
       "attributes": {
+        "published": 1,
         "denominazione": "Tabelle riassuntive ai sensi dell'Art. 1 comma 32 della legge n. 190/2012",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/LEGGE/2012/11/06/190/CONSOLIDATED", "title": "Art. 1, co. 32, l. 190 del 6 novembre 2012"}
@@ -2023,6 +2181,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9591, "uuid": "860a8f59-ea54-4324-b973-7545f5a147b2",
       "attributes": {
+        "published": 1,
         "denominazione": "Atti relativi alle procedure per l’affidamento di appalti pubblici di servizi di cui all'art. 5 del d.lgs n. 50/2016",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/04/18/50/CONSOLIDATED", "title": "Art. 5 del d.lgs n. 50/2016"}
@@ -2035,6 +2194,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9592, "uuid": "c817f990-5d6e-4480-b7bf-f8edea982978",
       "attributes": {
+        "published": 1,
         "denominazione": "Trasparenza nella partecipazione di portatori di interessi e dibattito pubblico",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/04/18/50/CONSOLIDATED", "title": "Art. 5 del d.lgs n. 50/2016"}
@@ -2047,6 +2207,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9593, "uuid": "38abbccb-ffdd-4047-af7a-2ff22abfe6f2",
       "attributes": {
+        "published": 1,
         "denominazione": "Avvisi di pre-informazione",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/04/18/50/CONSOLIDATED", "title": "Art. 5 del d.lgs n. 50/2016"}
@@ -2059,6 +2220,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9594, "uuid": "b38aaf7f-b914-4821-9cfc-9e99150bd9e8",
       "attributes": {
+        "published": 1,
         "denominazione": "Delibera a contrarre",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/04/18/50/CONSOLIDATED", "title": "Art. 5 del d.lgs n. 50/2016"}
@@ -2071,6 +2233,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9595, "uuid": "bf890599-8860-43bb-b9aa-ce41af1f11d2",
       "attributes": {
+        "published": 1,
         "denominazione": "Avvisi e Bandi",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/04/18/50/CONSOLIDATED", "title": "Art. 5 del d.lgs n. 50/2016"}
@@ -2083,6 +2246,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9596, "uuid": "1769ebb9-187d-41d2-9baf-f404c34ea509",
       "attributes": {
+        "published": 1,
         "denominazione": "Procedure negoziate afferenti agli investimenti pubblici finanziati, in tutto o in parte, con le risorse previste dal PNRR e dal PNC e dai programmi cofinanziati dai fondi strutturali dell'Unione europea",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/04/18/50/CONSOLIDATED", "title": "Art. 5 del d.lgs n. 50/2016"}
@@ -2095,6 +2259,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9597, "uuid": "fe0319d6-3f86-4f8e-852c-f56861154c47",
       "attributes": {
+        "published": 1,
         "denominazione": "Commissione giudicatrice",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/04/18/50/CONSOLIDATED", "title": "Art. 5 del d.lgs n. 50/2016"}
@@ -2107,6 +2272,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9598, "uuid": "abcf6aa0-11db-43ca-b0b9-312a333f93f3",
       "attributes": {
+        "published": 1,
         "denominazione": "Contratti",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/04/18/50/CONSOLIDATED", "title": "Art. 5 del d.lgs n. 50/2016"}
@@ -2119,6 +2285,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9599, "uuid": "b55db70f-108e-4114-9d7d-8677d0e6c88b",
       "attributes": {
+        "published": 1,
         "denominazione": "Collegi consultivi tecnici",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/04/18/50/CONSOLIDATED", "title": "Art. 5 del d.lgs n. 50/2016"}
@@ -2131,6 +2298,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9600, "uuid": "54785f53-c3ec-43bd-8a88-f73ab660bafb",
       "attributes": {
+        "published": 1,
         "denominazione": "Fase esecutiva",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/04/18/50/CONSOLIDATED", "title": "Art. 5 del d.lgs n. 50/2016"}
@@ -2143,6 +2311,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9601, "uuid": "11e247ab-aeef-470b-b1db-d6aaa90b635d",
       "attributes": {
+        "published": 1,
         "denominazione": "Resoconti della gestione finanziaria dei contratti al termine della loro esecuzione",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/04/18/50/CONSOLIDATED", "title": "Art. 5 del d.lgs n. 50/2016"}
@@ -2155,6 +2324,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9602, "uuid": "871e7128-44c9-4af8-be20-95d6f7b5ba1e",
       "attributes": {
+        "published": 1,
         "denominazione": "Concessioni e partenariato pubblico privato",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/04/18/50/CONSOLIDATED", "title": "Art. 5 del d.lgs n. 50/2016"}
@@ -2167,6 +2337,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9603, "uuid": "4a1709cd-4412-4adb-9e18-d9b37808b232",
       "attributes": {
+        "published": 1,
         "denominazione": "Affidamenti diretti di lavori, servizi e forniture di somma urgenza e di protezione civile",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/04/18/50/CONSOLIDATED", "title": "Art. 5 del d.lgs n. 50/2016"}
@@ -2179,6 +2350,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9604, "uuid": "e262fa0b-1d55-4057-a275-c06d3378259f",
       "attributes": {
+        "published": 1,
         "denominazione": "Affidamenti in house",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/04/18/50/CONSOLIDATED", "title": "Art. 5 del d.lgs n. 50/2016"}
@@ -2191,6 +2363,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9605, "uuid": "5a94eab0-ed97-450b-8a6f-88fbdea67ac6",
       "attributes": {
+        "published": 1,
         "denominazione": "Elenchi ufficiali di operatori economici riconosciuti e certificazioni",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/04/18/50/CONSOLIDATED", "title": "Art. 5 del d.lgs n. 50/2016"}
@@ -2203,6 +2376,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9606, "uuid": "bbc79fbd-c82e-45e8-851a-1fd8662c0ee7",
       "attributes": {
+        "published": 1,
         "denominazione": "Progetti di investimento pubblico",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/04/18/50/CONSOLIDATED", "title": "Art. 5 del d.lgs n. 50/2016"}
