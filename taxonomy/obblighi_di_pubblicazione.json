@@ -281,7 +281,7 @@
         ],
         "contenuto": "Atto di nomina o di proclamazione, con l'indicazione della durata dell'incarico o del mandato elettivo",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
-        "persona_responsabile": "Dirigente scolastico"
+        "persona_responsabile": ""
       }
     },
     {
@@ -294,7 +294,7 @@
         ],
         "contenuto": "Curriculum vitae",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
-        "persona_responsabile": "Dirigente scolastico"
+        "persona_responsabile": ""
       }
     },
     {
@@ -307,7 +307,7 @@
         ],
         "contenuto": "Compensi di qualsiasi natura connessi all'assunzione della carica",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
-        "persona_responsabile": "Dirigente scolastico"
+        "persona_responsabile": ""
       }
     },
     {
@@ -320,7 +320,7 @@
         ],
         "contenuto": "Importi di viaggi di servizio e missioni pagati con fondi pubblici",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
-        "persona_responsabile": "Dirigente scolastico"
+        "persona_responsabile": ""
       }
     },
     {
@@ -333,7 +333,7 @@
         ],
         "contenuto": "Dati relativi all'assunzione di altre cariche, presso enti pubblici o privati, e relativi compensi a qualsiasi titolo corrisposti.",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
-        "persona_responsabile": "Dirigente scolastico"
+        "persona_responsabile": ""
       }
     },
     {
@@ -346,7 +346,7 @@
         ],
         "contenuto": "Altri eventuali incarichi con oneri a carico della finanza pubblica e indicazione dei compensi spettanti",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
-        "persona_responsabile": "Dirigente scolastico"
+        "persona_responsabile": ""
       }
     },
     {
@@ -360,7 +360,7 @@
         ],
         "contenuto": "Dichiarazione concernente diritti reali su beni immobili e su beni mobili iscritti in pubblici registri, titolarità di imprese, azioni di società, quote di partecipazione a società, esercizio di funzioni di amministratore o di sindaco di società, con l'apposizione della formula «sul mio onore affermo che la dichiarazione corrisponde al vero» [Per il soggetto, il coniuge non separato e i parenti entro il secondo grado, ove gli stessi vi consentano (NB: dando eventualmente evidenza del mancato consenso) e riferita al momento dell'assunzione dell'incarico].",
         "frequenza_aggiornamento": "Nessuno (va presentata una sola volta entro 3 mesi dalla elezione, dalla nomina o dal conferimento dell'incarico e resta pubblicata fino alla cessazione dell'incarico o del mandato).",
-        "persona_responsabile": "Dirigente scolastico"
+        "persona_responsabile": ""
       }
     },
     {
@@ -374,7 +374,7 @@
         ],
         "contenuto": "Copia dell'ultima dichiarazione dei redditi soggetti all'imposta sui redditi delle persone fisiche [Per il soggetto, il coniuge non separato e i parenti entro il secondo grado, ove gli stessi vi consentano (NB: dando eventualmente evidenza del mancato consenso)] (NB: è necessario limitare, con appositi accorgimenti a cura dell'interessato o della amministrazione, la pubblicazione dei dati sensibili).",
         "frequenza_aggiornamento": "Entro 3 mesi dalla elezione, dalla nomina o dal conferimento dell'incarico.",
-        "persona_responsabile": "Dirigente scolastico"
+        "persona_responsabile": ""
       }
     },
     {
@@ -388,7 +388,7 @@
         ],
         "contenuto": "Dichiarazione concernente le spese sostenute e le obbligazioni assunte per la propaganda elettorale ovvero attestazione di essersi avvalsi esclusivamente di materiali e di mezzi propagandistici predisposti e messi a disposizione dal partito o dalla formazione politica della cui lista il soggetto ha fatto parte, con l'apposizione della formula «sul mio onore affermo che la dichiarazione corrisponde al vero» (con allegate copie delle dichiarazioni relative a finanziamenti e contributi per un importo che nell'anno superi 5.000 €).",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
-        "persona_responsabile": "Dirigente scolastico"
+        "persona_responsabile": ""
       }
     },
     {
@@ -402,7 +402,7 @@
         ],
         "contenuto": "Attestazione concernente le variazioni della situazione patrimoniale intervenute nell'anno precedente e copia della dichiarazione dei redditi [Per il soggetto, il coniuge non separato e i parenti entro il secondo grado, ove gli stessi vi consentano (NB: dando eventualmente evidenza del mancato consenso)].",
         "frequenza_aggiornamento": "Annuale",
-        "persona_responsabile": "Dirigente scolastico"
+        "persona_responsabile": ""
       }
     },
 
