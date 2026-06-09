@@ -1799,7 +1799,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9573, "uuid": "fb31f0c9-16a9-4812-a9ab-2351582fb0d0",
       "attributes": {
-        "denominazione": "Elenco delle soluzioni tecnologiche adottate dalle SA e enti concedenti per l’automatizzazione delle proprie attività",
+        "denominazione": "Automatizzazione delle procedure",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2023/03/31/36/CONSOLIDATED", "title": "Art. 30, d.lgs. 36/2023 - Uso di procedure automatizzate nel ciclo di vita dei contratti pubblici"}
         ],
@@ -1811,7 +1811,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9574, "uuid": "3362ecaf-de33-498b-87ea-76efe4a3d95a",
       "attributes": {
-        "denominazione": "Avviso finalizzato ad acquisire le manifestazioni di interesse degli operatori economici in ordine ai lavori di possibile completamento di opere incompiute nonché alla gestione delle stesse",
+        "denominazione": "Acquisizione interesse realizzazione opere incompiute",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2023/03/31/36/CONSOLIDATED", "title": "ALLEGATO I.5 al d.lgs. 36/2023 - Elementi per la programmazione dei lavori e dei servizi. Schemi tipo (art. 4, co. 3)"}
         ],
@@ -1823,7 +1823,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9575, "uuid": "6d5ea58b-bea2-4c0b-bcfc-dbe80f1f6791",
       "attributes": {
-        "denominazione": "Comunicazione circa la mancata redazione del programma triennale",
+        "denominazione": "Mancata redazione  programmazione",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2023/03/31/36/CONSOLIDATED", "title": "ALLEGATO I.5 al d.lgs. 36/2023 - Elementi per la programmazione dei lavori e dei servizi. Schemi tipo (art. 5, co. 8; art. 7, co. 4)"}
         ],
@@ -1835,7 +1835,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9576, "uuid": "09b78fa7-b29a-416c-a2e7-0ef0063af5fd",
       "attributes": {
-        "denominazione": "Atti recanti norme, criteri oggettivi per il funzionamento del sistema di qualificazione, l’eventuale aggiornamento periodico dello stesso e durata, criteri soggettivi per l’iscrizione al sistema",
+        "denominazione": "Documenti sul  sistema di qualificazione",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2023/03/31/36/CONSOLIDATED", "title": "Art. 168, d.lgs. 36/2023 - Procedure di gara con sistemi di qualificazione"}
         ],
@@ -1847,11 +1847,11 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9577, "uuid": "2c57cb2d-f396-4def-a300-2917f0328898",
       "attributes": {
-        "denominazione": "Atti eventualmente adottati recanti l’elencazione delle condotte che costituiscono gravi illeciti professionali agli effetti degli artt. 95, co. 1, lettera e) e 98.",
+        "denominazione": "Gravi illeciti professionali",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2023/03/31/36/CONSOLIDATED", "title": "Art. 169, d.lgs. 36/2023 <br>Procedure di gara regolamentate Settori speciali"}
         ],
-        "contenuto": "Atti eventualmente adottati recanti l’elencazione delle condotte che costituiscono gravi illeciti professionali agli effetti degli artt. 95, co. 1, lettera e) e 98 (cause di esclusione dalla gara per gravi illeciti professionali).<br><br>Obbligo applicabile alle imprese pubbliche e ai soggetti titolari di diritti speciali esclusivi.",
+        "contenuto": "<p>Obbligo applicabile alle imprese pubbliche e ai soggetti titolari di diritti speciali esclusivi.</p><p>Atti eventualmente adottati recanti l’elencazione delle condotte che costituiscono gravi illeciti professionali agli effetti degli artt. 95, co. 1, lettera e) e 98 (cause di esclusione dalla gara per gravi illeciti professionali).<br><br>Obbligo applicabile alle imprese pubbliche e ai soggetti titolari di diritti speciali esclusivi.</p>",
         "frequenza_aggiornamento": "Tempestivo",
         "persona_responsabile": ""
       }
@@ -1859,12 +1859,12 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9578, "uuid": "7c401f4e-3575-4929-b0fc-9589a20d2acd",
       "attributes": {
-        "denominazione": "Elenco annuale dei progetti finanziati, con indicazione del CUP, importo totale del finanziamento, le fonti finanziarie, la data di avvio del progetto e lo stato di attuazione finanziario e procedurale",
+        "denominazione": "Progetti di investimento pubblico",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/LEGGE/2003/01/16/3/CONSOLIDATED", "title": "Art. 11, co. 2-quater, l. n. 3/2003"},
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO-LEGGE/2020/07/16/76/CONSOLIDATED/20240111", "title": "Art. 41, co. 1, d.l. n. 76/2020 - Dati e informazioni sui progetti di investimento pubblico"}
         ],
-        "contenuto": "Elenco annuale dei progetti finanziati, con indicazione del CUP, importo totale del finanziamento, le fonti finanziarie, la data di avvio del progetto e lo stato di attuazione finanziario e procedurale",
+        "contenuto": "<p>Obbligo previsto per i soggetti titolari di progetti di investimento pubblico.</p><p>Elenco annuale dei progetti finanziati, con indicazione del CUP, importo totale del finanziamento, le fonti finanziarie, la data di avvio del progetto e lo stato di attuazione finanziario e procedurale</p>",
         "frequenza_aggiornamento": "Annuale",
         "persona_responsabile": "Dirigente scolastico"
       }
@@ -1872,7 +1872,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9579, "uuid": "bacf971e-9fed-4a39-afc7-1a4968dc3bb4",
       "attributes": {
-        "denominazione": "Relazioni, documento conclusivo redatto dalla SA",
+        "denominazione": "Dibattito pubblico",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2023/03/31/36/CONSOLIDATED", "title": "Art. 40, co. 3 e co. 5, d.lgs. 36/2023 - Dibattito pubblico (da intendersi riferito a quello facoltativo)"},
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2023/03/31/36/CONSOLIDATED", "title": "Allegato I.6 al d.lgs. 36/2023 - Dibattito pubblico obbligatorio"}
@@ -1898,7 +1898,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9581, "uuid": "c4955311-2686-4a79-addd-319001c41dc7",
       "attributes": {
-        "denominazione": "Composizione delle commissioni giudicatrici e CV dei componenti",
+        "denominazione": "Commissioni giudicatrici",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2023/03/31/36/CONSOLIDATED", "title": "Art. 28, d.lgs. 36/2023 - Trasparenza dei contratti pubblici"}
         ],
@@ -1910,12 +1910,12 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9582, "uuid": "af639638-787f-4a0d-8a79-de7ca44d71a5",
       "attributes": {
-        "denominazione": "Rapporto sulle pari opportunità e inclusione lavorativa nei contratti pubblici PNRR e PNC e nei contratti riservati",
+        "denominazione": "Pari opportunità e inclusione lavorativa",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO-LEGGE/2021/05/31/77/CONSOLIDATED", "title": "Art. 47, co. 2, e 9 d.l. 77/2021, convertito con modificazioni dalla l. 108/2021"},
           {"uri": "https://www.normattiva.it/eli/stato/LEGGE/2021/07/29/108/ORIGINAL", "title": "Legge 108/2021"}
         ],
-        "contenuto": "Copia dell’ultimo rapporto sulla situazione del personale maschile e femminile redatto dall’operatore economico, tenuto alla sua redazione ai sensi dell’art. 46, decreto legislativo 11 aprile 2006, n. 198 (operatori economici che occupano oltre 50 dipendenti). Il documento è prodotto, a pena di esclusione, al momento della presentazione della domanda di partecipazione o dell’offerta",
+        "contenuto": "<p>Rapporto sulle pari opportunità e inclusione lavorativa nei contratti pubblici PNRR e PNC e nei contratti riservati.</p><p>Copia dell’ultimo rapporto sulla situazione del personale maschile e femminile redatto dall’operatore economico, tenuto alla sua redazione ai sensi dell’art. 46, decreto legislativo 11 aprile 2006, n. 198 (operatori economici che occupano oltre 50 dipendenti). Il documento è prodotto, a pena di esclusione, al momento della presentazione della domanda di partecipazione o dell’offerta</p>",
         "frequenza_aggiornamento": "Da pubblicare successivamente alla pubblicazione degli avvisi relativi agli esiti delle procedure",
         "persona_responsabile": "Dirigente scolastico"
       }
@@ -1923,7 +1923,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9583, "uuid": "e3f31ac0-28b6-4b24-abe2-4ab243e08d38",
       "attributes": {
-        "denominazione": "Procedure di affidamento dei servizi pubblici locali",
+        "denominazione": "Affidamenti Servizi pubblici locali (SPL)",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2022/12/23/201/CONSOLIDATED", "title": "Art. 10, co. 5; art. 14, co. 3; art. 17, co. 2; art. 24; art. 30, co. 2; art. 31, co. 1 e 2; D.lgs. 201/2022 - Riordino della disciplina dei servizi pubblici locali di rilevanza economica"}
         ],
@@ -1935,7 +1935,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9584, "uuid": "e2636baf-5c4d-4509-824e-f7ed5b2faa5a",
       "attributes": {
-        "denominazione": "Composizione del Collegio consultivo tecnici (nominativi) e CV dei componenti",
+        "denominazione": "Collegio Consultivo Tecnico (CCT)",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2023/03/31/36/CONSOLIDATED", "title": "Art. 215 e ss. e All. V.2, d.lgs 36/2023 - Collegio consultivo tecnico"}
         ],
@@ -1947,14 +1947,14 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9585, "uuid": "dbf300bd-de86-4d00-8e75-d9b63c17918d",
       "attributes": {
-        "denominazione": "Pari opportunità e inclusione lavorativa nei contratti pubblici PNRR e PNC e nei contratti riservati:",
+        "denominazione": "Pari opportunità e inclusione lavorativa",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO-LEGGE/2021/05/31/77/CONSOLIDATED", "title": "Art. 47, co. 3, co. 3-bis,  co. 9, l. 77/2021 convertito con modificazioni dalla l. 108/2021"},
           {"uri": "https://www.normattiva.it/eli/stato/LEGGE/2021/07/29/108/ORIGINAL", "title": "Legge 108/2021"},
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2023/03/31/36/CONSOLIDATED", "title": "Art. 1, co. 8, allegato II.3, d.lgs. 36/2023"},
           {"uri": "https://www.gazzettaufficiale.it/eli/id/2023/07/26/23A04253/sg", "title": "D.P.C.M  20 giugno 2023 recante Linee guida volte a favorire le pari opportunità generazionali e di genere, nonché l’inclusione lavorativa delle persone con disabilità nei contratti riservati"}
         ],
-        "contenuto": "1) Relazione di genere sulla situazione del personale maschile e femminile consegnata, entro sei mesi dalla conclusione del contratto, alla stazione appaltante/ente concedente dagli operatori economici che occupano un numero pari o superiore a quindici dipendenti.<br><br><br>2) Certificazione di cui all’art. 17 della legge 12 marzo 1999, n. 68 e della relazione relativa all’assolvimento degli obblighi di cui alla medesima legge e alle eventuali sanzioni e provvedimenti disposti a carico dell’operatore economico nel triennio antecedente la data di scadenza della presentazione delle offerte e consegnate alla stazione appaltante/ente concedente entro sei mesi dalla conclusione del contratto (per gli operatori economici che occupano un numero pari o superiore a quindici dipendenti).",
+        "contenuto": "Pari opportunità e inclusione lavorativa nei contratti pubblici PNRR e PNC e nei contratti riservati: 1) Relazione di genere sulla situazione del personale maschile e femminile consegnata, entro sei mesi dalla conclusione del contratto, alla stazione appaltante/ente concedente dagli operatori economici che occupano un numero pari o superiore a quindici dipendenti.<br><br><br>2) Certificazione di cui all’art. 17 della legge 12 marzo 1999, n. 68 e della relazione relativa all’assolvimento degli obblighi di cui alla medesima legge e alle eventuali sanzioni e provvedimenti disposti a carico dell’operatore economico nel triennio antecedente la data di scadenza della presentazione delle offerte e consegnate alla stazione appaltante/ente concedente entro sei mesi dalla conclusione del contratto (per gli operatori economici che occupano un numero pari o superiore a quindici dipendenti).",
         "frequenza_aggiornamento": "Tempestivo",
         "persona_responsabile": "Dirigente scolastico"
       }
@@ -1962,7 +1962,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9586, "uuid": "b435cd5d-da0f-4764-a11f-79ff6aed0c03",
       "attributes": {
-        "denominazione": "Affidamento di contratti di sponsorizzazione di lavori, servizi o forniture per importi superiori a quarantamila 40.000 euro",
+        "denominazione": "Contratti di sponsorizzazione",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2023/03/31/36/CONSOLIDATED", "title": "Art. 134, co. 4, d.lgs. 36/2023 - Contratti gratuiti e forme speciali di partenariato"}
         ],
@@ -1974,7 +1974,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9587, "uuid": "7438dd5e-f878-493b-a0ef-639e33622ac4",
       "attributes": {
-        "denominazione": "Atti e documenti relativi agli affidamenti di somma urgenza a prescindere dall’importo di affidamento",
+        "denominazione": "Procedure di somma urgenza",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2023/03/31/36/CONSOLIDATED", "title": "Art. 140, d.lgs. 36/2023 - Comunicato del Presidente ANAC del 19 settembre 2023"}
         ],
@@ -1986,7 +1986,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9588, "uuid": "b7ee6023-d9dc-43d0-a99a-bf77f2f2fe6b",
       "attributes": {
-        "denominazione": "Provvedimento conclusivo della procedura di valutazione della proposta del promotore relativa alla realizzazione in concessione di lavori o servizi",
+        "denominazione": "Finanza di progetto",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2023/03/31/36/CONSOLIDATED", "title": "Art. 193, d.lgs. 36/2023 - Procedura di affidamento"}
         ],
