@@ -2195,7 +2195,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9589, "uuid": "b24dcc82-039f-4399-9f74-d2a7f89e5167",
       "attributes": {
-        "published": 1,
+        "published": 0,
         "denominazione": "Dati previsti dall'articolo 1, comma 32, della legge 6 novembre 2012, n. 190. Informazioni sulle singole procedure",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/LEGGE/2012/11/06/190/CONSOLIDATED", "title": "Art. 1, co. 32, l. 190 del 6 novembre 2012"}
@@ -2208,7 +2208,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9590, "uuid": "f4dc951f-6fd7-474a-a371-50590990e1df",
       "attributes": {
-        "published": 1,
+        "published": 0,
         "denominazione": "Tabelle riassuntive ai sensi dell'Art. 1 comma 32 della legge n. 190/2012",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/LEGGE/2012/11/06/190/CONSOLIDATED", "title": "Art. 1, co. 32, l. 190 del 6 novembre 2012"}
@@ -2221,7 +2221,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9591, "uuid": "860a8f59-ea54-4324-b973-7545f5a147b2",
       "attributes": {
-        "published": 1,
+        "published": 0,
         "denominazione": "Atti relativi alle procedure per l’affidamento di appalti pubblici di servizi di cui all'art. 5 del d.lgs n. 50/2016",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/04/18/50/CONSOLIDATED", "title": "Art. 5 del d.lgs n. 50/2016"}
@@ -2234,7 +2234,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9592, "uuid": "c817f990-5d6e-4480-b7bf-f8edea982978",
       "attributes": {
-        "published": 1,
+        "published": 0,
         "denominazione": "Trasparenza nella partecipazione di portatori di interessi e dibattito pubblico",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/04/18/50/CONSOLIDATED", "title": "Art. 5 del d.lgs n. 50/2016"}
@@ -2247,7 +2247,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9593, "uuid": "38abbccb-ffdd-4047-af7a-2ff22abfe6f2",
       "attributes": {
-        "published": 1,
+        "published": 0,
         "denominazione": "Avvisi di pre-informazione",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/04/18/50/CONSOLIDATED", "title": "Art. 5 del d.lgs n. 50/2016"}
@@ -2260,7 +2260,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9594, "uuid": "b38aaf7f-b914-4821-9cfc-9e99150bd9e8",
       "attributes": {
-        "published": 1,
+        "published": 0,
         "denominazione": "Delibera a contrarre",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/04/18/50/CONSOLIDATED", "title": "Art. 5 del d.lgs n. 50/2016"}
@@ -2273,7 +2273,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9595, "uuid": "bf890599-8860-43bb-b9aa-ce41af1f11d2",
       "attributes": {
-        "published": 1,
+        "published": 0,
         "denominazione": "Avvisi e Bandi",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/04/18/50/CONSOLIDATED", "title": "Art. 5 del d.lgs n. 50/2016"}
@@ -2286,7 +2286,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9596, "uuid": "1769ebb9-187d-41d2-9baf-f404c34ea509",
       "attributes": {
-        "published": 1,
+        "published": 0,
         "denominazione": "Procedure negoziate afferenti agli investimenti pubblici finanziati, in tutto o in parte, con le risorse previste dal PNRR e dal PNC e dai programmi cofinanziati dai fondi strutturali dell'Unione europea",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/04/18/50/CONSOLIDATED", "title": "Art. 5 del d.lgs n. 50/2016"}
@@ -2299,7 +2299,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9597, "uuid": "fe0319d6-3f86-4f8e-852c-f56861154c47",
       "attributes": {
-        "published": 1,
+        "published": 0,
         "denominazione": "Commissione giudicatrice",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/04/18/50/CONSOLIDATED", "title": "Art. 5 del d.lgs n. 50/2016"}
@@ -2312,7 +2312,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9598, "uuid": "abcf6aa0-11db-43ca-b0b9-312a333f93f3",
       "attributes": {
-        "published": 1,
+        "published": 0,
         "denominazione": "Contratti",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/04/18/50/CONSOLIDATED", "title": "Art. 5 del d.lgs n. 50/2016"}
@@ -2325,7 +2325,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9599, "uuid": "b55db70f-108e-4114-9d7d-8677d0e6c88b",
       "attributes": {
-        "published": 1,
+        "published": 0,
         "denominazione": "Collegi consultivi tecnici",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/04/18/50/CONSOLIDATED", "title": "Art. 5 del d.lgs n. 50/2016"}
@@ -2338,7 +2338,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9600, "uuid": "54785f53-c3ec-43bd-8a88-f73ab660bafb",
       "attributes": {
-        "published": 1,
+        "published": 0,
         "denominazione": "Fase esecutiva",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/04/18/50/CONSOLIDATED", "title": "Art. 5 del d.lgs n. 50/2016"}
@@ -2351,7 +2351,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9601, "uuid": "11e247ab-aeef-470b-b1db-d6aaa90b635d",
       "attributes": {
-        "published": 1,
+        "published": 0,
         "denominazione": "Resoconti della gestione finanziaria dei contratti al termine della loro esecuzione",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/04/18/50/CONSOLIDATED", "title": "Art. 5 del d.lgs n. 50/2016"}
@@ -2364,7 +2364,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9602, "uuid": "871e7128-44c9-4af8-be20-95d6f7b5ba1e",
       "attributes": {
-        "published": 1,
+        "published": 0,
         "denominazione": "Concessioni e partenariato pubblico privato",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/04/18/50/CONSOLIDATED", "title": "Art. 5 del d.lgs n. 50/2016"}
@@ -2377,7 +2377,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9603, "uuid": "4a1709cd-4412-4adb-9e18-d9b37808b232",
       "attributes": {
-        "published": 1,
+        "published": 0,
         "denominazione": "Affidamenti diretti di lavori, servizi e forniture di somma urgenza e di protezione civile",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/04/18/50/CONSOLIDATED", "title": "Art. 5 del d.lgs n. 50/2016"}
@@ -2390,7 +2390,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9604, "uuid": "e262fa0b-1d55-4057-a275-c06d3378259f",
       "attributes": {
-        "published": 1,
+        "published": 0,
         "denominazione": "Affidamenti in house",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/04/18/50/CONSOLIDATED", "title": "Art. 5 del d.lgs n. 50/2016"}
@@ -2403,7 +2403,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9605, "uuid": "5a94eab0-ed97-450b-8a6f-88fbdea67ac6",
       "attributes": {
-        "published": 1,
+        "published": 0,
         "denominazione": "Elenchi ufficiali di operatori economici riconosciuti e certificazioni",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/04/18/50/CONSOLIDATED", "title": "Art. 5 del d.lgs n. 50/2016"}
@@ -2416,7 +2416,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9606, "uuid": "bbc79fbd-c82e-45e8-851a-1fd8662c0ee7",
       "attributes": {
-        "published": 1,
+        "published": 0,
         "denominazione": "Progetti di investimento pubblico",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2016/04/18/50/CONSOLIDATED", "title": "Art. 5 del d.lgs n. 50/2016"}
