@@ -1318,7 +1318,7 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9523, "uuid": "d4d3f3f5-3a53-4f66-9cee-64d7ea3880b8",
       "attributes": {
-        "published": 1,
+        "published": 0,
         "denominazione": "Bilancio preventivo - Dati (deprecated)",
         "riferimento_legislativo": [
           {"uri": "https://www.gazzettaufficiale.it/eli/id/2016/06/16/16A04448/sg", "title": "D.p.c.m. 29 aprile 2016"},
