@@ -1333,12 +1333,12 @@
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9524, "uuid": "78805012-ef75-49fd-888b-1c86e8aa9d67",
       "attributes": {
         "published": 1,
-        "denominazione": "Bilancio consuntivo - Documenti e allegati",
+        "denominazione": "Bilancio consuntivo",
         "riferimento_legislativo": [
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 29, c. 1, d.lgs. n. 33/2013"},
           {"uri": "https://www.gazzettaufficiale.it/eli/id/2011/08/01/11A10306/sg", "title": "Art. 5, c. 1, d.p.c.m. 26 aprile 2011"}
         ],
-        "contenuto": "Documenti e allegati del bilancio consuntivo, nonché dati relativi al bilancio consuntivo di ciascun anno in forma sintetica, aggregata e semplificata, anche con il ricorso a rappresentazioni grafiche.",
+        "contenuto": "<p>Documenti e allegati del bilancio consuntivo, nonché dati relativi al bilancio consuntivo di ciascun anno in forma sintetica, aggregata e semplificata, anche con il ricorso a rappresentazioni grafiche.</p><p>Dati relativi  alle  entrate  e  alla  spesa  dei bilanci consuntivi in formato tabellare aperto in modo da consentire l'esportazione, il trattamento e il riutilizzo.</p>",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
         "persona_responsabile": "Dirigente scolastico"
       }
@@ -1346,15 +1346,15 @@
     {
       "entity": "taxonomy_term", "type": "obblighi_di_pubblicazione", "id": 9525, "uuid": "08f52bd9-73c0-4486-9243-f9c7e13ea65d",
       "attributes": {
-        "published": 1,
-        "denominazione": "Bilancio consuntivo - Dati",
+        "published": 0,
+        "denominazione": "Bilancio consuntivo - Dati (deprecated)",
         "riferimento_legislativo": [
           {"uri": "https://www.gazzettaufficiale.it/eli/id/2016/06/16/16A04448/sg", "title": "D.p.c.m. 29 aprile 2016"},
           {"uri": "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2013/03/14/33/CONSOLIDATED/20160922", "title": "Art. 29, c. 1-bis, d.lgs. n. 33/2013"}
         ],
-        "contenuto": "Dati relativi  alle  entrate  e  alla  spesa  dei bilanci consuntivi in formato tabellare aperto in modo da consentire l'esportazione, il trattamento e il riutilizzo.",
+        "contenuto": "Voce deprecata in quanto errata. Dati relativi  alle  entrate  e  alla  spesa  dei bilanci consuntivi in formato tabellare aperto in modo da consentire l'esportazione, il trattamento e il riutilizzo.",
         "frequenza_aggiornamento": "Tempestivo (ex art. 8, d.lgs. n. 33/2013)",
-        "persona_responsabile": "Dirigente scolastico"
+        "persona_responsabile": ""
       }
     },
     {
